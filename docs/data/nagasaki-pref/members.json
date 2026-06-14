@@ -1,0 +1,905 @@
+{
+  "council_id": "nagasaki-pref",
+  "source_url": "https://www.pref.nagasaki.jp/gikai/2010.html",
+  "acquisition": "scraping",
+  "checks": {
+    "source_shape": "district_aggregate_profile",
+    "district_count": 16,
+    "expected_members": 46,
+    "parsed_members": 46,
+    "districts": [
+      {
+        "district": "長崎市",
+        "capacity": 14,
+        "members": 14,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html"
+      },
+      {
+        "district": "佐世保市・北松浦郡",
+        "capacity": 9,
+        "members": 9,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html"
+      },
+      {
+        "district": "島原市",
+        "capacity": 2,
+        "members": 2,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-03.html"
+      },
+      {
+        "district": "諫早市",
+        "capacity": 4,
+        "members": 4,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-04.html"
+      },
+      {
+        "district": "大村市",
+        "capacity": 3,
+        "members": 3,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-05.html"
+      },
+      {
+        "district": "平戸市",
+        "capacity": 1,
+        "members": 1,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-06.html"
+      },
+      {
+        "district": "松浦市",
+        "capacity": 1,
+        "members": 1,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-07.html"
+      },
+      {
+        "district": "対馬市",
+        "capacity": 1,
+        "members": 1,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-08.html"
+      },
+      {
+        "district": "壱岐市",
+        "capacity": 1,
+        "members": 1,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-09.html"
+      },
+      {
+        "district": "五島市",
+        "capacity": 1,
+        "members": 1,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-10.html"
+      },
+      {
+        "district": "西海市",
+        "capacity": 1,
+        "members": 1,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-11.html"
+      },
+      {
+        "district": "雲仙市",
+        "capacity": 2,
+        "members": 2,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-12.html"
+      },
+      {
+        "district": "南島原市",
+        "capacity": 2,
+        "members": 2,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-13.html"
+      },
+      {
+        "district": "西彼杵郡",
+        "capacity": 2,
+        "members": 2,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-14.html"
+      },
+      {
+        "district": "東彼杵郡",
+        "capacity": 1,
+        "members": 1,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-15.html"
+      },
+      {
+        "district": "南松浦郡",
+        "capacity": 1,
+        "members": 1,
+        "source_url": "https://www.pref.nagasaki.jp/gikai/2010-17.html"
+      }
+    ],
+    "notes": [
+      "2010-16.html exists and is used as the official-looking navigation/template page for district links; it is not parsed as a member district.",
+      "Only name, district, faction, elected_count, committees, and positions were parsed; contact fields were ignored.",
+      "photo_url is intentionally null for all members."
+    ]
+  },
+  "members": [
+    {
+      "id": "nagasaki-pref--member-31dc3650",
+      "council_id": "nagasaki-pref",
+      "name": "大倉聡",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "もったいないよ 長崎",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教厚生委員会",
+        "観光・新幹線対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#okura_satoshi"
+    },
+    {
+      "id": "nagasaki-pref--member-012f148e",
+      "council_id": "nagasaki-pref",
+      "name": "白川鮎美",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "改革２１",
+      "elected_count": 1,
+      "positions": [
+        "議会運営委員会副委員長"
+      ],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#shirakawa"
+    },
+    {
+      "id": "nagasaki-pref--member-c6ae7987",
+      "council_id": "nagasaki-pref",
+      "name": "中村泰輔",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "改革２１",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農水経済委員会",
+        "成長産業戦略特別委員会",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#nakamura_taisuke"
+    },
+    {
+      "id": "nagasaki-pref--member-edf6c050",
+      "council_id": "nagasaki-pref",
+      "name": "川崎祥司",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教厚生委員会",
+        "議会運営委員会",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#kawasaki"
+    },
+    {
+      "id": "nagasaki-pref--member-df94ea53",
+      "council_id": "nagasaki-pref",
+      "name": "堀江ひとみ",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "日本共産党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教厚生委員会",
+        "離島・半島地域振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#horie"
+    },
+    {
+      "id": "nagasaki-pref--member-4f85f11b",
+      "council_id": "nagasaki-pref",
+      "name": "本多泰邦",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "離島・半島地域振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#honda"
+    },
+    {
+      "id": "nagasaki-pref--member-39dc548f",
+      "council_id": "nagasaki-pref",
+      "name": "中山功",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "自由民主党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "農水経済委員会",
+        "成長産業戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#nakayama"
+    },
+    {
+      "id": "nagasaki-pref--member-433fef25",
+      "council_id": "nagasaki-pref",
+      "name": "中村俊介",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [
+        "文教厚生委員会委員長"
+      ],
+      "committees": [
+        "文教厚生委員会委員長",
+        "成長産業戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#nakamura_shunsuke"
+    },
+    {
+      "id": "nagasaki-pref--member-b7598ec1",
+      "council_id": "nagasaki-pref",
+      "name": "ごうまなみ",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [
+        "副議長"
+      ],
+      "committees": [
+        "文教厚生委員会",
+        "観光・新幹線対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#gou"
+    },
+    {
+      "id": "nagasaki-pref--member-a62800d7",
+      "council_id": "nagasaki-pref",
+      "name": "前田哲也",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教厚生委員会",
+        "成長産業戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#maeda"
+    },
+    {
+      "id": "nagasaki-pref--member-e0f2268d",
+      "council_id": "nagasaki-pref",
+      "name": "坂本浩",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "改革２１",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農水経済委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#sakamoto"
+    },
+    {
+      "id": "nagasaki-pref--member-a7237961",
+      "council_id": "nagasaki-pref",
+      "name": "虎島泰洋",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "成長産業戦略特別委員会",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#torashima"
+    },
+    {
+      "id": "nagasaki-pref--member-0bc6a9a4",
+      "council_id": "nagasaki-pref",
+      "name": "下条博文",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "もっと身近な県政の会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農水経済委員会",
+        "成長産業戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#shimojou"
+    },
+    {
+      "id": "nagasaki-pref--member-eeed1257",
+      "council_id": "nagasaki-pref",
+      "name": "赤木幸仁",
+      "name_kana": null,
+      "district": "長崎市",
+      "faction": "改革２１",
+      "elected_count": 2,
+      "positions": [
+        "観光・新幹線対策特別委員会委員長"
+      ],
+      "committees": [
+        "総務委員会",
+        "観光・新幹線対策特別委員会委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-01.html#akagi"
+    },
+    {
+      "id": "nagasaki-pref--member-52af2c6c",
+      "council_id": "nagasaki-pref",
+      "name": "宮本法広",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [
+        "成長産業戦略特別委員会副委員長"
+      ],
+      "committees": [
+        "観光生活建設委員会",
+        "成長産業戦略特別委員会副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#miyamoto"
+    },
+    {
+      "id": "nagasaki-pref--member-f3210712",
+      "council_id": "nagasaki-pref",
+      "name": "山田朋子",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "改革２１",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "離島・半島地域振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#yamada"
+    },
+    {
+      "id": "nagasaki-pref--member-0aabc9fd",
+      "council_id": "nagasaki-pref",
+      "name": "山下博史",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [
+        "離島・半島地域振興特別委員会副委員長"
+      ],
+      "committees": [
+        "総務委員会",
+        "離島・半島地域振興特別委員会副委員長",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#yamashita"
+    },
+    {
+      "id": "nagasaki-pref--member-b5f66e55",
+      "council_id": "nagasaki-pref",
+      "name": "湊亮太",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "まっすぐ長崎",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農水経済委員会",
+        "観光・新幹線対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#minato"
+    },
+    {
+      "id": "nagasaki-pref--member-d4ee03a9",
+      "council_id": "nagasaki-pref",
+      "name": "外間雅広",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [
+        "議長"
+      ],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#sotoma"
+    },
+    {
+      "id": "nagasaki-pref--member-bd83a497",
+      "council_id": "nagasaki-pref",
+      "name": "溝口芙美雄",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "自由民主党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#mizoguchi"
+    },
+    {
+      "id": "nagasaki-pref--member-644e40f3",
+      "council_id": "nagasaki-pref",
+      "name": "堤典子",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "改革２１",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "観光・新幹線対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#tsutsumi"
+    },
+    {
+      "id": "nagasaki-pref--member-ba998ef8",
+      "council_id": "nagasaki-pref",
+      "name": "田中愛国",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "自由民主党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "観光・新幹線対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#tanaka"
+    },
+    {
+      "id": "nagasaki-pref--member-f76cb6d8",
+      "council_id": "nagasaki-pref",
+      "name": "永安健次",
+      "name_kana": null,
+      "district": "佐世保市・北松浦郡",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [
+        "総務委員会副委員長"
+      ],
+      "committees": [
+        "総務委員会副委員長",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#nagayasu"
+    },
+    {
+      "id": "nagasaki-pref--member-ff869eda",
+      "council_id": "nagasaki-pref",
+      "name": "山本由夫",
+      "name_kana": null,
+      "district": "島原市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [
+        "農水経済委員会副委員長",
+        "県議会議員定数等調査特別委員会委員長"
+      ],
+      "committees": [
+        "農水経済委員会副委員長",
+        "議会運営委員会",
+        "県議会議員定数等調査特別委員会委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-03.html#yamamoto_yoshio"
+    },
+    {
+      "id": "nagasaki-pref--member-e7c7b7c4",
+      "council_id": "nagasaki-pref",
+      "name": "大場博文",
+      "name_kana": null,
+      "district": "島原市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [
+        "議会運営委員会委員長"
+      ],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-03.html#ohba"
+    },
+    {
+      "id": "nagasaki-pref--member-15e29399",
+      "council_id": "nagasaki-pref",
+      "name": "山村健志",
+      "name_kana": null,
+      "district": "諫早市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [
+        "観光生活建設委員会委員長"
+      ],
+      "committees": [
+        "観光生活建設委員会委員長",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-04.html#yamamura"
+    },
+    {
+      "id": "nagasaki-pref--member-196f68e4",
+      "council_id": "nagasaki-pref",
+      "name": "坂口慎一",
+      "name_kana": null,
+      "district": "諫早市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [
+        "観光生活建設委員会副委員長",
+        "成長産業戦略特別委員会委員長"
+      ],
+      "committees": [
+        "観光生活建設委員会副委員長",
+        "成長産業戦略特別委員会委員長",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-04.html#sakaguchi"
+    },
+    {
+      "id": "nagasaki-pref--member-148b423e",
+      "council_id": "nagasaki-pref",
+      "name": "千住良治",
+      "name_kana": null,
+      "district": "諫早市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教厚生委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-04.html#senju"
+    },
+    {
+      "id": "nagasaki-pref--member-b69f505a",
+      "council_id": "nagasaki-pref",
+      "name": "山口初實",
+      "name_kana": null,
+      "district": "諫早市",
+      "faction": "改革２１",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "監査委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-04.html#yamaguchi"
+    },
+    {
+      "id": "nagasaki-pref--member-a973b47c",
+      "council_id": "nagasaki-pref",
+      "name": "松本洋介",
+      "name_kana": null,
+      "district": "大村市",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教厚生委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-05.html#matsumoto"
+    },
+    {
+      "id": "nagasaki-pref--member-8ee5782a",
+      "council_id": "nagasaki-pref",
+      "name": "小林克敏",
+      "name_kana": null,
+      "district": "大村市",
+      "faction": "県民会議",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "観光・新幹線対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-05.html#kobayashi"
+    },
+    {
+      "id": "nagasaki-pref--member-c73582ea",
+      "council_id": "nagasaki-pref",
+      "name": "まきやま大和",
+      "name_kana": null,
+      "district": "大村市",
+      "faction": "改革２１",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教厚生委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-05.html#makiyama"
+    },
+    {
+      "id": "nagasaki-pref--member-44c68a42",
+      "council_id": "nagasaki-pref",
+      "name": "大久保堅太",
+      "name_kana": null,
+      "district": "平戸市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農水経済委員会",
+        "離島・半島地域振興特別委員会",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-06.html#ookubo"
+    },
+    {
+      "id": "nagasaki-pref--member-01ec73be",
+      "council_id": "nagasaki-pref",
+      "name": "石本政弘",
+      "name_kana": null,
+      "district": "松浦市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [
+        "予算決算委員会委員長"
+      ],
+      "committees": [
+        "農水経済委員会",
+        "予算決算委員会委員長",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-07.html#ishimoto"
+    },
+    {
+      "id": "nagasaki-pref--member-60808006",
+      "council_id": "nagasaki-pref",
+      "name": "畑島晃貴",
+      "name_kana": null,
+      "district": "対馬市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "離島・半島地域振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-08.html#hatashima"
+    },
+    {
+      "id": "nagasaki-pref--member-7debc671",
+      "council_id": "nagasaki-pref",
+      "name": "鵜瀬和博",
+      "name_kana": null,
+      "district": "壱岐市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "離島・半島地域振興特別委員会",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-09.html#use"
+    },
+    {
+      "id": "nagasaki-pref--member-43bfeffd",
+      "council_id": "nagasaki-pref",
+      "name": "清川久義",
+      "name_kana": null,
+      "district": "五島市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [
+        "離島・半島地域振興特別委員会委員長"
+      ],
+      "committees": [
+        "文教厚生委員会",
+        "離島・半島地域振興特別委員会委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-10.html#kiyokawa"
+    },
+    {
+      "id": "nagasaki-pref--member-e8b1b721",
+      "council_id": "nagasaki-pref",
+      "name": "田川正毅",
+      "name_kana": null,
+      "district": "西海市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農水経済委員会",
+        "成長産業戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-11.html#tagawa"
+    },
+    {
+      "id": "nagasaki-pref--member-137a983e",
+      "council_id": "nagasaki-pref",
+      "name": "徳永達也",
+      "name_kana": null,
+      "district": "雲仙市",
+      "faction": "自由民主党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "観光・新幹線対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-12.html#tokunaga"
+    },
+    {
+      "id": "nagasaki-pref--member-6ea3d30b",
+      "council_id": "nagasaki-pref",
+      "name": "宅島寿一",
+      "name_kana": null,
+      "district": "雲仙市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "農水経済委員会",
+        "成長産業戦略特別委員会",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-12.html#takushima"
+    },
+    {
+      "id": "nagasaki-pref--member-6261d535",
+      "council_id": "nagasaki-pref",
+      "name": "中島浩介",
+      "name_kana": null,
+      "district": "南島原市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [
+        "観光・新幹線対策特別委員会副委員長"
+      ],
+      "committees": [
+        "文教厚生委員会",
+        "観光・新幹線対策特別委員会副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-13.html#nakashima-k"
+    },
+    {
+      "id": "nagasaki-pref--member-325af57a",
+      "council_id": "nagasaki-pref",
+      "name": "中村一三",
+      "name_kana": null,
+      "district": "南島原市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "県議会議員定数等調査特別委員会",
+        "監査委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-13.html#nakamura"
+    },
+    {
+      "id": "nagasaki-pref--member-98be72f2",
+      "council_id": "nagasaki-pref",
+      "name": "冨岡孝介",
+      "name_kana": null,
+      "district": "西彼杵郡",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [
+        "農水経済委員会委員長"
+      ],
+      "committees": [
+        "農水経済委員会委員長",
+        "観光・新幹線対策特別委員会",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-14.html#tomioka"
+    },
+    {
+      "id": "nagasaki-pref--member-c85b785e",
+      "council_id": "nagasaki-pref",
+      "name": "饗庭敦子",
+      "name_kana": null,
+      "district": "西彼杵郡",
+      "faction": "改革２１",
+      "elected_count": 2,
+      "positions": [
+        "文教厚生委員会副委員長",
+        "予算決算委員会副委員長",
+        "県議会議員定数等調査特別委員会副委員長"
+      ],
+      "committees": [
+        "文教厚生委員会副委員長",
+        "予算決算委員会副委員長",
+        "離島・半島地域振興特別委員会",
+        "県議会議員定数等調査特別委員会副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-14.html#aiba"
+    },
+    {
+      "id": "nagasaki-pref--member-1068a15d",
+      "council_id": "nagasaki-pref",
+      "name": "初手安幸",
+      "name_kana": null,
+      "district": "東彼杵郡",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [
+        "総務委員会委員長"
+      ],
+      "committees": [
+        "総務委員会委員長",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-15.html#hatte"
+    },
+    {
+      "id": "nagasaki-pref--member-947c7e1c",
+      "council_id": "nagasaki-pref",
+      "name": "近藤智昭",
+      "name_kana": null,
+      "district": "南松浦郡",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "離島・半島地域振興特別委員会",
+        "県議会議員定数等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-17.html#nakamura_taisuke"
+    }
+  ],
+  "updated_at": "2026-06-14T20:07:16+00:00"
+}

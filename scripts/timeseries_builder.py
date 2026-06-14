@@ -51,10 +51,24 @@ AREAS = [
         "area_level": "prefecture",
     },
     {
+        "council_id": "nagasaki-pref",
+        "name": "長崎県",
+        "lg_code": "420000",
+        "estat_area_code": "42000",
+        "area_level": "prefecture",
+    },
+    {
         "council_id": "miyazaki-pref",
         "name": "宮崎県",
         "lg_code": "450006",
         "estat_area_code": "45000",
+        "area_level": "prefecture",
+    },
+    {
+        "council_id": "oita-pref",
+        "name": "大分県",
+        "lg_code": "440001",
+        "estat_area_code": "44000",
         "area_level": "prefecture",
     },
     {

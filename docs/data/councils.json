@@ -531,8 +531,17 @@
       "lg_code": "420000",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.nagasaki.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.nagasaki.jp/gikai/2010.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "kumamoto-pref",
@@ -577,8 +586,17 @@
       "lg_code": "440001",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.oita.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.oita.jp/site/gikai/giin-senkyokubetsu.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "miyazaki-pref",
