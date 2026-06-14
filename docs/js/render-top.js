@@ -30,7 +30,7 @@ export function renderTop(root, councils = []) {
         el("section", { class: "supported-region-list", "aria-labelledby": "supported-regions-title" }, [
           el("h3", { id: "supported-regions-title" }, "対応地域"),
           el("div", { class: "supported-region-grid" }, [
-            ...activePrefectures.map((council) => renderSupportedRegionCard(council, councils)),
+            ...activePrefectures.map((council) => renderSupportedRegionCard(council)),
           ]),
         ]),
       ]),
@@ -40,23 +40,9 @@ export function renderTop(root, councils = []) {
   hydrateJapanMap(mapFrame, prefectureByCode, statusMessage);
 }
 
-function renderSupportedRegionCard(prefectureCouncil, councils) {
-  const count = councils.filter((council) =>
-    council.prefecture === prefectureCouncil.prefecture && council.status === "active"
-  ).length;
-  const cityCount = councils.filter((council) =>
-    council.prefecture === prefectureCouncil.prefecture
-    && council.status === "active"
-    && council.type === "city"
-  ).length;
-  const summary = cityCount
-    ? `県議会と県内掲載市議会${cityCount}件を掲載`
-    : "県議会の基本情報・議員名簿を掲載";
+function renderSupportedRegionCard(prefectureCouncil) {
   return el("a", { class: "supported-region-card", href: prefPath(prefectureCouncil.prefecture) }, [
-    el("span", { class: "region-card-status" }, "対応中"),
     el("strong", {}, prefectureCouncil.prefecture_name),
-    el("span", {}, `${summary}（計${count}議会）`),
-    el("small", {}, "地域ページへ"),
   ]);
 }
 
@@ -91,6 +77,9 @@ async function hydrateJapanMap(container, prefectureByCode, statusMessage) {
           event.preventDefault();
           window.location.href = prefPath(council.prefecture);
         });
+        if (council.prefecture === "okinawa") {
+          addOkinawaHitArea(region);
+        }
         return;
       }
       const label = council?.prefecture_name || "この地域";
@@ -118,4 +107,17 @@ async function hydrateJapanMap(container, prefectureByCode, statusMessage) {
       ),
     );
   }
+}
+
+function addOkinawaHitArea(region) {
+  if (region.querySelector(".okinawa-hit-area")) return;
+  const hitArea = document.createElementNS("http://www.w3.org/2000/svg", "rect");
+  hitArea.setAttribute("class", "okinawa-hit-area");
+  hitArea.setAttribute("x", "-16");
+  hitArea.setAttribute("y", "-16");
+  hitArea.setAttribute("width", "348");
+  hitArea.setAttribute("height", "166");
+  hitArea.setAttribute("fill", "transparent");
+  hitArea.setAttribute("pointer-events", "all");
+  region.insertBefore(hitArea, region.firstChild);
 }

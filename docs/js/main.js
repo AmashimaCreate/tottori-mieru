@@ -6,7 +6,7 @@ import { renderMemberPage } from "./render-member.js?v=20260615-member-profile-s
 import { renderPrefecturePage } from "./render-prefecture.js?v=20260615-no-member-photos-v1";
 import { renderPrefectureComparisonPage } from "./render-prefecture-comparison.js?v=20260615-no-member-photos-v1";
 import { renderProfile } from "./render-profile.js?v=20260615-no-member-photos-v1";
-import { renderTop } from "./render-top.js?v=20260615-no-member-photos-v1";
+import { renderTop } from "./render-top.js?v=20260615-top-region-simple-v1";
 import {
   councilPath,
   parseRoute,

@@ -574,15 +574,15 @@ a:hover { color: var(--brand-dark); }
   gap: 10px;
 }
 .supported-region-card {
-  display: grid;
-  gap: 4px;
-  padding: 14px;
+  display: flex;
+  align-items: center;
+  min-height: 56px;
+  padding: 12px 16px;
   border: 1px solid var(--border);
   border-radius: 14px;
   background: var(--surface);
   color: var(--text);
   text-decoration: none;
-  box-shadow: var(--shadow-soft);
 }
 .supported-region-card:hover,
 .supported-region-card:focus-visible {
@@ -592,19 +592,7 @@ a:hover { color: var(--brand-dark); }
 }
 .supported-region-card strong {
   color: var(--brand-dark);
-  font-size: 20px;
-}
-.supported-region-card span:not(.region-card-status),
-.supported-region-card small {
-  color: var(--text-muted);
-}
-.region-card-status {
-  width: fit-content;
-  padding: 2px 8px;
-  border-radius: 999px;
-  background: var(--brand-soft);
-  color: var(--brand-dark);
-  font-size: 12px;
+  font-size: 18px;
   font-weight: 800;
 }
 .prefecture-hero {
