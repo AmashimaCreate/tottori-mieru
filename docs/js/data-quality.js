@@ -24,6 +24,9 @@ export function coverageText(speechesMeta, council = null) {
 
 export function voteCoverageText(votesMeta, council = null) {
   if (votesMeta) {
+    if (votesMeta.granularity === "result_only" || council?.vote_granularity === "result_only") {
+      return "議員ごとの賛否ではなく、議案ごとの議決結果を公式PDFから取得しています。";
+    }
     return "議員別賛否PDFから取得。議案名・票・議決結果は公式PDFを確認できます。";
   }
   if (council?.vote_granularity === "result_only") {

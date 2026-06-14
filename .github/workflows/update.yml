@@ -55,6 +55,7 @@ jobs:
       - name: Generate votes data
         run: |
           python scripts/adapters/votes_pdf_yonago_result_only.py
+          python scripts/adapters/votes_pdf_tottori_city_result_only.py
           python scripts/adapters/votes_pdf_kurayoshi.py
           python scripts/adapters/votes_pdf_tottori_pref.py
           # 境港市公式サイトにはアクセスせず、手動ダウンロード済みPDFから再生成する。

@@ -160,7 +160,7 @@ robots.txt 等により自動取得しない議会の、人間転記用入力フ
 - `acquisition` は `scraping` / `manual_transcription` / `manual_download`。未付与の既存データも当面は許容するが、新規生成では来歴を明示する。
 - `granularity` は `member` / `faction` / `result_only`。
 - `granularity` が `member` 以外の場合、`votes_by_member` は `null`。
-- `granularity: result_only` は米子市議会のように議員別賛否が公開されていない議会向け。各議決は `bill_no`, `bill_title`, `date`, `result`, `source_url` を持ち、`votes_by_member` と `votes_by_faction` は `null` とする。
+- `granularity: result_only` は米子市議会や鳥取市議会のように、議員別賛否を安定して機械抽出できない議会向け。各議決は `bill_no`, `bill_title`, `date`, `result`, `source_url` を持ち、`votes_by_member` と `votes_by_faction` は `null` とする。
 - `date` は `YYYY-MM-DD` または `null`。
 - `committee_report` は任意。請願・陳情で委員長報告（採択 / 不採択 / 研究留保 等）がPDFにある場合のみ文字列で保持する。`bill_title` は件名セルのみとし、陳情事項本文や委員長報告を連結しない。
 - `votes_by_member[].vote` は `賛成` / `反対` / `退席` / `欠席` / `議長` / `除斥` / `継続審査` のいずれか。
