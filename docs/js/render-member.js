@@ -28,12 +28,9 @@ function renderMemberProfile(member, membersMeta, council) {
   return el("section", { class: "member-detail member-profile-hero" }, [
     el("div", { class: "member-profile-heading" }, [
       el("p", { class: "eyebrow" }, "人物プロフィール"),
-      el("h2", { class: "section-title" }, "この人は誰か"),
     ]),
     el("div", { class: "member-detail-main" }, [
       el("div", { class: "member-profile-body" }, [
-        el("h3", { class: "member-profile-name" }, member.name),
-        el("p", { class: "member-kana" }, member.name_kana || "ふりがな: データなし"),
         el("div", { class: "member-profile-facts" }, [
           member.district ? detailRow("選挙区", member.district) : null,
           detailRow("会派", member.faction || "データなし"),
