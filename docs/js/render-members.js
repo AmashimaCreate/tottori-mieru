@@ -1,6 +1,6 @@
-import { state } from "./state.js?v=20260614-optional-json-v1";
-import { el } from "./utils.js?v=20260614-optional-json-v1";
-import { memberPath } from "./router.js?v=20260614-optional-json-v1";
+import { state } from "./state.js?v=20260615-no-member-photos-v1";
+import { el } from "./utils.js?v=20260615-no-member-photos-v1";
+import { memberPath } from "./router.js?v=20260615-no-member-photos-v1";
 
 const IDENTIFICATION_COLORS = [
   "#0072b2", // blue
@@ -140,18 +140,6 @@ function renderMemberCard(m) {
   const faction = memberFaction(m);
   const colorStyle = `--kaiha-color: ${kaihaColor(faction)};`;
 
-  // 写真
-  const photo = el("img", {
-    class: "member-photo",
-    src: m.photo_url || "",
-    alt: m.name,
-    loading: "lazy",
-    referrerpolicy: "no-referrer",
-  });
-  photo.addEventListener("error", () => {
-    photo.style.visibility = "hidden";
-  });
-
   // 役職バッジ(議長・副議長 + 委員長・副委員長)
   const positionBadges = [];
   for (const p of m.positions || []) {
@@ -165,10 +153,11 @@ function renderMemberCard(m) {
 
   return el("article", { class: "member-card", style: colorStyle }, [
     el("div", { class: "member-head" }, [
-      photo,
       el("div", { class: "member-name-block" }, [
         el("p", { class: "member-name" }, m.name),
         el("p", { class: "member-kana" }, memberKana(m)),
+        m.district ? el("p", { class: "member-district" }, m.district) : null,
+        el("p", { class: "member-card-faction" }, faction),
         el(
           "p",
           { class: "member-term" },

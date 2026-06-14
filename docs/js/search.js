@@ -1,4 +1,4 @@
-import { state } from "./state.js?v=20260614-optional-json-v1";
+import { state } from "./state.js?v=20260615-no-member-photos-v1";
 
 export function matchesQuery(member, query) {
   if (!query) return true;

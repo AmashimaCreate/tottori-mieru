@@ -32,8 +32,6 @@ class FukuokaPrefScraper(StaticMemberProfileScraper):
                     r"/site/giin/(?:all|index|gijouzu|name-kanji)\.html$",
                 ),
                 content_selector=".detail_free",
-                # robots.txt disallows /giin/; current face photos are under /giin/img/.
-                allowed_photo=False,
             )
         )
 

@@ -1,8 +1,8 @@
-import { dataQualityPanel } from "./data-quality.js?v=20260614-optional-json-v1";
-import { renderFinanceSection } from "./render-finance.js?v=20260614-optional-json-v1";
-import { renderFactionCompositionChart } from "./render-faction-chart.js?v=20260614-optional-json-v1";
-import { formatDecimal, formatPeople, formatYen } from "./render-profile.js?v=20260614-optional-json-v1";
-import { renderProfileVisualization } from "./render-profile-viz.js?v=20260614-optional-json-v1";
+import { dataQualityPanel } from "./data-quality.js?v=20260615-no-member-photos-v1";
+import { renderFinanceSection } from "./render-finance.js?v=20260615-no-member-photos-v1";
+import { renderFactionCompositionChart } from "./render-faction-chart.js?v=20260615-no-member-photos-v1";
+import { formatDecimal, formatPeople, formatYen } from "./render-profile.js?v=20260615-no-member-photos-v1";
+import { renderProfileVisualization } from "./render-profile-viz.js?v=20260615-no-member-photos-v1";
 import {
   hasMemberVoteLayer,
   hasResultOnlyVoteLayer,
@@ -10,7 +10,7 @@ import {
   renderResultOnlyVoteCard,
   renderVoteAvailabilityNotice,
   sortedVotesByDate,
-} from "./render-votes.js?v=20260614-optional-json-v1";
+} from "./render-votes.js?v=20260615-no-member-photos-v1";
 import {
   renderCommitteeView,
   renderKaihaView,
@@ -18,9 +18,9 @@ import {
   memberFaction,
   renderRoleView,
   renderTermView,
-} from "./render-members.js?v=20260614-optional-json-v1";
-import { memberPath } from "./router.js?v=20260614-optional-json-v1";
-import { el } from "./utils.js?v=20260614-optional-json-v1";
+} from "./render-members.js?v=20260615-no-member-photos-v1";
+import { memberPath } from "./router.js?v=20260615-no-member-photos-v1";
+import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 
 export function renderCouncilPage(root, state, filteredMembers) {
   root.innerHTML = "";
@@ -808,20 +808,9 @@ function renderFaceCard(member, state) {
   const term = typeof member.elected_count === "number"
     ? `当選 ${member.elected_count} 回`
     : "当選回数: データなし";
-  const photo = member.photo_url
-    ? el("img", {
-        class: "face-photo",
-        src: member.photo_url,
-        alt: `${member.name}議員の写真`,
-        loading: "lazy",
-        referrerpolicy: "no-referrer",
-      })
-    : el("div", { class: "face-photo face-photo-placeholder" }, "写真なし");
-  if (photo.tagName === "IMG") {
-    photo.addEventListener("error", () => {
-      photo.replaceWith(el("div", { class: "face-photo face-photo-placeholder" }, "写真なし"));
-    });
-  }
+  const district = member.district
+    ? el("span", { class: "face-district" }, member.district)
+    : null;
   return el("a", {
     class: "face-card",
     href: memberPath(
@@ -831,8 +820,8 @@ function renderFaceCard(member, state) {
     ),
     style: `--kaiha-color: ${kaihaColor(faction)};`,
   }, [
-    photo,
     el("strong", { class: "face-name" }, member.name),
+    district,
     el("span", { class: "face-faction" }, faction),
     el("span", { class: "face-term" }, term),
   ]);

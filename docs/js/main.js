@@ -1,21 +1,21 @@
-import { loadCouncilBundle, loadCouncils, loadCouncilSummaries } from "./data-loader.js?v=20260614-optional-json-v1";
-import { renderAbout } from "./render-about.js?v=20260614-optional-json-v1";
-import { renderCouncilPage } from "./render-council.js?v=20260614-optional-json-v1";
-import { renderGuide } from "./render-guide.js?v=20260614-optional-json-v1";
-import { renderMemberPage } from "./render-member.js?v=20260614-optional-json-v1";
-import { renderPrefecturePage } from "./render-prefecture.js?v=20260614-optional-json-v1";
-import { renderPrefectureComparisonPage } from "./render-prefecture-comparison.js?v=20260614-optional-json-v1";
-import { renderProfile } from "./render-profile.js?v=20260614-optional-json-v1";
-import { renderTop } from "./render-top.js?v=20260614-optional-json-v1";
+import { loadCouncilBundle, loadCouncils, loadCouncilSummaries } from "./data-loader.js?v=20260615-no-member-photos-v1";
+import { renderAbout } from "./render-about.js?v=20260615-no-member-photos-v1";
+import { renderCouncilPage } from "./render-council.js?v=20260615-no-member-photos-v1";
+import { renderGuide } from "./render-guide.js?v=20260615-no-member-photos-v1";
+import { renderMemberPage } from "./render-member.js?v=20260615-no-member-photos-v1";
+import { renderPrefecturePage } from "./render-prefecture.js?v=20260615-no-member-photos-v1";
+import { renderPrefectureComparisonPage } from "./render-prefecture-comparison.js?v=20260615-no-member-photos-v1";
+import { renderProfile } from "./render-profile.js?v=20260615-no-member-photos-v1";
+import { renderTop } from "./render-top.js?v=20260615-no-member-photos-v1";
 import {
   councilPath,
   parseRoute,
   prefPath,
   topPath,
-} from "./router.js?v=20260614-optional-json-v1";
-import { filteredMembers } from "./search.js?v=20260614-optional-json-v1";
-import { state } from "./state.js?v=20260614-optional-json-v1";
-import { el } from "./utils.js?v=20260614-optional-json-v1";
+} from "./router.js?v=20260615-no-member-photos-v1";
+import { filteredMembers } from "./search.js?v=20260615-no-member-photos-v1";
+import { state } from "./state.js?v=20260615-no-member-photos-v1";
+import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 
 const COUNCILS_WITH_SPEECHES = new Set([
   "yonago-city",

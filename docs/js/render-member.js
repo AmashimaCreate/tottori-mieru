@@ -1,7 +1,7 @@
-import { acquisitionText, sourceLink } from "./data-quality.js?v=20260614-optional-json-v1";
-import { councilAreaName, officialCouncilUrl, renderAiPromptCard } from "./render-ai-prompt.js?v=20260614-optional-json-v1";
-import { renderMemberVoteSection } from "./render-votes.js?v=20260614-optional-json-v1";
-import { el } from "./utils.js?v=20260614-optional-json-v1";
+import { acquisitionText, sourceLink } from "./data-quality.js?v=20260615-no-member-photos-v1";
+import { councilAreaName, officialCouncilUrl, renderAiPromptCard } from "./render-ai-prompt.js?v=20260615-no-member-photos-v1";
+import { renderMemberVoteSection } from "./render-votes.js?v=20260615-no-member-photos-v1";
+import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 
 export function renderMemberPage(root, state, memberId) {
   const member = state.members.find((item) => item.id === memberId);
@@ -31,7 +31,6 @@ function renderMemberProfile(member, membersMeta, council) {
       el("h2", { class: "section-title" }, "この人は誰か"),
     ]),
     el("div", { class: "member-detail-main" }, [
-      renderPhoto(member),
       el("div", { class: "member-profile-body" }, [
         el("h3", { class: "member-profile-name" }, member.name),
         el("p", { class: "member-kana" }, member.name_kana || "ふりがな: データなし"),
@@ -129,23 +128,6 @@ function profileInstruction(member, council) {
     : "";
   const profileUrl = member.official_profile_url || officialCouncilUrl(council);
   return `${member.name}議員(${council?.name || "議会"}、${faction})の経歴や担当委員会など公開されている基本情報を、出典(${profileUrl})を示しながら整理してください。${committees}`;
-}
-
-function renderPhoto(member) {
-  if (!member.photo_url) {
-    return el("div", { class: "member-photo-placeholder" }, "写真なし");
-  }
-  const photo = el("img", {
-    class: "member-detail-photo",
-    src: member.photo_url,
-    alt: member.name,
-    loading: "lazy",
-    referrerpolicy: "no-referrer",
-  });
-  photo.addEventListener("error", () => {
-    photo.replaceWith(el("div", { class: "member-photo-placeholder" }, "写真なし"));
-  });
-  return photo;
 }
 
 function detailRow(label, value) {

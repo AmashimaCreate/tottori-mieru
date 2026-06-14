@@ -34,7 +34,6 @@ class StaticMemberProfileConfig:
     profile_url_pattern: str
     exclude_url_patterns: tuple[str, ...] = ()
     content_selector: str | None = None
-    allowed_photo: bool = True
     name_suffix_patterns: tuple[str, ...] = (r"議員のプロフィール$",)
     district_labels: tuple[str, ...] = ("選挙区",)
     faction_labels: tuple[str, ...] = ("会派", "所属会派")
@@ -116,25 +115,6 @@ def first_label_value(values: dict[str, str], labels: tuple[str, ...]) -> str | 
         if label in values:
             return values[label]
     return None
-
-
-def is_content_photo(img: Tag) -> bool:
-    src = img.get("src") or ""
-    if not src:
-        return False
-    blocked_fragments = (
-        "/_template_/",
-        "/shared/",
-        "/img/header",
-        "/img/top_logo",
-        "/search/",
-        "logo",
-        "favicon",
-        "newwin",
-        "spacer",
-    )
-    lowered = src.lower()
-    return not any(fragment in lowered for fragment in blocked_fragments)
 
 
 def url_path(url: str) -> str:
@@ -225,13 +205,6 @@ class StaticMemberProfileScraper(CouncilScraperBase):
         if table_kana:
             kana = table_kana
 
-        photo_url = None
-        if self.config.allowed_photo:
-            for img in content.find_all("img"):
-                if is_content_photo(img):
-                    photo_url = urljoin(ref["url"], img["src"])
-                    break
-
         committees = split_items(first_label_value(values, self.config.committee_labels) or "")
         positions = list(dict.fromkeys([*ref.get("positions", []), *[
             item for item in committees if "委員長" in item or "副委員長" in item
@@ -249,6 +222,6 @@ class StaticMemberProfileScraper(CouncilScraperBase):
             ),
             "positions": positions,
             "committees": committees,
-            "photo_url": photo_url,
+            "photo_url": None,
             "official_profile_url": ref["url"],
         }

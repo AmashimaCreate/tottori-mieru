@@ -1,7 +1,7 @@
-import { sourceLink } from "./data-quality.js?v=20260614-optional-json-v1";
-import { councilAreaName, renderAiPromptCard } from "./render-ai-prompt.js?v=20260614-optional-json-v1";
-import { memberPath } from "./router.js?v=20260614-optional-json-v1";
-import { el } from "./utils.js?v=20260614-optional-json-v1";
+import { sourceLink } from "./data-quality.js?v=20260615-no-member-photos-v1";
+import { councilAreaName, renderAiPromptCard } from "./render-ai-prompt.js?v=20260615-no-member-photos-v1";
+import { memberPath } from "./router.js?v=20260615-no-member-photos-v1";
+import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 
 const VOTE_ORDER = ["賛成", "反対", "退席", "欠席", "議長", "除斥", "継続審査"];
 

@@ -3,8 +3,8 @@ import {
   formatPeople,
   formatYen,
   sourceLink,
-} from "./render-profile.js?v=20260614-optional-json-v1";
-import { el } from "./utils.js?v=20260614-optional-json-v1";
+} from "./render-profile.js?v=20260615-no-member-photos-v1";
+import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 
 const SVG_NS = "http://www.w3.org/2000/svg";
 
