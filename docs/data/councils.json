@@ -519,8 +519,17 @@
       "lg_code": "410004",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.saga.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.saga.lg.jp/gikai/list05019.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "nagasaki-pref",

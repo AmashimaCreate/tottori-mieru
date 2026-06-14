@@ -40,6 +40,7 @@ jobs:
       - name: Generate members data
         run: |
           python scripts/councils/tottori_pref.py
+          python scripts/councils/saga_pref.py
           python scripts/councils/nagasaki_pref.py
           python scripts/councils/oita_pref.py
           python scripts/councils/tottori_city.py

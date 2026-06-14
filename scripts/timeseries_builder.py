@@ -51,6 +51,13 @@ AREAS = [
         "area_level": "prefecture",
     },
     {
+        "council_id": "saga-pref",
+        "name": "佐賀県",
+        "lg_code": "410004",
+        "estat_area_code": "41000",
+        "area_level": "prefecture",
+    },
+    {
         "council_id": "nagasaki-pref",
         "name": "長崎県",
         "lg_code": "420000",
