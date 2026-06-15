@@ -32,6 +32,13 @@ class KagoshimaPrefScraper(StaticMemberProfileScraper):
                 profile_link_requires_image=True,
                 faction_labels=("所属会派", "会派"),
                 committee_labels=("所属委員会", "委員会"),
+                teisu=50,
+                source_basis_date="公式基準日記載なし",
+                anchor_type="official_roster_count",
+                anchor_notes=(
+                    "公式名簿一覧の掲載人数50人を月次更新の件数検算アンカーとして使用",
+                    "写真は取得せず、photo_urlは全員null",
+                ),
             )
         )
 

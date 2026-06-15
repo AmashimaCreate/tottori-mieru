@@ -795,8 +795,28 @@
     "notes": [
       "五十音順ページの氏名・会派・当選回数と、選挙区別ページの選挙区をプロフィールURLで結合",
       "丸亀市選挙区は公式ページに欠員1名と明記されているため現員40名",
-      "写真は取得せず、氏名画像altは氏名抽出にのみ使用"
+      "写真は取得せず、氏名画像altは氏名抽出にのみ使用",
+      "選挙区別定数表と選挙区別名簿を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_1.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-15",
+    "teisu": 41,
+    "genin": 40,
+    "ketsuin": 1,
+    "vacancy_details": [
+      {
+        "district": "丸亀市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      }
     ]
   },
-  "updated_at": "2026-06-15T00:52:59+00:00"
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 41,
+  "genin": 40,
+  "ketsuin": 1,
+  "updated_at": "2026-06-15T07:48:59+00:00"
 }

@@ -17,6 +17,7 @@ if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract, force_photo_null  # noqa: E402
 
 COUNCIL_ID = "yonago-city"
 SOURCE_URL = "https://www.city.yonago.lg.jp/2919.htm"
@@ -238,10 +239,7 @@ class YonagoScraper(CouncilScraperBase):
                     i += 1
                     continue
                 if img and i + 1 < len(tds) and tds[i + 1].find("strong"):
-                    member = parse_member_cell(
-                        tds[i + 1],
-                        absolute_url(img.get("src")),
-                    )
+                    member = parse_member_cell(tds[i + 1], None)
                     if member:
                         members.append(member)
                     i += 2
@@ -260,15 +258,24 @@ def main() -> int:
     if len(members) != 26:
         print(f"WARNING: expected 26 members, got {len(members)}", file=sys.stderr)
 
-    scraper.save_json(
-        OUT_PATH,
-        {
-            "council_id": COUNCIL_ID,
-            "source_url": SOURCE_URL,
-            "acquisition": "scraping",
-            "members": members,
-        },
+    payload = {
+        "council_id": COUNCIL_ID,
+        "source_url": SOURCE_URL,
+        "acquisition": "scraping",
+        "members": members,
+    }
+    force_photo_null(payload)
+    apply_member_contract(
+        payload,
+        teisu=26,
+        source_basis_date="公式基準日記載なし",
+        anchor_type="official_roster_count",
+        notes=[
+            "公式名簿一覧の掲載人数26人を月次更新の件数検算アンカーとして使用",
+            "写真は取得せず、photo_urlは全員null",
+        ],
     )
+    scraper.save_json(OUT_PATH, payload)
     return 0
 
 

@@ -108,8 +108,17 @@
     "notes": [
       "2010-16.html exists and is used as the official-looking navigation/template page for district links; it is not parsed as a member district.",
       "Only name, district, faction, elected_count, committees, and positions were parsed; contact fields were ignored.",
-      "photo_url is intentionally null for all members."
-    ]
+      "photo_url is intentionally null for all members.",
+      "選挙区別定数または公式地区一覧を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.nagasaki.jp/gikai/2010.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-15",
+    "teisu": 46,
+    "genin": 46,
+    "ketsuin": 0,
+    "vacancy_details": []
   },
   "members": [
     {
@@ -424,10 +433,11 @@
       "district": "佐世保市・北松浦郡",
       "faction": "自由民主党",
       "elected_count": 5,
-      "positions": [
-        "議長"
+      "positions": [],
+      "committees": [
+        "観光生活建設委員会",
+        "観光・新幹線対策特別委員会"
       ],
-      "committees": [],
       "photo_url": null,
       "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-02.html#sotoma"
     },
@@ -764,11 +774,10 @@
       "district": "雲仙市",
       "faction": "自由民主党",
       "elected_count": 6,
-      "positions": [],
-      "committees": [
-        "観光生活建設委員会",
-        "観光・新幹線対策特別委員会"
+      "positions": [
+        "議長"
       ],
+      "committees": [],
       "photo_url": null,
       "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-12.html#tokunaga"
     },
@@ -901,5 +910,10 @@
       "official_profile_url": "https://www.pref.nagasaki.jp/gikai/2010-17.html#nakamura_taisuke"
     }
   ],
-  "updated_at": "2026-06-14T20:07:16+00:00"
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 46,
+  "genin": 46,
+  "ketsuin": 0,
+  "updated_at": "2026-06-15T07:48:45+00:00"
 }

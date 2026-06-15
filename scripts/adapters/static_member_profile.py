@@ -17,6 +17,7 @@ if str(REPO_ROOT) not in sys.path:
 
 from scripts.adapters.members_cms_table import make_slug, parse_int_like  # noqa: E402
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract  # noqa: E402
 
 
 PROFILE_INFO_RE = re.compile(r"(.+?)[（(]\s*([^（）()]+?)\s*[）)]")
@@ -48,6 +49,11 @@ class StaticMemberProfileConfig:
             "副議長": "副議長",
         }
     )
+    teisu: int | None = None
+    source_basis_date: str | None = None
+    vacancy_details: tuple[dict[str, Any], ...] = ()
+    anchor_type: str = "official_roster_count"
+    anchor_notes: tuple[str, ...] = ()
 
 
 def normalize_text(value: str | None) -> str:
@@ -153,12 +159,22 @@ class StaticMemberProfileScraper(CouncilScraperBase):
             members.append(member)
 
         self.assert_min_count(members, self.config.min_count, "members")
-        return {
+        payload = {
             "council_id": self.config.council_id,
             "source_url": self.config.source_url,
             "acquisition": "scraping",
             "members": members,
         }
+        if self.config.teisu is not None:
+            apply_member_contract(
+                payload,
+                teisu=self.config.teisu,
+                source_basis_date=self.config.source_basis_date,
+                vacancy_details=list(self.config.vacancy_details),
+                anchor_type=self.config.anchor_type,
+                notes=list(self.config.anchor_notes),
+            )
+        return payload
 
     def profile_refs(self, soup: BeautifulSoup) -> list[dict[str, Any]]:
         refs: list[dict[str, Any]] = []

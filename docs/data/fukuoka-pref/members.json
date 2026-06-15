@@ -1485,5 +1485,25 @@
       "official_profile_url": "https://www.gikai.pref.fukuoka.lg.jp/site/giin/watanabe-miho.html"
     }
   ],
-  "updated_at": "2026-06-14T16:30:19+00:00"
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 87,
+  "genin": 87,
+  "ketsuin": 0,
+  "checks": {
+    "anchor_type": "official_roster_count",
+    "anchor_source_url": "https://www.gikai.pref.fukuoka.lg.jp/site/giin/all.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-15",
+    "teisu": 87,
+    "genin": 87,
+    "ketsuin": 0,
+    "parsed_members": 87,
+    "vacancy_details": [],
+    "notes": [
+      "公式名簿一覧の掲載人数87人を月次更新の件数検算アンカーとして使用",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-15T07:43:16+00:00"
 }

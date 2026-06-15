@@ -18,6 +18,7 @@ if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract, force_photo_null  # noqa: E402
 
 COUNCIL_ID = "tottori-pref"
 SOURCE_URL = "https://www.pref.tottori.lg.jp/75928.htm"
@@ -165,10 +166,6 @@ def parse_profile_allowed_fields(soup, profile_url: str) -> tuple[int | None, st
     if not table:
         return elected_count, photo_url
 
-    img = table.find("img")
-    if img and img.get("src"):
-        photo_url = urljoin(profile_url, img["src"])
-
     for row in table.find_all("tr"):
         header = row.find("th")
         cells = row.find_all("td")
@@ -270,8 +267,6 @@ class TottoriPrefScraper(CouncilScraperBase):
             elected_count, photo = parse_profile_allowed_fields(soup, profile_url)
             if elected_count is not None:
                 member["elected_count"] = elected_count
-            if photo:
-                member["photo_url"] = photo
 
     def enrich_positions(self, members: list[dict]) -> None:
         by_name = {name_key(member["name"]): member for member in members}
@@ -315,15 +310,24 @@ def main() -> int:
             file=sys.stderr,
         )
 
-    scraper.save_json(
-        OUT_PATH,
-        {
-            "council_id": COUNCIL_ID,
-            "source_url": SOURCE_URL,
-            "acquisition": "scraping",
-            "members": members,
-        },
+    payload = {
+        "council_id": COUNCIL_ID,
+        "source_url": SOURCE_URL,
+        "acquisition": "scraping",
+        "members": members,
+    }
+    force_photo_null(payload)
+    apply_member_contract(
+        payload,
+        teisu=35,
+        source_basis_date="公式基準日記載なし",
+        anchor_type="official_roster_count",
+        notes=[
+            "公式名簿一覧の掲載人数35人を月次更新の件数検算アンカーとして使用",
+            "個別プロフィールから期数のみ取得し、写真は取得しない",
+        ],
     )
+    scraper.save_json(OUT_PATH, payload)
     return 0
 
 

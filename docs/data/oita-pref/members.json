@@ -126,7 +126,22 @@
     "notes": [
       "The official table has one vacancy marker (―); only sitting members are included.",
       "Only aggregate-table roster fields were parsed; contact-rich profile bodies were not parsed.",
-      "photo_url is intentionally null for all members."
+      "photo_url is intentionally null for all members.",
+      "選挙区別定数または公式地区一覧を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.oita.jp/site/gikai/giin-senkyokubetsu.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-15",
+    "teisu": 43,
+    "genin": 42,
+    "ketsuin": 1,
+    "vacancy_details": [
+      {
+        "district": "日田市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.oita.jp/site/gikai/giin-hida.html"
+      }
     ]
   },
   "members": [
@@ -677,5 +692,10 @@
       "official_profile_url": "https://www.pref.oita.jp/site/gikai/giin-kusu.html#ogawa"
     }
   ],
-  "updated_at": "2026-06-14T20:06:41+00:00"
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 43,
+  "genin": 42,
+  "ketsuin": 1,
+  "updated_at": "2026-06-15T07:48:48+00:00"
 }

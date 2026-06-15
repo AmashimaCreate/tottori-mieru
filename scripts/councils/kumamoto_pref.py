@@ -31,6 +31,13 @@ class KumamotoPrefScraper(CmsMemberTableScraper):
                 source_url=SOURCE_URL,
                 output_path=OUT_PATH,
                 min_count=40,
+                teisu=47,
+                source_basis_date="公式基準日記載なし",
+                anchor_type="official_roster_count",
+                anchor_notes=(
+                    "公式名簿一覧の掲載人数47人を月次更新の件数検算アンカーとして使用",
+                    "写真は取得せず、photo_urlは全員null",
+                ),
             )
         )
 

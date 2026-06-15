@@ -32,6 +32,13 @@ class MiyazakiPrefScraper(StaticMemberProfileScraper):
                 content_selector="#tmp_contents",
                 profile_link_requires_image=True,
                 faction_labels=("会派",),
+                teisu=35,
+                source_basis_date="公式基準日記載なし",
+                anchor_type="official_roster_count",
+                anchor_notes=(
+                    "公式名簿一覧の掲載人数35人を月次更新の件数検算アンカーとして使用",
+                    "写真は取得せず、photo_urlは全員null",
+                ),
             )
         )
 

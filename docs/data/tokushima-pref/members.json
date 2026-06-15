@@ -564,8 +564,28 @@
     "notes": [
       "公式名簿ページの選挙区見出し人数は合計36人。定数38との差2人を欠員として扱う",
       "本文の選挙区見出しと直下の議員リストのみを解析",
-      "写真は取得せず、photo_urlは全員null"
+      "写真は取得せず、photo_urlは全員null",
+      "定数38は調査済み定数アンカー。公式名簿上の選挙区見出し人数合計36人との差を欠員として扱う"
+    ],
+    "anchor_type": "official_roster_count_with_capacity_constant",
+    "anchor_source_url": "https://www.pref.tokushima.lg.jp/gikai/giin/senkyoku/",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-15",
+    "teisu": 38,
+    "genin": 36,
+    "ketsuin": 2,
+    "vacancy_details": [
+      {
+        "label": "公式名簿掲載人数36人、定数38との差",
+        "ketsuin": 2,
+        "source_url": "https://www.pref.tokushima.lg.jp/gikai/giin/senkyoku/"
+      }
     ]
   },
-  "updated_at": "2026-06-15T00:54:10+00:00"
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 38,
+  "genin": 36,
+  "ketsuin": 2,
+  "updated_at": "2026-06-15T07:48:51+00:00"
 }

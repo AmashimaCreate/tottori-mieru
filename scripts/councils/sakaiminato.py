@@ -18,6 +18,7 @@ if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract, force_photo_null  # noqa: E402
 
 COUNCIL_ID = "sakaiminato-city"
 SOURCE_PATH = REPO_ROOT / "data_sources" / "members_manual" / f"{COUNCIL_ID}.json"
@@ -118,6 +119,7 @@ class SakaiminatoManualBuilder(CouncilScraperBase):
         for member in data["members"]:
             item = {key: member.get(key) for key in REQUIRED_MEMBER_KEYS}
             item.pop("source_url", None)
+            item["photo_url"] = None
             members.append(item)
         return members
 
@@ -134,15 +136,24 @@ def main() -> int:
             file=sys.stderr,
         )
 
-    builder.save_json(
-        OUT_PATH,
-        {
-            "council_id": COUNCIL_ID,
-            "source_url": data["source_url"],
-            "acquisition": "manual_transcription",
-            "members": members,
-        },
+    payload = {
+        "council_id": COUNCIL_ID,
+        "source_url": data["source_url"],
+        "acquisition": "manual_transcription",
+        "members": members,
+    }
+    force_photo_null(payload)
+    apply_member_contract(
+        payload,
+        teisu=15,
+        source_basis_date=data.get("source_basis_date") or "公式基準日記載なし",
+        anchor_type="manual_official_roster_count",
+        notes=[
+            "KT確認済みの公式名簿手動転記15人を件数検算アンカーとして使用",
+            "写真は取得せず、photo_urlは全員null",
+        ],
     )
+    builder.save_json(OUT_PATH, payload)
     return 0
 
 

@@ -17,6 +17,7 @@ if str(REPO_ROOT) not in sys.path:
 
 from scripts.base import CouncilScraperBase  # noqa: E402
 from scripts.councils.tottori_pref import make_slug, normalize_text  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract, force_photo_null  # noqa: E402
 
 COUNCIL_ID = "kurayoshi-city"
 SOURCE_URL = "https://www.city.kurayoshi.lg.jp/4253.htm"
@@ -45,15 +46,7 @@ def append_unique(values: list[str], value: str) -> None:
 
 
 def photo_map(soup) -> dict[int, str]:
-    photos: dict[int, str] = {}
-    for img in soup.find_all("img"):
-        src = img.get("src", "")
-        alt = img.get("alt", "")
-        m = re.match(r"0?(\d+)_", alt) or re.search(r"/0?(\d+)_", src)
-        if not m or "secure/4251/" not in src:
-            continue
-        photos[int(m.group(1))] = quote(urljoin(SOURCE_URL, src), safe=":/")
-    return photos
+    return {}
 
 
 def split_member_blocks(lines: list[str]) -> list[tuple[str, list[str]]]:
@@ -207,15 +200,24 @@ def main() -> int:
             file=sys.stderr,
         )
 
-    scraper.save_json(
-        OUT_PATH,
-        {
-            "council_id": COUNCIL_ID,
-            "source_url": SOURCE_URL,
-            "acquisition": "scraping",
-            "members": members,
-        },
+    payload = {
+        "council_id": COUNCIL_ID,
+        "source_url": SOURCE_URL,
+        "acquisition": "scraping",
+        "members": members,
+    }
+    force_photo_null(payload)
+    apply_member_contract(
+        payload,
+        teisu=17,
+        source_basis_date="公式基準日記載なし",
+        anchor_type="official_roster_count",
+        notes=[
+            "公式名簿一覧の掲載人数17人を月次更新の件数検算アンカーとして使用",
+            "写真は取得せず、photo_urlは全員null",
+        ],
     )
+    scraper.save_json(OUT_PATH, payload)
     return 0
 
 

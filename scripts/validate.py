@@ -32,6 +32,12 @@ MEMBERS_ROOT_KEYS = {
     "updated_at",
     "source_url",
     "acquisition",
+    "source_basis_date",
+    "last_verified",
+    "teisu",
+    "genin",
+    "ketsuin",
+    "checks",
     "members",
 }
 MEMBER_ACQUISITIONS = {"scraping", "manual_transcription"}
@@ -275,6 +281,20 @@ def validate_members_file(council_id: str, path: Path) -> list[str]:
         errors.append(
             f"{path}: invalid acquisition '{data.get('acquisition')}'"
         )
+    if not isinstance(data.get("source_basis_date"), str) or not data.get("source_basis_date"):
+        errors.append(f"{path}: source_basis_date must be a non-empty string")
+    if not isinstance(data.get("last_verified"), str) or not data.get("last_verified"):
+        errors.append(f"{path}: last_verified must be a non-empty string")
+    for key in ("teisu", "genin", "ketsuin"):
+        if not isinstance(data.get(key), int):
+            errors.append(f"{path}: {key} must be an integer")
+    checks = data.get("checks")
+    if not isinstance(checks, dict):
+        errors.append(f"{path}: checks must be an object")
+    else:
+        for key in ("anchor_type", "teisu", "genin", "ketsuin", "last_verified"):
+            if key not in checks:
+                errors.append(f"{path}: checks missing key '{key}'")
 
     members = data.get("members")
     if not isinstance(members, list):
@@ -282,6 +302,14 @@ def validate_members_file(council_id: str, path: Path) -> list[str]:
         return errors
     if len(members) == 0:
         errors.append(f"{path}: members must not be empty")
+    if isinstance(data.get("genin"), int) and data.get("genin") != len(members):
+        errors.append(f"{path}: genin {data.get('genin')} != members length {len(members)}")
+    if all(isinstance(data.get(key), int) for key in ("teisu", "genin", "ketsuin")):
+        if data["teisu"] - data["genin"] != data["ketsuin"]:
+            errors.append(
+                f"{path}: teisu - genin must equal ketsuin "
+                f"({data['teisu']} - {data['genin']} != {data['ketsuin']})"
+            )
 
     seen: set[str] = set()
     prefix = f"{council_id}--"
@@ -309,6 +337,8 @@ def validate_members_file(council_id: str, path: Path) -> list[str]:
             errors.append(f"{label}: positions must be a list")
         if not isinstance(member.get("committees"), list):
             errors.append(f"{label}: committees must be a list")
+        if member.get("photo_url") is not None:
+            errors.append(f"{label}: photo_url must be null")
         elected_count = member.get("elected_count")
         if elected_count is not None and not isinstance(elected_count, int):
             errors.append(f"{label}: elected_count must be int or null")

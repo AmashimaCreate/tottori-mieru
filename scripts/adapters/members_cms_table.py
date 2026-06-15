@@ -16,6 +16,7 @@ if str(REPO_ROOT) not in sys.path:
     sys.path.insert(0, str(REPO_ROOT))
 
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract  # noqa: E402
 
 
 KATAKANA_TO_ROMAJI: dict[str, str] = {
@@ -64,6 +65,11 @@ class CmsMemberTableConfig:
     faction_column: str = "会派"
     elected_count_column: str = "期数"
     profile_committee_label: str = "所属委員会等"
+    teisu: int | None = None
+    source_basis_date: str | None = None
+    vacancy_details: tuple[dict[str, Any], ...] = ()
+    anchor_type: str = "official_roster_count"
+    anchor_notes: tuple[str, ...] = ()
 
 
 def normalize_text(value: str | None) -> str:
@@ -129,12 +135,22 @@ class CmsMemberTableScraper(CouncilScraperBase):
         members = self.parse_table(table)
         self.assert_min_count(members, self.config.min_count, "members")
         self.enrich_from_profiles(members)
-        return {
+        payload = {
             "council_id": self.config.council_id,
             "source_url": self.config.source_url,
             "acquisition": "scraping",
             "members": members,
         }
+        if self.config.teisu is not None:
+            apply_member_contract(
+                payload,
+                teisu=self.config.teisu,
+                source_basis_date=self.config.source_basis_date,
+                vacancy_details=list(self.config.vacancy_details),
+                anchor_type=self.config.anchor_type,
+                notes=list(self.config.anchor_notes),
+            )
+        return payload
 
     def find_member_table(self, soup: BeautifulSoup) -> Tag:
         for table in soup.find_all("table"):
@@ -196,9 +212,6 @@ class CmsMemberTableScraper(CouncilScraperBase):
 
     def parse_profile_allowed_fields(self, member: dict[str, Any], soup: BeautifulSoup, profile_url: str) -> None:
         body = soup.find("div", class_="detail_free") or soup
-        img = body.find("img")
-        if img and img.get("src"):
-            member["photo_url"] = urljoin(profile_url, img["src"])
 
         table = body.find("table")
         if not table:

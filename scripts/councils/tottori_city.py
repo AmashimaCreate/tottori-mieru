@@ -24,6 +24,7 @@ from scripts.councils.tottori_pref import (  # noqa: E402
     name_key,
     normalize_text,
 )
+from scripts.lib.member_contract import apply_member_contract, force_photo_null  # noqa: E402
 
 COUNCIL_ID = "tottori-city"
 SOURCE_URL = "https://www.city.tottori.lg.jp/site/shigikai/6355.html"
@@ -53,10 +54,7 @@ def cell_lines(cell: Tag) -> list[str]:
 
 
 def photo_url(cell: Tag) -> str | None:
-    img = cell.find("img")
-    if not img or not img.get("src"):
-        return None
-    return urljoin(SOURCE_URL, img["src"])
+    return None
 
 
 def parse_row(tr: Tag) -> dict | None:
@@ -244,15 +242,24 @@ def main() -> int:
             file=sys.stderr,
         )
 
-    scraper.save_json(
-        OUT_PATH,
-        {
-            "council_id": COUNCIL_ID,
-            "source_url": SOURCE_URL,
-            "acquisition": "scraping",
-            "members": members,
-        },
+    payload = {
+        "council_id": COUNCIL_ID,
+        "source_url": SOURCE_URL,
+        "acquisition": "scraping",
+        "members": members,
+    }
+    force_photo_null(payload)
+    apply_member_contract(
+        payload,
+        teisu=32,
+        source_basis_date="公式基準日記載なし",
+        anchor_type="official_roster_count",
+        notes=[
+            "公式名簿一覧の掲載人数32人を月次更新の件数検算アンカーとして使用",
+            "写真は取得せず、photo_urlは全員null",
+        ],
     )
+    scraper.save_json(OUT_PATH, payload)
     return 0
 
 

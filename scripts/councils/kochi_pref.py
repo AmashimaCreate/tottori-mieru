@@ -24,6 +24,7 @@ from scripts.adapters.single_page_roster import (  # noqa: E402
     text_lines,
 )
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract  # noqa: E402
 
 COUNCIL_ID = "kochi-pref"
 SOURCE_URL = "https://gikai.pref.kochi.lg.jp/member/categories/"
@@ -113,7 +114,7 @@ class KochiPrefScraper(CouncilScraperBase):
         if len(members) + len(missing_seats) != EXPECTED_CAPACITY:
             raise RuntimeError("Kochi capacity check failed")
 
-        return {
+        payload = {
             "council_id": COUNCIL_ID,
             "source_url": SOURCE_URL,
             "source_name": "高知県議会 議員名簿",
@@ -135,6 +136,22 @@ class KochiPrefScraper(CouncilScraperBase):
                 ],
             },
         }
+        apply_member_contract(
+            payload,
+            teisu=EXPECTED_CAPACITY,
+            source_basis_date="公式基準日記載なし",
+            vacancy_details=[
+                {
+                    "seat_number": seat,
+                    "ketsuin": 1,
+                    "source_url": SOURCE_URL,
+                }
+                for seat in missing_seats
+            ],
+            anchor_type="official_faction_count_and_seat_number",
+            notes=["会派見出し人数と議席番号欠番を件数検算アンカーとして使用"],
+        )
+        return payload
 
 
 def main() -> int:

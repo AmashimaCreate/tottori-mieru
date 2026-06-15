@@ -606,8 +606,28 @@
       "会派見出しの人数と会派内の取得人数を照合",
       "議席番号23が欠番のため欠員1として記録",
       "五十音順ページに当選回数は見当たらないためelected_countはnull",
-      "写真は取得せず、photo_urlは全員null"
+      "写真は取得せず、photo_urlは全員null",
+      "会派見出し人数と議席番号欠番を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_faction_count_and_seat_number",
+    "anchor_source_url": "https://gikai.pref.kochi.lg.jp/member/categories/",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-15",
+    "teisu": 37,
+    "genin": 36,
+    "ketsuin": 1,
+    "vacancy_details": [
+      {
+        "seat_number": 23,
+        "ketsuin": 1,
+        "source_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+      }
     ]
   },
-  "updated_at": "2026-06-15T00:52:54+00:00"
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 37,
+  "genin": 36,
+  "ketsuin": 1,
+  "updated_at": "2026-06-15T07:49:04+00:00"
 }

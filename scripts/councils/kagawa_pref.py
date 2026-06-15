@@ -24,6 +24,7 @@ from scripts.adapters.single_page_roster import (  # noqa: E402
     parse_count,
 )
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract  # noqa: E402
 
 COUNCIL_ID = "kagawa-pref"
 SOURCE_URL = "https://www.pref.kagawa.lg.jp/gikai/meibo/50onjun_ketu1.html"
@@ -156,7 +157,7 @@ class KagawaPrefScraper(CouncilScraperBase):
                     f"{district['vacancies']} != capacity {district['capacity']}"
                 )
 
-        return {
+        payload = {
             "council_id": COUNCIL_ID,
             "source_url": SOURCE_URL,
             "source_name": "香川県議会 議員紹介（五十音順）",
@@ -182,6 +183,25 @@ class KagawaPrefScraper(CouncilScraperBase):
                 ],
             },
         }
+        vacancy_details = [
+            {
+                "district": district["district"],
+                "ketsuin": district["vacancies"],
+                "source_url": district["source_url"],
+            }
+            for district in district_checks
+            if int(district["vacancies"]) > 0
+        ]
+        apply_member_contract(
+            payload,
+            teisu=capacity_total,
+            source_basis_date="公式基準日記載なし",
+            vacancy_details=vacancy_details,
+            anchor_source_url=CAPACITY_URL,
+            anchor_type="official_district_capacity",
+            notes=["選挙区別定数表と選挙区別名簿を件数検算アンカーとして使用"],
+        )
+        return payload
 
     def parse_gojuon_table(self, soup: BeautifulSoup) -> dict[str, dict[str, object]]:
         table = soup.find("table", class_="datatable")

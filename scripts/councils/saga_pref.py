@@ -24,6 +24,7 @@ from scripts.adapters.district_aggregate_profile import (  # noqa: E402
     parse_count,
 )
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract, force_photo_null  # noqa: E402
 
 COUNCIL_ID = "saga-pref"
 ENTRY_URL = "https://www.pref.saga.lg.jp/gikai/list05019.html"
@@ -205,7 +206,7 @@ class SagaPrefScraper(CouncilScraperBase):
                 f"District capacity total {capacity_total} != parsed members {len(members)}"
             )
 
-        return {
+        payload = {
             "council_id": COUNCIL_ID,
             "source_url": source_url,
             "acquisition": "scraping",
@@ -229,6 +230,16 @@ class SagaPrefScraper(CouncilScraperBase):
                 ],
             },
         }
+        force_photo_null(payload)
+        apply_member_contract(
+            payload,
+            teisu=capacity_total,
+            source_basis_date=reference_date_label or "公式基準日記載なし",
+            anchor_source_url=source_url,
+            anchor_type="official_district_capacity",
+            notes=["選挙区別定数表を件数検算アンカーとして使用"],
+        )
+        return payload
 
 
 def main() -> int:

@@ -15,7 +15,7 @@
         "経済厚生委員会",
         "予算決算委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-yu00Vf.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--arai-hideyuki",
@@ -32,7 +32,7 @@
         "総務民教委員会",
         "予算決算委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-xNsXJP.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--iwamoto-kazutaka",
@@ -49,7 +49,7 @@
         "総務民教委員会",
         "予算決算委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-qKxZ9u.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--kato-bunji",
@@ -66,7 +66,7 @@
         "総務民教委員会",
         "予算決算委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-jxbGbA.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--shibata-hideki",
@@ -81,7 +81,7 @@
         "予算決算委員会",
         "議会改革推進特別委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-1UTgMo.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--sogo-jun",
@@ -96,7 +96,7 @@
         "予算決算委員会",
         "議会改革推進特別委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-aEQJk5.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--takanashi-kensaku",
@@ -111,7 +111,7 @@
         "経済厚生委員会",
         "予算決算委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-ZZ9oV2.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--taguchi-shunsuke",
@@ -129,7 +129,7 @@
         "予算決算委員会",
         "議会改革推進特別委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-7C0hWW.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--hiiragi-yasuhiro",
@@ -146,7 +146,7 @@
         "予算決算委員会",
         "議会改革推進特別委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-zbMiDz.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--hiramatsu-kenji",
@@ -164,7 +164,7 @@
         "予算決算委員会",
         "議会改革推進特別委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-C8xfnY.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--matsumoto-akihiko",
@@ -181,7 +181,7 @@
         "経済厚生委員会",
         "予算決算委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-ziVo9H.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--murata-takuto",
@@ -198,7 +198,7 @@
         "予算決算委員会",
         "議会改革推進特別委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-8tpRTc.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--morioka-toshio",
@@ -215,7 +215,7 @@
         "経済厚生委員会",
         "予算決算委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-x62kgV.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--yasuda-tomoko",
@@ -233,7 +233,7 @@
         "予算決算委員会",
         "議会改革推進特別委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-MhxHde.jpg"
+      "photo_url": null
     },
     {
       "id": "sakaiminato-city--yoshii-takumi",
@@ -250,8 +250,28 @@
         "予算決算委員会",
         "議会改革推進特別委員会"
       ],
-      "photo_url": "https://www.city.sakaiminato.lg.jp/upload/user/00114791-wPcHgs.jpg"
+      "photo_url": null
     }
   ],
-  "updated_at": "2026-06-13T08:38:20+00:00"
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 15,
+  "genin": 15,
+  "ketsuin": 0,
+  "checks": {
+    "anchor_type": "manual_official_roster_count",
+    "anchor_source_url": "https://www.city.sakaiminato.lg.jp/index.php?view=119842",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-15",
+    "teisu": 15,
+    "genin": 15,
+    "ketsuin": 0,
+    "parsed_members": 15,
+    "vacancy_details": [],
+    "notes": [
+      "KT確認済みの公式名簿手動転記15人を件数検算アンカーとして使用",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-15T07:49:32+00:00"
 }

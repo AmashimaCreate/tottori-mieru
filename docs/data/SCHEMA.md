@@ -47,6 +47,19 @@
   "updated_at": "2026-06-11T00:00:00+00:00",
   "source_url": "https://www.city.yonago.lg.jp/2919.htm",
   "acquisition": "scraping",
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 26,
+  "genin": 26,
+  "ketsuin": 0,
+  "checks": {
+    "anchor_type": "official_roster_count",
+    "anchor_source_url": "https://www.city.yonago.lg.jp/2919.htm",
+    "teisu": 26,
+    "genin": 26,
+    "ketsuin": 0,
+    "vacancy_details": []
+  },
   "members": [
     {
       "id": "yonago-city--adachi-takashi",
@@ -58,7 +71,7 @@
       "elected_count": 3,
       "positions": ["総務政策副委員長"],
       "committees": ["総務政策", "基地問題等調査特別"],
-      "photo_url": "https://... or null",
+      "photo_url": null,
       "official_profile_url": "https://... or null"
     }
   ]
@@ -67,7 +80,7 @@
 
 必須キー:
 
-- ルート: `council_id`, `updated_at`, `source_url`, `acquisition`, `members`
+- ルート: `council_id`, `updated_at`, `source_url`, `acquisition`, `source_basis_date`, `last_verified`, `teisu`, `genin`, `ketsuin`, `checks`, `members`
 - 各議員: `id`, `council_id`, `name`, `name_kana`, `faction`, `elected_count`, `positions`, `committees`, `photo_url`
 
 ルール:
@@ -75,7 +88,13 @@
 - `acquisition` は `scraping` / `manual_transcription`。
 - `id` は `{council_id}--{slug}` 形式。
 - `positions` と `committees` は文字列配列。
-- `photo_url` はURL文字列または `null`。
+- `source_basis_date`: 公式ページが掲げる基準日・任期。取得できない場合は `"公式基準日記載なし"` とし、推測で補わない。
+- `last_verified`: 月次ジョブまたは手動確認で、件数検算に最後に成功した日付（`YYYY-MM-DD`）。
+- `teisu`: 件数検算アンカーとして使う定数または公式名簿掲載現員数。
+- `genin`: 公開 `members` 件数。
+- `ketsuin`: `teisu - genin`。欠員位置を公式ページから識別できる場合は `checks.vacancy_details` に選挙区名・議席番号等を保持する。
+- `checks.anchor_type`: 件数検算アンカーの種別。例: `official_district_capacity`, `official_roster_count`, `manual_official_roster_count`。
+- `photo_url` は全議会で `null`。議員写真は表示・保存・ホットリンクしない。互換キーとして残すが、新規スクレイパーは写真URLを取得しない。
 - 議員個別ページのパースは許可リスト方式とし、取得する項目を明示列挙する。
 - 許可リスト外の項目は読まない。特に電話番号、メールアドレス、自宅住所、生年月日等の個人情報は、公式サイトに掲載されていても公開データへ取り込まない。
 
@@ -281,7 +300,8 @@ SSDS（e-Stat 社会・人口統計体系）から生成する、自治体ごと
 - 各指標は5議会で揃う直近最大10点を採用する。SSDSの収録最新年は指標ごとに異なるため、指標間で `year_start` / `year_end` が異なってよい。
 - 県限定の任意指標は、対象範囲内で取得できる直近最大10点を採用する。選挙年のみ値があるため、年が連続しなくてよい。
 - `values` は2〜10点。年齢3区分のように毎年値がない系列は、取得できた年のみを保持する。
-- `first` / `latest` は表示対象期間の先頭・末尾の `year` と `value` を保持する。
+- `first` / `latest` は表示対象期間の先頭・末尾の `year` と `value` を保持する。`latest.year` はフロントで各指標カードの基準年として明示する。
+- 投票率など選挙年のみ値が存在する指標は、毎年値があるように見せない。無投票区がある場合は区ごとの投票率が存在しないため、フロントで基準年と注意書きを併記する。
 - `delta` は `latest.value - first.value`。増減の事実表示に使う派生値で、良し悪しの評価ではない。
 - `delta_pct` は `delta / first.value * 100` を小数第2位で丸めた値。先頭値が0の場合は `null`。
 - `value` は数値型。人口総数と出生数は整数、財政力指数は小数を許容する。

@@ -25,6 +25,7 @@ from scripts.adapters.single_page_roster import (  # noqa: E402
     parse_count,
 )
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract  # noqa: E402
 
 COUNCIL_ID = "ehime-pref"
 SOURCE_URL = "https://www.pref.ehime.jp/site/gikai/12716.html"
@@ -97,7 +98,7 @@ class EhimePrefScraper(CouncilScraperBase):
         if len(members) != EXPECTED_MEMBERS:
             raise RuntimeError(f"Expected {EXPECTED_MEMBERS} members, parsed {len(members)}")
 
-        return {
+        payload = {
             "council_id": COUNCIL_ID,
             "source_url": SOURCE_URL,
             "source_name": "愛媛県議会 議員名簿",
@@ -118,6 +119,24 @@ class EhimePrefScraper(CouncilScraperBase):
                 ],
             },
         }
+        vacancy_details = [
+            {
+                "district": district["district"],
+                "ketsuin": district["vacancies"],
+                "source_url": district["source_url"],
+            }
+            for district in district_checks
+            if int(district["vacancies"]) > 0
+        ]
+        apply_member_contract(
+            payload,
+            teisu=capacity_total,
+            source_basis_date="公式基準日記載なし",
+            vacancy_details=vacancy_details,
+            anchor_type="official_district_capacity",
+            notes=["選挙区別定数列を件数検算アンカーとして使用"],
+        )
+        return payload
 
     def find_member_table(self, soup: BeautifulSoup) -> Tag:
         for table in soup.find_all("table"):

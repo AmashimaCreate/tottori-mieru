@@ -706,8 +706,28 @@
     "notes": [
       "rowspan/colspanを展開して選挙区・定数をキャリーダウン",
       "西条市は公式表で定数4・現員3のため欠員1として記録",
-      "写真は取得せず、photo_urlは全員null"
+      "写真は取得せず、photo_urlは全員null",
+      "選挙区別定数列を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.ehime.jp/site/gikai/12716.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-15",
+    "teisu": 47,
+    "genin": 46,
+    "ketsuin": 1,
+    "vacancy_details": [
+      {
+        "district": "西条市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.ehime.jp/site/gikai/12716.html"
+      }
     ]
   },
-  "updated_at": "2026-06-15T00:51:23+00:00"
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-15",
+  "teisu": 47,
+  "genin": 46,
+  "ketsuin": 1,
+  "updated_at": "2026-06-15T07:49:02+00:00"
 }

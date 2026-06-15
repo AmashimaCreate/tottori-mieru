@@ -24,6 +24,7 @@ from scripts.adapters.single_page_roster import (  # noqa: E402
     parse_count,
 )
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract  # noqa: E402
 
 COUNCIL_ID = "tokushima-pref"
 SOURCE_URL = "https://www.pref.tokushima.lg.jp/gikai/giin/senkyoku/"
@@ -117,7 +118,7 @@ class TokushimaPrefScraper(CouncilScraperBase):
                     f"!= listed_count {district['listed_count']}"
                 )
 
-        return {
+        payload = {
             "council_id": COUNCIL_ID,
             "source_url": SOURCE_URL,
             "source_name": "徳島県議会 選挙区別 議員紹介",
@@ -139,6 +140,21 @@ class TokushimaPrefScraper(CouncilScraperBase):
                 ],
             },
         }
+        apply_member_contract(
+            payload,
+            teisu=EXPECTED_CAPACITY,
+            source_basis_date="公式基準日記載なし",
+            vacancy_details=[
+                {
+                    "label": "公式名簿掲載人数36人、定数38との差",
+                    "ketsuin": EXPECTED_VACANCIES,
+                    "source_url": SOURCE_URL,
+                }
+            ],
+            anchor_type="official_roster_count_with_capacity_constant",
+            notes=["定数38は調査済み定数アンカー。公式名簿上の選挙区見出し人数合計36人との差を欠員として扱う"],
+        )
+        return payload
 
 
 def main() -> int:

@@ -38,20 +38,22 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Generate members data
+        id: members-update
         run: |
-          python scripts/councils/tottori_pref.py
-          python scripts/councils/saga_pref.py
-          python scripts/councils/nagasaki_pref.py
-          python scripts/councils/oita_pref.py
-          python scripts/councils/tokushima_pref.py
-          python scripts/councils/kagawa_pref.py
-          python scripts/councils/ehime_pref.py
-          python scripts/councils/kochi_pref.py
-          python scripts/councils/tottori_city.py
-          python scripts/councils/yonago.py
-          python scripts/councils/kurayoshi.py
-          # 境港市公式サイトにはアクセスせず、手動入力JSONから生成する。
-          python scripts/councils/sakaiminato.py
+          set +e
+          python scripts/update_members.py --report /tmp/members-update.json > /tmp/members-update.log 2>&1
+          status=$?
+          cat /tmp/members-update.log
+          if [ "$status" -ne 0 ]; then
+            echo "failed=true" >> "$GITHUB_OUTPUT"
+            {
+              echo 'log<<EOF'
+              cat /tmp/members-update.log
+              echo 'EOF'
+            } >> "$GITHUB_OUTPUT"
+          else
+            echo "failed=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Generate speeches data
         run: |
@@ -105,6 +107,36 @@ jobs:
       - name: Check excluded personal/contact info
         run: python scripts/check_personal_info.py docs/data
 
+      - name: Create issue on member update failure
+        if: steps.members-update.outputs.failed == 'true'
+        uses: actions/github-script@v9.0.0
+        env:
+          MEMBERS_UPDATE_LOG: ${{ steps.members-update.outputs.log }}
+        with:
+          script: |
+            const runUrl = `${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`;
+            const today = new Date().toISOString().slice(0, 10);
+            const log = (process.env.MEMBERS_UPDATE_LOG || '').slice(0, 6000);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[auto] 議員名簿の月次更新で要確認 (${today})`,
+              body: [
+                '議員名簿の月次更新で、件数検算アンカー不一致または取得失敗がありました。',
+                '失敗した議会は旧データを維持し、他の議会の更新は継続しています。',
+                '',
+                `- 実行URL: ${runUrl}`,
+                `- 日付(UTC): ${today}`,
+                '',
+                '検出内容:',
+                '```',
+                log,
+                '```',
+                '',
+                '_このIssueはGitHub Actionsにより自動作成されました。_',
+              ].join('\n'),
+            });
+
       - name: Create issue on official link check failure
         if: steps.link-check.outputs.failed == 'true'
         uses: actions/github-script@v9.0.0
@@ -155,8 +187,14 @@ jobs:
             echo "Cloudflare rebuild triggered for seiji-mieru /tottori/."
           fi
 
+      - name: Fail if member update failed
+        if: steps.members-update.outputs.failed == 'true'
+        run: |
+          echo "::error::Member update had failures. Successful council outputs were processed; see the created issue for details."
+          exit 1
+
       - name: Create issue on failure
-        if: failure()
+        if: failure() && steps.members-update.outputs.failed != 'true'
         uses: actions/github-script@v9.0.0
         with:
           script: |
@@ -165,9 +203,9 @@ jobs:
             await github.rest.issues.create({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              title: `[auto] 議員データ自動更新が失敗 (${today})`,
+              title: `[auto] 議会データ自動更新が失敗 (${today})`,
               body: [
-                '5議会データの自動更新ワークフローが失敗しました。',
+                '議会データの自動更新ワークフローが失敗しました。',
                 '',
                 `- 実行URL: ${runUrl}`,
                 `- 日付(UTC): ${today}`,

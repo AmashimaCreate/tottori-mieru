@@ -27,6 +27,7 @@ from scripts.adapters.members_cms_table import (  # noqa: E402
     parse_int_like,
 )
 from scripts.base import CouncilScraperBase  # noqa: E402
+from scripts.lib.member_contract import apply_member_contract  # noqa: E402
 
 
 @dataclass(frozen=True)
@@ -98,13 +99,32 @@ class DistrictAggregateProfileScraper(CouncilScraperBase):
 
         self.assert_min_count(members, self.config.min_count, "members")
         self.ensure_unique_ids(members)
-        return {
+        payload = {
             "council_id": self.config.council_id,
             "source_url": self.config.source_url,
             "acquisition": "scraping",
             "checks": checks,
             "members": members,
         }
+        teisu = int(checks.get("capacity_total") or checks.get("expected_members") or len(members))
+        vacancy_details = []
+        for district in checks.get("districts", []):
+            if int(district.get("vacancies", 0) or 0) > 0:
+                vacancy_details.append(
+                    {
+                        "district": district.get("district"),
+                        "ketsuin": district.get("vacancies"),
+                        "source_url": district.get("source_url"),
+                    }
+                )
+        apply_member_contract(
+            payload,
+            teisu=teisu,
+            vacancy_details=vacancy_details,
+            anchor_type="official_district_capacity",
+            notes=["選挙区別定数または公式地区一覧を件数検算アンカーとして使用"],
+        )
+        return payload
 
     def scrape_nagasaki(self) -> tuple[list[dict[str, Any]], dict[str, Any]]:
         source_soup = self.fetch(self.config.source_url)
