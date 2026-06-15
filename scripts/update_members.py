@@ -15,6 +15,10 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 MEMBER_SCRIPTS = [
     ("tottori-pref", "scripts/councils/tottori_pref.py"),
+    ("shimane-pref", "scripts/councils/shimane_pref.py"),
+    ("okayama-pref", "scripts/councils/okayama_pref.py"),
+    ("hiroshima-pref", "scripts/councils/hiroshima_pref.py"),
+    ("yamaguchi-pref", "scripts/councils/yamaguchi_pref.py"),
     ("kumamoto-pref", "scripts/councils/kumamoto_pref.py"),
     ("fukuoka-pref", "scripts/councils/fukuoka_pref.py"),
     ("miyazaki-pref", "scripts/councils/miyazaki_pref.py"),

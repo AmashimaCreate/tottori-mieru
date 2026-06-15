@@ -402,8 +402,21 @@
       "lg_code": "320005",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.shimane.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/tiku.html"
+        },
+        {
+          "label": "会議録検索",
+          "url": "https://www.pref.shimane.dbsr.jp/index.php/"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "okayama-pref",
@@ -414,8 +427,21 @@
       "lg_code": "330001",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.okayama.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.okayama.jp/site/gikai/03-04.html"
+        },
+        {
+          "label": "議会定数と選挙区",
+          "url": "https://www.pref.okayama.jp/site/gikai/556455.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "hiroshima-pref",
@@ -426,8 +452,21 @@
       "lg_code": "340006",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.hiroshima.lg.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+        },
+        {
+          "label": "正字一覧",
+          "url": "https://www.pref.hiroshima.lg.jp/site/gikai/seiji01.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "yamaguchi-pref",
@@ -438,8 +477,21 @@
       "lg_code": "350001",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.yamaguchi.lg.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+        },
+        {
+          "label": "会派別名簿",
+          "url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25264.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "tokushima-pref",

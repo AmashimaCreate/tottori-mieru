@@ -1,0 +1,676 @@
+{
+  "council_id": "shimane-pref",
+  "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/tiku.html",
+  "source_name": "島根県議会 議員名簿（選挙区別）",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "shimane-pref--fuku-da-masaaki",
+      "council_id": "shimane-pref",
+      "name": "福田正明",
+      "name_kana": "ふく だ まさあき",
+      "district": "松江",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 10,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin33_fukuda.html"
+    },
+    {
+      "id": "shimane-pref--ioga-wa-sumihisa",
+      "council_id": "shimane-pref",
+      "name": "五百川純寿",
+      "name_kana": "いおが わ すみひさ",
+      "district": "松江",
+      "faction": "自民党議員連盟",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin28_iogawa.html"
+    },
+    {
+      "id": "shimane-pref--omu-ra-toshinari",
+      "council_id": "shimane-pref",
+      "name": "尾村利成",
+      "name_kana": "おむ ら としなり",
+      "district": "松江",
+      "faction": "日本共産党島根県議団",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin10_omura.html"
+    },
+    {
+      "id": "shimane-pref--hakui-shi-keiko",
+      "council_id": "shimane-pref",
+      "name": "白石恵子",
+      "name_kana": "はくい し けいこ",
+      "district": "松江",
+      "faction": "民主県民クラブ",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin08_hakuishi.html"
+    },
+    {
+      "id": "shimane-pref--su-mi-tomoko",
+      "council_id": "shimane-pref",
+      "name": "角智子",
+      "name_kana": "す み ともこ",
+      "district": "松江",
+      "faction": "民主県民クラブ",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin05_sumi.html"
+    },
+    {
+      "id": "shimane-pref--iwa-ta-hirotaka",
+      "council_id": "shimane-pref",
+      "name": "岩田浩岳",
+      "name_kana": "いわ た ひろたか",
+      "district": "松江",
+      "faction": "民主県民クラブ",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "農林水産商工委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin01iwata.html"
+    },
+    {
+      "id": "shimane-pref--yoshi-no-kazuhiko",
+      "council_id": "shimane-pref",
+      "name": "吉野和彦",
+      "name_kana": "よし の かずひこ",
+      "district": "松江",
+      "faction": "公明党島根県議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農林水産商工委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin04_yoshino.html"
+    },
+    {
+      "id": "shimane-pref--no-tsu-naotsugu",
+      "council_id": "shimane-pref",
+      "name": "野津直嗣",
+      "name_kana": "の つ なおつぐ",
+      "district": "松江",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会",
+        "広報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin06_notsu.html"
+    },
+    {
+      "id": "shimane-pref--kawau-chi-daisuke",
+      "council_id": "shimane-pref",
+      "name": "河内大輔",
+      "name_kana": "かわう ち だいすけ",
+      "district": "松江",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境厚生委員会",
+        "広報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin03_kawauchi.html"
+    },
+    {
+      "id": "shimane-pref--nakamu-ra-jiyun",
+      "council_id": "shimane-pref",
+      "name": "中村絢",
+      "name_kana": "なかむ ら じゅん",
+      "district": "松江",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin01_nakamurajun.html"
+    },
+    {
+      "id": "shimane-pref--oo-ya-toshihiro",
+      "council_id": "shimane-pref",
+      "name": "大屋俊弘",
+      "name_kana": "おお や としひろ",
+      "district": "浜田",
+      "faction": "自民党議員連盟",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "農林水産商工委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin16_oya.html"
+    },
+    {
+      "id": "shimane-pref--suya-ma-takashi",
+      "council_id": "shimane-pref",
+      "name": "須山隆",
+      "name_kana": "すや ま たかし",
+      "district": "浜田",
+      "faction": "民主県民クラブ",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin02_suyama.html"
+    },
+    {
+      "id": "shimane-pref--okamo-to-jiyun",
+      "council_id": "shimane-pref",
+      "name": "岡本淳",
+      "name_kana": "おかも と じゅん",
+      "district": "浜田",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林水産商工委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin07_okamoto.html"
+    },
+    {
+      "id": "shimane-pref--naria-i-yasunobu",
+      "council_id": "shimane-pref",
+      "name": "成相安信",
+      "name_kana": "なりあ い やすのぶ",
+      "district": "出雲",
+      "faction": "会派に属しない",
+      "elected_count": 11,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin34_nariai.html"
+    },
+    {
+      "id": "shimane-pref--sonoya-ma-shigeru",
+      "council_id": "shimane-pref",
+      "name": "園山繁",
+      "name_kana": "そのや ま しげる",
+      "district": "出雲",
+      "faction": "自民党議員連盟",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "農林水産商工委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin11_sonoyama.html"
+    },
+    {
+      "id": "shimane-pref--ike-da-hajime",
+      "council_id": "shimane-pref",
+      "name": "池田一",
+      "name_kana": "いけ だ はじめ",
+      "district": "出雲",
+      "faction": "自民党議員連盟",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin21_ikeda.html"
+    },
+    {
+      "id": "shimane-pref--oogu-ni-yousuke",
+      "council_id": "shimane-pref",
+      "name": "大国陽介",
+      "name_kana": "おおぐ に ようすけ",
+      "district": "出雲",
+      "faction": "日本共産党島根県議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin02_ooguni.html"
+    },
+    {
+      "id": "shimane-pref--tata-no-tsuyoto",
+      "council_id": "shimane-pref",
+      "name": "多々納剛人",
+      "name_kana": "たた の つよと",
+      "district": "出雲",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin04_tatano.html"
+    },
+    {
+      "id": "shimane-pref--ha-ra-takuya",
+      "council_id": "shimane-pref",
+      "name": "原拓也",
+      "name_kana": "は ら たくや",
+      "district": "出雲",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産商工委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin02_hara.html"
+    },
+    {
+      "id": "shimane-pref--ki-shi-michizou",
+      "council_id": "shimane-pref",
+      "name": "岸道三",
+      "name_kana": "き し みちぞう",
+      "district": "出雲",
+      "faction": "民主県民クラブ",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境厚生委員会",
+        "議会運営委員会",
+        "広報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin08_kishi.html"
+    },
+    {
+      "id": "shimane-pref--okaza-ki-ayako",
+      "council_id": "shimane-pref",
+      "name": "岡崎綾子",
+      "name_kana": "おかざ き あやこ",
+      "district": "出雲",
+      "faction": "公明党島根県議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin05_okazaki.html"
+    },
+    {
+      "id": "shimane-pref--moriya-ma-yuusuke",
+      "council_id": "shimane-pref",
+      "name": "森山裕介",
+      "name_kana": "もりや ま ゆうすけ",
+      "district": "出雲",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin02_moriyama.html"
+    },
+    {
+      "id": "shimane-pref--nakashi-ma-kenji",
+      "council_id": "shimane-pref",
+      "name": "中島謙二",
+      "name_kana": "なかし ま けんじ",
+      "district": "益田",
+      "faction": null,
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "広報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin04_nakajima.html"
+    },
+    {
+      "id": "shimane-pref--member-31ff5b03",
+      "council_id": "shimane-pref",
+      "name": "久城恵治",
+      "name_kana": null,
+      "district": "益田",
+      "faction": null,
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会",
+        "議会運営委員会",
+        "広報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin09_kushiro.html"
+    },
+    {
+      "id": "shimane-pref--ogo-shi-shiyunichi",
+      "council_id": "shimane-pref",
+      "name": "生越俊一",
+      "name_kana": "おご し しゅんいち",
+      "district": "大田",
+      "faction": "自民党議員連盟",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin03ogosi.html"
+    },
+    {
+      "id": "shimane-pref--naito-u-yoshihide",
+      "council_id": "shimane-pref",
+      "name": "内藤芳秀",
+      "name_kana": "ないと う よしひで",
+      "district": "大田",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産商工委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin06_naitou.html"
+    },
+    {
+      "id": "shimane-pref--kamo-to-yuuichi",
+      "council_id": "shimane-pref",
+      "name": "嘉本祐一",
+      "name_kana": "かも と ゆういち",
+      "district": "安来",
+      "faction": "自民党ネクスト島根",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin10_kamoto.html"
+    },
+    {
+      "id": "shimane-pref--tana-ka-akemi",
+      "council_id": "shimane-pref",
+      "name": "田中明美",
+      "name_kana": "たな か あけみ",
+      "district": "安来",
+      "faction": "自民党議員連盟",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin09_tanaka-akemi.html"
+    },
+    {
+      "id": "shimane-pref--tsubou-chi-riyouji",
+      "council_id": "shimane-pref",
+      "name": "坪内涼二",
+      "name_kana": "つぼう ち りょうじ",
+      "district": "江津",
+      "faction": "自民党議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境厚生委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin01_tsubouti.html"
+    },
+    {
+      "id": "shimane-pref--member-7c40b0b2",
+      "council_id": "shimane-pref",
+      "name": "山根成二",
+      "name_kana": null,
+      "district": "雲南・飯石",
+      "faction": null,
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "【議長】"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin05yamane.html"
+    },
+    {
+      "id": "shimane-pref--member-e2c9690b",
+      "council_id": "shimane-pref",
+      "name": "高橋雅彦",
+      "name_kana": null,
+      "district": "雲南・飯石",
+      "faction": null,
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農林水産商工委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin08_takahashi.html"
+    },
+    {
+      "id": "shimane-pref--itoha-ra-tokuyasu",
+      "council_id": "shimane-pref",
+      "name": "絲原徳康",
+      "name_kana": "いとは ら とくやす",
+      "district": "仁多",
+      "faction": "自民党議員連盟",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "防災地域建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin20_itohara.html"
+    },
+    {
+      "id": "shimane-pref--fuku-i-tatsuo",
+      "council_id": "shimane-pref",
+      "name": "福井竜夫",
+      "name_kana": "ふく い たつお",
+      "district": "邑智",
+      "faction": "自民党議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "広報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin03_fukui.html"
+    },
+    {
+      "id": "shimane-pref--nakamu-ra-yoshinobu",
+      "council_id": "shimane-pref",
+      "name": "中村芳信",
+      "name_kana": "なかむ ら よしのぶ",
+      "district": "鹿足",
+      "faction": "自民党議員連盟",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "環境厚生委員会",
+        "http://nakamura-yoshinobu.jp/"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin15_nakamura.html"
+    },
+    {
+      "id": "shimane-pref--member-bb1173d7",
+      "council_id": "shimane-pref",
+      "name": "吉田雅紀",
+      "name_kana": null,
+      "district": "隠岐",
+      "faction": "自民党議員連盟",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "【副議長】",
+        "環境厚生委員会",
+        "広報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin12_yoshida.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "district_pages_with_profile_allowlist",
+    "capacity_source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/tiku.data/r5_senkyoku2.jpg",
+    "district_count": 12,
+    "expected_district_count": 12,
+    "capacity_total": 36,
+    "vacancies": 1,
+    "expected_current_members": 35,
+    "parsed_members": 35,
+    "districts": [
+      {
+        "district": "松江",
+        "capacity": 11,
+        "members": 10,
+        "vacancies": 1,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/matsue.html"
+      },
+      {
+        "district": "浜田",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/hamada.html"
+      },
+      {
+        "district": "出雲",
+        "capacity": 9,
+        "members": 9,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/izumo.html"
+      },
+      {
+        "district": "益田",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/masuda.html"
+      },
+      {
+        "district": "大田",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/ooda.html"
+      },
+      {
+        "district": "安来",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/yasugi.html"
+      },
+      {
+        "district": "江津",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/goutu.html"
+      },
+      {
+        "district": "雲南・飯石",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/unnan.html"
+      },
+      {
+        "district": "仁多",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/nita.html"
+      },
+      {
+        "district": "邑智",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/outi.html"
+      },
+      {
+        "district": "鹿足",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/kanoashi.html"
+      },
+      {
+        "district": "隠岐",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/oki.html"
+      }
+    ],
+    "notes": [
+      "選挙区別インデックスから12選挙区リンクを追従",
+      "写真altは氏名取得に使わず、氏名はリンクテキストから取得",
+      "個別プロフィールは当選回数と所属委員会のみ許可リストで取得",
+      "区別定数は公式ページ上の画像掲載のため、画像由来の定数表で件数検算",
+      "公式画像では松江は定数11・現員10。島根県全体は定数36・現員35として記録",
+      "写真は取得せず、photo_urlは全員null",
+      "公式の選挙区ごとの定数画像を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_district_capacity_image",
+    "anchor_source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/tiku.data/r5_senkyoku2.jpg",
+    "source_basis_date": "選挙区別名簿 公式基準日記載なし / 選挙区ごとの定数画像 r5_senkyoku2.jpg",
+    "last_verified": "2026-06-15",
+    "teisu": 36,
+    "genin": 35,
+    "ketsuin": 1,
+    "vacancy_details": [
+      {
+        "district": "松江",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/tiku.data/r5_senkyoku2.jpg"
+      }
+    ]
+  },
+  "source_basis_date": "選挙区別名簿 公式基準日記載なし / 選挙区ごとの定数画像 r5_senkyoku2.jpg",
+  "last_verified": "2026-06-15",
+  "teisu": 36,
+  "genin": 35,
+  "ketsuin": 1,
+  "updated_at": "2026-06-15T09:03:22+00:00"
+}

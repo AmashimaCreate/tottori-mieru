@@ -1,0 +1,903 @@
+{
+  "council_id": "yamaguchi-pref",
+  "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html",
+  "source_name": "山口県議会 議員名簿",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "yamaguchi-pref--shiomitsu-hisao",
+      "council_id": "yamaguchi-pref",
+      "name": "塩満久雄",
+      "name_kana": "しおみつ ひさお",
+      "district": "下関市",
+      "faction": "自由民主党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "土木建築委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25276.html"
+    },
+    {
+      "id": "yamaguchi-pref--ki-sa-ki-daisuke",
+      "council_id": "yamaguchi-pref",
+      "name": "木佐木大助",
+      "name_kana": "き さ き だいすけ",
+      "district": "下関市",
+      "faction": "日本共産党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "産業観光委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25278.html"
+    },
+    {
+      "id": "yamaguchi-pref--tomoda-tamotsu",
+      "council_id": "yamaguchi-pref",
+      "name": "友田有",
+      "name_kana": "ともだ たもつ",
+      "district": "下関市",
+      "faction": "自由民主党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25280.html"
+    },
+    {
+      "id": "yamaguchi-pref--takase-toshiya",
+      "council_id": "yamaguchi-pref",
+      "name": "髙瀬利也",
+      "name_kana": "たかせ としや",
+      "district": "下関市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25303.html"
+    },
+    {
+      "id": "yamaguchi-pref--maehigashi-naoki",
+      "council_id": "yamaguchi-pref",
+      "name": "前東直樹",
+      "name_kana": "まえひがし なおき",
+      "district": "下関市",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "産業観光委員会",
+        "議会運営委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/205995.html"
+    },
+    {
+      "id": "yamaguchi-pref--sakamoto-tetsuya",
+      "council_id": "yamaguchi-pref",
+      "name": "酒本哲也",
+      "name_kana": "さかもと てつや",
+      "district": "下関市",
+      "faction": "やまぐち県政会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "産業観光委員会",
+        "議会運営委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25311.html"
+    },
+    {
+      "id": "yamaguchi-pref--hiraoka-nozomu",
+      "council_id": "yamaguchi-pref",
+      "name": "平岡望",
+      "name_kana": "ひらおか のぞむ",
+      "district": "下関市",
+      "faction": "未来創政の会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "産業観光委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25301.html"
+    },
+    {
+      "id": "yamaguchi-pref--hayashi-naoto",
+      "council_id": "yamaguchi-pref",
+      "name": "林直人",
+      "name_kana": "はやし なおと",
+      "district": "下関市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "議会運営委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206002.html"
+    },
+    {
+      "id": "yamaguchi-pref--nishimoto-kenjirou",
+      "council_id": "yamaguchi-pref",
+      "name": "西本健治郎",
+      "name_kana": "にしもと けんじろう",
+      "district": "下関市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "議会運営委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25306.html"
+    },
+    {
+      "id": "yamaguchi-pref--member-deb22cf2",
+      "council_id": "yamaguchi-pref",
+      "name": "二木健治",
+      "name_kana": null,
+      "district": "宇部市",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25282.html"
+    },
+    {
+      "id": "yamaguchi-pref--fujimoto-kazunori",
+      "council_id": "yamaguchi-pref",
+      "name": "藤本一規",
+      "name_kana": "ふじもと かずのり",
+      "district": "宇部市",
+      "faction": "日本共産党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "議会運営委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25283.html"
+    },
+    {
+      "id": "yamaguchi-pref--takai-tomoko",
+      "council_id": "yamaguchi-pref",
+      "name": "高井智子",
+      "name_kana": "たかい ともこ",
+      "district": "宇部市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "産業観光委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/132677.html"
+    },
+    {
+      "id": "yamaguchi-pref--ujihara-hideki",
+      "council_id": "yamaguchi-pref",
+      "name": "氏原秀城",
+      "name_kana": "うじはら ひでき",
+      "district": "宇部市",
+      "faction": "やまぐち県政会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206008.html"
+    },
+    {
+      "id": "yamaguchi-pref--naono-suguru",
+      "council_id": "yamaguchi-pref",
+      "name": "猶野克",
+      "name_kana": "なおの すぐる",
+      "district": "宇部市",
+      "faction": "公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25313.html"
+    },
+    {
+      "id": "yamaguchi-pref--goushi-eiichi",
+      "council_id": "yamaguchi-pref",
+      "name": "合志栄一",
+      "name_kana": "ごうし えいいち",
+      "district": "山口市",
+      "faction": "新政クラブ",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "土木建築委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25285.html"
+    },
+    {
+      "id": "yamaguchi-pref--odamura-katsuhiko",
+      "council_id": "yamaguchi-pref",
+      "name": "小田村克彦",
+      "name_kana": "おだむら かつひこ",
+      "district": "山口市",
+      "faction": "やまぐち県政会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25314.html"
+    },
+    {
+      "id": "yamaguchi-pref--kawai-kiyo",
+      "council_id": "yamaguchi-pref",
+      "name": "河合喜代",
+      "name_kana": "かわい きよ",
+      "district": "山口市",
+      "faction": "日本共産党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206013.html"
+    },
+    {
+      "id": "yamaguchi-pref--so-ta-satoshi",
+      "council_id": "yamaguchi-pref",
+      "name": "曽田聡",
+      "name_kana": "そ た さとし",
+      "district": "山口市",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25281.html"
+    },
+    {
+      "id": "yamaguchi-pref--yoshida-mitsuhiro",
+      "council_id": "yamaguchi-pref",
+      "name": "吉田充宏",
+      "name_kana": "よしだ みつひろ",
+      "district": "山口市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25286.html"
+    },
+    {
+      "id": "yamaguchi-pref--fujio-osamu",
+      "council_id": "yamaguchi-pref",
+      "name": "藤生宰",
+      "name_kana": "ふじお おさむ",
+      "district": "山口市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "土木建築委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206014.html"
+    },
+    {
+      "id": "yamaguchi-pref--oka-takako",
+      "council_id": "yamaguchi-pref",
+      "name": "岡生子",
+      "name_kana": "おか たかこ",
+      "district": "萩市・阿武町",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "議会運営委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/127752.html"
+    },
+    {
+      "id": "yamaguchi-pref--sasamura-naoya",
+      "council_id": "yamaguchi-pref",
+      "name": "笹村直也",
+      "name_kana": "ささむら なおや",
+      "district": "萩市・阿武町",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206025.html"
+    },
+    {
+      "id": "yamaguchi-pref--shimata-noriaki",
+      "council_id": "yamaguchi-pref",
+      "name": "島田教明",
+      "name_kana": "しまた のりあき",
+      "district": "防府市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25288.html"
+    },
+    {
+      "id": "yamaguchi-pref--ishimaru-noriko",
+      "council_id": "yamaguchi-pref",
+      "name": "石丸典子",
+      "name_kana": "いしまる のりこ",
+      "district": "防府市",
+      "faction": "公明党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25289.html"
+    },
+    {
+      "id": "yamaguchi-pref--matsuura-tamon",
+      "council_id": "yamaguchi-pref",
+      "name": "松浦多紋",
+      "name_kana": "まつうら たもん",
+      "district": "防府市",
+      "faction": "県民の誇りを育む会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "土木建築委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25315.html"
+    },
+    {
+      "id": "yamaguchi-pref--ushimi-wataru",
+      "council_id": "yamaguchi-pref",
+      "name": "牛見航",
+      "name_kana": "うしみ わたる",
+      "district": "防府市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "産業観光委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206030.html"
+    },
+    {
+      "id": "yamaguchi-pref--morita-muneharu",
+      "council_id": "yamaguchi-pref",
+      "name": "守田宗治",
+      "name_kana": "もりた むねはる",
+      "district": "下松市",
+      "faction": "自由民主党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "産業観光委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25291.html"
+    },
+    {
+      "id": "yamaguchi-pref--morishige-tetsuya",
+      "council_id": "yamaguchi-pref",
+      "name": "森繁哲也",
+      "name_kana": "もりしげ てつや",
+      "district": "下松市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "土木建築委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25309.html"
+    },
+    {
+      "id": "yamaguchi-pref--makimoto-toshimitsu",
+      "council_id": "yamaguchi-pref",
+      "name": "槙本利光",
+      "name_kana": "まきもと としみつ",
+      "district": "岩国市・和木町",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25292.html"
+    },
+    {
+      "id": "yamaguchi-pref--ihara-su-ga-ko",
+      "council_id": "yamaguchi-pref",
+      "name": "井原寿加子",
+      "name_kana": "いはら す が こ",
+      "district": "岩国市・和木町",
+      "faction": "草の根",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25293.html"
+    },
+    {
+      "id": "yamaguchi-pref--hashimoto-naomichi",
+      "council_id": "yamaguchi-pref",
+      "name": "橋本尚理",
+      "name_kana": "はしもと なおみち",
+      "district": "岩国市・和木町",
+      "faction": "自由民主党新生会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25294.html"
+    },
+    {
+      "id": "yamaguchi-pref--yamate-yasuhiro",
+      "council_id": "yamaguchi-pref",
+      "name": "山手康弘",
+      "name_kana": "やまて やすひろ",
+      "district": "岩国市・和木町",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25305.html"
+    },
+    {
+      "id": "yamaguchi-pref--hatahara-yuuta",
+      "council_id": "yamaguchi-pref",
+      "name": "畑原勇太",
+      "name_kana": "はたはら ゆうた",
+      "district": "岩国市・和木町",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25310.html"
+    },
+    {
+      "id": "yamaguchi-pref--isobe-to-shi-e",
+      "council_id": "yamaguchi-pref",
+      "name": "磯部登志恵",
+      "name_kana": "いそべ と し え",
+      "district": "光市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/127675.html"
+    },
+    {
+      "id": "yamaguchi-pref--kawano-tooru",
+      "council_id": "yamaguchi-pref",
+      "name": "河野亨",
+      "name_kana": "かわの とおる",
+      "district": "光市",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25295.html"
+    },
+    {
+      "id": "yamaguchi-pref--kasamoto-toshiya",
+      "council_id": "yamaguchi-pref",
+      "name": "笠本俊也",
+      "name_kana": "かさもと としや",
+      "district": "長門市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25296.html"
+    },
+    {
+      "id": "yamaguchi-pref--yamagata-takashi",
+      "council_id": "yamaguchi-pref",
+      "name": "山縣孝司",
+      "name_kana": "やまがた たかし",
+      "district": "柳井市",
+      "faction": "無所属の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/339100.html"
+    },
+    {
+      "id": "yamaguchi-pref--nakamoto-yoshihiro",
+      "council_id": "yamaguchi-pref",
+      "name": "中本喜弘",
+      "name_kana": "なかもと よしひろ",
+      "district": "美祢市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "土木建築委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206036.html"
+    },
+    {
+      "id": "yamaguchi-pref--tomohiro-iwao",
+      "council_id": "yamaguchi-pref",
+      "name": "友広巌",
+      "name_kana": "ともひろ いわお",
+      "district": "周南市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "産業観光委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25298.html"
+    },
+    {
+      "id": "yamaguchi-pref--ueoka-yasuhiko",
+      "council_id": "yamaguchi-pref",
+      "name": "上岡康彦",
+      "name_kana": "うえおか やすひこ",
+      "district": "周南市",
+      "faction": "公明党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25300.html"
+    },
+    {
+      "id": "yamaguchi-pref--sakamoto-shinji",
+      "council_id": "yamaguchi-pref",
+      "name": "坂本心次",
+      "name_kana": "さかもと しんじ",
+      "district": "周南市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25317.html"
+    },
+    {
+      "id": "yamaguchi-pref--oouchi-kazuya",
+      "council_id": "yamaguchi-pref",
+      "name": "大内一也",
+      "name_kana": "おおうち かずや",
+      "district": "周南市",
+      "faction": "やまぐち県政会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206037.html"
+    },
+    {
+      "id": "yamaguchi-pref--fukuda-rieko",
+      "council_id": "yamaguchi-pref",
+      "name": "福田吏江子",
+      "name_kana": "ふくだ りえこ",
+      "district": "周南市",
+      "faction": "すずらんの会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "若者・女性に選ばれる地域社会づくり特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206045.html"
+    },
+    {
+      "id": "yamaguchi-pref--nakashima-mitsuo",
+      "council_id": "yamaguchi-pref",
+      "name": "中嶋光雄",
+      "name_kana": "なかしま みつお",
+      "district": "山陽小野田市",
+      "faction": "社民党・市民連合",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "土木建築委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25308.html"
+    },
+    {
+      "id": "yamaguchi-pref--emoto-ikuo",
+      "council_id": "yamaguchi-pref",
+      "name": "江本郁夫",
+      "name_kana": "えもと いくお",
+      "district": "山陽小野田市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25302.html"
+    },
+    {
+      "id": "yamaguchi-pref--yanai-shiyungaku",
+      "council_id": "yamaguchi-pref",
+      "name": "柳居俊学",
+      "name_kana": "やない しゅんがく",
+      "district": "周防大島町",
+      "faction": "自由民主党",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "文教警察委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25275.html"
+    },
+    {
+      "id": "yamaguchi-pref--kunimoto-takuya",
+      "council_id": "yamaguchi-pref",
+      "name": "国本卓也",
+      "name_kana": "くにもと たくや",
+      "district": "上関町・田布施町・平生町",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "議会運営委員会",
+        "脱炭素社会における産業競争力強化特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25318.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "single_page_rowspan_table_with_faction_join",
+    "faction_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25264.html",
+    "district_count": 15,
+    "capacity_total": 47,
+    "vacancies": 0,
+    "expected_current_members": 47,
+    "parsed_members": 47,
+    "faction_counts": {
+      "自由民主党": 27,
+      "公明党": 5,
+      "やまぐち県政会": 4,
+      "日本共産党": 3,
+      "自由民主党新生会": 1,
+      "社民党・市民連合": 1,
+      "新政クラブ": 1,
+      "草の根": 1,
+      "県民の誇りを育む会": 1,
+      "すずらんの会": 1,
+      "未来創政の会": 1,
+      "無所属の会": 1
+    },
+    "districts": [
+      {
+        "district": "下関市",
+        "capacity": 9,
+        "members": 9,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "宇部市",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "山口市",
+        "capacity": 6,
+        "members": 6,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "萩市・阿武町",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "防府市",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "下松市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "岩国市・和木町",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "光市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "長門市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "柳井市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "美祢市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "周南市",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "山陽小野田市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "周防大島町",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      },
+      {
+        "district": "上関町・田布施町・平生町",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html"
+      }
+    ],
+    "notes": [
+      "議員名簿の選挙区・定数をrowspan展開し、会派別名簿をプロフィールURLキーで結合",
+      "公式ページ実物では柳井市は定数1・現員1のため欠員なし",
+      "個別プロフィールはふりがな・当選回数・所属委員会のみ許可リストで取得",
+      "写真は取得せず、photo_urlは全員null",
+      "選挙区別定数列を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html",
+    "source_basis_date": "議員名簿 更新日: 2026年4月21日 / 会派別 令和8年3月10日現在",
+    "last_verified": "2026-06-15",
+    "teisu": 47,
+    "genin": 47,
+    "ketsuin": 0,
+    "vacancy_details": []
+  },
+  "source_basis_date": "議員名簿 更新日: 2026年4月21日 / 会派別 令和8年3月10日現在",
+  "last_verified": "2026-06-15",
+  "teisu": 47,
+  "genin": 47,
+  "ketsuin": 0,
+  "updated_at": "2026-06-15T09:11:01+00:00"
+}

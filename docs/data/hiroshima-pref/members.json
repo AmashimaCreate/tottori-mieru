@@ -1,0 +1,1214 @@
+{
+  "council_id": "hiroshima-pref",
+  "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html",
+  "source_name": "広島県議会 議員名簿",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "hiroshima-pref--member-386f6cf6",
+      "council_id": "hiroshima-pref",
+      "name": "林大蔵",
+      "name_kana": null,
+      "district": "広島市中区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-hayashi.html"
+    },
+    {
+      "id": "hiroshima-pref--member-bc76bf07",
+      "council_id": "hiroshima-pref",
+      "name": "蔵本健",
+      "name_kana": null,
+      "district": "広島市中区",
+      "faction": "無所属ひとわ",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kuramoto.html"
+    },
+    {
+      "id": "hiroshima-pref--member-b3d19141",
+      "council_id": "hiroshima-pref",
+      "name": "井上謙一郎",
+      "name_kana": null,
+      "district": "広島市中区",
+      "faction": "公明党広島県議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-inoue.html"
+    },
+    {
+      "id": "hiroshima-pref--member-54c8f68e",
+      "council_id": "hiroshima-pref",
+      "name": "緒方直之",
+      "name_kana": null,
+      "district": "広島市東区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-ogata.html"
+    },
+    {
+      "id": "hiroshima-pref--member-30fb8cbf",
+      "council_id": "hiroshima-pref",
+      "name": "畑石顕司",
+      "name_kana": null,
+      "district": "広島市東区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-hataishi.html"
+    },
+    {
+      "id": "hiroshima-pref--member-d8df0887",
+      "council_id": "hiroshima-pref",
+      "name": "柿本忠則",
+      "name_kana": null,
+      "district": "広島市東区",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kakimoto.html"
+    },
+    {
+      "id": "hiroshima-pref--member-56d26261",
+      "council_id": "hiroshima-pref",
+      "name": "中本隆志",
+      "name_kana": null,
+      "district": "広島市南区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-nakamoto.html"
+    },
+    {
+      "id": "hiroshima-pref--member-178adea0",
+      "council_id": "hiroshima-pref",
+      "name": "中原好治",
+      "name_kana": null,
+      "district": "広島市南区",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-nakahara.html"
+    },
+    {
+      "id": "hiroshima-pref--member-bb85b5d0",
+      "council_id": "hiroshima-pref",
+      "name": "窪田泰久",
+      "name_kana": null,
+      "district": "広島市南区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kubota.html"
+    },
+    {
+      "id": "hiroshima-pref--member-68e7d7d8",
+      "council_id": "hiroshima-pref",
+      "name": "福知基弘",
+      "name_kana": null,
+      "district": "広島市西区",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-fukuchi.html"
+    },
+    {
+      "id": "hiroshima-pref--member-37d30b27",
+      "council_id": "hiroshima-pref",
+      "name": "山木茂",
+      "name_kana": null,
+      "district": "広島市西区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-yamaki.html"
+    },
+    {
+      "id": "hiroshima-pref--member-f66582cc",
+      "council_id": "hiroshima-pref",
+      "name": "岡部千鶴",
+      "name_kana": null,
+      "district": "広島市西区",
+      "faction": "公明党広島県議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-okabe.html"
+    },
+    {
+      "id": "hiroshima-pref--member-40038813",
+      "council_id": "hiroshima-pref",
+      "name": "砂原崇弘",
+      "name_kana": null,
+      "district": "広島市西区",
+      "faction": "義友会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-sunahara.html"
+    },
+    {
+      "id": "hiroshima-pref--member-64526690",
+      "council_id": "hiroshima-pref",
+      "name": "栗原俊二",
+      "name_kana": null,
+      "district": "広島市安佐南区",
+      "faction": "公明党広島県議会議員団",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kurihara.html"
+    },
+    {
+      "id": "hiroshima-pref--member-7f047ebd",
+      "council_id": "hiroshima-pref",
+      "name": "鷹廣純",
+      "name_kana": null,
+      "district": "広島市安佐南区",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-takahiro.html"
+    },
+    {
+      "id": "hiroshima-pref--member-ee531c3e",
+      "council_id": "hiroshima-pref",
+      "name": "竹原哲",
+      "name_kana": null,
+      "district": "広島市安佐南区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-takehara.html"
+    },
+    {
+      "id": "hiroshima-pref--member-7c8f725e",
+      "council_id": "hiroshima-pref",
+      "name": "灰岡香奈",
+      "name_kana": null,
+      "district": "広島市安佐南区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-haioka.html"
+    },
+    {
+      "id": "hiroshima-pref--member-f3c26151",
+      "council_id": "hiroshima-pref",
+      "name": "藤井敏子",
+      "name_kana": null,
+      "district": "広島市安佐南区",
+      "faction": "日本共産党広島県議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-hujii.html"
+    },
+    {
+      "id": "hiroshima-pref--member-99686e96",
+      "council_id": "hiroshima-pref",
+      "name": "東保幸",
+      "name_kana": null,
+      "district": "広島市安佐北区",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-higashi.html"
+    },
+    {
+      "id": "hiroshima-pref--member-c3e7706a",
+      "council_id": "hiroshima-pref",
+      "name": "山形しのぶ",
+      "name_kana": null,
+      "district": "広島市安佐北区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-yamagata.html"
+    },
+    {
+      "id": "hiroshima-pref--member-1967e11d",
+      "council_id": "hiroshima-pref",
+      "name": "水口弘士",
+      "name_kana": null,
+      "district": "広島市安佐北区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-mizuguti.html"
+    },
+    {
+      "id": "hiroshima-pref--member-93aa8c57",
+      "council_id": "hiroshima-pref",
+      "name": "檜山俊宏",
+      "name_kana": null,
+      "district": "広島市安芸区",
+      "faction": "自由民主党広島県議会議員会",
+      "elected_count": 12,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-hiyama.html"
+    },
+    {
+      "id": "hiroshima-pref--member-a6a262bd",
+      "council_id": "hiroshima-pref",
+      "name": "上野寛治",
+      "name_kana": null,
+      "district": "広島市安芸区",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-ueno.html"
+    },
+    {
+      "id": "hiroshima-pref--member-fa5bca65",
+      "council_id": "hiroshima-pref",
+      "name": "冨永健三",
+      "name_kana": null,
+      "district": "広島市佐伯区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-tominaga.html"
+    },
+    {
+      "id": "hiroshima-pref--member-553b076d",
+      "council_id": "hiroshima-pref",
+      "name": "宮崎康則",
+      "name_kana": null,
+      "district": "広島市佐伯区",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-miyazaki.html"
+    },
+    {
+      "id": "hiroshima-pref--member-8c66829f",
+      "council_id": "hiroshima-pref",
+      "name": "瀧本実",
+      "name_kana": null,
+      "district": "広島市佐伯区",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-takimoto.html"
+    },
+    {
+      "id": "hiroshima-pref--member-1dce9ccf",
+      "council_id": "hiroshima-pref",
+      "name": "城戸常太",
+      "name_kana": null,
+      "district": "呉市",
+      "faction": "自由民主党広島県議会広志会",
+      "elected_count": 10,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kido.html"
+    },
+    {
+      "id": "hiroshima-pref--member-01430bd7",
+      "council_id": "hiroshima-pref",
+      "name": "犬童英徳",
+      "name_kana": null,
+      "district": "呉市",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-inudou.html"
+    },
+    {
+      "id": "hiroshima-pref--member-4389b2c3",
+      "council_id": "hiroshima-pref",
+      "name": "坪川竜大",
+      "name_kana": null,
+      "district": "呉市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-tubokawa.html"
+    },
+    {
+      "id": "hiroshima-pref--member-6c3d053b",
+      "council_id": "hiroshima-pref",
+      "name": "神田隆彦",
+      "name_kana": null,
+      "district": "呉市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kanda.html"
+    },
+    {
+      "id": "hiroshima-pref--member-f323a193",
+      "council_id": "hiroshima-pref",
+      "name": "相澤孝",
+      "name_kana": null,
+      "district": "呉市",
+      "faction": "公明党広島県議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-aizawa.html"
+    },
+    {
+      "id": "hiroshima-pref--member-920f715a",
+      "council_id": "hiroshima-pref",
+      "name": "森川家忠",
+      "name_kana": null,
+      "district": "竹原市・豊田郡",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-morikawa.html"
+    },
+    {
+      "id": "hiroshima-pref--member-9a0fe767",
+      "council_id": "hiroshima-pref",
+      "name": "桑木良典",
+      "name_kana": null,
+      "district": "三原市・世羅郡",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kuwaki.html"
+    },
+    {
+      "id": "hiroshima-pref--member-7bdafb65",
+      "council_id": "hiroshima-pref",
+      "name": "伊藤英治",
+      "name_kana": null,
+      "district": "三原市・世羅郡",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-itoueiji.html"
+    },
+    {
+      "id": "hiroshima-pref--member-173781ab",
+      "council_id": "hiroshima-pref",
+      "name": "八幡原圭",
+      "name_kana": null,
+      "district": "三原市・世羅郡",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-yahatabara.html"
+    },
+    {
+      "id": "hiroshima-pref--member-1b155252",
+      "council_id": "hiroshima-pref",
+      "name": "金口巖",
+      "name_kana": null,
+      "district": "尾道市",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kanakuchi.html"
+    },
+    {
+      "id": "hiroshima-pref--member-39a6b801",
+      "council_id": "hiroshima-pref",
+      "name": "吉井清介",
+      "name_kana": null,
+      "district": "尾道市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-yoshii.html"
+    },
+    {
+      "id": "hiroshima-pref--member-9a581143",
+      "council_id": "hiroshima-pref",
+      "name": "岡野斉也",
+      "name_kana": null,
+      "district": "尾道市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-okano.html"
+    },
+    {
+      "id": "hiroshima-pref--member-ab87182d",
+      "council_id": "hiroshima-pref",
+      "name": "宇田伸",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 11,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-uda.html"
+    },
+    {
+      "id": "hiroshima-pref--member-bfdb939e",
+      "council_id": "hiroshima-pref",
+      "name": "松岡宏道",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-matsuoka.html"
+    },
+    {
+      "id": "hiroshima-pref--member-d529a189",
+      "council_id": "hiroshima-pref",
+      "name": "尾熊良一",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "公明党広島県議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-oguma.html"
+    },
+    {
+      "id": "hiroshima-pref--member-dbdc7306",
+      "council_id": "hiroshima-pref",
+      "name": "三好良治",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-miyoshi.html"
+    },
+    {
+      "id": "hiroshima-pref--member-f6eb7ea0",
+      "council_id": "hiroshima-pref",
+      "name": "石津正啓",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "公明党広島県議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-ishidu.html"
+    },
+    {
+      "id": "hiroshima-pref--member-441d92c3",
+      "council_id": "hiroshima-pref",
+      "name": "的場豊",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-matoba.html"
+    },
+    {
+      "id": "hiroshima-pref--member-7aeca275",
+      "council_id": "hiroshima-pref",
+      "name": "出原昌直",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-idehara.html"
+    },
+    {
+      "id": "hiroshima-pref--member-b548df65",
+      "council_id": "hiroshima-pref",
+      "name": "稲葉潔",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-inaba.html"
+    },
+    {
+      "id": "hiroshima-pref--member-a7a0fe47",
+      "council_id": "hiroshima-pref",
+      "name": "村上栄二",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "ひろしま、刷新。",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-murakami.html"
+    },
+    {
+      "id": "hiroshima-pref--member-2395b0cd",
+      "council_id": "hiroshima-pref",
+      "name": "河村晃子",
+      "name_kana": null,
+      "district": "福山市",
+      "faction": "日本共産党広島県議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kawamura.html"
+    },
+    {
+      "id": "hiroshima-pref--member-ea00916c",
+      "council_id": "hiroshima-pref",
+      "name": "加納孝彦",
+      "name_kana": null,
+      "district": "府中市・神石郡",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kanou.html"
+    },
+    {
+      "id": "hiroshima-pref--member-f696fa88",
+      "council_id": "hiroshima-pref",
+      "name": "下森宏昭",
+      "name_kana": null,
+      "district": "三次市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-shimomori.html"
+    },
+    {
+      "id": "hiroshima-pref--member-3f614853",
+      "council_id": "hiroshima-pref",
+      "name": "小林秀矩",
+      "name_kana": null,
+      "district": "庄原市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-kobayashi.html"
+    },
+    {
+      "id": "hiroshima-pref--member-cc4c6e6f",
+      "council_id": "hiroshima-pref",
+      "name": "狭戸尾浩",
+      "name_kana": null,
+      "district": "大竹市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-sematoo.html"
+    },
+    {
+      "id": "hiroshima-pref--member-a90b1ffb",
+      "council_id": "hiroshima-pref",
+      "name": "井原修",
+      "name_kana": null,
+      "district": "東広島市",
+      "faction": "自由民主党広島県議会広志会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-ihara.html"
+    },
+    {
+      "id": "hiroshima-pref--member-6dea0878",
+      "council_id": "hiroshima-pref",
+      "name": "西本博之",
+      "name_kana": null,
+      "district": "東広島市",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "若者減少・少子化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-nishimoto.html"
+    },
+    {
+      "id": "hiroshima-pref--member-e60efcde",
+      "council_id": "hiroshima-pref",
+      "name": "恵飛須圭二",
+      "name_kana": null,
+      "district": "東広島市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会",
+        "国際平和・観光振興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-ebisu.html"
+    },
+    {
+      "id": "hiroshima-pref--member-9abda5e9",
+      "council_id": "hiroshima-pref",
+      "name": "山下守",
+      "name_kana": null,
+      "district": "東広島市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "産業競争力強化・人手不足対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-yamasitama.html"
+    },
+    {
+      "id": "hiroshima-pref--member-83d9ec2c",
+      "council_id": "hiroshima-pref",
+      "name": "安井裕典",
+      "name_kana": null,
+      "district": "廿日市市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-yasui.html"
+    },
+    {
+      "id": "hiroshima-pref--member-6cc386a6",
+      "council_id": "hiroshima-pref",
+      "name": "山下智之",
+      "name_kana": null,
+      "district": "廿日市市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "生活福祉保健委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-yamashitas.html"
+    },
+    {
+      "id": "hiroshima-pref--member-34b629cb",
+      "council_id": "hiroshima-pref",
+      "name": "玉重輝吉",
+      "name_kana": null,
+      "district": "安芸高田市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "県土強靱化・危機管理強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-tamashige.html"
+    },
+    {
+      "id": "hiroshima-pref--member-5f055c11",
+      "council_id": "hiroshima-pref",
+      "name": "沖井純",
+      "name_kana": null,
+      "district": "江田島市",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "持続可能で活力ある地域づくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-okii.html"
+    },
+    {
+      "id": "hiroshima-pref--member-5107d50d",
+      "council_id": "hiroshima-pref",
+      "name": "高田稔",
+      "name_kana": null,
+      "district": "安芸郡",
+      "faction": "広島県議会民主県政会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-takata.html"
+    },
+    {
+      "id": "hiroshima-pref--member-c425da5b",
+      "council_id": "hiroshima-pref",
+      "name": "富永やよい",
+      "name_kana": null,
+      "district": "安芸郡",
+      "faction": "自由民主党広島県議会広志会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "警察・商工労働委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-tominagaya.html"
+    },
+    {
+      "id": "hiroshima-pref--member-c42f2734",
+      "council_id": "hiroshima-pref",
+      "name": "本長糧太",
+      "name_kana": null,
+      "district": "山県郡",
+      "faction": "自由民主党広島県議会議員連盟",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "DX推進・行財政対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giinprof05-motonaga.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "single_page_district_heading_list_with_profile_allowlist",
+    "correct_name_source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/seiji01.html",
+    "district_count": 23,
+    "capacity_total": 64,
+    "vacancies": 1,
+    "expected_current_members": 63,
+    "parsed_members": 63,
+    "districts": [
+      {
+        "district": "広島市中区",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "広島市東区",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "広島市南区",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "広島市西区",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "広島市安佐南区",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "広島市安佐北区",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "広島市安芸区",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "広島市佐伯区",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "呉市",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "竹原市・豊田郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "三原市・世羅郡",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "尾道市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "福山市",
+        "capacity": 10,
+        "members": 10,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "府中市・神石郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "三次市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "庄原市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "大竹市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "東広島市",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "廿日市市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "安芸高田市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "江田島市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "安芸郡",
+        "capacity": 3,
+        "members": 2,
+        "vacancies": 1,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      },
+      {
+        "district": "山県郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      }
+    ],
+    "notes": [
+      "選挙区見出しの定数と直後の議員リンク列挙から抽出",
+      "安芸郡は定数3・現員2のため欠員1として記録",
+      "※付き氏名は公式の正字一覧画像を確認し、正字表記を保持",
+      "個別プロフィールは期数と委員会のみ許可リストで取得",
+      "写真は取得せず、photo_urlは全員null",
+      "選挙区見出しの定数を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html",
+    "source_basis_date": "掲載日: 2026年3月23日",
+    "last_verified": "2026-06-15",
+    "teisu": 64,
+    "genin": 63,
+    "ketsuin": 1,
+    "vacancy_details": [
+      {
+        "district": "安芸郡",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.hiroshima.lg.jp/site/gikai/giin-giin-mei.html"
+      }
+    ]
+  },
+  "source_basis_date": "掲載日: 2026年3月23日",
+  "last_verified": "2026-06-15",
+  "teisu": 64,
+  "genin": 63,
+  "ketsuin": 1,
+  "updated_at": "2026-06-15T09:05:57+00:00"
+}
