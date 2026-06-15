@@ -14,6 +14,7 @@ from pathlib import Path
 REPO_ROOT = Path(__file__).resolve().parents[1]
 
 MEMBER_SCRIPTS = [
+    ("hokkaido-pref", "scripts/councils/hokkaido_pref.py"),
     ("tottori-pref", "scripts/councils/tottori_pref.py"),
     ("shimane-pref", "scripts/councils/shimane_pref.py"),
     ("okayama-pref", "scripts/councils/okayama_pref.py"),
