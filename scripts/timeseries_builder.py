@@ -30,6 +30,13 @@ INDICATOR_COUNT = 10
 
 AREAS = [
     {
+        "council_id": "hokkaido-pref",
+        "name": "北海道",
+        "lg_code": "010006",
+        "estat_area_code": "01000",
+        "area_level": "prefecture",
+    },
+    {
         "council_id": "tottori-pref",
         "name": "鳥取県",
         "lg_code": "310000",

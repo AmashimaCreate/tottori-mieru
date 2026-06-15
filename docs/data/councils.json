@@ -8,9 +8,23 @@
       "prefecture_name": "北海道",
       "lg_code": "010006",
       "minutes_system": "unknown",
+      "minutes_base_url": "https://pref-hokkaido.gijiroku.com/",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "北海道議会公式サイト",
+          "url": "https://www.gikai.pref.hokkaido.lg.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.gikai.pref.hokkaido.lg.jp/meibo/index.html"
+        },
+        {
+          "label": "会議録検索システム",
+          "url": "https://pref-hokkaido.gijiroku.com/"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "aomori-pref",

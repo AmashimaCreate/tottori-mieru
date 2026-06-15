@@ -1,0 +1,2205 @@
+{
+  "council_id": "hokkaido-pref",
+  "source_url": "https://www.gikai.pref.hokkaido.lg.jp/meibo/index.html",
+  "source_name": "北海道議会 議員名簿",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "hokkaido-pref--chiba-masahiro",
+      "council_id": "hokkaido-pref",
+      "name": "千葉真裕",
+      "name_kana": "ちば まさひろ",
+      "district": "札幌市中央区",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--higaki-hisako",
+      "council_id": "hokkaido-pref",
+      "name": "檜垣尚子",
+      "name_kana": "ひがき ひさこ",
+      "district": "札幌市中央区",
+      "faction": "自民党・道民会議",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--tanaka-shiyouichi",
+      "council_id": "hokkaido-pref",
+      "name": "田中勝一",
+      "name_kana": "たなか しょういち",
+      "district": "札幌市中央区",
+      "faction": "民主・道民連合",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--doumi-yasunori",
+      "council_id": "hokkaido-pref",
+      "name": "道見泰憲",
+      "name_kana": "どうみ やすのり",
+      "district": "札幌市北区",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "建設委員会 委員長",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "建設委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--yamane-masahiro",
+      "council_id": "hokkaido-pref",
+      "name": "山根まさひろ",
+      "name_kana": "やまね まさひろ",
+      "district": "札幌市北区",
+      "faction": "民主・道民連合",
+      "elected_count": 2,
+      "positions": [
+        "総務委員会 副委員長"
+      ],
+      "committees": [
+        "総務委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--ishikawa-sawako",
+      "council_id": "hokkaido-pref",
+      "name": "石川さわ子",
+      "name_kana": "いしかわ さわこ",
+      "district": "札幌市北区",
+      "faction": "北海道結志会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--nakanowatari-shiho",
+      "council_id": "hokkaido-pref",
+      "name": "中野渡志穂",
+      "name_kana": "なかのわたり しほ",
+      "district": "札幌市北区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "議会運営委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--watanabe-yasuji",
+      "council_id": "hokkaido-pref",
+      "name": "渡邊靖司",
+      "name_kana": "わたなべ やすじ",
+      "district": "札幌市東区",
+      "faction": "自民党・道民会議",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "水産林務委員会",
+        "議会運営委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--fuchigami-ayako",
+      "council_id": "hokkaido-pref",
+      "name": "渕上綾子",
+      "name_kana": "ふちがみ あやこ",
+      "district": "札幌市東区",
+      "faction": "民主・道民連合",
+      "elected_count": 2,
+      "positions": [
+        "北方領土対策特別委員会 副委員長"
+      ],
+      "committees": [
+        "建設委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--achira-hiromi",
+      "council_id": "hokkaido-pref",
+      "name": "阿知良寛美",
+      "name_kana": "あちら ひろみ",
+      "district": "札幌市東区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--yamazaki-mayumi",
+      "council_id": "hokkaido-pref",
+      "name": "山崎真由美",
+      "name_kana": "やまざき まゆみ",
+      "district": "札幌市東区",
+      "faction": "北海道維新の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "水産林務委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--itou-jiyouichi",
+      "council_id": "hokkaido-pref",
+      "name": "伊藤条一",
+      "name_kana": "いとう じょういち",
+      "district": "札幌市白石区",
+      "faction": "自民党・道民会議",
+      "elected_count": 9,
+      "positions": [
+        "議長"
+      ],
+      "committees": [
+        "総合政策委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--hirota-mayumi",
+      "council_id": "hokkaido-pref",
+      "name": "広田まゆみ",
+      "name_kana": "ひろた まゆみ",
+      "district": "札幌市白石区",
+      "faction": "民主・道民連合",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総合政策委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--mori-shigeyuki",
+      "council_id": "hokkaido-pref",
+      "name": "森成之",
+      "name_kana": "もり しげゆき",
+      "district": "札幌市白石区",
+      "faction": "公明党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "農政委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--hanasaki-masaru",
+      "council_id": "hokkaido-pref",
+      "name": "花崎勝",
+      "name_kana": "はなさき まさる",
+      "district": "札幌市厚別区",
+      "faction": "自民党・道民会議",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--sugawara-kazutada",
+      "council_id": "hokkaido-pref",
+      "name": "菅原和忠",
+      "name_kana": "すがわら かずただ",
+      "district": "札幌市厚別区",
+      "faction": "民主・道民連合",
+      "elected_count": 3,
+      "positions": [
+        "子ども政策調査特別委員会 委員長"
+      ],
+      "committees": [
+        "農政委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--ookoshi-atsuko",
+      "council_id": "hokkaido-pref",
+      "name": "大越農子",
+      "name_kana": "おおこし あつこ",
+      "district": "札幌市豊平区",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "新幹線・総合交通体系対策特別委員会 委員長"
+      ],
+      "committees": [
+        "環境生活委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--yoshida-yuuki",
+      "council_id": "hokkaido-pref",
+      "name": "吉田祐樹",
+      "name_kana": "よしだ ゆうき",
+      "district": "札幌市豊平区",
+      "faction": "自民党・道民会議",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--matsuyama-takefumi",
+      "council_id": "hokkaido-pref",
+      "name": "松山丈史",
+      "name_kana": "まつやま たけふみ",
+      "district": "札幌市豊平区",
+      "faction": "民主・道民連合",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総合政策委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--miyashita-jiyunichi",
+      "council_id": "hokkaido-pref",
+      "name": "宮下准一",
+      "name_kana": "みやした じゅんいち",
+      "district": "札幌市清田区",
+      "faction": "自民党・道民会議",
+      "elected_count": 2,
+      "positions": [
+        "経済委員会 副委員長"
+      ],
+      "committees": [
+        "経済委員会",
+        "議会運営委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kajiya-taishi",
+      "council_id": "hokkaido-pref",
+      "name": "梶谷大志",
+      "name_kana": "かじや たいし",
+      "district": "札幌市清田区",
+      "faction": "民主・道民連合",
+      "elected_count": 5,
+      "positions": [
+        "副議長"
+      ],
+      "committees": [
+        "保健福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--maruiwa-kouji",
+      "council_id": "hokkaido-pref",
+      "name": "丸岩浩二",
+      "name_kana": "まるいわ こうじ",
+      "district": "札幌市南区",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "食と観光調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "建設委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--hatakeyama-minori",
+      "council_id": "hokkaido-pref",
+      "name": "畠山みのり",
+      "name_kana": "はたけやま みのり",
+      "district": "札幌市南区",
+      "faction": "民主・道民連合",
+      "elected_count": 3,
+      "positions": [
+        "食と観光調査特別委員会 委員長"
+      ],
+      "committees": [
+        "文教委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--wada-keita",
+      "council_id": "hokkaido-pref",
+      "name": "和田敬太",
+      "name_kana": "わだ けいた",
+      "district": "札幌市西区",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "議会運営委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--takeda-hiromitsu",
+      "council_id": "hokkaido-pref",
+      "name": "武田浩光",
+      "name_kana": "たけだ ひろみつ",
+      "district": "札幌市西区",
+      "faction": "民主・道民連合",
+      "elected_count": 2,
+      "positions": [
+        "議会運営委員会 副委員長"
+      ],
+      "committees": [
+        "保健福祉委員会",
+        "議会運営委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--takeichi-hisako",
+      "council_id": "hokkaido-pref",
+      "name": "武市尚子",
+      "name_kana": "たけいち ひさこ",
+      "district": "札幌市手稲区",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--shimizu-takahiro",
+      "council_id": "hokkaido-pref",
+      "name": "清水敬弘",
+      "name_kana": "しみず たかひろ",
+      "district": "札幌市手稲区",
+      "faction": "民主・道民連合",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農政委員会",
+        "議会運営委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--fujii-tatsuyoshi",
+      "council_id": "hokkaido-pref",
+      "name": "藤井辰吉",
+      "name_kana": "ふじい たつよし",
+      "district": "函館市",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--tomihara-akira",
+      "council_id": "hokkaido-pref",
+      "name": "冨原亮",
+      "name_kana": "とみはら あきら",
+      "district": "函館市",
+      "faction": "自民党・道民会議",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "水産林務委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--takahashi-tooru",
+      "council_id": "hokkaido-pref",
+      "name": "高橋亨",
+      "name_kana": "たかはし とおる",
+      "district": "函館市",
+      "faction": "民主・道民連合",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境生活委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--hirade-youko",
+      "council_id": "hokkaido-pref",
+      "name": "平出陽子",
+      "name_kana": "ひらで ようこ",
+      "district": "函館市",
+      "faction": "民主・道民連合",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--umino-maki",
+      "council_id": "hokkaido-pref",
+      "name": "海野真樹",
+      "name_kana": "うみの まき",
+      "district": "函館市",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--satou-tadahiro",
+      "council_id": "hokkaido-pref",
+      "name": "佐藤禎洋",
+      "name_kana": "さとう ただひろ",
+      "district": "小樽市",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kawasumi-sounosuke",
+      "council_id": "hokkaido-pref",
+      "name": "川澄宗之介",
+      "name_kana": "かわすみ そうのすけ",
+      "district": "小樽市",
+      "faction": "民主・道民連合",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境生活委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--maruyama-harumi",
+      "council_id": "hokkaido-pref",
+      "name": "丸山はるみ",
+      "name_kana": "まるやま はるみ",
+      "district": "小樽市",
+      "faction": "日本共産党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kinoshita-masayuki",
+      "council_id": "hokkaido-pref",
+      "name": "木下雅之",
+      "name_kana": "きのした まさゆき",
+      "district": "旭川市",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境生活委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--hayashi-yuusaku",
+      "council_id": "hokkaido-pref",
+      "name": "林祐作",
+      "name_kana": "はやし ゆうさく",
+      "district": "旭川市",
+      "faction": "自民党・道民会議",
+      "elected_count": 2,
+      "positions": [
+        "保健福祉委員会 副委員長"
+      ],
+      "committees": [
+        "保健福祉委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--azumi-takanobu",
+      "council_id": "hokkaido-pref",
+      "name": "安住太伸",
+      "name_kana": "あずみ たかのぶ",
+      "district": "旭川市",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "総務委員会 委員長"
+      ],
+      "committees": [
+        "総務委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--miyazaki-akane",
+      "council_id": "hokkaido-pref",
+      "name": "宮崎アカネ",
+      "name_kana": "みやざき あかね",
+      "district": "旭川市",
+      "faction": "民主・道民連合",
+      "elected_count": 2,
+      "positions": [
+        "水産林務委員会 副委員長"
+      ],
+      "committees": [
+        "水産林務委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--terashima-nobuhisa",
+      "council_id": "hokkaido-pref",
+      "name": "寺島信寿",
+      "name_kana": "てらしま のぶひさ",
+      "district": "旭川市",
+      "faction": "公明党",
+      "elected_count": 2,
+      "positions": [
+        "新幹線・総合交通体系対策特別委員会 副委員長"
+      ],
+      "committees": [
+        "総合政策委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--mashita-noriko",
+      "council_id": "hokkaido-pref",
+      "name": "真下紀子",
+      "name_kana": "ました のりこ",
+      "district": "旭川市",
+      "faction": "日本共産党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--chiba-hideya",
+      "council_id": "hokkaido-pref",
+      "name": "千葉英也",
+      "name_kana": "ちば ひでや",
+      "district": "室蘭市",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "議会運営委員会 委員長"
+      ],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--takiguchi-nobuyoshi",
+      "council_id": "hokkaido-pref",
+      "name": "滝口信喜",
+      "name_kana": "たきぐち のぶよし",
+      "district": "室蘭市",
+      "faction": "北海道結志会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "保健福祉委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--itou-shiyougo",
+      "council_id": "hokkaido-pref",
+      "name": "伊東尚悟",
+      "name_kana": "いとう しょうご",
+      "district": "釧路市",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--okada-riyou",
+      "council_id": "hokkaido-pref",
+      "name": "岡田遼",
+      "name_kana": "おかだ りょう",
+      "district": "釧路市",
+      "faction": "民主・道民連合",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "水産林務委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--tanaka-hideki",
+      "council_id": "hokkaido-pref",
+      "name": "田中英樹",
+      "name_kana": "たなか ひでき",
+      "district": "釧路市",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [
+        "環境生活委員会 委員長"
+      ],
+      "committees": [
+        "環境生活委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--murata-mitsushige",
+      "council_id": "hokkaido-pref",
+      "name": "村田光成",
+      "name_kana": "むらた みつしげ",
+      "district": "帯広市",
+      "faction": "自民党・道民会議",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境生活委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--shimizu-takuya",
+      "council_id": "hokkaido-pref",
+      "name": "清水拓也",
+      "name_kana": "しみず たくや",
+      "district": "帯広市",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--suzuki-hitoshi",
+      "council_id": "hokkaido-pref",
+      "name": "鈴木仁志",
+      "name_kana": "すずき ひとし",
+      "district": "帯広市",
+      "faction": "民主・道民連合",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--funahashi-kenji",
+      "council_id": "hokkaido-pref",
+      "name": "船橋賢二",
+      "name_kana": "ふなはし けんじ",
+      "district": "北見市",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "産炭地域振興・GX推進・エネルギー調査特別委員会 委員長"
+      ],
+      "committees": [
+        "保健福祉委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--suzuki-kazuma",
+      "council_id": "hokkaido-pref",
+      "name": "鈴木一磨",
+      "name_kana": "すずき かずま",
+      "district": "北見市",
+      "faction": "民主・道民連合",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総合政策委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--muraki-ataru",
+      "council_id": "hokkaido-pref",
+      "name": "村木中",
+      "name_kana": "むらき あたる",
+      "district": "岩見沢市",
+      "faction": "自民党・道民会議",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総合政策委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--nakagawa-hirotoshi",
+      "council_id": "hokkaido-pref",
+      "name": "中川浩利",
+      "name_kana": "なかがわ ひろとし",
+      "district": "岩見沢市",
+      "faction": "民主・道民連合",
+      "elected_count": 3,
+      "positions": [
+        "保健福祉委員会 委員長"
+      ],
+      "committees": [
+        "保健福祉委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--satou-shinya",
+      "council_id": "hokkaido-pref",
+      "name": "佐藤伸弥",
+      "name_kana": "さとう しんや",
+      "district": "網走市",
+      "faction": "北海道結志会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "水産林務委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--itaya-yoshihisa",
+      "council_id": "hokkaido-pref",
+      "name": "板谷よしひさ",
+      "name_kana": "いたや よしひさ",
+      "district": "苫小牧市",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--okita-kiyoshi",
+      "council_id": "hokkaido-pref",
+      "name": "沖田清志",
+      "name_kana": "おきた きよし",
+      "district": "苫小牧市",
+      "faction": "民主・道民連合",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--nakamura-mamoru",
+      "council_id": "hokkaido-pref",
+      "name": "中村守",
+      "name_kana": "なかむら まもる",
+      "district": "苫小牧市",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--yoshida-masato",
+      "council_id": "hokkaido-pref",
+      "name": "吉田正人",
+      "name_kana": "よしだ まさと",
+      "district": "稚内市",
+      "faction": "自民党・道民会議",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kiba-jiyun",
+      "council_id": "hokkaido-pref",
+      "name": "木葉淳",
+      "name_kana": "きば じゅん",
+      "district": "江別市",
+      "faction": "民主・道民連合",
+      "elected_count": 2,
+      "positions": [
+        "文教委員会 副委員長"
+      ],
+      "committees": [
+        "文教委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--nakano-hidetoshi",
+      "council_id": "hokkaido-pref",
+      "name": "中野秀敏",
+      "name_kana": "なかの ひでとし",
+      "district": "名寄市",
+      "faction": "自民党・道民会議",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--matsuura-munenobu",
+      "council_id": "hokkaido-pref",
+      "name": "松浦宗信",
+      "name_kana": "まつうら むねのぶ",
+      "district": "根室市",
+      "faction": "自民党・道民会議",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "保健福祉委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--oota-noriyuki",
+      "council_id": "hokkaido-pref",
+      "name": "太田憲之",
+      "name_kana": "おおた のりゆき",
+      "district": "千歳市",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "文教委員会 委員長",
+        "子ども政策調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "文教委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kobayashi-chiyomi",
+      "council_id": "hokkaido-pref",
+      "name": "小林千代美",
+      "name_kana": "こばやし ちよみ",
+      "district": "千歳市",
+      "faction": "民主・道民連合",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境生活委員会",
+        "議会運営委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--mizuguchi-norikazu",
+      "council_id": "hokkaido-pref",
+      "name": "水口典一",
+      "name_kana": "みずぐち のりかず",
+      "district": "滝川市",
+      "faction": "北海道結志会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--akane-kousuke",
+      "council_id": "hokkaido-pref",
+      "name": "赤根広介",
+      "name_kana": "あかね こうすけ",
+      "district": "登別市",
+      "faction": "北海道結志会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--hayasaka-takatoshi",
+      "council_id": "hokkaido-pref",
+      "name": "早坂貴敏",
+      "name_kana": "はやさか たかとし",
+      "district": "恵庭市",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農政委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--tanaka-yoshinori",
+      "council_id": "hokkaido-pref",
+      "name": "田中芳憲",
+      "name_kana": "たなか よしのり",
+      "district": "恵庭市",
+      "faction": "自民党・道民会議",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境生活委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--takada-shinji",
+      "council_id": "hokkaido-pref",
+      "name": "髙田真次",
+      "name_kana": "たかだ しんじ",
+      "district": "伊達市",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "水産林務委員会",
+        "議会運営委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--tsuruha-yoshiko",
+      "council_id": "hokkaido-pref",
+      "name": "鶴羽芳代子",
+      "name_kana": "つるは よしこ",
+      "district": "北広島市",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "議会運営委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--takiguchi-naoto",
+      "council_id": "hokkaido-pref",
+      "name": "滝口直人",
+      "name_kana": "たきぐち なおと",
+      "district": "北斗市",
+      "faction": "自民党・道民会議",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--uemura-mami",
+      "council_id": "hokkaido-pref",
+      "name": "植村真美",
+      "name_kana": "うえむら まみ",
+      "district": "空知地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 2,
+      "positions": [
+        "総合政策委員会 副委員長"
+      ],
+      "committees": [
+        "総合政策委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--inamura-hisao",
+      "council_id": "hokkaido-pref",
+      "name": "稲村久男",
+      "name_kana": "いなむら ひさお",
+      "district": "空知地域",
+      "faction": "民主・道民連合",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--shirakawa-shiyouji",
+      "council_id": "hokkaido-pref",
+      "name": "白川祥二",
+      "name_kana": "しらかわ しょうじ",
+      "district": "空知地域",
+      "faction": "北海道結志会",
+      "elected_count": 3,
+      "positions": [
+        "人口減少問題・地方分権改革等調査特別委員会 委員長"
+      ],
+      "committees": [
+        "農政委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--aratou-shiyougo",
+      "council_id": "hokkaido-pref",
+      "name": "荒当聖吾",
+      "name_kana": "あらとう しょうご",
+      "district": "空知地域",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [
+        "建設委員会 副委員長"
+      ],
+      "committees": [
+        "建設委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--sasaki-daisuke",
+      "council_id": "hokkaido-pref",
+      "name": "佐々木大介",
+      "name_kana": "ささき だいすけ",
+      "district": "石狩地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 2,
+      "positions": [
+        "農政委員会 副委員長"
+      ],
+      "committees": [
+        "農政委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--ikehata-hideaki",
+      "council_id": "hokkaido-pref",
+      "name": "池端英昭",
+      "name_kana": "いけはた ひであき",
+      "district": "石狩地域",
+      "faction": "民主・道民連合",
+      "elected_count": 3,
+      "positions": [
+        "経済委員会 委員長"
+      ],
+      "committees": [
+        "経済委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--murata-noritoshi",
+      "council_id": "hokkaido-pref",
+      "name": "村田憲俊",
+      "name_kana": "むらた のりとし",
+      "district": "後志地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--ichihashi-shiyuuji",
+      "council_id": "hokkaido-pref",
+      "name": "市橋修治",
+      "name_kana": "いちはし しゅうじ",
+      "district": "後志地域",
+      "faction": "民主・道民連合",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--toda-yasuhiko",
+      "council_id": "hokkaido-pref",
+      "name": "戸田安彦",
+      "name_kana": "とだ やすひこ",
+      "district": "胆振地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総合政策委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kobayashi-yuuji",
+      "council_id": "hokkaido-pref",
+      "name": "小林雄志",
+      "name_kana": "こばやし ゆうじ",
+      "district": "日高地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--fujisawa-sumio",
+      "council_id": "hokkaido-pref",
+      "name": "藤沢澄雄",
+      "name_kana": "ふじさわ すみお",
+      "district": "日高地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--maeda-kazuo",
+      "council_id": "hokkaido-pref",
+      "name": "前田一男",
+      "name_kana": "まえだ かずお",
+      "district": "渡島地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総合政策委員会",
+        "議会運営委員会",
+        "産炭地域振興・GX推進・エネルギー調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--sasada-hiroshi",
+      "council_id": "hokkaido-pref",
+      "name": "笹田浩",
+      "name_kana": "ささだ ひろし",
+      "district": "渡島地域",
+      "faction": "民主・道民連合",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "農政委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--uchida-takayuki",
+      "council_id": "hokkaido-pref",
+      "name": "内田尊之",
+      "name_kana": "うちだ たかゆき",
+      "district": "檜山地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "農政委員会 委員長"
+      ],
+      "committees": [
+        "農政委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--imazu-hirofumi",
+      "council_id": "hokkaido-pref",
+      "name": "今津寬史",
+      "name_kana": "いまず ひろふみ",
+      "district": "上川地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--mizuma-kenta",
+      "council_id": "hokkaido-pref",
+      "name": "水間健太",
+      "name_kana": "みずま けんた",
+      "district": "上川地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農政委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--asano-takahiro",
+      "council_id": "hokkaido-pref",
+      "name": "浅野貴博",
+      "name_kana": "あさの たかひろ",
+      "district": "留萌地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "水産林務委員会 委員長",
+        "人口減少問題・地方分権改革等調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "水産林務委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--miyoshi-masashi",
+      "council_id": "hokkaido-pref",
+      "name": "三好雅",
+      "name_kana": "みよし まさし",
+      "district": "宗谷地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "水産林務委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--takahashi-fumiaki",
+      "council_id": "hokkaido-pref",
+      "name": "髙橋文明",
+      "name_kana": "たかはし ふみあき",
+      "district": "オホーツク東地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 10,
+      "positions": [],
+      "committees": [
+        "農政委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kuboaki-yuuta",
+      "council_id": "hokkaido-pref",
+      "name": "久保秋雄太",
+      "name_kana": "くぼあき ゆうた",
+      "district": "オホーツク西地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [
+        "北方領土対策特別委員会 委員長"
+      ],
+      "committees": [
+        "農政委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--niinuma-tooru",
+      "council_id": "hokkaido-pref",
+      "name": "新沼透",
+      "name_kana": "にいぬま とおる",
+      "district": "オホーツク西地域",
+      "faction": "北海道結志会",
+      "elected_count": 3,
+      "positions": [
+        "総合政策委員会 委員長"
+      ],
+      "committees": [
+        "総合政策委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kuroda-yoshitsugu",
+      "council_id": "hokkaido-pref",
+      "name": "黒田栄継",
+      "name_kana": "くろだ よしつぐ",
+      "district": "十勝地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 1,
+      "positions": [
+        "環境生活委員会 副委員長"
+      ],
+      "committees": [
+        "環境生活委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kita-riyuuichi",
+      "council_id": "hokkaido-pref",
+      "name": "喜多龍一",
+      "name_kana": "きた りゅういち",
+      "district": "十勝地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "水産林務委員会",
+        "新幹線・総合交通体系対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--koizumi-masashi",
+      "council_id": "hokkaido-pref",
+      "name": "小泉真志",
+      "name_kana": "こいずみ まさし",
+      "district": "十勝地域",
+      "faction": "民主・道民連合",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "議会運営委員会",
+        "子ども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--ikemoto-riyuuji",
+      "council_id": "hokkaido-pref",
+      "name": "池本柳次",
+      "name_kana": "いけもと りゅうじ",
+      "district": "十勝地域",
+      "faction": "北海道結志会",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "環境生活委員会",
+        "北方領土対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--kirinoki-shigeo",
+      "council_id": "hokkaido-pref",
+      "name": "桐木茂雄",
+      "name_kana": "きりのき しげお",
+      "district": "釧路地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総合政策委員会",
+        "食と観光調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "hokkaido-pref--nakatsukasa-tetsuo",
+      "council_id": "hokkaido-pref",
+      "name": "中司哲雄",
+      "name_kana": "なかつかさ てつお",
+      "district": "根室地域",
+      "faction": "自民党・道民会議",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "経済委員会",
+        "人口減少問題・地方分権改革等調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    }
+  ],
+  "checks": {
+    "source_shape": "pdf_member_roster",
+    "pdf_index_url": "https://www.gikai.pref.hokkaido.lg.jp/meibo/pdf-index.html",
+    "grid_source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/4/6/4/3/7/_/senkyoku-kaiha(20260226).pdf",
+    "committee_source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/7/2/6/4/7/_/32%E6%9C%9F%E5%BE%8C%E6%9C%9F%E5%A7%94%E5%93%A1%E4%BC%9A%E5%90%8D%E7%B0%BF(20260309).pdf",
+    "roster_pdf_count": 8,
+    "roster_pdf_urls": [
+      "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/5/6/_/32meibo1-080408.pdf",
+      "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/6/0/_/32meibo5-070619.pdf",
+      "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/5/7/_/32meibo2-080408.pdf",
+      "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/6/1/_/32meibo6-070619.pdf",
+      "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/1/4/5/2/9/8/_/32meibo3-080525.pdf",
+      "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/6/2/_/32meibo7-071201.pdf",
+      "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/5/9/_/32meibo4-080408.pdf",
+      "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/6/3/_/32meibo8-071016.pdf"
+    ],
+    "district_count": 46,
+    "expected_district_count": 46,
+    "expected_capacity": 100,
+    "capacity_total": 100,
+    "parsed_roster_members": 97,
+    "parsed_grid_members": 97,
+    "parsed_members": 97,
+    "omitted_roster_members": [
+      {
+        "name": "笠井龍司",
+        "reason": "辞職/逝去注記",
+        "source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/5/7/_/32meibo2-080408.pdf"
+      },
+      {
+        "name": "加藤貴弘",
+        "reason": "辞職/逝去注記",
+        "source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/5/7/_/32meibo2-080408.pdf"
+      },
+      {
+        "name": "北口雄幸",
+        "reason": "辞職/逝去注記",
+        "source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/5/7/_/32meibo2-080408.pdf"
+      },
+      {
+        "name": "角田一",
+        "reason": "辞職/逝去注記",
+        "source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/5/9/_/32meibo4-080408.pdf"
+      },
+      {
+        "name": "鶴間秀典",
+        "reason": "辞職/逝去注記",
+        "source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/9/7/0/5/9/_/32meibo4-080408.pdf"
+      }
+    ],
+    "districts": [
+      {
+        "district": "札幌市中央区",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "names": [
+          "千葉真裕",
+          "檜垣尚子",
+          "田中勝一"
+        ]
+      },
+      {
+        "district": "札幌市北区",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "names": [
+          "道見泰憲",
+          "山根まさひろ",
+          "石川さわ子",
+          "中野渡志穂"
+        ]
+      },
+      {
+        "district": "札幌市東区",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "names": [
+          "渡邊靖司",
+          "渕上綾子",
+          "阿知良寛美",
+          "山崎真由美"
+        ]
+      },
+      {
+        "district": "札幌市白石区",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "names": [
+          "伊藤条一",
+          "広田まゆみ",
+          "森成之"
+        ]
+      },
+      {
+        "district": "札幌市厚別区",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "花崎勝",
+          "菅原和忠"
+        ]
+      },
+      {
+        "district": "札幌市豊平区",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "names": [
+          "大越農子",
+          "吉田祐樹",
+          "松山丈史"
+        ]
+      },
+      {
+        "district": "札幌市清田区",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "宮下准一",
+          "梶谷大志"
+        ]
+      },
+      {
+        "district": "札幌市南区",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "丸岩浩二",
+          "畠山みのり"
+        ]
+      },
+      {
+        "district": "札幌市西区",
+        "capacity": 3,
+        "members": 2,
+        "vacancies": 1,
+        "names": [
+          "和田敬太",
+          "武田浩光"
+        ]
+      },
+      {
+        "district": "札幌市手稲区",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "武市尚子",
+          "清水敬弘"
+        ]
+      },
+      {
+        "district": "函館市",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "names": [
+          "藤井辰吉",
+          "冨原亮",
+          "高橋亨",
+          "平出陽子",
+          "海野真樹"
+        ]
+      },
+      {
+        "district": "小樽市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "names": [
+          "佐藤禎洋",
+          "川澄宗之介",
+          "丸山はるみ"
+        ]
+      },
+      {
+        "district": "旭川市",
+        "capacity": 6,
+        "members": 6,
+        "vacancies": 0,
+        "names": [
+          "木下雅之",
+          "林祐作",
+          "安住太伸",
+          "宮崎アカネ",
+          "寺島信寿",
+          "真下紀子"
+        ]
+      },
+      {
+        "district": "室蘭市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "千葉英也",
+          "滝口信喜"
+        ]
+      },
+      {
+        "district": "釧路市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "names": [
+          "伊東尚悟",
+          "岡田遼",
+          "田中英樹"
+        ]
+      },
+      {
+        "district": "帯広市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "names": [
+          "村田光成",
+          "清水拓也",
+          "鈴木仁志"
+        ]
+      },
+      {
+        "district": "北見市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "船橋賢二",
+          "鈴木一磨"
+        ]
+      },
+      {
+        "district": "岩見沢市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "村木中",
+          "中川浩利"
+        ]
+      },
+      {
+        "district": "網走市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "佐藤伸弥"
+        ]
+      },
+      {
+        "district": "苫小牧市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "names": [
+          "板谷よしひさ",
+          "沖田清志",
+          "中村守"
+        ]
+      },
+      {
+        "district": "稚内市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "吉田正人"
+        ]
+      },
+      {
+        "district": "江別市",
+        "capacity": 2,
+        "members": 1,
+        "vacancies": 1,
+        "names": [
+          "木葉淳"
+        ]
+      },
+      {
+        "district": "名寄市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "中野秀敏"
+        ]
+      },
+      {
+        "district": "根室市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "松浦宗信"
+        ]
+      },
+      {
+        "district": "千歳市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "太田憲之",
+          "小林千代美"
+        ]
+      },
+      {
+        "district": "滝川市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "水口典一"
+        ]
+      },
+      {
+        "district": "登別市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "赤根広介"
+        ]
+      },
+      {
+        "district": "恵庭市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "早坂貴敏",
+          "田中芳憲"
+        ]
+      },
+      {
+        "district": "伊達市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "髙田真次"
+        ]
+      },
+      {
+        "district": "北広島市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "鶴羽芳代子"
+        ]
+      },
+      {
+        "district": "北斗市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "滝口直人"
+        ]
+      },
+      {
+        "district": "空知地域",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "names": [
+          "植村真美",
+          "稲村久男",
+          "白川祥二",
+          "荒当聖吾"
+        ]
+      },
+      {
+        "district": "石狩地域",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "佐々木大介",
+          "池端英昭"
+        ]
+      },
+      {
+        "district": "後志地域",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "村田憲俊",
+          "市橋修治"
+        ]
+      },
+      {
+        "district": "胆振地域",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "戸田安彦"
+        ]
+      },
+      {
+        "district": "日高地域",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "小林雄志",
+          "藤沢澄雄"
+        ]
+      },
+      {
+        "district": "渡島地域",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "前田一男",
+          "笹田浩"
+        ]
+      },
+      {
+        "district": "檜山地域",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "内田尊之"
+        ]
+      },
+      {
+        "district": "上川地域",
+        "capacity": 3,
+        "members": 2,
+        "vacancies": 1,
+        "names": [
+          "今津寬史",
+          "水間健太"
+        ]
+      },
+      {
+        "district": "留萌地域",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "浅野貴博"
+        ]
+      },
+      {
+        "district": "宗谷地域",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "三好雅"
+        ]
+      },
+      {
+        "district": "オホーツク東地域",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "髙橋文明"
+        ]
+      },
+      {
+        "district": "オホーツク西地域",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "names": [
+          "久保秋雄太",
+          "新沼透"
+        ]
+      },
+      {
+        "district": "十勝地域",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "names": [
+          "黒田栄継",
+          "喜多龍一",
+          "小泉真志",
+          "池本柳次"
+        ]
+      },
+      {
+        "district": "釧路地域",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "桐木茂雄"
+        ]
+      },
+      {
+        "district": "根室地域",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "names": [
+          "中司哲雄"
+        ]
+      }
+    ],
+    "committee_checks": {
+      "source_shape": "committee_pdf_tables",
+      "table_count": 5,
+      "members_with_committee_entries": 97,
+      "parsed_pages": 2,
+      "note": "令和8年3月9日現在の常任委員会・議会運営委員会・特別委員会を抽出。予算/決算の会期別委員会ページは除外。"
+    },
+    "two_source_reconciliation": {
+      "roster_minus_grid": [],
+      "grid_minus_roster": [],
+      "faction_district_elected_count_mismatches": []
+    },
+    "notes": [
+      "50音PDF群から氏名・かな・会派・選挙区・当選回数のみを許可リスト抽出",
+      "住所・電話・FAX・メール・個人URL・自己PRは保存しない",
+      "辞職・逝去注記の旧議員は現職集合から除外",
+      "選挙区別・会派別PDFを件数検算アンカーとして使用",
+      "写真は取得せず、photo_urlは全員null",
+      "50音PDF群と選挙区別・会派別PDFの氏名集合・会派・選挙区・当選回数を照合"
+    ],
+    "anchor_type": "official_pdf_district_faction_grid",
+    "anchor_source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/4/6/4/3/7/_/senkyoku-kaiha(20260226).pdf",
+    "source_basis_date": "2026-05-25",
+    "last_verified": "2026-06-15",
+    "teisu": 100,
+    "genin": 97,
+    "ketsuin": 3,
+    "vacancy_details": [
+      {
+        "district": "札幌市西区",
+        "ketsuin": 1,
+        "source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/4/6/4/3/7/_/senkyoku-kaiha(20260226).pdf"
+      },
+      {
+        "district": "江別市",
+        "ketsuin": 1,
+        "source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/4/6/4/3/7/_/senkyoku-kaiha(20260226).pdf"
+      },
+      {
+        "district": "上川地域",
+        "ketsuin": 1,
+        "source_url": "https://www.gikai.pref.hokkaido.lg.jp/fs/1/3/0/4/6/4/3/7/_/senkyoku-kaiha(20260226).pdf"
+      }
+    ]
+  },
+  "source_basis_date": "2026-05-25",
+  "last_verified": "2026-06-15",
+  "teisu": 100,
+  "genin": 97,
+  "ketsuin": 3,
+  "updated_at": "2026-06-15T21:49:02+00:00"
+}
