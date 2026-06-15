@@ -174,6 +174,7 @@ function renderCouncilHero(state) {
           ? { label: "議員名簿", url: state.membersMeta.source_url }
           : null,
       ]),
+      renderRosterFreshness(state.membersMeta),
     ]),
   ]);
 }
@@ -235,7 +236,10 @@ function renderTimeseriesCard(key, shortLabel, title, indicator) {
 
   return el("article", { class: "timeseries-chart-card" }, [
     el("div", { class: "timeseries-chart-head" }, [
-      el("h3", {}, title),
+      el("div", { class: "timeseries-title-row" }, [
+        el("h3", {}, title),
+        el("span", { class: "timeseries-year-badge" }, `基準 ${summary.latest.year}年`),
+      ]),
       el("p", {}, headline),
       el("span", { class: `timeseries-delta-chip ${trend}` }, `${periodLabel}で ${formatTimeseriesDelta(key, summary.delta)}`),
     ]),
@@ -243,7 +247,7 @@ function renderTimeseriesCard(key, shortLabel, title, indicator) {
       ? renderSparsePointChartSvg(key, title, values, trend)
       : renderLineChartSvg(key, title, values, trend),
     isSparseElectionSeries(key)
-      ? el("p", { class: "timeseries-sparse-note" }, "選挙年のみを点と破線で表示しています。")
+      ? el("p", { class: "timeseries-sparse-note" }, "選挙年のみを点と破線で表示しています。無投票区がある場合、区ごとの投票率は存在しません。")
       : null,
     renderTimeseriesTable(key, title, values),
   ]);
@@ -645,11 +649,39 @@ function renderFaceLineupSection(members, state) {
     renderCompactFactionChart(state.members),
     renderMemberViewSwitcher(state),
     body,
+    renderRosterFreshness(state.membersMeta),
     sourceLine("議員名簿", [
       state.membersMeta?.source_url
         ? { label: state.membersMeta.source_name || "公式名簿", url: state.membersMeta.source_url }
         : null,
     ]),
+  ]);
+}
+
+function renderRosterFreshness(membersMeta) {
+  if (!membersMeta) return null;
+  const teisu = Number.isInteger(membersMeta.teisu) ? membersMeta.teisu : null;
+  const genin = Number.isInteger(membersMeta.genin) ? membersMeta.genin : null;
+  const ketsuin = Number.isInteger(membersMeta.ketsuin) ? membersMeta.ketsuin : null;
+  const countText = teisu !== null && genin !== null && ketsuin !== null
+    ? `定数${teisu} / 現員${genin}${ketsuin > 0 ? `（欠員${ketsuin}）` : ""}`
+    : null;
+  const details = membersMeta.checks?.vacancy_details || [];
+  const vacancyText = ketsuin > 0 && details.length
+    ? details.map((item) => item.district || item.label || (item.seat_number ? `議席番号${item.seat_number}` : null)).filter(Boolean).join(" / ")
+    : null;
+  return el("div", {
+    class: "roster-freshness",
+    "data-last-verified": membersMeta.last_verified || "",
+    "data-source-basis-date": membersMeta.source_basis_date || "",
+    "data-teisu": teisu ?? "",
+    "data-genin": genin ?? "",
+    "data-ketsuin": ketsuin ?? "",
+  }, [
+    countText ? el("span", {}, countText) : null,
+    membersMeta.last_verified ? el("span", {}, `確認日 ${membersMeta.last_verified}`) : null,
+    membersMeta.source_basis_date ? el("span", {}, `基準 ${membersMeta.source_basis_date}`) : null,
+    vacancyText ? el("span", { class: "roster-vacancy" }, `欠員: ${vacancyText}`) : null,
   ]);
 }
 
