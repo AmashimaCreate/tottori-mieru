@@ -111,11 +111,13 @@ function renderAiServiceButtons(container, textarea, status) {
   container.append(
     el("p", { class: "ai-link-note" }, "コピーして、そのままAIを開く（開いた画面に貼り付け）"),
     el("div", { class: "ai-service-button-row" }, links.map((link) =>
-      el("button", {
-        type: "button",
+      el("a", {
+        href: link.url,
+        target: "_blank",
+        rel: "noopener noreferrer",
         class: `ai-service-link is-${link.key}`,
         title: link.note || undefined,
-        onclick: () => copyAndOpenAi(textarea.value, textarea, status, link.url),
+        onclick: () => copyPromptForExternalOpen(textarea.value, textarea, status),
       }, [
         el("span", { class: `ai-service-icon is-${link.key}`, "aria-hidden": "true" }, link.icon),
         link.label,
@@ -157,16 +159,14 @@ async function copyPromptText(text, textarea, button, status) {
   }
 }
 
-async function copyAndOpenAi(text, textarea, status, url) {
+async function copyPromptForExternalOpen(text, textarea, status) {
   try {
     await navigator.clipboard.writeText(text);
-    status.textContent = "コピーしました。AIサービスを開きます";
+    status.textContent = "コピーしました";
   } catch {
     textarea.focus();
     textarea.select();
     status.textContent = "コピーできない場合は、選択された本文を手動でコピーしてください";
-  } finally {
-    window.open(url, "_blank", "noopener,noreferrer");
   }
 }
 

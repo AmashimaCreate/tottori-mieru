@@ -3,7 +3,7 @@ import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 export function acquisitionText(membersMeta) {
   const acquisition = membersMeta?.acquisition;
   if (acquisition === "scraping") {
-    return "公式サイトから自動取得";
+    return "";
   }
   if (acquisition === "manual_transcription") {
     const date = confirmedDate(membersMeta);
@@ -46,8 +46,37 @@ export function sourceLink(url, label = "公式情報を確認") {
       href: url,
       target: "_blank",
       rel: "noopener",
+      class: "external-link",
     },
-    label,
+    [label, externalLinkIcon()],
+  );
+}
+
+export function externalLinkIcon() {
+  return el(
+    "svg",
+    {
+      class: "external-link-icon",
+      viewBox: "0 0 24 24",
+      "aria-hidden": "true",
+      focusable: "false",
+      fill: "none",
+      stroke: "currentColor",
+      "stroke-width": "2.5",
+      "stroke-linecap": "round",
+      "stroke-linejoin": "round",
+    },
+    [
+      el("path", {
+        d: "M15 3h6v6",
+      }),
+      el("path", {
+        d: "M10 14 21 3",
+      }),
+      el("path", {
+        d: "M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6",
+      }),
+    ],
   );
 }
 
@@ -88,7 +117,7 @@ export function cautionNote() {
 function qualityRow(label, text, link, rawValue) {
   return el("div", { class: "quality-row", "data-quality": rawValue || "" }, [
     el("span", { class: "quality-label" }, label),
-    el("span", { class: "quality-text", title: rawValue || "" }, text),
+    text ? el("span", { class: "quality-text", title: rawValue || "" }, text) : null,
     link ? el("span", { class: "quality-link" }, link) : null,
   ]);
 }

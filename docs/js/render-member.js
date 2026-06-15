@@ -1,6 +1,6 @@
-import { acquisitionText, sourceLink } from "./data-quality.js?v=20260615-no-member-photos-v1";
-import { councilAreaName, officialCouncilUrl, renderAiPromptCard } from "./render-ai-prompt.js?v=20260615-no-member-photos-v1";
-import { renderMemberVoteSection } from "./render-votes.js?v=20260615-no-member-photos-v1";
+import { externalLinkIcon, sourceLink } from "./data-quality.js?v=20260615-external-icons-v1";
+import { councilAreaName, officialCouncilUrl, renderAiPromptCard } from "./render-ai-prompt.js?v=20260615-ai-links-anchor-v1";
+import { renderMemberVoteSection } from "./render-votes.js?v=20260615-ai-links-anchor-v1";
 import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 
 export function renderMemberPage(root, state, memberId) {
@@ -46,7 +46,6 @@ function renderMemberProfile(member, membersMeta, council) {
           : null,
         renderMemberSearchLink(member, council),
         ]),
-        el("p", { class: "quality-inline", title: membersMeta?.acquisition || "" }, acquisitionText(membersMeta)),
         sourceLink(membersMeta?.source_url, "議員名簿の出典"),
       ]),
     ]),
@@ -58,8 +57,10 @@ function renderMemberSearchLink(member, council) {
   const query = [member.name, areaName, "議員"].filter(Boolean).join(" ");
   const url = `https://www.google.com/search?q=${encodeURIComponent(query)}`;
   return el("p", { class: "member-search-link member-link-line" }, [
-    el("a", { href: url, target: "_blank", rel: "noopener" }, "この議員について検索"),
-    el("small", {}, "外部の検索結果に移動します"),
+    el("a", { class: "external-link", href: url, target: "_blank", rel: "noopener" }, [
+      "この議員について検索",
+      externalLinkIcon(),
+    ]),
   ]);
 }
 
