@@ -43,6 +43,10 @@ jobs:
           python scripts/councils/saga_pref.py
           python scripts/councils/nagasaki_pref.py
           python scripts/councils/oita_pref.py
+          python scripts/councils/tokushima_pref.py
+          python scripts/councils/kagawa_pref.py
+          python scripts/councils/ehime_pref.py
+          python scripts/councils/kochi_pref.py
           python scripts/councils/tottori_city.py
           python scripts/councils/yonago.py
           python scripts/councils/kurayoshi.py
