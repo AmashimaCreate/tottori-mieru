@@ -2076,10 +2076,31 @@ main { padding: 24px 0 48px; }
   width: fit-content;
 }
 .external-link-icon {
-  width: 1.08em;
-  height: 1.08em;
+  position: relative;
+  display: inline-block;
+  width: 1.05em;
+  height: 1.05em;
   flex: 0 0 auto;
-  transform: translateY(-0.08em);
+  transform: translateY(-0.02em);
+}
+.external-link-icon::before {
+  content: "";
+  position: absolute;
+  left: 0.08em;
+  bottom: 0.05em;
+  width: 0.62em;
+  height: 0.62em;
+  border: 0.12em solid currentColor;
+  border-radius: 0.12em;
+}
+.external-link-icon::after {
+  content: "↗";
+  position: absolute;
+  right: -0.08em;
+  top: -0.34em;
+  font-size: 1.05em;
+  font-weight: 900;
+  line-height: 1;
 }
 .official-profile-link {
   margin: 10px 0 4px;

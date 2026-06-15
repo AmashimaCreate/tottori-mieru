@@ -54,29 +54,11 @@ export function sourceLink(url, label = "公式情報を確認") {
 
 export function externalLinkIcon() {
   return el(
-    "svg",
+    "span",
     {
       class: "external-link-icon",
-      viewBox: "0 0 24 24",
       "aria-hidden": "true",
-      focusable: "false",
-      fill: "none",
-      stroke: "currentColor",
-      "stroke-width": "2.5",
-      "stroke-linecap": "round",
-      "stroke-linejoin": "round",
     },
-    [
-      el("path", {
-        d: "M15 3h6v6",
-      }),
-      el("path", {
-        d: "M10 14 21 3",
-      }),
-      el("path", {
-        d: "M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6",
-      }),
-    ],
   );
 }
 

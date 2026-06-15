@@ -1,4 +1,4 @@
-import { dataQualityPanel } from "./data-quality.js?v=20260615-external-icons-v1";
+import { dataQualityPanel } from "./data-quality.js?v=20260615-external-icons-v2";
 import { renderFinanceSection } from "./render-finance.js?v=20260615-no-member-photos-v1";
 import { renderFactionCompositionChart } from "./render-faction-chart.js?v=20260615-no-member-photos-v1";
 import { formatDecimal, formatPeople, formatYen } from "./render-profile.js?v=20260615-no-member-photos-v1";
