@@ -450,8 +450,17 @@
       "lg_code": "360007",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.tokushima.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.tokushima.lg.jp/gikai/giin/senkyoku/"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "kagawa-pref",
@@ -462,8 +471,17 @@
       "lg_code": "370002",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.kagawa.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.kagawa.lg.jp/gikai/meibo/50onjun_ketu1.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "ehime-pref",
@@ -474,8 +492,17 @@
       "lg_code": "380008",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.ehime.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.ehime.jp/site/gikai/12716.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "kochi-pref",
@@ -486,8 +513,17 @@
       "lg_code": "390003",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://gikai.pref.kochi.lg.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "fukuoka-pref",

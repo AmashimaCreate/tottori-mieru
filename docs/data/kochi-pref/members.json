@@ -1,0 +1,613 @@
+{
+  "council_id": "kochi-pref",
+  "source_url": "https://gikai.pref.kochi.lg.jp/member/categories/",
+  "source_name": "高知県議会 議員名簿",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "kochi-pref--hamaguchi-takuya",
+      "council_id": "kochi-pref",
+      "name": "浜口卓也",
+      "name_kana": "はまぐち たくや",
+      "district": "高知市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--takeuchi-kenzou",
+      "council_id": "kochi-pref",
+      "name": "竹内健造",
+      "name_kana": "たけうち けんぞう",
+      "district": "須崎市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "産業振興土木委員会 (副委員長)"
+      ],
+      "committees": [
+        "産業振興土木委員会 (副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--toda-hirotaka",
+      "council_id": "kochi-pref",
+      "name": "戸田宗崇",
+      "name_kana": "とだ ひろたか",
+      "district": "土佐市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "危機管理文化厚生委員会 (副委員長)"
+      ],
+      "committees": [
+        "危機管理文化厚生委員会 (副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--kamiji-takashi",
+      "council_id": "kochi-pref",
+      "name": "上治堂司",
+      "name_kana": "かみじ たかし",
+      "district": "奈半利町・田野町・ 安田町・北川村・ 馬路村",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "商工農林水産委員会 (副委員長)"
+      ],
+      "committees": [
+        "商工農林水産委員会 (副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--kuwazuru-tarou",
+      "council_id": "kochi-pref",
+      "name": "桑鶴太朗",
+      "name_kana": "くわづる たろう",
+      "district": "佐川町・越知町・ 日高村",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業振興土木委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--tomori-shiyouichi",
+      "council_id": "kochi-pref",
+      "name": "土森正一",
+      "name_kana": "ともり しょういち",
+      "district": "四万十市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "危機管理文化厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--makio-ayane",
+      "council_id": "kochi-pref",
+      "name": "槇尾絢子",
+      "name_kana": "まきお あやね",
+      "district": "香南市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--kubo-hiromichi",
+      "council_id": "kochi-pref",
+      "name": "久保博道",
+      "name_kana": "くぼ ひろみち",
+      "district": "高知市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "危機管理文化厚生委員会 (委員長)"
+      ],
+      "committees": [
+        "危機管理文化厚生委員会 (委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--ageta-koutarou",
+      "council_id": "kochi-pref",
+      "name": "上田貢太郎",
+      "name_kana": "あげた こうたろう",
+      "district": "高知市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "危機管理文化厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--imajiyou-seishi",
+      "council_id": "kochi-pref",
+      "name": "今城誠司",
+      "name_kana": "いまじょう せいし",
+      "district": "宿毛市・大月町・ 三原村",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "危機管理文化厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--kanaoka-yoshitoki",
+      "council_id": "kochi-pref",
+      "name": "金岡佳時",
+      "name_kana": "かなおか よしとき",
+      "district": "長岡郡・土佐郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "総務委員会 (委員長)"
+      ],
+      "committees": [
+        "総務委員会 (委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--shimomura-katsuyuki",
+      "council_id": "kochi-pref",
+      "name": "下村勝幸",
+      "name_kana": "しもむら かつゆき",
+      "district": "黒潮町",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業振興土木委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--tanaka-tooru",
+      "council_id": "kochi-pref",
+      "name": "田中徹",
+      "name_kana": "たなか とおる",
+      "district": "南国市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--doi-hisashi",
+      "council_id": "kochi-pref",
+      "name": "土居央",
+      "name_kana": "どい ひさし",
+      "district": "高知市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--yokoyama-fumito",
+      "council_id": "kochi-pref",
+      "name": "横山文人",
+      "name_kana": "よこやま ふみと",
+      "district": "吾川郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "商工農林水産委員会 (委員長)"
+      ],
+      "committees": [
+        "商工農林水産委員会 (委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--nishiuchi-takazumi",
+      "council_id": "kochi-pref",
+      "name": "西内隆純",
+      "name_kana": "にしうち たかずみ",
+      "district": "高知市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--katou-baku",
+      "council_id": "kochi-pref",
+      "name": "加藤漠",
+      "name_kana": "かとう ばく",
+      "district": "宿毛市・大月町・ 三原村",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "産業振興土木委員会 (委員長)"
+      ],
+      "committees": [
+        "産業振興土木委員会 (委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--hirota-kenichi",
+      "council_id": "kochi-pref",
+      "name": "弘田兼一",
+      "name_kana": "ひろた けんいち",
+      "district": "室戸市・東洋町",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--miyoujin-takeo",
+      "council_id": "kochi-pref",
+      "name": "明神健夫",
+      "name_kana": "みょうじん たけお",
+      "district": "中土佐町・梼原町・ 津野町・四万十町",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業振興土木委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--mitsuishi-fumitaka",
+      "council_id": "kochi-pref",
+      "name": "三石文隆",
+      "name_kana": "みついし ふみたか",
+      "district": "高知市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--hatakenaka-takuma",
+      "council_id": "kochi-pref",
+      "name": "畠中拓馬",
+      "name_kana": "はたけなか たくま",
+      "district": "香南市",
+      "faction": "一燈立志の会",
+      "elected_count": null,
+      "positions": [
+        "総務委員会 (副委員長)"
+      ],
+      "committees": [
+        "総務委員会 (副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--yorimitsu-miyoko",
+      "council_id": "kochi-pref",
+      "name": "依光美代子",
+      "name_kana": "よりみつ みよこ",
+      "district": "香美市",
+      "faction": "一燈立志の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--nishimori-miwa",
+      "council_id": "kochi-pref",
+      "name": "西森美和",
+      "name_kana": "にしもり みわ",
+      "district": "高知市",
+      "faction": "公明党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業振興土木委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--terauchi-noriyoshi",
+      "council_id": "kochi-pref",
+      "name": "寺内憲資",
+      "name_kana": "てらうち のりよし",
+      "district": "高知市",
+      "faction": "公明党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "危機管理文化厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--nishimori-masakazu",
+      "council_id": "kochi-pref",
+      "name": "西森雅和",
+      "name_kana": "にしもり まさかず",
+      "district": "高知市",
+      "faction": "公明党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--higuchi-hidehiro",
+      "council_id": "kochi-pref",
+      "name": "樋口秀洋",
+      "name_kana": "ひぐち ひでひろ",
+      "district": "安芸市・芸西村",
+      "faction": "自由の風",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--mizuno-yukie",
+      "council_id": "kochi-pref",
+      "name": "水野雪絵",
+      "name_kana": "みずの ゆきえ",
+      "district": "高知市",
+      "faction": "県民の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "危機管理文化厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--okazaki-tetsuya",
+      "council_id": "kochi-pref",
+      "name": "岡﨑哲也",
+      "name_kana": "おかざき てつや",
+      "district": "土佐清水市",
+      "faction": "県民の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--okada-riyouhei",
+      "council_id": "kochi-pref",
+      "name": "岡田竜平",
+      "name_kana": "おかだ りょうへい",
+      "district": "吾川郡",
+      "faction": "県民の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業振興土木委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--sakamoto-shigeo",
+      "council_id": "kochi-pref",
+      "name": "坂本茂雄",
+      "name_kana": "さかもと しげお",
+      "district": "高知市",
+      "faction": "県民の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--hata-ai",
+      "council_id": "kochi-pref",
+      "name": "はた愛",
+      "name_kana": "はた あい",
+      "district": "高知市",
+      "faction": "日本共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業振興土木委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--hosogi-riyou",
+      "council_id": "kochi-pref",
+      "name": "細木良",
+      "name_kana": "ほそぎ りょう",
+      "district": "高知市",
+      "faction": "日本共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--okada-yoshihide",
+      "council_id": "kochi-pref",
+      "name": "岡田芳秀",
+      "name_kana": "おかだ よしひで",
+      "district": "南国市",
+      "faction": "日本共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--okamoto-kazuya",
+      "council_id": "kochi-pref",
+      "name": "岡本和也",
+      "name_kana": "おかもと かずや",
+      "district": "四万十市",
+      "faction": "日本共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "危機管理文化厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--nakane-sachi",
+      "council_id": "kochi-pref",
+      "name": "中根佐知",
+      "name_kana": "なかね さち",
+      "district": "高知市",
+      "faction": "日本共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "危機管理文化厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    },
+    {
+      "id": "kochi-pref--tsukaji-sachi",
+      "council_id": "kochi-pref",
+      "name": "塚地佐智",
+      "name_kana": "つかじ さち",
+      "district": "高知市",
+      "faction": "日本共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://gikai.pref.kochi.lg.jp/member/categories/"
+    }
+  ],
+  "checks": {
+    "source_shape": "single_page_faction_table",
+    "capacity_total": 37,
+    "vacancies": 1,
+    "missing_seats": [
+      23
+    ],
+    "expected_current_members": 36,
+    "parsed_members": 36,
+    "factions": [
+      {
+        "faction": "自由民主党",
+        "declared_members": 20,
+        "members": 20
+      },
+      {
+        "faction": "一燈立志の会",
+        "declared_members": 2,
+        "members": 2
+      },
+      {
+        "faction": "公明党",
+        "declared_members": 3,
+        "members": 3
+      },
+      {
+        "faction": "自由の風",
+        "declared_members": 1,
+        "members": 1
+      },
+      {
+        "faction": "県民の会",
+        "declared_members": 4,
+        "members": 4
+      },
+      {
+        "faction": "日本共産党",
+        "declared_members": 6,
+        "members": 6
+      }
+    ],
+    "notes": [
+      "会派見出しの人数と会派内の取得人数を照合",
+      "議席番号23が欠番のため欠員1として記録",
+      "五十音順ページに当選回数は見当たらないためelected_countはnull",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-15T00:52:54+00:00"
+}

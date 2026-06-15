@@ -1,0 +1,802 @@
+{
+  "council_id": "kagawa-pref",
+  "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/50onjun_ketu1.html",
+  "source_name": "香川県議会 議員紹介（五十音順）",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "kagawa-pref--member-59b4ea0c",
+      "council_id": "kagawa-pref",
+      "name": "植條敬介",
+      "name_kana": null,
+      "district": "坂出市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 2,
+      "positions": [
+        "地域医療構想 委員長"
+      ],
+      "committees": [
+        "文教厚生",
+        "地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name13_2.html"
+    },
+    {
+      "id": "kagawa-pref--member-304f8ae8",
+      "council_id": "kagawa-pref",
+      "name": "植田真紀",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "市民派改革ネット",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務",
+        "デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_1.html"
+    },
+    {
+      "id": "kagawa-pref--member-12b2c59c",
+      "council_id": "kagawa-pref",
+      "name": "氏家孝志",
+      "name_kana": null,
+      "district": "仲多度郡第一",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境建設",
+        "県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name10_4.html"
+    },
+    {
+      "id": "kagawa-pref--member-930545c2",
+      "council_id": "kagawa-pref",
+      "name": "氏家寿士",
+      "name_kana": null,
+      "district": "善通寺市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 2,
+      "positions": [
+        "総合防災対策 委員長"
+      ],
+      "committees": [
+        "総務",
+        "総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name13_3.html"
+    },
+    {
+      "id": "kagawa-pref--member-fbd3bb4a",
+      "council_id": "kagawa-pref",
+      "name": "大山一郎",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "経済",
+        "議運 県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name8_4.html"
+    },
+    {
+      "id": "kagawa-pref--member-09b42b3c",
+      "council_id": "kagawa-pref",
+      "name": "岡野朱里子",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 3,
+      "positions": [
+        "環境建設 委員長"
+      ],
+      "committees": [
+        "環境建設",
+        "総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name11_1.html"
+    },
+    {
+      "id": "kagawa-pref--member-135507e6",
+      "council_id": "kagawa-pref",
+      "name": "尾崎道広",
+      "name_kana": null,
+      "district": "坂出市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "総務",
+        "地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name2_6.html"
+    },
+    {
+      "id": "kagawa-pref--member-0fbabb87",
+      "council_id": "kagawa-pref",
+      "name": "鏡原慎一郎",
+      "name_kana": null,
+      "district": "東かがわ市",
+      "faction": "香川県議会国民民主党議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "経済",
+        "議運 総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name12_2.html"
+    },
+    {
+      "id": "kagawa-pref--member-0013022a",
+      "council_id": "kagawa-pref",
+      "name": "樫昭二",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "日本共産党香川県議会議員団",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文教厚生",
+        "総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name6_4.html"
+    },
+    {
+      "id": "kagawa-pref--member-f37c507e",
+      "council_id": "kagawa-pref",
+      "name": "金藤友香理",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "香川県議会国民民主党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境建設",
+        "デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_2.html"
+    },
+    {
+      "id": "kagawa-pref--member-1574dad1",
+      "council_id": "kagawa-pref",
+      "name": "鎌田守恭",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "香川県議会自由民主党議員会",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "経済",
+        "地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name2_3.html"
+    },
+    {
+      "id": "kagawa-pref--member-e96341ba",
+      "council_id": "kagawa-pref",
+      "name": "川池秀文",
+      "name_kana": null,
+      "district": "丸亀市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 1,
+      "positions": [
+        "環境建設 副委員長",
+        "地域医療構想 副委員長"
+      ],
+      "committees": [
+        "環境建設",
+        "地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_6.html"
+    },
+    {
+      "id": "kagawa-pref--member-c207899c",
+      "council_id": "kagawa-pref",
+      "name": "小泉敦",
+      "name_kana": null,
+      "district": "小豆郡",
+      "faction": "香川・せとうちnext",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務",
+        "デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_12.html"
+    },
+    {
+      "id": "kagawa-pref--member-90de86e5",
+      "council_id": "kagawa-pref",
+      "name": "五所野尾恭一",
+      "name_kana": null,
+      "district": "仲多度郡第一",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "総務",
+        "総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name2_1.html"
+    },
+    {
+      "id": "kagawa-pref--member-36a82854",
+      "council_id": "kagawa-pref",
+      "name": "五味伸亮",
+      "name_kana": null,
+      "district": "観音寺市",
+      "faction": "香川県議会国民民主党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教厚生",
+        "県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_9.html"
+    },
+    {
+      "id": "kagawa-pref--member-038185cc",
+      "council_id": "kagawa-pref",
+      "name": "斉藤勝範",
+      "name_kana": null,
+      "district": "三豊市",
+      "faction": "香川県議会自由民主党議員会",
+      "elected_count": 6,
+      "positions": [
+        "文教厚生 委員長"
+      ],
+      "committees": [
+        "文教厚生",
+        "議運 地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name8_6.html"
+    },
+    {
+      "id": "kagawa-pref--member-813ed9b3",
+      "council_id": "kagawa-pref",
+      "name": "里石明敏",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 2,
+      "positions": [
+        "県立アリーナ 委員長"
+      ],
+      "committees": [
+        "経済",
+        "県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name13_1.html"
+    },
+    {
+      "id": "kagawa-pref--member-4772e1f3",
+      "council_id": "kagawa-pref",
+      "name": "白川和幸",
+      "name_kana": null,
+      "district": "三豊市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 3,
+      "positions": [
+        "経済 委員長",
+        "議運 地域医療構想 副委員長"
+      ],
+      "committees": [
+        "経済",
+        "議運 地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name11_4.html"
+    },
+    {
+      "id": "kagawa-pref--member-90fde523",
+      "council_id": "kagawa-pref",
+      "name": "城本宏",
+      "name_kana": null,
+      "district": "観音寺市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "経済",
+        "デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name13_4.html"
+    },
+    {
+      "id": "kagawa-pref--member-a2af59d9",
+      "council_id": "kagawa-pref",
+      "name": "十河直",
+      "name_kana": null,
+      "district": "さぬき市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文教厚生",
+        "県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name8_13.html"
+    },
+    {
+      "id": "kagawa-pref--member-e17c0a1a",
+      "council_id": "kagawa-pref",
+      "name": "田井久留美",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "香川県議会公明党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済",
+        "総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_3.html"
+    },
+    {
+      "id": "kagawa-pref--member-818239dc",
+      "council_id": "kagawa-pref",
+      "name": "谷久浩一",
+      "name_kana": null,
+      "district": "小豆郡",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 5,
+      "positions": [
+        "議運 県立アリーナ 委員長"
+      ],
+      "committees": [
+        "文教厚生",
+        "議運 県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name9_2.html"
+    },
+    {
+      "id": "kagawa-pref--member-e25d25c4",
+      "council_id": "kagawa-pref",
+      "name": "都築信行",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "香川県議会公明党議員会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境建設",
+        "議運 デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name8_3.html"
+    },
+    {
+      "id": "kagawa-pref--member-95c7cbe8",
+      "council_id": "kagawa-pref",
+      "name": "天雲千恵美",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "自由保守の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務",
+        "総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_4.html"
+    },
+    {
+      "id": "kagawa-pref--member-dcddadfd",
+      "council_id": "kagawa-pref",
+      "name": "富野和憲",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "香川県議会立憲民主党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済",
+        "地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_5.html"
+    },
+    {
+      "id": "kagawa-pref--member-32c3d5d0",
+      "council_id": "kagawa-pref",
+      "name": "友枝俊陽",
+      "name_kana": null,
+      "district": "観音寺市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 1,
+      "positions": [
+        "総務 副委員長"
+      ],
+      "committees": [
+        "総務",
+        "議運 〇総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_10.html"
+    },
+    {
+      "id": "kagawa-pref--member-c427d983",
+      "council_id": "kagawa-pref",
+      "name": "新田耕造",
+      "name_kana": null,
+      "district": "仲多度郡第二",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教厚生",
+        "地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name9_5.html"
+    },
+    {
+      "id": "kagawa-pref--member-ca8e8b33",
+      "council_id": "kagawa-pref",
+      "name": "花崎光弘",
+      "name_kana": null,
+      "district": "東かがわ市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務",
+        "議運 デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name8_7.html"
+    },
+    {
+      "id": "kagawa-pref--member-513ec1e4",
+      "council_id": "kagawa-pref",
+      "name": "平木享",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "香川県議会自由民主党議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "環境建設",
+        "県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name1_4.html"
+    },
+    {
+      "id": "kagawa-pref--member-415a229c",
+      "council_id": "kagawa-pref",
+      "name": "米田晴彦",
+      "name_kana": null,
+      "district": "丸亀市",
+      "faction": "香川県議会立憲民主党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教厚生",
+        "総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name10_10.html"
+    },
+    {
+      "id": "kagawa-pref--member-07bfffa3",
+      "council_id": "kagawa-pref",
+      "name": "松岡里佳",
+      "name_kana": null,
+      "district": "綾歌郡",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境建設",
+        "デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name12_3.html"
+    },
+    {
+      "id": "kagawa-pref--member-bf53f7f5",
+      "council_id": "kagawa-pref",
+      "name": "松原哲也",
+      "name_kana": null,
+      "district": "木田郡",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "経済",
+        "地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name9_10.html"
+    },
+    {
+      "id": "kagawa-pref--member-a96e4efc",
+      "council_id": "kagawa-pref",
+      "name": "松本公継",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "香川県議会自由民主党議員会",
+      "elected_count": 4,
+      "positions": [
+        "デジタル田園都市 委員長"
+      ],
+      "committees": [
+        "環境建設",
+        "デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name10_1.html"
+    },
+    {
+      "id": "kagawa-pref--member-61bc8808",
+      "council_id": "kagawa-pref",
+      "name": "三木由美子",
+      "name_kana": null,
+      "district": "さぬき市",
+      "faction": "香川県議会国民民主党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務",
+        "地域医療構想"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_11.html"
+    },
+    {
+      "id": "kagawa-pref--member-30c2010f",
+      "council_id": "kagawa-pref",
+      "name": "宮岡陽子",
+      "name_kana": null,
+      "district": "坂出市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 1,
+      "positions": [
+        "文教厚生 副委員長",
+        "デジタル田園都市 副委員長"
+      ],
+      "committees": [
+        "文教厚生",
+        "デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_7.html"
+    },
+    {
+      "id": "kagawa-pref--member-99b8b046",
+      "council_id": "kagawa-pref",
+      "name": "宮本欣貞",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "環境建設",
+        "デジタル田園都市"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name1_1.html"
+    },
+    {
+      "id": "kagawa-pref--member-c4827318",
+      "council_id": "kagawa-pref",
+      "name": "森裕行",
+      "name_kana": null,
+      "district": "三豊市",
+      "faction": "香川県議会立憲民主党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境建設",
+        "議運 県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name10_5.html"
+    },
+    {
+      "id": "kagawa-pref--member-9aa87b35",
+      "council_id": "kagawa-pref",
+      "name": "山田正芳",
+      "name_kana": null,
+      "district": "丸亀市",
+      "faction": "香川県議会自由民主党議員会",
+      "elected_count": 7,
+      "positions": [
+        "総務 委員長"
+      ],
+      "committees": [
+        "総務",
+        "総合防災対策"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name5_5.html"
+    },
+    {
+      "id": "kagawa-pref--member-a214db7b",
+      "council_id": "kagawa-pref",
+      "name": "山根千佳",
+      "name_kana": null,
+      "district": "善通寺市",
+      "faction": "自由民主党香川県政会",
+      "elected_count": 1,
+      "positions": [
+        "経済 副委員長",
+        "県立アリーナ 副委員長"
+      ],
+      "committees": [
+        "経済",
+        "県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name14_8.html"
+    },
+    {
+      "id": "kagawa-pref--member-7ec9b92e",
+      "council_id": "kagawa-pref",
+      "name": "山本悟史",
+      "name_kana": null,
+      "district": "高松市",
+      "faction": "香川県議会国民民主党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教厚生",
+        "県立アリーナ"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/name10_2.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "single_page_gojuon_table_with_district_join",
+    "district_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html",
+    "capacity_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_1.html",
+    "district_count": 13,
+    "capacity_total": 41,
+    "vacancies": 1,
+    "expected_current_members": 40,
+    "parsed_members": 40,
+    "gojuon_rows": 40,
+    "profile_name_fallbacks": [
+      "/gikai/meibo/name11_1.html"
+    ],
+    "districts": [
+      {
+        "district": "高松市",
+        "capacity": 15,
+        "members": 15,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "丸亀市",
+        "capacity": 4,
+        "members": 3,
+        "vacancies": 1,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "坂出市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "善通寺市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "観音寺市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "さぬき市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "東かがわ市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "三豊市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "木田郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "小豆郡",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "綾歌郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "仲多度郡第一",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      },
+      {
+        "district": "仲多度郡第二",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.kagawa.lg.jp/gikai/meibo/4_5.html"
+      }
+    ],
+    "factions": [
+      "市民派改革ネット",
+      "日本共産党香川県議会議員団",
+      "自由保守の会",
+      "自由民主党香川県政会",
+      "香川・せとうちnext",
+      "香川県議会公明党議員会",
+      "香川県議会国民民主党議員会",
+      "香川県議会立憲民主党議員会",
+      "香川県議会自由民主党議員会"
+    ],
+    "notes": [
+      "五十音順ページの氏名・会派・当選回数と、選挙区別ページの選挙区をプロフィールURLで結合",
+      "丸亀市選挙区は公式ページに欠員1名と明記されているため現員40名",
+      "写真は取得せず、氏名画像altは氏名抽出にのみ使用"
+    ]
+  },
+  "updated_at": "2026-06-15T00:52:59+00:00"
+}
