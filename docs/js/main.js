@@ -63,9 +63,14 @@ function setRouteNav({ back = null, crumbs = [] } = {}) {
 
   if (back) {
     node.appendChild(
-      el("a", { class: "route-back", href: back.href, "aria-label": `${back.label}へ戻る` }, [
+      el("a", {
+        class: "route-back",
+        href: back.href,
+        "aria-label": `${back.label}へ戻る`,
+        title: `${back.label}へ戻る`,
+      }, [
         el("span", { class: "route-back-icon", "aria-hidden": "true" }, "←"),
-        el("span", {}, back.label),
+        el("span", {}, back.displayLabel || "戻る"),
       ]),
     );
   }
