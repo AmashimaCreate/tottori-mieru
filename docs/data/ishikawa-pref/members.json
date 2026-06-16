@@ -1,0 +1,637 @@
+{
+  "council_id": "ishikawa-pref",
+  "source_url": "https://www.pref.ishikawa.lg.jp/gikai/meibo/20150430.html",
+  "source_name": "石川県議会 全議員紹介 / 選挙区別名簿",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "ishikawa-pref--himono-yoshiaki",
+      "council_id": "ishikawa-pref",
+      "name": "紐野義昭",
+      "name_kana": "ひもの よしあき",
+      "district": "金沢市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--shimozawa-yoshitaka",
+      "council_id": "ishikawa-pref",
+      "name": "下沢佳充",
+      "name_kana": "しもざわ よしたか",
+      "district": "金沢市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会 予算委員会 海外戦略対策特別委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--yonezawa-kenji",
+      "council_id": "ishikawa-pref",
+      "name": "米澤賢司",
+      "name_kana": "よねざわ けんじ",
+      "district": "金沢市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--morimoto-yoshihisa",
+      "council_id": "ishikawa-pref",
+      "name": "盛本芳久",
+      "name_kana": "もりもと よしひさ",
+      "district": "金沢市",
+      "faction": "未来石川議員会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--yachi-ritsuo",
+      "council_id": "ishikawa-pref",
+      "name": "谷内律夫",
+      "name_kana": "やち りつお",
+      "district": "金沢市",
+      "faction": "公明党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会 予算委員会 少子高齢化対策特別委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--satou-masayuki",
+      "council_id": "ishikawa-pref",
+      "name": "佐藤正幸",
+      "name_kana": "さとう まさゆき",
+      "district": "金沢市",
+      "faction": "日本共産党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会 予算委員会 災害対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--yasui-tomoyo",
+      "council_id": "ishikawa-pref",
+      "name": "安居知世",
+      "name_kana": "やすい ともよ",
+      "district": "金沢市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--fuwa-hirohito",
+      "council_id": "ishikawa-pref",
+      "name": "不破大仁",
+      "name_kana": "ふわ ひろひと",
+      "district": "金沢市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "議長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--tarouda-mari",
+      "council_id": "ishikawa-pref",
+      "name": "太郎田真理",
+      "name_kana": "たろうだ まり",
+      "district": "金沢市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会 予算委員会 災害対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--nagata-tetsuya",
+      "council_id": "ishikawa-pref",
+      "name": "長田哲也",
+      "name_kana": "ながた てつや",
+      "district": "金沢市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会(委員長) 予算委員会 海外戦略対策特別委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--uchide-kiyofumi",
+      "council_id": "ishikawa-pref",
+      "name": "打出喜代文",
+      "name_kana": "うちで きよふみ",
+      "district": "金沢市",
+      "faction": "未来石川議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--komatsu-minoru",
+      "council_id": "ishikawa-pref",
+      "name": "小松実",
+      "name_kana": "こまつ みのる",
+      "district": "金沢市",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--tanaka-mieko",
+      "council_id": "ishikawa-pref",
+      "name": "田中美絵子",
+      "name_kana": "たなか みえこ",
+      "district": "金沢市",
+      "faction": "未来石川議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--kita-kouichi",
+      "council_id": "ishikawa-pref",
+      "name": "喜多浩一",
+      "name_kana": "きた こういち",
+      "district": "金沢市",
+      "faction": "まっすぐ県民目線の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--araki-hirobumi",
+      "council_id": "ishikawa-pref",
+      "name": "荒木博文",
+      "name_kana": "あらき ひろぶみ",
+      "district": "金沢市",
+      "faction": "参政党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会 予算委員会 災害対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--wadauchi-kouzou",
+      "council_id": "ishikawa-pref",
+      "name": "和田内幸三",
+      "name_kana": "わだうち こうぞう",
+      "district": "七尾市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会 予算委員会 災害対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--shimizu-shinichirou",
+      "council_id": "ishikawa-pref",
+      "name": "清水真一路",
+      "name_kana": "しみず しんいちろう",
+      "district": "七尾市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会(委員長) 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--fukumura-akira",
+      "council_id": "ishikawa-pref",
+      "name": "福村章",
+      "name_kana": "ふくむら あきら",
+      "district": "小松市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 12,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--hatsuta-tomoko",
+      "council_id": "ishikawa-pref",
+      "name": "八田知子",
+      "name_kana": "はった ともこ",
+      "district": "小松市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会 予算委員会(副委員長) 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--ichikawa-masayuki",
+      "council_id": "ishikawa-pref",
+      "name": "一川政之",
+      "name_kana": "いちかわ まさゆき",
+      "district": "小松市",
+      "faction": "未来石川議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会 予算委員会 海外戦略対策特別委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--takeda-riyouhei",
+      "council_id": "ishikawa-pref",
+      "name": "竹田良平",
+      "name_kana": "たけだ りょうへい",
+      "district": "小松市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会(副委員長) 予算委員会 災害対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--miyashita-masahiro",
+      "council_id": "ishikawa-pref",
+      "name": "宮下正博",
+      "name_kana": "みやした まさひろ",
+      "district": "輪島市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会 予算委員会 災害対策特別委員会 議会運営委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--heizou-toyoshi",
+      "council_id": "ishikawa-pref",
+      "name": "平蔵豊志",
+      "name_kana": "へいぞう とよし",
+      "district": "珠洲市鳳珠郡",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会 予算委員会 災害対策特別委員会(委員長) 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--doumae-toshiaki",
+      "council_id": "ishikawa-pref",
+      "name": "堂前利昭",
+      "name_kana": "どうまえ としあき",
+      "district": "珠洲市鳳珠郡",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--muroya-hiroyuki",
+      "council_id": "ishikawa-pref",
+      "name": "室谷弘幸",
+      "name_kana": "むろや ひろゆき",
+      "district": "加賀市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会 予算委員会 海外戦略対策特別委員会(委員長) 議会運営委員会 監査委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--takatsuji-nobuyuki",
+      "council_id": "ishikawa-pref",
+      "name": "髙辻伸行",
+      "name_kana": "たかつじ のぶゆき",
+      "district": "加賀市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会 予算委員会 災害対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--houdatsu-norihisa",
+      "council_id": "ishikawa-pref",
+      "name": "寳達典久",
+      "name_kana": "ほうだつ のりひさ",
+      "district": "羽咋市羽咋郡南部",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--kaneko-kentarou",
+      "council_id": "ishikawa-pref",
+      "name": "金子健太郎",
+      "name_kana": "かねこ けんたろう",
+      "district": "かほく市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--sakuno-hiroaki",
+      "council_id": "ishikawa-pref",
+      "name": "作野広昭",
+      "name_kana": "さくの ひろあき",
+      "district": "白山市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会 予算委員会 少子高齢化対策特別委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--yokoyama-takaya",
+      "council_id": "ishikawa-pref",
+      "name": "横山隆也",
+      "name_kana": "よこやま たかや",
+      "district": "白山市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会 予算委員会 災害対策特別委員会 副議長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--kuruma-yukihiro",
+      "council_id": "ishikawa-pref",
+      "name": "車幸弘",
+      "name_kana": "くるま ゆきひろ",
+      "district": "白山市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--anjitsu-takanao",
+      "council_id": "ishikawa-pref",
+      "name": "安実隆直",
+      "name_kana": "あんじつ たかなお",
+      "district": "白山市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会(委員長) 予算委員会 少子高齢化対策特別委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--zenda-yoshihiko",
+      "council_id": "ishikawa-pref",
+      "name": "善田善彦",
+      "name_kana": "ぜんだ よしひこ",
+      "district": "能美市能美郡",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会 予算委員会(委員長) 災害対策特別委員会 議会運営委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--kameda-yutaka",
+      "council_id": "ishikawa-pref",
+      "name": "亀田豊",
+      "name_kana": "かめだ ゆたか",
+      "district": "能美市能美郡",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会(副委員長) 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--yoshida-osamu",
+      "council_id": "ishikawa-pref",
+      "name": "吉田修",
+      "name_kana": "よしだ おさむ",
+      "district": "野々市市",
+      "faction": "未来石川議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会 予算委員会 災害対策特別委員会 監査委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--baba-hirokatsu",
+      "council_id": "ishikawa-pref",
+      "name": "馬場弘勝",
+      "name_kana": "ばば ひろかつ",
+      "district": "野々市市",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境農林建設委員会(副委員長) 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--yakeda-hiroaki",
+      "council_id": "ishikawa-pref",
+      "name": "焼田宏明",
+      "name_kana": "やけだ ひろあき",
+      "district": "河北郡",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "厚生文教委員会 予算委員会 少子高齢化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--oota-shigenori",
+      "council_id": "ishikawa-pref",
+      "name": "太田臣宣",
+      "name_kana": "おおた しげのり",
+      "district": "河北郡",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文化商工公安委員会(委員長) 予算委員会 災害対策特別委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--ishida-akira",
+      "council_id": "ishikawa-pref",
+      "name": "石田章",
+      "name_kana": "いしだ あきら",
+      "district": "羽咋郡北部",
+      "faction": "自由民主党 石川県議会議員協議会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会(副委員長) 予算委員会 海外戦略対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ishikawa-pref--okanojiyou-takashi",
+      "council_id": "ishikawa-pref",
+      "name": "岡野定隆志",
+      "name_kana": "おかのじょう たかし",
+      "district": "鹿島郡",
+      "faction": "未来石川議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務危機復興企画委員会 予算委員会 災害対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    }
+  ],
+  "source_basis_date": "令和8年4月1日現在 / 選挙区別名簿 更新日 2026-03-02",
+  "last_verified": "2026-06-16",
+  "teisu": 41,
+  "genin": 40,
+  "ketsuin": 1,
+  "checks": {
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.ishikawa.lg.jp/gikai/meibo/senkyoku20150430.html",
+    "source_basis_date": "令和8年4月1日現在 / 選挙区別名簿 更新日 2026-03-02",
+    "last_verified": "2026-06-16",
+    "teisu": 41,
+    "genin": 40,
+    "ketsuin": 1,
+    "parsed_members": 40,
+    "vacancy_details": [
+      {
+        "district": "金沢市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.ishikawa.lg.jp/gikai/meibo/senkyoku20150430.html"
+      }
+    ],
+    "notes": [
+      "選挙区別HTMLの氏名・会派・期数・委員会のみを取得",
+      "全議員紹介HTMLは氏名ふりがなの照合にのみ使用",
+      "許可リスト外の個人向け項目は保存しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-16T18:36:36+00:00"
+}

@@ -1,0 +1,31 @@
+{
+  "council_id": "shizuoka-pref",
+  "population": {
+    "value": 3606469,
+    "as_of": "2023-01-01",
+    "source_name": "e-Stat 社会・人口統計体系 A2301 住民基本台帳人口（総数）",
+    "source_url": "https://www.e-stat.go.jp/"
+  },
+  "households": null,
+  "budget_general_yen": null,
+  "fiscal_index": {
+    "value": 0.69278,
+    "fiscal_year": 2021,
+    "source_name": "e-Stat 社会・人口統計体系 D2101 財政力指数",
+    "source_url": "https://www.e-stat.go.jp/"
+  },
+  "aging_rate_pct": {
+    "value": 30.2,
+    "as_of": "2020-01-01",
+    "source_name": "e-Stat 社会・人口統計体系 A1301/A1302/A1303 年齢3区分人口から算出",
+    "source_url": "https://www.e-stat.go.jp/"
+  },
+  "local_debt_yen": null,
+  "member_salary_monthly_yen": null,
+  "per_capita": {
+    "population_per_member": 53036.3,
+    "budget_per_capita_yen": null,
+    "debt_per_capita_yen": null
+  },
+  "updated_at": "2026-06-16T18:42:29+00:00"
+}

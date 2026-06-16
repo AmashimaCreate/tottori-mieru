@@ -245,8 +245,21 @@
       "lg_code": "150002",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.niigata.lg.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.niigata.lg.jp/site/gikai/1356810287682.html"
+        },
+        {
+          "label": "選挙区別名簿",
+          "url": "https://www.pref.niigata.lg.jp/site/gikai/list31-55.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "toyama-pref",
@@ -257,8 +270,17 @@
       "lg_code": "160008",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.toyama.jp/0100/gikai/index.html"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.toyama.jp/0100/gikai/members/kubetu.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "ishikawa-pref",
@@ -269,8 +291,21 @@
       "lg_code": "170003",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.ishikawa.lg.jp/gikai/index.html"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.ishikawa.lg.jp/gikai/meibo/20150430.html"
+        },
+        {
+          "label": "選挙区別名簿",
+          "url": "https://www.pref.ishikawa.lg.jp/gikai/meibo/senkyoku20150430.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "fukui-pref",
@@ -281,8 +316,17 @@
       "lg_code": "180009",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.fukui.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.fukui.lg.jp/doc/gikai-soumu/giinshokai/senkyokubetsu.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "yamanashi-pref",
@@ -293,8 +337,17 @@
       "lg_code": "190004",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.yamanashi.jp/gikaisom/index.html"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.yamanashi.jp/gikaisom/senkyokubetu_meibo.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "nagano-pref",
@@ -305,8 +358,17 @@
       "lg_code": "200000",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.nagano.lg.jp/gikai/chosa/index.html"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/index.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "gifu-pref",
@@ -317,8 +379,21 @@
       "lg_code": "210005",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.gifu.lg.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.gifu.lg.jp/site/gikai/13309.html"
+        },
+        {
+          "label": "選挙区別名簿",
+          "url": "https://www.pref.gifu.lg.jp/site/gikai/13310.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "shizuoka-pref",
@@ -329,8 +404,17 @@
       "lg_code": "220001",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.shizuoka.jp/kensei/kengikai/index.html"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.shizuoka.jp/kensei/kengikai/giinshokai/1054942.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "aichi-pref",
@@ -341,8 +425,17 @@
       "lg_code": "230006",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.aichi.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.aichi.jp/site/gikai/giin-senkyoku.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "mie-pref",
@@ -353,8 +446,17 @@
       "lg_code": "240001",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.mie.lg.jp/KENGIKAI/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.mie.lg.jp/KENGIKAI/89263000001_00001.htm"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "shiga-pref",
