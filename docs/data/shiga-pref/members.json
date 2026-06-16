@@ -1,0 +1,851 @@
+{
+  "council_id": "shiga-pref",
+  "source_url": "https://www.shigaken-gikai.jp/g07_giinlistP.asp",
+  "source_name": "滋賀県議会 議員名簿（五十音順）",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "shiga-pref--akai-yasuhiko",
+      "council_id": "shiga-pref",
+      "name": "赤井康彦",
+      "name_kana": "あかい やすひこ",
+      "district": "彦根市犬上郡",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境・農水・企業常任委員会",
+        "議会運営委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=188"
+    },
+    {
+      "id": "shiga-pref--arimura-kunitoshi",
+      "council_id": "shiga-pref",
+      "name": "有村國俊",
+      "name_kana": "ありむら くにとし",
+      "district": "近江八幡市竜王町",
+      "faction": "無所属",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "教育・子ども若者・警察常任委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=141"
+    },
+    {
+      "id": "shiga-pref--ikari-tatsuya",
+      "council_id": "shiga-pref",
+      "name": "井狩辰也",
+      "name_kana": "いかり たつや",
+      "district": "野洲市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "環境・農水・企業常任委員会 委員長"
+      ],
+      "committees": [
+        "環境・農水・企業常任委員会",
+        "議会運営委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=170"
+    },
+    {
+      "id": "shiga-pref--imae-masahiko",
+      "council_id": "shiga-pref",
+      "name": "今江政彦",
+      "name_kana": "いまえ まさひこ",
+      "district": "近江八幡市竜王町",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "教育・子ども若者・警察常任委員会",
+        "議会運営委員会",
+        "琵琶湖・森林・防災対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=20"
+    },
+    {
+      "id": "shiga-pref--iwasaki-kazuya",
+      "council_id": "shiga-pref",
+      "name": "岩崎和也",
+      "name_kana": "いわさき かずや",
+      "district": "大津市",
+      "faction": "公明党滋賀県議団",
+      "elected_count": null,
+      "positions": [
+        "地方創生・先端技術振興対策特別委員会 副委員長"
+      ],
+      "committees": [
+        "環境・農水・企業常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=193"
+    },
+    {
+      "id": "shiga-pref--ogawa-fumito",
+      "council_id": "shiga-pref",
+      "name": "小河文人",
+      "name_kana": "おがわ ふみと",
+      "district": "甲賀市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "環境・農水・企業常任委員会 副委員長"
+      ],
+      "committees": [
+        "環境・農水・企業常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=184"
+    },
+    {
+      "id": "shiga-pref--ogawa-yasue",
+      "council_id": "shiga-pref",
+      "name": "小川泰江",
+      "name_kana": "おがわ やすえ",
+      "district": "守山市",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [
+        "厚生・産業常任委員会 委員長"
+      ],
+      "committees": [
+        "厚生・産業常任委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=171"
+    },
+    {
+      "id": "shiga-pref--okumura-yoshimasa",
+      "council_id": "shiga-pref",
+      "name": "奥村芳正",
+      "name_kana": "おくむら よしまさ",
+      "district": "草津市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務・企画・公室常任委員会",
+        "議会運営委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=37"
+    },
+    {
+      "id": "shiga-pref--kaitou-hidekazu",
+      "council_id": "shiga-pref",
+      "name": "海東英和",
+      "name_kana": "かいとう ひでかず",
+      "district": "高島市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "教育・子ども若者・警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=158"
+    },
+    {
+      "id": "shiga-pref--katou-seiichi",
+      "council_id": "shiga-pref",
+      "name": "加藤誠一",
+      "name_kana": "かとう せいいち",
+      "district": "東近江市日野町愛荘町",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境・農水・企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=159"
+    },
+    {
+      "id": "shiga-pref--kawashima-riyuuji",
+      "council_id": "shiga-pref",
+      "name": "川島隆二",
+      "name_kana": "かわしま りゅうじ",
+      "district": "長浜市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生・産業常任委員会",
+        "議会運営委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=44"
+    },
+    {
+      "id": "shiga-pref--kawamura-hiroshi",
+      "council_id": "shiga-pref",
+      "name": "河村浩史",
+      "name_kana": "かわむら ひろし",
+      "district": "大津市",
+      "faction": "滋賀維新の会",
+      "elected_count": null,
+      "positions": [
+        "総務・企画・公室常任委員会 副委員長"
+      ],
+      "committees": [
+        "総務・企画・公室常任委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=192"
+    },
+    {
+      "id": "shiga-pref--kirita-makoto",
+      "council_id": "shiga-pref",
+      "name": "桐田真人",
+      "name_kana": "きりた まこと",
+      "district": "大津市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "地方創生・先端技術振興対策特別委員会 委員長"
+      ],
+      "committees": [
+        "総務・企画・公室常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=182"
+    },
+    {
+      "id": "shiga-pref--kunori-manabu",
+      "council_id": "shiga-pref",
+      "name": "九里学",
+      "name_kana": "くのり まなぶ",
+      "district": "栗東市",
+      "faction": "無所属",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "観光文スポ・県土・交通常任委員会",
+        "琵琶湖・森林・防災対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=50"
+    },
+    {
+      "id": "shiga-pref--kuwano-hitoshi",
+      "council_id": "shiga-pref",
+      "name": "桑野仁",
+      "name_kana": "くわの ひとし",
+      "district": "大津市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "議会運営委員会 委員長"
+      ],
+      "committees": [
+        "観光文スポ・県土・交通常任委員会",
+        "議会運営委員会",
+        "琵琶湖・森林・防災対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=169"
+    },
+    {
+      "id": "shiga-pref--komai-chiyo",
+      "council_id": "shiga-pref",
+      "name": "駒井千代",
+      "name_kana": "こまい ちよ",
+      "district": "草津市",
+      "faction": "さざなみ倶楽部",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境・農水・企業常任委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=150"
+    },
+    {
+      "id": "shiga-pref--saguchi-yoshie",
+      "council_id": "shiga-pref",
+      "name": "佐口佳恵",
+      "name_kana": "さぐち よしえ",
+      "district": "大津市",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [
+        "議会運営委員会 副委員長"
+      ],
+      "committees": [
+        "観光文スポ・県土・交通常任委員会",
+        "議会運営委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=174"
+    },
+    {
+      "id": "shiga-pref--shibata-eiichi",
+      "council_id": "shiga-pref",
+      "name": "柴田栄一",
+      "name_kana": "しばた えいいち",
+      "district": "湖南市",
+      "faction": "滋賀維新の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生・産業常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=191"
+    },
+    {
+      "id": "shiga-pref--shibata-kiyoyuki",
+      "council_id": "shiga-pref",
+      "name": "柴田清行",
+      "name_kana": "しばた きよゆき",
+      "district": "長浜市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "観光文スポ・県土・交通常任委員会 委員長"
+      ],
+      "committees": [
+        "観光文スポ・県土・交通常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=176"
+    },
+    {
+      "id": "shiga-pref--shimizu-tetsuji",
+      "council_id": "shiga-pref",
+      "name": "清水鉄次",
+      "name_kana": "しみず てつじ",
+      "district": "高島市",
+      "faction": "さざなみ倶楽部",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生・産業常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=71"
+    },
+    {
+      "id": "shiga-pref--shimizu-hitomi",
+      "council_id": "shiga-pref",
+      "name": "清水ひとみ",
+      "name_kana": "しみず ひとみ",
+      "district": "大津市",
+      "faction": "公明党滋賀県議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "観光文スポ・県土・交通常任委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=177"
+    },
+    {
+      "id": "shiga-pref--shirai-yukinori",
+      "council_id": "shiga-pref",
+      "name": "白井幸則",
+      "name_kana": "しらい ゆきのり",
+      "district": "草津市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "観光文スポ・県土・交通常任委員会",
+        "監査委員(議会選出)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=178"
+    },
+    {
+      "id": "shiga-pref--suou-seiji",
+      "council_id": "shiga-pref",
+      "name": "周防清二",
+      "name_kana": "すおう せいじ",
+      "district": "東近江市日野町愛荘町",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "教育・子ども若者・警察常任委員会",
+        "議会運営委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=168"
+    },
+    {
+      "id": "shiga-pref--suganuma-toshinori",
+      "council_id": "shiga-pref",
+      "name": "菅沼利紀",
+      "name_kana": "すがぬま としのり",
+      "district": "湖南市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "教育改革・DX・GX推進対策特別委員会 委員長"
+      ],
+      "committees": [
+        "環境・農水・企業常任委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=183"
+    },
+    {
+      "id": "shiga-pref--tanaka-hideki",
+      "council_id": "shiga-pref",
+      "name": "田中英樹",
+      "name_kana": "たなか ひでき",
+      "district": "栗東市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "教育・子ども若者・警察常任委員会 副委員長"
+      ],
+      "committees": [
+        "教育・子ども若者・警察常任委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=185"
+    },
+    {
+      "id": "shiga-pref--tanaka-makoto",
+      "council_id": "shiga-pref",
+      "name": "田中誠",
+      "name_kana": "たなか まこと",
+      "district": "草津市",
+      "faction": "滋賀維新の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "教育・子ども若者・警察常任委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=194"
+    },
+    {
+      "id": "shiga-pref--tanaka-matsutarou",
+      "council_id": "shiga-pref",
+      "name": "田中松太郎",
+      "name_kana": "たなか まつたろう",
+      "district": "甲賀市",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [
+        "教育改革・DX・GX推進対策特別委員会 副委員長"
+      ],
+      "committees": [
+        "環境・農水・企業常任委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=163"
+    },
+    {
+      "id": "shiga-pref--tani-shigetaka",
+      "council_id": "shiga-pref",
+      "name": "谷成隆",
+      "name_kana": "たに しげたか",
+      "district": "東近江市日野町愛荘町",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "厚生・産業常任委員会 副委員長"
+      ],
+      "committees": [
+        "厚生・産業常任委員会",
+        "琵琶湖・森林・防災対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=186"
+    },
+    {
+      "id": "shiga-pref--taniguchi-noritaka",
+      "council_id": "shiga-pref",
+      "name": "谷口典隆",
+      "name_kana": "たにぐち のりたか",
+      "district": "彦根市犬上郡",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "琵琶湖・森林・防災対策特別委員会 副委員長"
+      ],
+      "committees": [
+        "観光文スポ・県土・交通常任委員会",
+        "琵琶湖・森林・防災対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=187"
+    },
+    {
+      "id": "shiga-pref--tsuji-masataka",
+      "council_id": "shiga-pref",
+      "name": "辻正隆",
+      "name_kana": "つじ まさたか",
+      "district": "近江八幡市竜王町",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務・企画・公室常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=197"
+    },
+    {
+      "id": "shiga-pref--toba-yoshiaki",
+      "council_id": "shiga-pref",
+      "name": "冨波義明",
+      "name_kana": "とば よしあき",
+      "district": "野洲市",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務・企画・公室常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=145"
+    },
+    {
+      "id": "shiga-pref--nakagawa-masafumi",
+      "council_id": "shiga-pref",
+      "name": "中川雅史",
+      "name_kana": "なかがわ まさふみ",
+      "district": "米原市",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [
+        "観光文スポ・県土・交通常任委員会 副委員長"
+      ],
+      "committees": [
+        "観光文スポ・県土・交通常任委員会",
+        "琵琶湖・森林・防災対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=196"
+    },
+    {
+      "id": "shiga-pref--nakazawa-keiko",
+      "council_id": "shiga-pref",
+      "name": "中沢啓子",
+      "name_kana": "なかざわ けいこ",
+      "district": "彦根市犬上郡",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生・産業常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=94"
+    },
+    {
+      "id": "shiga-pref--nakayama-kazuyuki",
+      "council_id": "shiga-pref",
+      "name": "中山和行",
+      "name_kana": "なかやま かずゆき",
+      "district": "長浜市",
+      "faction": "日本共産党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "教育・子ども若者・警察常任委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=195"
+    },
+    {
+      "id": "shiga-pref--noda-takehiro",
+      "council_id": "shiga-pref",
+      "name": "野田武宏",
+      "name_kana": "のだ たけひろ",
+      "district": "大津市",
+      "faction": "チームしが 県議団",
+      "elected_count": null,
+      "positions": [
+        "教育・子ども若者・警察常任委員会 委員長"
+      ],
+      "committees": [
+        "教育・子ども若者・警察常任委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=190"
+    },
+    {
+      "id": "shiga-pref--fushiki-michiyo",
+      "council_id": "shiga-pref",
+      "name": "節木三千代",
+      "name_kana": "ふしき みちよ",
+      "district": "大津市",
+      "faction": "日本共産党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "行財政・医療福祉対策特別委員会 副委員長"
+      ],
+      "committees": [
+        "厚生・産業常任委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=77"
+    },
+    {
+      "id": "shiga-pref--honda-hideki",
+      "council_id": "shiga-pref",
+      "name": "本田秀樹",
+      "name_kana": "ほんだ ひでき",
+      "district": "東近江市日野町愛荘町",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "総務・企画・公室常任委員会 委員長"
+      ],
+      "committees": [
+        "総務・企画・公室常任委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=179"
+    },
+    {
+      "id": "shiga-pref--murakami-genyou",
+      "council_id": "shiga-pref",
+      "name": "村上元庸",
+      "name_kana": "むらかみ げんよう",
+      "district": "甲賀市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [
+        "行財政・医療福祉対策特別委員会 委員長"
+      ],
+      "committees": [
+        "厚生・産業常任委員会",
+        "行財政・医療福祉対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=181"
+    },
+    {
+      "id": "shiga-pref--mekata-shingo",
+      "council_id": "shiga-pref",
+      "name": "目片信悟",
+      "name_kana": "めかた しんご",
+      "district": "大津市",
+      "faction": "自由民主党滋賀県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生・産業常任委員会",
+        "議会運営委員会",
+        "教育改革・DX・GX推進対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=152"
+    },
+    {
+      "id": "shiga-pref--mokuzawa-masato",
+      "council_id": "shiga-pref",
+      "name": "木沢成人",
+      "name_kana": "もくざわ まさと",
+      "district": "東近江市日野町愛荘町",
+      "faction": "さざなみ倶楽部",
+      "elected_count": null,
+      "positions": [
+        "琵琶湖・森林・防災対策特別委員会 委員長"
+      ],
+      "committees": [
+        "総務・企画・公室常任委員会",
+        "琵琶湖・森林・防災対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=47"
+    },
+    {
+      "id": "shiga-pref--morishige-shigenori",
+      "council_id": "shiga-pref",
+      "name": "森重重則",
+      "name_kana": "もりしげ しげのり",
+      "district": "守山市",
+      "faction": "無所属",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務・企画・公室常任委員会",
+        "地方創生・先端技術振興対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.shigaken-gikai.jp/g07_giinlistS.asp?SrchID=189"
+    }
+  ],
+  "checks": {
+    "source_shape": "gijiroku_g07_member_roster",
+    "district_source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp",
+    "committee_source_url": "https://www.shigaken-gikai.jp/g07_Committee.asp",
+    "capacity_total": 44,
+    "district_count": 13,
+    "parsed_members": 41,
+    "districts": [
+      {
+        "district": "大津市",
+        "capacity": 10,
+        "members": 9,
+        "vacancies": 1,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "彦根市犬上郡",
+        "capacity": 4,
+        "members": 3,
+        "vacancies": 1,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "長浜市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "近江八幡市竜王町",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "草津市",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "守山市",
+        "capacity": 3,
+        "members": 2,
+        "vacancies": 1,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "栗東市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "甲賀市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "野洲市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "湖南市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "高島市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "東近江市日野町愛荘町",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "米原市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      }
+    ],
+    "roster_minus_district": [],
+    "district_minus_roster": [],
+    "notes": [
+      "g07_giinlistP.aspから氏名・ふりがな・選挙区・会派のみを許可リスト抽出",
+      "許可リスト外の項目は保存しない",
+      "g07_giinlist_senkyoku.aspの区別定数を件数検算アンカーとして使用",
+      "写真は取得せず、photo_urlは全員null",
+      "gijiroku.com g07 系の選挙区別名簿を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_gijiroku_district_capacity",
+    "anchor_source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-16",
+    "teisu": 44,
+    "genin": 41,
+    "ketsuin": 3,
+    "vacancy_details": [
+      {
+        "district": "大津市",
+        "ketsuin": 1,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "彦根市犬上郡",
+        "ketsuin": 1,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "守山市",
+        "ketsuin": 1,
+        "source_url": "https://www.shigaken-gikai.jp/g07_giinlist_senkyoku.asp"
+      }
+    ]
+  },
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-16",
+  "teisu": 44,
+  "genin": 41,
+  "ketsuin": 3,
+  "updated_at": "2026-06-16T07:24:13+00:00"
+}

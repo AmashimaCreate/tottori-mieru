@@ -1,0 +1,1082 @@
+{
+  "council_id": "kyoto-pref",
+  "source_url": "https://www.pref.kyoto.jp/gikai/shokai/50on.html",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "kyoto-pref--aihara-kayoko",
+      "council_id": "kyoto-pref",
+      "name": "相原 佳代子",
+      "name_kana": "あいはら かよこ",
+      "district": "城陽市",
+      "faction": "府民クラブ京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "危機管理・健康福祉常任委員会",
+        "魅力ある地域づくりに関する特別委員会 広報広聴会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/joyo/02.html"
+    },
+    {
+      "id": "kyoto-pref--aoki-yoshiteru",
+      "council_id": "kyoto-pref",
+      "name": "青木 義照",
+      "name_kana": "あおき よしてる",
+      "district": "京都市中京区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 2,
+      "positions": [
+        "新技術と社会づくりに関する特別委員会（委員長）"
+      ],
+      "committees": [
+        "総務・警察常任委員会",
+        "新技術と社会づくりに関する特別委員会（委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/chukyo/04.html"
+    },
+    {
+      "id": "kyoto-pref--akita-kouji",
+      "council_id": "kyoto-pref",
+      "name": "秋田 公司",
+      "name_kana": "あきた こうじ",
+      "district": "京都市南区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "危機管理・健康福祉常任委員会",
+        "子育て環境の充実に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/minami/01.html"
+    },
+    {
+      "id": "kyoto-pref--aramaki-riyuuzou",
+      "council_id": "kyoto-pref",
+      "name": "荒巻 隆三",
+      "name_kana": "あらまき りゅうぞう",
+      "district": "京都市東山区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "議長",
+        "総務・警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/higashiyama/01.html"
+    },
+    {
+      "id": "kyoto-pref--iemoto-masaru",
+      "council_id": "kyoto-pref",
+      "name": "家元 優",
+      "name_kana": "いえもと まさる",
+      "district": "福知山市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 3,
+      "positions": [
+        "文化生活・教育常任委員会（委員長）"
+      ],
+      "committees": [
+        "文化生活・教育常任委員会（委員長）",
+        "文化力と価値創造に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/fukuchiyama/02.html"
+    },
+    {
+      "id": "kyoto-pref--ikeda-teruhiko",
+      "council_id": "kyoto-pref",
+      "name": "池田 輝彦",
+      "name_kana": "いけだ てるひこ",
+      "district": "宇治市及び久世郡",
+      "faction": "公明党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [
+        "新技術と社会づくりに関する特別委員会（副委員長） 広報広聴会議"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "議会運営運営委員会議会改革検討小委員会",
+        "文化生活・教育常任委員会",
+        "新技術と社会づくりに関する特別委員会（副委員長） 広報広聴会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/uji/04.html"
+    },
+    {
+      "id": "kyoto-pref--ikeda-masayoshi",
+      "council_id": "kyoto-pref",
+      "name": "池田 正義",
+      "name_kana": "いけだ まさよし",
+      "district": "舞鶴市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [
+        "総務・警察常任委員会（委員長）"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "議会運営委員会議会改革検討小委員会",
+        "総務・警察常任委員会（委員長）",
+        "新技術と社会づくりに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/maizuru/01.html"
+    },
+    {
+      "id": "kyoto-pref--ishida-munehisa",
+      "council_id": "kyoto-pref",
+      "name": "石田 宗久",
+      "name_kana": "いしだ むねひさ",
+      "district": "京都市左京区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務・警察常任委員会",
+        "安心・安全な暮らしに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/sakyo/01.html"
+    },
+    {
+      "id": "kyoto-pref--isono-masaru",
+      "council_id": "kyoto-pref",
+      "name": "磯野 勝",
+      "name_kana": "いその まさる",
+      "district": "向日市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 3,
+      "positions": [
+        "議会運営委員会議会改革検討小委員会（委員長）",
+        "予算特別委員会（委員長）",
+        "子育て環境の充実に関する特別委員会（副委員長） 京都地方税機構議会"
+      ],
+      "committees": [
+        "議会運営委員会（理事）",
+        "議会運営委員会議会改革検討小委員会（委員長）",
+        "予算特別委員会（委員長）",
+        "文化生活・教育常任委員会",
+        "子育て環境の充実に関する特別委員会（副委員長） 京都地方税機構議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/muko/isono.html"
+    },
+    {
+      "id": "kyoto-pref--umoto-kazuhisa",
+      "council_id": "kyoto-pref",
+      "name": "兎本 和久",
+      "name_kana": "うもと かずひさ",
+      "district": "木津川市及び相楽郡",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "副議長",
+        "政策環境建設常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kizugawa/01.html"
+    },
+    {
+      "id": "kyoto-pref--ookouchi-akira",
+      "council_id": "kyoto-pref",
+      "name": "大河内 章",
+      "name_kana": "おおこうち あきら",
+      "district": "京都市右京区",
+      "faction": "公明党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [
+        "政策環境建設常任委員会（副委員長）"
+      ],
+      "committees": [
+        "政策環境建設常任委員会（副委員長）",
+        "安心・安全な暮らしに関する特別委員会 政策調整会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/ukyo/05.html"
+    },
+    {
+      "id": "kyoto-pref--oosawa-akihisa",
+      "council_id": "kyoto-pref",
+      "name": "大澤 彰久",
+      "name_kana": "おおさわ あきひさ",
+      "district": "京都市山科区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [
+        "文化生活・教育常任委員会（副委員長）"
+      ],
+      "committees": [
+        "文化生活・教育常任委員会（副委員長）",
+        "安心・安全な暮らしに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/yamashina/01.html"
+    },
+    {
+      "id": "kyoto-pref--okamoto-kazunori",
+      "council_id": "kyoto-pref",
+      "name": "岡本 和德",
+      "name_kana": "おかもと かずのり",
+      "district": "京都市右京区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [
+        "安心・安全な暮らしに関する特別委員会（委員長）"
+      ],
+      "committees": [
+        "政策環境建設常任委員会",
+        "安心・安全な暮らしに関する特別委員会（委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/ukyo/01.html"
+    },
+    {
+      "id": "kyoto-pref--okumura-fumihiro",
+      "council_id": "kyoto-pref",
+      "name": "奥村 文浩",
+      "name_kana": "おくむら ふみひろ",
+      "district": "城陽市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農商工労働常任委員会",
+        "安心・安全な暮らしに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/joyo/sonosaki.html"
+    },
+    {
+      "id": "kyoto-pref--ohara-mai",
+      "council_id": "kyoto-pref",
+      "name": "小原 舞",
+      "name_kana": "おはら まい",
+      "district": "舞鶴市",
+      "faction": "府民クラブ京都府議会議員団",
+      "elected_count": 3,
+      "positions": [
+        "文化力と価値創造に関する特別委員会（委員長） 京都地方税機構議会"
+      ],
+      "committees": [
+        "議会運営委員会（理事）",
+        "議会運営委員会議会改革検討小委員会",
+        "政策環境建設常任委員会",
+        "文化力と価値創造に関する特別委員会（委員長） 京都地方税機構議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/maizuru/ohara.html"
+    },
+    {
+      "id": "kyoto-pref--kajiwara-hideki",
+      "council_id": "kyoto-pref",
+      "name": "梶原 英樹",
+      "name_kana": "かじわら ひでき",
+      "district": "京都市山科区",
+      "faction": "京都が好きだ",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農商工労働常任委員会",
+        "魅力ある地域づくりに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/yamashina/02.html"
+    },
+    {
+      "id": "kyoto-pref--katayama-seiji",
+      "council_id": "kyoto-pref",
+      "name": "片山 誠治",
+      "name_kana": "かたやま せいじ",
+      "district": "南丹市及び船井郡",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 5,
+      "positions": [
+        "文化力と価値創造に関する特別委員会（副委員長）"
+      ],
+      "committees": [
+        "農商工労働常任委員会",
+        "文化力と価値創造に関する特別委員会（副委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/nantan/01.html"
+    },
+    {
+      "id": "kyoto-pref--kamikura-kiyoyuki",
+      "council_id": "kyoto-pref",
+      "name": "上倉 淑敬",
+      "name_kana": "かみくら きよゆき",
+      "district": "京都市伏見区",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文化生活・教育常任委員会",
+        "文化力と価値創造に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/fushimi/kamikura.html"
+    },
+    {
+      "id": "kyoto-pref--kitaoka-chiharu",
+      "council_id": "kyoto-pref",
+      "name": "北岡 千はる",
+      "name_kana": "きたおか ちはる",
+      "district": "京都市左京区",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 9,
+      "positions": [
+        "総務・警察常任委員会（副委員長）"
+      ],
+      "committees": [
+        "総務・警察常任委員会（副委員長）",
+        "新技術と社会づくりに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/sakyo/02.html"
+    },
+    {
+      "id": "kyoto-pref--kitagawa-takashi",
+      "council_id": "kyoto-pref",
+      "name": "北川 剛司",
+      "name_kana": "きたがわ たかし",
+      "district": "京田辺市及び綴喜郡",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "議会運営委員会（理事）",
+        "議会運営委員会議会改革検討小委員会",
+        "農商工労働常任委員会",
+        "新技術と社会づくりに関する特別委員会 京都地方税機構議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kyotanabe/kitagawa.html"
+    },
+    {
+      "id": "kyoto-pref--kusuoka-masahiro",
+      "council_id": "kyoto-pref",
+      "name": "楠岡 誠広",
+      "name_kana": "くすおか まさひろ",
+      "district": "宇治市及び久世郡",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "危機管理・健康福祉常任委員会",
+        "子育て環境の充実に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/uji/02.html"
+    },
+    {
+      "id": "kyoto-pref--kokaji-yoshihiro",
+      "council_id": "kyoto-pref",
+      "name": "小鍛治 義広",
+      "name_kana": "こかじ よしひろ",
+      "district": "京都市南区",
+      "faction": "公明党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "議会運営委員会（理事）",
+        "議会運営委員会議会改革検討小委員会",
+        "総務・警察常任委員会",
+        "文化力と価値創造に関する特別委員会 京都地方税機構議会 関西広域連合議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/minami/02.html"
+    },
+    {
+      "id": "kyoto-pref--komaki-kumi",
+      "council_id": "kyoto-pref",
+      "name": "小巻 久美",
+      "name_kana": "こまき くみ",
+      "district": "京都市下京区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [
+        "危機管理・健康福祉常任委員会（副委員長）"
+      ],
+      "committees": [
+        "危機管理・健康福祉常任委員会（副委員長）",
+        "魅力ある地域づくりに関する特別委員会 広報広聴会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/shimogyo/01.html"
+    },
+    {
+      "id": "kyoto-pref--saijiyou-toshihiro",
+      "council_id": "kyoto-pref",
+      "name": "西條 利洋",
+      "name_kana": "さいじょう としひろ",
+      "district": "長岡京市及び乙訓郡",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務・警察常任委員会",
+        "子育て環境の充実に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/nagaokakyo/01.html"
+    },
+    {
+      "id": "kyoto-pref--sako-yuuji",
+      "council_id": "kyoto-pref",
+      "name": "迫 祐仁",
+      "name_kana": "さこ ゆうじ",
+      "district": "京都市上京区",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "農商工労働常任委員会",
+        "文化力と価値創造に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kamigyo/01.html"
+    },
+    {
+      "id": "kyoto-pref--shimada-keiko",
+      "council_id": "kyoto-pref",
+      "name": "島田 敬子",
+      "name_kana": "しまだ けいこ",
+      "district": "京都市右京区",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "危機管理・健康福祉常任委員会",
+        "文化力と価値創造に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/ukyo/03.html"
+    },
+    {
+      "id": "kyoto-pref--takiwaki-masaaki",
+      "council_id": "kyoto-pref",
+      "name": "瀧脇 正明",
+      "name_kana": "たきわき まさあき",
+      "district": "京都市伏見区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 2,
+      "positions": [
+        "文化力と価値創造に関する特別委員会（副委員長） 広報広聴会議（座長）"
+      ],
+      "committees": [
+        "文化生活・教育常任委員会",
+        "文化力と価値創造に関する特別委員会（副委員長） 広報広聴会議（座長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/fushimi/01.html"
+    },
+    {
+      "id": "kyoto-pref--takeuchi-saya",
+      "council_id": "kyoto-pref",
+      "name": "竹内 紗耶",
+      "name_kana": "たけうち さや",
+      "district": "京都市右京区",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文化生活・教育常任委員会",
+        "魅力ある地域づくりに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/ukyo/06.html"
+    },
+    {
+      "id": "kyoto-pref--takeda-mitsuki",
+      "council_id": "kyoto-pref",
+      "name": "武田 光樹",
+      "name_kana": "たけだ みつき",
+      "district": "福知山市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [
+        "農商工労働常任委員会（副委員長）",
+        "子育て環境の充実に関する特別委員会（副委員長）"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "農商工労働常任委員会（副委員長）",
+        "子育て環境の充実に関する特別委員会（副委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/fukuchiyama/01.html"
+    },
+    {
+      "id": "kyoto-pref--tajima-yoshimitsu",
+      "council_id": "kyoto-pref",
+      "name": "田島 祥充",
+      "name_kana": "たじま よしみつ",
+      "district": "八幡市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 2,
+      "positions": [
+        "予算特別委員会（副委員長）",
+        "危機管理・健康福祉常任委員会（副委員長）"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "議会運営委員会議会改革検討小委員会",
+        "予算特別委員会（副委員長）",
+        "危機管理・健康福祉常任委員会（副委員長）",
+        "魅力ある地域づくりに関する特別委員会 政策調整会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/yawata/01.html"
+    },
+    {
+      "id": "kyoto-pref--tanaka-kenji",
+      "council_id": "kyoto-pref",
+      "name": "田中 健志",
+      "name_kana": "たなか けんじ",
+      "district": "京都市中京区",
+      "faction": "府民クラブ京都府議会議員団",
+      "elected_count": 5,
+      "positions": [
+        "予算特別委員会（副委員長）",
+        "農商工労働常任委員会（副委員長）"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "議会運営委員会議会改革検討小委員会",
+        "予算特別委員会（副委員長）",
+        "農商工労働常任委員会（副委員長）",
+        "子育て環境の充実に関する特別委員会 政策調整会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/chukyo/02.html"
+    },
+    {
+      "id": "kyoto-pref--tanaka-shiho",
+      "council_id": "kyoto-pref",
+      "name": "田中 志歩",
+      "name_kana": "たなか しほ",
+      "district": "京都市下京区",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "農商工労働常任委員会",
+        "魅力ある地域づくりに関する特別委員会 広報広聴会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/shimogyo/02.html"
+    },
+    {
+      "id": "kyoto-pref--tanaka-hideo",
+      "council_id": "kyoto-pref",
+      "name": "田中 英夫",
+      "name_kana": "たなか ひでお",
+      "district": "亀岡市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 7,
+      "positions": [
+        "文化生活・教育常任委員会（副委員長）"
+      ],
+      "committees": [
+        "文化生活・教育常任委員会（副委員長）",
+        "魅力ある地域づくりに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kameoka/02.html"
+    },
+    {
+      "id": "kyoto-pref--tanaka-fujiko",
+      "council_id": "kyoto-pref",
+      "name": "田中 富士子",
+      "name_kana": "たなか ふじこ",
+      "district": "京都市中京区",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "危機管理・健康福祉常任委員会",
+        "魅力ある地域づくりに関する特別委員会 広報広聴会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/chukyo/03.html"
+    },
+    {
+      "id": "kyoto-pref--tanaka-mikiko",
+      "council_id": "kyoto-pref",
+      "name": "田中 美貴子",
+      "name_kana": "たなか みきこ",
+      "district": "宇治市及び久世郡",
+      "faction": "府民クラブ京都府議会議員団",
+      "elected_count": 3,
+      "positions": [
+        "安心・安全な暮らしに関する特別委員会（副委員長）"
+      ],
+      "committees": [
+        "総務・警察常任委員会",
+        "安心・安全な暮らしに関する特別委員会（副委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/uji/tanakami.html"
+    },
+    {
+      "id": "kyoto-pref--tanekiyo-yoshiyuki",
+      "council_id": "kyoto-pref",
+      "name": "種清 喜之",
+      "name_kana": "たねきよ よしゆき",
+      "district": "綾部市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "危機管理・健康福祉常任委員会",
+        "子育て環境の充実に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/ayabe/01.html"
+    },
+    {
+      "id": "kyoto-pref--tsuda-hiroya",
+      "council_id": "kyoto-pref",
+      "name": "津田 裕也",
+      "name_kana": "つだ ひろや",
+      "district": "京都市北区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [
+        "政策環境建設常任委員会（副委員長）"
+      ],
+      "committees": [
+        "政策環境建設常任委員会（副委員長）",
+        "文化力と価値創造に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kita/02.html"
+    },
+    {
+      "id": "kyoto-pref--nakashima-takefumi",
+      "council_id": "kyoto-pref",
+      "name": "中島 武文",
+      "name_kana": "なかしま たけふみ",
+      "district": "宮津市及び与謝郡",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 3,
+      "positions": [
+        "農商工労働常任委員会（委員長）"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "議会運営委員会議会改革検討小委員会",
+        "農商工労働常任委員会（委員長）",
+        "新技術と社会づくりに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/miyazu/nakashima.html"
+    },
+    {
+      "id": "kyoto-pref--nakamura-masataka",
+      "council_id": "kyoto-pref",
+      "name": "中村 正孝",
+      "name_kana": "なかむら まさたか",
+      "district": "亀岡市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 3,
+      "positions": [
+        "議会運営委員会（委員長兼理事）",
+        "政策環境建設常任委員会（委員長）"
+      ],
+      "committees": [
+        "議会運営委員会（委員長兼理事）",
+        "政策環境建設常任委員会（委員長）",
+        "安心・安全な暮らしに関する特別委員会 京都地方税機構議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kameoka/nakamura.html"
+    },
+    {
+      "id": "kyoto-pref--narumiya-mariko",
+      "council_id": "kyoto-pref",
+      "name": "成宮 真理子",
+      "name_kana": "なるみや まりこ",
+      "district": "京都市西京区",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "議会運営委員会議会改革検討小委員会",
+        "文化生活・教育常任委員会",
+        "安心・安全な暮らしに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/nishikyo/03.html"
+    },
+    {
+      "id": "kyoto-pref--nishimura-yukiko",
+      "council_id": "kyoto-pref",
+      "name": "西村 由貴子",
+      "name_kana": "にしむら ゆきこ",
+      "district": "京都市右京区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文化生活・教育常任委員会",
+        "子育て環境の充実に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/ukyo/08.html"
+    },
+    {
+      "id": "kyoto-pref--nishiyama-tatsuo",
+      "council_id": "kyoto-pref",
+      "name": "西山 龍夫",
+      "name_kana": "にしやま たつお",
+      "district": "八幡市",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務・警察常任委員会",
+        "安心・安全な暮らしに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/yawata/002.html"
+    },
+    {
+      "id": "kyoto-pref--nose-masahiro",
+      "council_id": "kyoto-pref",
+      "name": "能勢 昌博",
+      "name_kana": "のせ まさひろ",
+      "district": "長岡京市及び乙訓郡",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [
+        "安心・安全な暮らしに関する特別委員会（副委員長）"
+      ],
+      "committees": [
+        "監査委員",
+        "農商工労働常任委員会",
+        "安心・安全な暮らしに関する特別委員会（副委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/nagaokakyo/02.html"
+    },
+    {
+      "id": "kyoto-pref--hatamoto-kunie",
+      "council_id": "kyoto-pref",
+      "name": "畑本 久仁枝",
+      "name_kana": "はたもと くにえ",
+      "district": "京都市西京区",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "政策環境建設常任委員会",
+        "文化力と価値創造に関する特別委員会 関西広域連合議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/nishikyo/02.html"
+    },
+    {
+      "id": "kyoto-pref--hatamoto-yoshimasa",
+      "council_id": "kyoto-pref",
+      "name": "畑本 義允",
+      "name_kana": "はたもと よしまさ",
+      "district": "京都市北区",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "政策環境建設常任委員会",
+        "安心・安全な暮らしに関する特別委員会 政策調整会議"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kita/hatamoto.html"
+    },
+    {
+      "id": "kyoto-pref--baba-kouhei",
+      "council_id": "kyoto-pref",
+      "name": "馬場 紘平",
+      "name_kana": "ばば こうへい",
+      "district": "京都市伏見区",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "政策環境建設常任委員会",
+        "子育て環境の充実に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/fushimi/02.html"
+    },
+    {
+      "id": "kyoto-pref--hamada-yoshiyuki",
+      "council_id": "kyoto-pref",
+      "name": "浜田 良之",
+      "name_kana": "はまだ よしゆき",
+      "district": "京都市北区",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "予算特別委員会（幹事）",
+        "文化生活・教育常任委員会",
+        "子育て環境の充実に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kita/01.html"
+    },
+    {
+      "id": "kyoto-pref--hayashi-masaki",
+      "council_id": "kyoto-pref",
+      "name": "林 正樹",
+      "name_kana": "はやし まさき",
+      "district": "京都市山科区",
+      "faction": "公明党京都府議会議員団",
+      "elected_count": 5,
+      "positions": [
+        "危機管理・健康福祉常任委員会（委員長）"
+      ],
+      "committees": [
+        "危機管理・健康福祉常任委員会（委員長）",
+        "子育て環境の充実に関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/yamashina/03.html"
+    },
+    {
+      "id": "kyoto-pref--fujiyama-yukiko",
+      "council_id": "kyoto-pref",
+      "name": "藤山 裕紀子",
+      "name_kana": "ふじやま ゆきこ",
+      "district": "宇治市及び久世郡",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 4,
+      "positions": [
+        "魅力ある地域づくりに関する特別委員会（副委員長）"
+      ],
+      "committees": [
+        "監査委員",
+        "政策環境建設常任委員会",
+        "魅力ある地域づくりに関する特別委員会（副委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/uji/hujiyama.html"
+    },
+    {
+      "id": "kyoto-pref--fudeyasu-yoshikazu",
+      "council_id": "kyoto-pref",
+      "name": "筆保 祥一",
+      "name_kana": "ふでやす よしかず",
+      "district": "木津川市及び相楽郡",
+      "faction": "国民民主党・日本維新の会京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "議会運営委員会議会改革検討小委員会",
+        "予算特別委員会（幹事）",
+        "危機管理・健康福祉常任委員会",
+        "安心・安全な暮らしに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kizugawa/03.html"
+    },
+    {
+      "id": "kyoto-pref--furubayashi-yoshitaka",
+      "council_id": "kyoto-pref",
+      "name": "古林 良崇",
+      "name_kana": "ふるばやし よしたか",
+      "district": "京田辺市及び綴喜郡",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 2,
+      "positions": [
+        "総務・警察常任委員会（副委員長）"
+      ],
+      "committees": [
+        "総務・警察常任委員会（副委員長）",
+        "文化力と価値創造に関する特別委員会 関西広域連合議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kyotanabe/02.html"
+    },
+    {
+      "id": "kyoto-pref--masuda-daisuke",
+      "council_id": "kyoto-pref",
+      "name": "増田 大輔",
+      "name_kana": "ますだ だいすけ",
+      "district": "京都市伏見区",
+      "faction": "府民クラブ京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文化生活・教育常任委員会",
+        "新技術と社会づくりに関する特別委員会 関西広域連合議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/fushimi/03.html"
+    },
+    {
+      "id": "kyoto-pref--mizutani-osamu",
+      "council_id": "kyoto-pref",
+      "name": "水谷 修",
+      "name_kana": "みずたに おさむ",
+      "district": "宇治市及び久世郡",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "政策環境建設常任委員会",
+        "新技術と社会づくりに関する特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/uji/05.html"
+    },
+    {
+      "id": "kyoto-pref--mitsunaga-atsuhiko",
+      "council_id": "kyoto-pref",
+      "name": "光永 敦彦",
+      "name_kana": "みつなが あつひこ",
+      "district": "京都市左京区",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "議会運営委員会（理事）",
+        "議会運営委員会議会改革検討小委員会",
+        "農商工労働常任委員会",
+        "新技術と社会づくりに関する特別委員会 京都地方税機構議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/sakyo/04.html"
+    },
+    {
+      "id": "kyoto-pref--miyashita-yukiko",
+      "council_id": "kyoto-pref",
+      "name": "宮下 友紀子",
+      "name_kana": "みやした ゆきこ",
+      "district": "京都市上京区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 2,
+      "positions": [
+        "魅力ある地域づくりに関する特別委員会（委員長）"
+      ],
+      "committees": [
+        "危機管理・健康福祉常任委員会",
+        "魅力ある地域づくりに関する特別委員会（委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kamigyo/03.html"
+    },
+    {
+      "id": "kyoto-pref--mori-yoshiharu",
+      "council_id": "kyoto-pref",
+      "name": "森 吉治",
+      "name_kana": "もり よしはる",
+      "district": "京都市南区",
+      "faction": "日本共産党京都府議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務・警察常任委員会",
+        "魅力ある地域づくりに関する特別委員会 政策調整会議 ※名前の「吉」は",
+        "土に口の字"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/minami/03.html"
+    },
+    {
+      "id": "kyoto-pref--moriguchi-tooru",
+      "council_id": "kyoto-pref",
+      "name": "森口 亨",
+      "name_kana": "もりぐち とおる",
+      "district": "京丹後市",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 2,
+      "positions": [
+        "子育て環境の充実に関する特別委員会（委員長） 政策調整会議（座長）"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "議会運営委員会議会改革検討小委員会",
+        "危機管理・健康福祉常任委員会",
+        "子育て環境の充実に関する特別委員会（委員長） 政策調整会議（座長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/kyotango/02.html"
+    },
+    {
+      "id": "kyoto-pref--yamaguchi-masaru",
+      "council_id": "kyoto-pref",
+      "name": "山口 勝",
+      "name_kana": "やまぐち まさる",
+      "district": "京都市伏見区",
+      "faction": "公明党京都府議会議員団",
+      "elected_count": 6,
+      "positions": [
+        "予算特別委員会（副委員長）",
+        "魅力ある地域づくりに関する特別委員会（副委員長）"
+      ],
+      "committees": [
+        "予算特別委員会（副委員長）",
+        "農商工労働常任委員会",
+        "魅力ある地域づくりに関する特別委員会（副委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/fushimi/05.html"
+    },
+    {
+      "id": "kyoto-pref--watanabe-kuniko",
+      "council_id": "kyoto-pref",
+      "name": "渡辺 邦子",
+      "name_kana": "わたなべ くにこ",
+      "district": "京都市伏見区",
+      "faction": "自由民主党京都府議会議員団",
+      "elected_count": 6,
+      "positions": [
+        "新技術と社会づくりに関する特別委員会（副委員長）"
+      ],
+      "committees": [
+        "政策環境建設常任委員会",
+        "新技術と社会づくりに関する特別委員会（副委員長）"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kyoto.jp/gikai/shokai/senkyoku/fushimi/06.html"
+    }
+  ],
+  "source_basis_date": "50音順名簿 更新日 2023-05-01",
+  "last_verified": "2026-06-16",
+  "teisu": 60,
+  "genin": 59,
+  "ketsuin": 1,
+  "checks": {
+    "anchor_type": "official_roster_count_with_capacity_constant",
+    "anchor_source_url": "https://www.pref.kyoto.jp/gikai/shokai/50on.html",
+    "source_basis_date": "50音順名簿 更新日 2023-05-01",
+    "last_verified": "2026-06-16",
+    "teisu": 60,
+    "genin": 59,
+    "ketsuin": 1,
+    "parsed_members": 59,
+    "vacancy_details": [
+      {
+        "label": "50音順名簿掲載59人、定数60との差",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.kyoto.jp/gikai/shokai/50on.html"
+      }
+    ],
+    "notes": [
+      "50音順名簿から個別プロフィールURLを抽出し、氏名・ふりがな・選挙区・会派・当選回数・委員会のみを許可リストで取得",
+      "許可リスト外の個人向け項目は保存しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-16T07:42:14+00:00"
+}

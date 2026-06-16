@@ -365,8 +365,17 @@
       "lg_code": "250007",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.shigaken-gikai.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.shigaken-gikai.jp/g07_giinlistP.asp"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "kyoto-pref",
@@ -377,8 +386,21 @@
       "lg_code": "260002",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.kyoto.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.kyoto.jp/gikai/shokai/50on.html"
+        },
+        {
+          "label": "会議録検索",
+          "url": "https://www.pref.kyoto.dbsr.jp/index.php/"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "osaka-pref",
@@ -389,8 +411,17 @@
       "lg_code": "270008",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.osaka.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.osaka.lg.jp/o170010/gikai_somu/sugatami20/index50.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "hyogo-pref",
@@ -401,8 +432,21 @@
       "lg_code": "280003",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://web.pref.hyogo.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://web.pref.hyogo.lg.jp/gikai/giinshokai/shokai/50on/50on_ichiran23.html"
+        },
+        {
+          "label": "会議録検索",
+          "url": "https://www.kensakusystem.jp/hyogopref/index.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "nara-pref",
@@ -413,8 +457,21 @@
       "lg_code": "290009",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.nara.lg.jp/n161/1690.html"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.nara.lg.jp/n161/52534.html"
+        },
+        {
+          "label": "正確な氏名表記",
+          "url": "https://www.pref.nara.lg.jp/n161/p114004.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "wakayama-pref",
@@ -425,8 +482,17 @@
       "lg_code": "300004",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/www/index.html"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.wakayama.lg.jp/prefg/200100/cms/d00213187.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "tottori-pref",
