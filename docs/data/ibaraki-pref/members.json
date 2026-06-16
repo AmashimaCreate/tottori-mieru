@@ -1,0 +1,1004 @@
+{
+  "council_id": "ibaraki-pref",
+  "source_url": "https://www.pref.ibaraki.jp/gikai/meibo/meibo_1.htm",
+  "source_name": "茨城県議会 県議会議員名簿（一覧）",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "ibaraki-pref--member-d2824d1c",
+      "council_id": "ibaraki-pref",
+      "name": "舘静馬",
+      "name_kana": null,
+      "district": "水戸市・城里町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-9b84fb47",
+      "council_id": "ibaraki-pref",
+      "name": "高崎進",
+      "name_kana": null,
+      "district": "水戸市・城里町選挙区",
+      "faction": "公明党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-484bcc4b",
+      "council_id": "ibaraki-pref",
+      "name": "木本信太郎",
+      "name_kana": null,
+      "district": "水戸市・城里町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会 副委員長",
+        "県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-a6f02c03",
+      "council_id": "ibaraki-pref",
+      "name": "玉造順一",
+      "name_kana": null,
+      "district": "水戸市・城里町選挙区",
+      "faction": "茨城無所属・政策の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会",
+        "県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-5e6db9e4",
+      "council_id": "ibaraki-pref",
+      "name": "江尻加那",
+      "name_kana": null,
+      "district": "水戸市・城里町選挙区",
+      "faction": "日本共産党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会",
+        "決算特別委員会 県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-c0bb8175",
+      "council_id": "ibaraki-pref",
+      "name": "川津隆",
+      "name_kana": null,
+      "district": "水戸市・城里町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会",
+        "予算特別委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-e8ab9b75",
+      "council_id": "ibaraki-pref",
+      "name": "村本修司",
+      "name_kana": null,
+      "district": "日立市選挙区",
+      "faction": "公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会",
+        "情報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-5ac8cdbe",
+      "council_id": "ibaraki-pref",
+      "name": "髙安博明",
+      "name_kana": null,
+      "district": "日立市選挙区",
+      "faction": "国民民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-fd9552f1",
+      "council_id": "ibaraki-pref",
+      "name": "齋藤英彰",
+      "name_kana": null,
+      "district": "日立市選挙区",
+      "faction": "国民民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-51d05e32",
+      "council_id": "ibaraki-pref",
+      "name": "瀬谷幸伸",
+      "name_kana": null,
+      "district": "日立市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "決算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-1377f3e2",
+      "council_id": "ibaraki-pref",
+      "name": "八島功男",
+      "name_kana": null,
+      "district": "土浦市選挙区",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会",
+        "決算特別委員会 県民の命を守る医療に関する調査特別委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-bc37e4d7",
+      "council_id": "ibaraki-pref",
+      "name": "髙橋直子",
+      "name_kana": null,
+      "district": "土浦市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務企画委員会 副委員長",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-cb224823",
+      "council_id": "ibaraki-pref",
+      "name": "伊沢勝徳",
+      "name_kana": null,
+      "district": "土浦市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-ad8a0b6e",
+      "council_id": "ibaraki-pref",
+      "name": "髙橋勝則",
+      "name_kana": null,
+      "district": "古河市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "情報委員会 委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-d63c867b",
+      "council_id": "ibaraki-pref",
+      "name": "森田卓歩",
+      "name_kana": null,
+      "district": "古河市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-47af41b1",
+      "council_id": "ibaraki-pref",
+      "name": "秋山政明",
+      "name_kana": null,
+      "district": "古河市選挙区",
+      "faction": "無所属",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会",
+        "予算特別委員会 決算特別委員会 県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-ba800b8f",
+      "council_id": "ibaraki-pref",
+      "name": "櫻井信幸",
+      "name_kana": null,
+      "district": "石岡市選挙区",
+      "faction": "茨城無所属・政策の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "決算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-6198ea92",
+      "council_id": "ibaraki-pref",
+      "name": "秋元勇人",
+      "name_kana": null,
+      "district": "結城市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "情報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-f6bab0b7",
+      "council_id": "ibaraki-pref",
+      "name": "中山一生",
+      "name_kana": null,
+      "district": "龍ケ崎市・利根町選挙区",
+      "faction": "茨城無所属・政策の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会",
+        "予算特別委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-56065930",
+      "council_id": "ibaraki-pref",
+      "name": "坂本隆司",
+      "name_kana": null,
+      "district": "龍ケ崎市・利根町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会 委員長",
+        "予算特別委員会 決算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-6d444c09",
+      "council_id": "ibaraki-pref",
+      "name": "飯塚秋男",
+      "name_kana": null,
+      "district": "下妻市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-43827e7a",
+      "council_id": "ibaraki-pref",
+      "name": "飯田智男",
+      "name_kana": null,
+      "district": "常総市・八千代町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会",
+        "議会運営委員会 委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-06c09ba5",
+      "council_id": "ibaraki-pref",
+      "name": "金子晃久",
+      "name_kana": null,
+      "district": "常総市・八千代町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "県民の命を守る医療に関する調査特別委員会 副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-99903466",
+      "council_id": "ibaraki-pref",
+      "name": "石井邦一",
+      "name_kana": null,
+      "district": "常陸太田市・大子町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会",
+        "決算特別委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-63fb9dc8",
+      "council_id": "ibaraki-pref",
+      "name": "西野一",
+      "name_kana": null,
+      "district": "常陸太田市・大子町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "県民の命を守る医療に関する調査特別委員会 委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-922b4b87",
+      "council_id": "ibaraki-pref",
+      "name": "豊田茂",
+      "name_kana": null,
+      "district": "高萩市・北茨城市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会 委員長",
+        "予算特別委員会 議会運営委員会 副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-6c81fcc6",
+      "council_id": "ibaraki-pref",
+      "name": "大足光司",
+      "name_kana": null,
+      "district": "高萩市・北茨城市選挙区",
+      "faction": "国民民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会",
+        "決算特別委員会 情報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-34cacc66",
+      "council_id": "ibaraki-pref",
+      "name": "常井洋治",
+      "name_kana": null,
+      "district": "笠間市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会",
+        "予算特別委員会 委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-18004f19",
+      "council_id": "ibaraki-pref",
+      "name": "村上典男",
+      "name_kana": null,
+      "district": "笠間市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "決算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-02ea6a9a",
+      "council_id": "ibaraki-pref",
+      "name": "川口政弥",
+      "name_kana": null,
+      "district": "取手市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "予算特別委員会 県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-677eaeb8",
+      "council_id": "ibaraki-pref",
+      "name": "岩澤信",
+      "name_kana": null,
+      "district": "取手市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会",
+        "決算特別委員会 情報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-259994d2",
+      "council_id": "ibaraki-pref",
+      "name": "長田麻美",
+      "name_kana": null,
+      "district": "牛久市選挙区",
+      "faction": "日本維新の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-e596b4d9",
+      "council_id": "ibaraki-pref",
+      "name": "諸橋太一郎",
+      "name_kana": null,
+      "district": "牛久市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "決算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-ea9c8561",
+      "council_id": "ibaraki-pref",
+      "name": "山本美和",
+      "name_kana": null,
+      "district": "つくば市選挙区",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-0387c20d",
+      "council_id": "ibaraki-pref",
+      "name": "鈴木将",
+      "name_kana": null,
+      "district": "つくば市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "決算特別委員会 情報委員会 委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--heizujiyon",
+      "council_id": "ibaraki-pref",
+      "name": "ヘイズジョン",
+      "name_kana": null,
+      "district": "つくば市選挙区",
+      "faction": "茨城無所属・政策の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "情報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-30f8ecfa",
+      "council_id": "ibaraki-pref",
+      "name": "うののぶこ",
+      "name_kana": null,
+      "district": "つくば市選挙区",
+      "faction": "市民ネットワーク",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会",
+        "決算特別委員会 県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-d740519b",
+      "council_id": "ibaraki-pref",
+      "name": "塚本一也",
+      "name_kana": null,
+      "district": "つくば市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会",
+        "県民の命を守る医療に関する調査特別委員会 情報委員会 副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-c3610384",
+      "council_id": "ibaraki-pref",
+      "name": "磯崎達也",
+      "name_kana": null,
+      "district": "ひたちなか市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会 委員長",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-7620aedf",
+      "council_id": "ibaraki-pref",
+      "name": "二川英俊",
+      "name_kana": null,
+      "district": "ひたちなか市選挙区",
+      "faction": "国民民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会",
+        "県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-27ce1f02",
+      "council_id": "ibaraki-pref",
+      "name": "海野透",
+      "name_kana": null,
+      "district": "ひたちなか市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 10,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-231afeb0",
+      "council_id": "ibaraki-pref",
+      "name": "小松﨑敏紀",
+      "name_kana": null,
+      "district": "鹿嶋市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会 副委員長",
+        "情報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-e421233c",
+      "council_id": "ibaraki-pref",
+      "name": "柗田千春",
+      "name_kana": null,
+      "district": "潮来市・行方市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会 副委員長",
+        "県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-40aced6e",
+      "council_id": "ibaraki-pref",
+      "name": "小川一成",
+      "name_kana": null,
+      "district": "守谷市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会",
+        "県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-6aa0a9dd",
+      "council_id": "ibaraki-pref",
+      "name": "黒部博英",
+      "name_kana": null,
+      "district": "常陸大宮市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務企画委員会 委員長",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-3c9b668b",
+      "council_id": "ibaraki-pref",
+      "name": "小泉周司",
+      "name_kana": null,
+      "district": "那珂市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "土木企業立地推進委員会",
+        "予算特別委員会 県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-2d1b7a0b",
+      "council_id": "ibaraki-pref",
+      "name": "水柿一俊",
+      "name_kana": null,
+      "district": "筑西市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会",
+        "決算特別委員会 副委員長 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-44ee4914",
+      "council_id": "ibaraki-pref",
+      "name": "稲川新二",
+      "name_kana": null,
+      "district": "筑西市選挙区",
+      "faction": "無所属",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-1983dc32",
+      "council_id": "ibaraki-pref",
+      "name": "半村登",
+      "name_kana": null,
+      "district": "坂東市・五霞町・境町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-4a7fb8c4",
+      "council_id": "ibaraki-pref",
+      "name": "石塚隼人",
+      "name_kana": null,
+      "district": "坂東市・五霞町・境町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教警察委員会 委員長",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-550832f6",
+      "council_id": "ibaraki-pref",
+      "name": "細谷典幸",
+      "name_kana": null,
+      "district": "稲敷市・河内町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-d3ff0520",
+      "council_id": "ibaraki-pref",
+      "name": "金子敏明",
+      "name_kana": null,
+      "district": "かすみがうら市選挙区",
+      "faction": "無所属",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-9f4ab3e6",
+      "council_id": "ibaraki-pref",
+      "name": "白田信夫",
+      "name_kana": null,
+      "district": "桜川市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-781388c8",
+      "council_id": "ibaraki-pref",
+      "name": "秋嘉一",
+      "name_kana": null,
+      "district": "神栖市選挙区",
+      "faction": "無所属",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "防災環境産業委員会",
+        "予算特別委員会 情報委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-4b04edd1",
+      "council_id": "ibaraki-pref",
+      "name": "村田康成",
+      "name_kana": null,
+      "district": "神栖市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会 委員長",
+        "予算特別委員会 県民の命を守る医療に関する調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-86e7feec",
+      "council_id": "ibaraki-pref",
+      "name": "田山東湖",
+      "name_kana": null,
+      "district": "鉾田市・茨城町・大洗町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "文教警察委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-6e5c2305",
+      "council_id": "ibaraki-pref",
+      "name": "長谷川重幸",
+      "name_kana": null,
+      "district": "鉾田市・茨城町・大洗町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務企画委員会",
+        "予算特別委員会 副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-c60021e7",
+      "council_id": "ibaraki-pref",
+      "name": "横田透",
+      "name_kana": null,
+      "district": "つくばみらい市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会 副委員長",
+        "決算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-4d50f1bf",
+      "council_id": "ibaraki-pref",
+      "name": "木村喜一",
+      "name_kana": null,
+      "district": "小美玉市選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉医療委員会 副委員長",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-cafc3f9e",
+      "council_id": "ibaraki-pref",
+      "name": "下路健次郎",
+      "name_kana": null,
+      "district": "東海村選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "ibaraki-pref--member-c6817730",
+      "council_id": "ibaraki-pref",
+      "name": "葉梨衛",
+      "name_kana": null,
+      "district": "美浦村・阿見町選挙区",
+      "faction": "いばらき自民党",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "営業戦略農林水産委員会",
+        "予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    }
+  ],
+  "checks": {
+    "source_shape": "member_card_single_page",
+    "declared_text": "令和8年6月8日現在 定数62人・現員61人",
+    "anchor_type": "official_current_and_capacity_text",
+    "anchor_source_url": "https://www.pref.ibaraki.jp/gikai/meibo/meibo_1.htm",
+    "source_basis_date": "令和8年6月8日現在 / 定数62人・現員61人",
+    "last_verified": "2026-06-16",
+    "teisu": 62,
+    "genin": 61,
+    "ketsuin": 1,
+    "parsed_members": 61,
+    "vacancy_details": [
+      {
+        "district": "石岡市選挙区",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.ibaraki.jp/gikai/meibo/meibo_1.htm"
+      }
+    ],
+    "notes": [
+      "member-card要素から氏名・選挙区・会派・当選回数・委員会のみを取得",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "source_basis_date": "令和8年6月8日現在 / 定数62人・現員61人",
+  "last_verified": "2026-06-16",
+  "teisu": 62,
+  "genin": 61,
+  "ketsuin": 1,
+  "updated_at": "2026-06-16T22:02:17+00:00"
+}

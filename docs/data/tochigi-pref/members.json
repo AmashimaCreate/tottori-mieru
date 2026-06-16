@@ -1,0 +1,752 @@
+{
+  "council_id": "tochigi-pref",
+  "source_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/meibosenkyokuyobi.html",
+  "source_name": "栃木県議会 選挙区別議員名簿",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "tochigi-pref--watanabe-noriyoshi",
+      "council_id": "tochigi-pref",
+      "name": "渡邉典喜",
+      "name_kana": "わたなべ のりよし",
+      "district": "宇都宮市・上三川町",
+      "faction": "民主市民クラブ",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済企業委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/watanaben.html"
+    },
+    {
+      "id": "tochigi-pref--ookubo-yumi",
+      "council_id": "tochigi-pref",
+      "name": "大久保ゆみ",
+      "name_kana": "おおくぼ ゆみ",
+      "district": "宇都宮市・上三川町",
+      "faction": "日本維新の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "生活保健福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/ookuboy.html"
+    },
+    {
+      "id": "tochigi-pref--kaneko-musashi",
+      "council_id": "tochigi-pref",
+      "name": "金子武蔵",
+      "name_kana": "かねこ むさし",
+      "district": "宇都宮市・上三川町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "経済企業委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/kanekom.html"
+    },
+    {
+      "id": "tochigi-pref--nomura-setsuko",
+      "council_id": "tochigi-pref",
+      "name": "野村せつ子",
+      "name_kana": "のむら せつこ",
+      "district": "宇都宮市・上三川町",
+      "faction": "日本共産党栃木県議団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "県政経営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/nomuras.html"
+    },
+    {
+      "id": "tochigi-pref--nozawa-kazuichi",
+      "council_id": "tochigi-pref",
+      "name": "野澤和一",
+      "name_kana": "のざわ かずいち",
+      "district": "宇都宮市・上三川町",
+      "faction": "公明党栃木県議会議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "県土整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/nozawak.html"
+    },
+    {
+      "id": "tochigi-pref--nakajima-hiroshi",
+      "council_id": "tochigi-pref",
+      "name": "中島宏",
+      "name_kana": "なかじま ひろし",
+      "district": "宇都宮市・上三川町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "県政経営委員会 議会運営委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/nakajimah.html"
+    },
+    {
+      "id": "tochigi-pref--yokomatsu-morito",
+      "council_id": "tochigi-pref",
+      "name": "横松盛人",
+      "name_kana": "よこまつ もりと",
+      "district": "宇都宮市・上三川町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "生活保健福祉委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/yokomatum.html"
+    },
+    {
+      "id": "tochigi-pref--watanabe-sachiko",
+      "council_id": "tochigi-pref",
+      "name": "渡辺幸子",
+      "name_kana": "わたなべ さちこ",
+      "district": "宇都宮市・上三川町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "農林環境委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/watanabes.html"
+    },
+    {
+      "id": "tochigi-pref--yamada-miyako",
+      "council_id": "tochigi-pref",
+      "name": "山田みやこ",
+      "name_kana": "やまだ みやこ",
+      "district": "宇都宮市・上三川町",
+      "faction": "民主市民クラブ",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文教警察委員会 議会あり方検討会 国会等移転促進協議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/yamadam.html"
+    },
+    {
+      "id": "tochigi-pref--yamaguchi-tsuneo",
+      "council_id": "tochigi-pref",
+      "name": "山口恒夫",
+      "name_kana": "やまぐち つねお",
+      "district": "宇都宮市・上三川町",
+      "faction": "公明党栃木県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "農林環境委員会 予算特別委員会 議会あり方検討会 国会等移転促進協議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/yamagutit.html"
+    },
+    {
+      "id": "tochigi-pref--soutome-yukihiko",
+      "council_id": "tochigi-pref",
+      "name": "五月女裕久彦",
+      "name_kana": "そうとめ ゆきひこ",
+      "district": "宇都宮市・上三川町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "農林環境委員会 議会運営委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/soutomey.html"
+    },
+    {
+      "id": "tochigi-pref--tsubura-akihito",
+      "council_id": "tochigi-pref",
+      "name": "螺良昭人",
+      "name_kana": "つぶら あきひと",
+      "district": "宇都宮市・上三川町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "県政経営委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/tuburaa.html"
+    },
+    {
+      "id": "tochigi-pref--ootani-yayoi",
+      "council_id": "tochigi-pref",
+      "name": "大谷弥生",
+      "name_kana": "おおたに やよい",
+      "district": "足利市",
+      "faction": "夢と希望あふれる栃木を創る会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/ootaniy.html"
+    },
+    {
+      "id": "tochigi-pref--sugita-hikaru",
+      "council_id": "tochigi-pref",
+      "name": "杉田光",
+      "name_kana": "すぎた ひかる",
+      "district": "足利市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "生活保健福祉委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/sugitah.html"
+    },
+    {
+      "id": "tochigi-pref--shioda-hitoshi",
+      "council_id": "tochigi-pref",
+      "name": "塩田ひとし",
+      "name_kana": "しおだ ひとし",
+      "district": "足利市",
+      "faction": "県民クラブ",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教警察委員会 国会等移転促進協議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/siodah.html"
+    },
+    {
+      "id": "tochigi-pref--kimura-yoshifumi",
+      "council_id": "tochigi-pref",
+      "name": "木村好文",
+      "name_kana": "きむら よしふみ",
+      "district": "足利市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "県土整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/kimuray.html"
+    },
+    {
+      "id": "tochigi-pref--hiraike-hiroshi",
+      "council_id": "tochigi-pref",
+      "name": "平池紘士",
+      "name_kana": "ひらいけ ひろし",
+      "district": "栃木市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教警察委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/hiraikeh2.html"
+    },
+    {
+      "id": "tochigi-pref--higano-yoshiyuki",
+      "council_id": "tochigi-pref",
+      "name": "日向野義幸",
+      "name_kana": "ひがの よしゆき",
+      "district": "栃木市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "県政経営委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/higanoy.html"
+    },
+    {
+      "id": "tochigi-pref--hobo-kinichirou",
+      "council_id": "tochigi-pref",
+      "name": "保母欽一郎",
+      "name_kana": "ほぼ きんいちろう",
+      "district": "栃木市",
+      "faction": "県民クラブ",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "農林環境委員会 予算特別委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/hobok.html"
+    },
+    {
+      "id": "tochigi-pref--yokota-makoto",
+      "council_id": "tochigi-pref",
+      "name": "横田誠",
+      "name_kana": "よこた まこと",
+      "district": "佐野市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教警察委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/yokotam.html"
+    },
+    {
+      "id": "tochigi-pref--okabe-mitsuko",
+      "council_id": "tochigi-pref",
+      "name": "岡部光子",
+      "name_kana": "おかべ みつこ",
+      "district": "佐野市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "県土整備委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/okabem.html"
+    },
+    {
+      "id": "tochigi-pref--oonuki-takeshi",
+      "council_id": "tochigi-pref",
+      "name": "大貫毅",
+      "name_kana": "おおぬき たけし",
+      "district": "鹿沼市",
+      "faction": "民主市民クラブ",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林環境委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/oonuki.html"
+    },
+    {
+      "id": "tochigi-pref--yuzawa-hideyuki",
+      "council_id": "tochigi-pref",
+      "name": "湯澤英之",
+      "name_kana": "ゆざわ ひでゆき",
+      "district": "鹿沼市",
+      "faction": "夢と希望あふれる栃木を創る会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "県政経営委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/yuzawah.html"
+    },
+    {
+      "id": "tochigi-pref--kamiya-yukinobu",
+      "council_id": "tochigi-pref",
+      "name": "神谷幸伸",
+      "name_kana": "かみや ゆきのぶ",
+      "district": "鹿沼市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文教警察委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/kamiyay.html"
+    },
+    {
+      "id": "tochigi-pref--katou-yuuji",
+      "council_id": "tochigi-pref",
+      "name": "加藤雄次",
+      "name_kana": "かとう ゆうじ",
+      "district": "日光市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林環境委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/katouu.html"
+    },
+    {
+      "id": "tochigi-pref--abe-hiromi",
+      "council_id": "tochigi-pref",
+      "name": "あべひろみ",
+      "name_kana": "あべ ひろみ",
+      "district": "日光市",
+      "faction": "夢と希望あふれる栃木を創る会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "県土整備委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/abeh.html"
+    },
+    {
+      "id": "tochigi-pref--ooki-hidenori",
+      "council_id": "tochigi-pref",
+      "name": "大木英憲",
+      "name_kana": "おおき ひでのり",
+      "district": "小山市・野木町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済企業委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/ookih.html"
+    },
+    {
+      "id": "tochigi-pref--nakaya-dai",
+      "council_id": "tochigi-pref",
+      "name": "中屋大",
+      "name_kana": "なかや だい",
+      "district": "小山市・野木町",
+      "faction": "民主市民クラブ",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "県政経営委員会 議会運営委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/nakayad.html"
+    },
+    {
+      "id": "tochigi-pref--nishimura-shinji",
+      "council_id": "tochigi-pref",
+      "name": "西村しんじ",
+      "name_kana": "にしむら しんじ",
+      "district": "小山市・野木町",
+      "faction": "公明党栃木県議会議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "経済企業委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/nisimuras.html"
+    },
+    {
+      "id": "tochigi-pref--shiraishi-toshitaka",
+      "council_id": "tochigi-pref",
+      "name": "白石資隆",
+      "name_kana": "しらいし としたか",
+      "district": "小山市・野木町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "生活保健福祉委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/siraisit.html"
+    },
+    {
+      "id": "tochigi-pref--itabashi-kazuyoshi",
+      "council_id": "tochigi-pref",
+      "name": "板橋一好",
+      "name_kana": "いたばし かずよし",
+      "district": "小山市・野木町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 14,
+      "positions": [],
+      "committees": [
+        "県土整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/itabasik.html"
+    },
+    {
+      "id": "tochigi-pref--ikegami-masami",
+      "council_id": "tochigi-pref",
+      "name": "池上正美",
+      "name_kana": "いけがみ まさみ",
+      "district": "真岡市",
+      "faction": "県民クラブ",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "生活保健福祉委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/ikegamim.html"
+    },
+    {
+      "id": "tochigi-pref--hoshi-masato",
+      "council_id": "tochigi-pref",
+      "name": "星雅人",
+      "name_kana": "ほし まさと",
+      "district": "大田原市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林環境委員会 議会運営委員会 国会等移転促進協議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/satoum.html"
+    },
+    {
+      "id": "tochigi-pref--ikeda-tadashi",
+      "council_id": "tochigi-pref",
+      "name": "池田忠",
+      "name_kana": "いけだ ただし",
+      "district": "大田原市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "生活保健福祉委員会 国会等移転促進協議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/ikedat.html"
+    },
+    {
+      "id": "tochigi-pref--aoki-katsuaki",
+      "council_id": "tochigi-pref",
+      "name": "青木克明",
+      "name_kana": "あおき かつあき",
+      "district": "矢板市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "経済企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/aokik.html"
+    },
+    {
+      "id": "tochigi-pref--tsuchiya-akiko",
+      "council_id": "tochigi-pref",
+      "name": "土屋晃子",
+      "name_kana": "つちや あきこ",
+      "district": "那須塩原市・那須町",
+      "faction": "民主市民クラブ",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "生活保健福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/tsuchiyaa.html"
+    },
+    {
+      "id": "tochigi-pref--sekiya-nobuyuki",
+      "council_id": "tochigi-pref",
+      "name": "関谷暢之",
+      "name_kana": "せきや のぶゆき",
+      "district": "那須塩原市・那須町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教警察委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/sekiyan.html"
+    },
+    {
+      "id": "tochigi-pref--abe-toshikazu",
+      "council_id": "tochigi-pref",
+      "name": "阿部寿一",
+      "name_kana": "あべ としかず",
+      "district": "那須塩原市・那須町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "経済企業委員会 予算特別委員会 議会あり方検討会 国会等移転促進協議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/abet.html"
+    },
+    {
+      "id": "tochigi-pref--satou-haruhiko",
+      "council_id": "tochigi-pref",
+      "name": "佐藤晴彦",
+      "name_kana": "さとう はるひこ",
+      "district": "さくら市・塩谷郡",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "県土整備委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/satouh.html"
+    },
+    {
+      "id": "tochigi-pref--kosuge-tetsuo",
+      "council_id": "tochigi-pref",
+      "name": "小菅哲男",
+      "name_kana": "こすげ てつお",
+      "district": "さくら市・塩谷郡",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教警察委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/kosuget.html"
+    },
+    {
+      "id": "tochigi-pref--numata-kunihiko",
+      "council_id": "tochigi-pref",
+      "name": "沼田邦彦",
+      "name_kana": "ぬまた くにひこ",
+      "district": "那須烏山市・那珂川町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "県政経営委員会 予算特別委員会 国会等移転促進協議会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/numatak.html"
+    },
+    {
+      "id": "tochigi-pref--takayama-kazunori",
+      "council_id": "tochigi-pref",
+      "name": "高山和典",
+      "name_kana": "たかやま かずのり",
+      "district": "下野市",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "県政経営委員会 議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/takayamak.html"
+    },
+    {
+      "id": "tochigi-pref--yamagata-shiyuuji",
+      "council_id": "tochigi-pref",
+      "name": "山形修治",
+      "name_kana": "やまがた しゅうじ",
+      "district": "芳賀郡",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "県土整備委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/yamagatas.html"
+    },
+    {
+      "id": "tochigi-pref--iwasaki-makoto",
+      "council_id": "tochigi-pref",
+      "name": "岩崎信",
+      "name_kana": "いわさき まこと",
+      "district": "芳賀郡",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "経済企業委員会 議会運営委員会 議会あり方検討会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/iwasakim.html"
+    },
+    {
+      "id": "tochigi-pref--satou-riyou",
+      "council_id": "tochigi-pref",
+      "name": "佐藤良",
+      "name_kana": "さとう りょう",
+      "district": "壬生町",
+      "faction": "とちぎ自民党議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "生活保健福祉委員会 予算特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/satour.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "district_tables_with_profile_allowlist",
+    "district_count": 16,
+    "district_capacities": {
+      "宇都宮市・上三川町": 13,
+      "足利市": 4,
+      "栃木市": 4,
+      "佐野市": 3,
+      "鹿沼市": 3,
+      "日光市": 2,
+      "小山市・野木町": 5,
+      "真岡市": 2,
+      "大田原市": 2,
+      "矢板市": 1,
+      "那須塩原市・那須町": 4,
+      "さくら市・塩谷郡": 2,
+      "那須烏山市・那珂川町": 1,
+      "下野市": 1,
+      "芳賀郡": 2,
+      "壬生町": 1
+    },
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/meibosenkyokuyobi.html",
+    "source_basis_date": "令和8年4月20日現在 / 定数50・現員45",
+    "last_verified": "2026-06-16",
+    "teisu": 50,
+    "genin": 45,
+    "ketsuin": 5,
+    "parsed_members": 45,
+    "vacancy_details": [
+      {
+        "district": "宇都宮市・上三川町",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/meibosenkyokuyobi.html"
+      },
+      {
+        "district": "栃木市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/meibosenkyokuyobi.html"
+      },
+      {
+        "district": "佐野市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/meibosenkyokuyobi.html"
+      },
+      {
+        "district": "真岡市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/meibosenkyokuyobi.html"
+      },
+      {
+        "district": "那須塩原市・那須町",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.tochigi.lg.jp/p01/assembly/giin/meibo/meibosenkyokuyobi.html"
+      }
+    ],
+    "notes": [
+      "選挙区別一覧は連絡先欄を含むため、氏名リンク・会派列のみを抽出",
+      "個別プロフィールはふりがな・期数・選挙区・会派・所属委員会等のみ許可リストで取得",
+      "連絡先欄・個人サイトは取得しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "source_basis_date": "令和8年4月20日現在 / 定数50・現員45",
+  "last_verified": "2026-06-16",
+  "teisu": 50,
+  "genin": 45,
+  "ketsuin": 5,
+  "updated_at": "2026-06-16T21:55:43+00:00"
+}

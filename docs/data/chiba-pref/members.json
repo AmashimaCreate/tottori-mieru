@@ -1,0 +1,1401 @@
+{
+  "council_id": "chiba-pref",
+  "source_url": "https://www.pref.chiba.lg.jp/gikai/giji/giin/giinshoukai/index.html",
+  "source_name": "千葉県議会 議員紹介（五十音順）",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "chiba-pref--aishinya",
+      "council_id": "chiba-pref",
+      "name": "阿井伸也",
+      "name_kana": "あいしんや",
+      "district": "大網白里市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-03.html"
+    },
+    {
+      "id": "chiba-pref--akamamasaaki",
+      "council_id": "chiba-pref",
+      "name": "赤間正明",
+      "name_kana": "あかままさあき",
+      "district": "市川市",
+      "faction": "公明党千葉県議会議員団",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-20.html"
+    },
+    {
+      "id": "chiba-pref--akibashiyuuichi",
+      "council_id": "chiba-pref",
+      "name": "秋葉就一",
+      "name_kana": "あきばしゅういち",
+      "district": "八千代市",
+      "faction": "リベラル民主",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-97.html"
+    },
+    {
+      "id": "chiba-pref--akibayashitakashi",
+      "council_id": "chiba-pref",
+      "name": "秋林貴史",
+      "name_kana": "あきばやしたかし",
+      "district": "松戸市",
+      "faction": "公明党千葉県議会議員団",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-37.html"
+    },
+    {
+      "id": "chiba-pref--akiyamaataru",
+      "council_id": "chiba-pref",
+      "name": "秋山陽",
+      "name_kana": "あきやまあたる",
+      "district": "千葉市若葉区",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-106.html"
+    },
+    {
+      "id": "chiba-pref--asanofumiko",
+      "council_id": "chiba-pref",
+      "name": "浅野ふみ子",
+      "name_kana": "あさのふみこ",
+      "district": "市川市",
+      "faction": "日本共産党千葉県議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-107.html"
+    },
+    {
+      "id": "chiba-pref--abekouichi",
+      "council_id": "chiba-pref",
+      "name": "阿部紘一",
+      "name_kana": "あべこういち",
+      "district": "千葉市稲毛区",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-11.html"
+    },
+    {
+      "id": "chiba-pref--abetoshiaki",
+      "council_id": "chiba-pref",
+      "name": "阿部俊昭",
+      "name_kana": "あべとしあき",
+      "district": "柏市",
+      "faction": "公明党千葉県議会議員団",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-54.html"
+    },
+    {
+      "id": "chiba-pref--amanoyukio",
+      "council_id": "chiba-pref",
+      "name": "天野行雄",
+      "name_kana": "あまのゆきお",
+      "district": "千葉市稲毛区",
+      "faction": "国民民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-12.html"
+    },
+    {
+      "id": "chiba-pref--amamiyashingo",
+      "council_id": "chiba-pref",
+      "name": "雨宮真吾",
+      "name_kana": "あまみやしんご",
+      "district": "成田市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-108.html"
+    },
+    {
+      "id": "chiba-pref--aminakahajime",
+      "council_id": "chiba-pref",
+      "name": "網中肇",
+      "name_kana": "あみなかはじめ",
+      "district": "千葉市中央区",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-92.html"
+    },
+    {
+      "id": "chiba-pref--ishikawariyou",
+      "council_id": "chiba-pref",
+      "name": "石川りょう",
+      "name_kana": "いしかわりょう",
+      "district": "船橋市",
+      "faction": "千葉新政策議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-109.html"
+    },
+    {
+      "id": "chiba-pref--ishibashikiyotaka",
+      "council_id": "chiba-pref",
+      "name": "石橋清孝",
+      "name_kana": "いしばしきよたか",
+      "district": "東金市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-50.html"
+    },
+    {
+      "id": "chiba-pref--izukurayuuta",
+      "council_id": "chiba-pref",
+      "name": "伊豆倉雄太",
+      "name_kana": "いずくらゆうた",
+      "district": "市原市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-101.html"
+    },
+    {
+      "id": "chiba-pref--itouchikako",
+      "council_id": "chiba-pref",
+      "name": "伊藤ちかこ",
+      "name_kana": "いとうちかこ",
+      "district": "白井市",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-110.html"
+    },
+    {
+      "id": "chiba-pref--itouhiroshi",
+      "council_id": "chiba-pref",
+      "name": "伊藤寛",
+      "name_kana": "いとうひろし",
+      "district": "習志野市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-100.html"
+    },
+    {
+      "id": "chiba-pref--itoumasahiro",
+      "council_id": "chiba-pref",
+      "name": "伊藤昌弘",
+      "name_kana": "いとうまさひろ",
+      "district": "佐倉市・印旛郡酒々井町",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-48.html"
+    },
+    {
+      "id": "chiba-pref--imaimasaru",
+      "council_id": "chiba-pref",
+      "name": "今井勝",
+      "name_kana": "いまいまさる",
+      "district": "我孫子市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-69.html"
+    },
+    {
+      "id": "chiba-pref--irieakiko",
+      "council_id": "chiba-pref",
+      "name": "入江晶子",
+      "name_kana": "いりえあきこ",
+      "district": "佐倉市・印旛郡酒々井町",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-47.html"
+    },
+    {
+      "id": "chiba-pref--iwaiyasunori",
+      "council_id": "chiba-pref",
+      "name": "岩井泰憲",
+      "name_kana": "いわいやすのり",
+      "district": "印西市・印旛郡栄町",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-99.html"
+    },
+    {
+      "id": "chiba-pref--unohiroshi",
+      "council_id": "chiba-pref",
+      "name": "宇野裕",
+      "name_kana": "うのひろし",
+      "district": "匝瑳市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-85.html"
+    },
+    {
+      "id": "chiba-pref--enosawayoshikatsu",
+      "council_id": "chiba-pref",
+      "name": "江野澤吉克",
+      "name_kana": "えのさわよしかつ",
+      "district": "袖ケ浦市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-80.html"
+    },
+    {
+      "id": "chiba-pref--enomotorei",
+      "council_id": "chiba-pref",
+      "name": "榎本怜",
+      "name_kana": "えのもとれい",
+      "district": "野田市",
+      "faction": "野田民主の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-111.html"
+    },
+    {
+      "id": "chiba-pref--ogawatoshiyuki",
+      "council_id": "chiba-pref",
+      "name": "小川としゆき",
+      "name_kana": "おがわとしゆき",
+      "district": "千葉市若葉区",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-112.html"
+    },
+    {
+      "id": "chiba-pref--odakanobumoto",
+      "council_id": "chiba-pref",
+      "name": "小高伸太",
+      "name_kana": "おだかのぶもと",
+      "district": "勝浦市・いすみ市・夷隅郡",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-59.html"
+    },
+    {
+      "id": "chiba-pref--odakayuuka",
+      "council_id": "chiba-pref",
+      "name": "小高夕佳",
+      "name_kana": "おだかゆうか",
+      "district": "成田市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-45.html"
+    },
+    {
+      "id": "chiba-pref--orimototatsunori",
+      "council_id": "chiba-pref",
+      "name": "折本龍則",
+      "name_kana": "おりもとたつのり",
+      "district": "浦安市",
+      "faction": "有志の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-113.html"
+    },
+    {
+      "id": "chiba-pref--katouhideo",
+      "council_id": "chiba-pref",
+      "name": "加藤英雄",
+      "name_kana": "かとうひでお",
+      "district": "柏市",
+      "faction": "日本共産党千葉県議会議員団",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-57.html"
+    },
+    {
+      "id": "chiba-pref--katouyuuta",
+      "council_id": "chiba-pref",
+      "name": "加藤裕太",
+      "name_kana": "かとうゆうた",
+      "district": "香取市・香取郡神崎町・香取郡多古町",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-86.html"
+    },
+    {
+      "id": "chiba-pref--kawakamishigeru",
+      "council_id": "chiba-pref",
+      "name": "河上茂",
+      "name_kana": "かわかみしげる",
+      "district": "松戸市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-39.html"
+    },
+    {
+      "id": "chiba-pref--kawaguchiemi",
+      "council_id": "chiba-pref",
+      "name": "川口絵未",
+      "name_kana": "かわぐちえみ",
+      "district": "佐倉市・印旛郡酒々井町",
+      "faction": "未来ちば",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-114.html"
+    },
+    {
+      "id": "chiba-pref--kawanakousuke",
+      "council_id": "chiba-pref",
+      "name": "川名康介",
+      "name_kana": "かわなこうすけ",
+      "district": "鴨川市・南房総市・安房郡",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-71.html"
+    },
+    {
+      "id": "chiba-pref--kawanahiroaki",
+      "council_id": "chiba-pref",
+      "name": "川名寛章",
+      "name_kana": "かわなひろあき",
+      "district": "君津市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-74.html"
+    },
+    {
+      "id": "chiba-pref--kawamurahiroaki",
+      "council_id": "chiba-pref",
+      "name": "川村博章",
+      "name_kana": "かわむらひろあき",
+      "district": "千葉市花見川区",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-115.html"
+    },
+    {
+      "id": "chiba-pref--kikuokatazuko",
+      "council_id": "chiba-pref",
+      "name": "菊岡たづ子",
+      "name_kana": "きくおかたづこ",
+      "district": "市原市",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-62.html"
+    },
+    {
+      "id": "chiba-pref--kishitakeiji",
+      "council_id": "chiba-pref",
+      "name": "木下敬二",
+      "name_kana": "きしたけいじ",
+      "district": "鴨川市・南房総市・安房郡",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-84.html"
+    },
+    {
+      "id": "chiba-pref--kinasekunimitsu",
+      "council_id": "chiba-pref",
+      "name": "木名瀬訓光",
+      "name_kana": "きなせくにみつ",
+      "district": "野田市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-42.html"
+    },
+    {
+      "id": "chiba-pref--kuriharanaoya",
+      "council_id": "chiba-pref",
+      "name": "栗原直也",
+      "name_kana": "くりはらなおや",
+      "district": "四街道市",
+      "faction": "無所属",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-116.html"
+    },
+    {
+      "id": "chiba-pref--kounotoshinori",
+      "council_id": "chiba-pref",
+      "name": "河野俊紀",
+      "name_kana": "こうのとしのり",
+      "district": "千葉市美浜区",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-17.html"
+    },
+    {
+      "id": "chiba-pref--sakaishigehide",
+      "council_id": "chiba-pref",
+      "name": "酒井茂英",
+      "name_kana": "さかいしげひで",
+      "district": "長生郡",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-02.html"
+    },
+    {
+      "id": "chiba-pref--sakashitashigeki",
+      "council_id": "chiba-pref",
+      "name": "坂下しげき",
+      "name_kana": "さかしたしげき",
+      "district": "市川市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-092.html"
+    },
+    {
+      "id": "chiba-pref--sanoakira",
+      "council_id": "chiba-pref",
+      "name": "佐野彰",
+      "name_kana": "さのあきら",
+      "district": "千葉市中央区",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-07.html"
+    },
+    {
+      "id": "chiba-pref--shishikuranoboru",
+      "council_id": "chiba-pref",
+      "name": "宍倉登",
+      "name_kana": "ししくらのぼる",
+      "district": "千葉市花見川区",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-09.html"
+    },
+    {
+      "id": "chiba-pref--shidamitsuyasu",
+      "council_id": "chiba-pref",
+      "name": "信田光保",
+      "name_kana": "しだみつやす",
+      "district": "銚子市・香取郡東庄町",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-19.html"
+    },
+    {
+      "id": "chiba-pref--jitsukawatakashi",
+      "council_id": "chiba-pref",
+      "name": "實川隆",
+      "name_kana": "じつかわたかし",
+      "district": "山武市・山武郡",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-04.html"
+    },
+    {
+      "id": "chiba-pref--shinodatetsuya",
+      "council_id": "chiba-pref",
+      "name": "篠田哲弥",
+      "name_kana": "しのだてつや",
+      "district": "松戸市",
+      "faction": "公明党千葉県議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-118.html"
+    },
+    {
+      "id": "chiba-pref--suzukikazuhiro",
+      "council_id": "chiba-pref",
+      "name": "鈴木和宏",
+      "name_kana": "すずきかずひろ",
+      "district": "市原市",
+      "faction": "公明党千葉県議会議員団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-60.html"
+    },
+    {
+      "id": "chiba-pref--suzukitomonari",
+      "council_id": "chiba-pref",
+      "name": "鈴木ともなり",
+      "name_kana": "すずきともなり",
+      "district": "市原市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-119.html"
+    },
+    {
+      "id": "chiba-pref--suzukihitoshi",
+      "council_id": "chiba-pref",
+      "name": "鈴木均",
+      "name_kana": "すずきひとし",
+      "district": "習志野市",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-120.html"
+    },
+    {
+      "id": "chiba-pref--sunagakazuyoshi",
+      "council_id": "chiba-pref",
+      "name": "須永和良",
+      "name_kana": "すながかずよし",
+      "district": "君津市",
+      "faction": "千葉新政策議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-121.html"
+    },
+    {
+      "id": "chiba-pref--sumitakahito",
+      "council_id": "chiba-pref",
+      "name": "鷲見隆仁",
+      "name_kana": "すみたかひと",
+      "district": "千葉市美浜区",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-122.html"
+    },
+    {
+      "id": "chiba-pref--sekimasayuki",
+      "council_id": "chiba-pref",
+      "name": "関政幸",
+      "name_kana": "せきまさゆき",
+      "district": "千葉市緑区",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-123.html"
+    },
+    {
+      "id": "chiba-pref--sekinejirou",
+      "council_id": "chiba-pref",
+      "name": "関根ジロー",
+      "name_kana": "せきねじろう",
+      "district": "松戸市",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-34.html"
+    },
+    {
+      "id": "chiba-pref--takahashihidenori",
+      "council_id": "chiba-pref",
+      "name": "高橋秀典",
+      "name_kana": "たかはしひでのり",
+      "district": "旭市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-51.html"
+    },
+    {
+      "id": "chiba-pref--takahashihiroshi",
+      "council_id": "chiba-pref",
+      "name": "高橋浩",
+      "name_kana": "たかはしひろし",
+      "district": "木更津市",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-33.html"
+    },
+    {
+      "id": "chiba-pref--takahashiyuuko",
+      "council_id": "chiba-pref",
+      "name": "高橋祐子",
+      "name_kana": "たかはしゆうこ",
+      "district": "富里市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-83.html"
+    },
+    {
+      "id": "chiba-pref--takitatoshiyuki",
+      "council_id": "chiba-pref",
+      "name": "瀧田敏幸",
+      "name_kana": "たきたとしゆき",
+      "district": "印西市・印旛郡栄町",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-81.html"
+    },
+    {
+      "id": "chiba-pref--takeuchikeiji",
+      "council_id": "chiba-pref",
+      "name": "竹内圭司",
+      "name_kana": "たけうちけいじ",
+      "district": "千葉市緑区",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-15.html"
+    },
+    {
+      "id": "chiba-pref--takedamasamitsu",
+      "council_id": "chiba-pref",
+      "name": "武田正光",
+      "name_kana": "たけだまさみつ",
+      "district": "流山市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-65.html"
+    },
+    {
+      "id": "chiba-pref--tanakakoutarou",
+      "council_id": "chiba-pref",
+      "name": "田中幸太郎",
+      "name_kana": "たなかこうたろう",
+      "district": "市川市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-22.html"
+    },
+    {
+      "id": "chiba-pref--tabatatakeshi",
+      "council_id": "chiba-pref",
+      "name": "田畑毅",
+      "name_kana": "たばたたけし",
+      "district": "茂原市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-43.html"
+    },
+    {
+      "id": "chiba-pref--tamurakousaku",
+      "council_id": "chiba-pref",
+      "name": "田村耕作",
+      "name_kana": "たむらこうさく",
+      "district": "千葉市花見川区",
+      "faction": "公明党千葉県議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-93.html"
+    },
+    {
+      "id": "chiba-pref--nakanishikasumi",
+      "council_id": "chiba-pref",
+      "name": "中西香澄",
+      "name_kana": "なかにしかすみ",
+      "district": "松戸市",
+      "faction": "市民力",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-124.html"
+    },
+    {
+      "id": "chiba-pref--nakamurahideaki",
+      "council_id": "chiba-pref",
+      "name": "仲村秀明",
+      "name_kana": "なかむらひであき",
+      "district": "船橋市",
+      "faction": "公明党千葉県議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-26.html"
+    },
+    {
+      "id": "chiba-pref--nakamuraminoru",
+      "council_id": "chiba-pref",
+      "name": "中村実",
+      "name_kana": "なかむらみのる",
+      "district": "船橋市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-32.html"
+    },
+    {
+      "id": "chiba-pref--nishiokenichi",
+      "council_id": "chiba-pref",
+      "name": "西尾憲一",
+      "name_kana": "にしおけんいち",
+      "district": "船橋市",
+      "faction": "平和の党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-30.html"
+    },
+    {
+      "id": "chiba-pref--nishigayamasashi",
+      "council_id": "chiba-pref",
+      "name": "西ケ谷正士",
+      "name_kana": "にしがやまさし",
+      "district": "茂原市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-125.html"
+    },
+    {
+      "id": "chiba-pref--nodatakehiko",
+      "council_id": "chiba-pref",
+      "name": "野田剛彦",
+      "name_kana": "のだたけひこ",
+      "district": "船橋市",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-25.html"
+    },
+    {
+      "id": "chiba-pref--nodahiroki",
+      "council_id": "chiba-pref",
+      "name": "野田宏規",
+      "name_kana": "のだひろき",
+      "district": "流山市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-126.html"
+    },
+    {
+      "id": "chiba-pref--hamadahozumi",
+      "council_id": "chiba-pref",
+      "name": "浜田穂積",
+      "name_kana": "はまだほづみ",
+      "district": "柏市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-58.html"
+    },
+    {
+      "id": "chiba-pref--puriteinagashima",
+      "council_id": "chiba-pref",
+      "name": "プリティ長嶋",
+      "name_kana": "ぷりてぃながしま",
+      "district": "市川市",
+      "faction": "千葉県民の声",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-91.html"
+    },
+    {
+      "id": "chiba-pref--hosakakouhei",
+      "council_id": "chiba-pref",
+      "name": "保坂康平",
+      "name_kana": "ほさかこうへい",
+      "district": "四街道市",
+      "faction": "千葉新政策議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-98.html"
+    },
+    {
+      "id": "chiba-pref--honmasusumu",
+      "council_id": "chiba-pref",
+      "name": "本間進",
+      "name_kana": "ほんますすむ",
+      "district": "千葉市中央区",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-08.html"
+    },
+    {
+      "id": "chiba-pref--matsuzakitakahiro",
+      "council_id": "chiba-pref",
+      "name": "松崎太洋",
+      "name_kana": "まつざきたかひろ",
+      "district": "柏市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-56.html"
+    },
+    {
+      "id": "chiba-pref--matsuzawatakehito",
+      "council_id": "chiba-pref",
+      "name": "松澤武人",
+      "name_kana": "まつざわたけひと",
+      "district": "鎌ケ谷市",
+      "faction": "無所属",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "商工労働常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-127.html"
+    },
+    {
+      "id": "chiba-pref--maruyamashinichi",
+      "council_id": "chiba-pref",
+      "name": "丸山慎一",
+      "name_kana": "まるやましんいち",
+      "district": "船橋市",
+      "faction": "日本共産党千葉県議会議員団",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-128.html"
+    },
+    {
+      "id": "chiba-pref--misawasatoshi",
+      "council_id": "chiba-pref",
+      "name": "三沢智",
+      "name_kana": "みさわさとし",
+      "district": "館山市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-31.html"
+    },
+    {
+      "id": "chiba-pref--mizunoyuuki",
+      "council_id": "chiba-pref",
+      "name": "水野友貴",
+      "name_kana": "みずのゆうき",
+      "district": "我孫子市",
+      "faction": "千葉新政策議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-103.html"
+    },
+    {
+      "id": "chiba-pref--miyakawafutoshi",
+      "council_id": "chiba-pref",
+      "name": "宮川太",
+      "name_kana": "みやかわふとし",
+      "district": "銚子市・香取郡東庄町",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-18.html"
+    },
+    {
+      "id": "chiba-pref--miyasakanao",
+      "council_id": "chiba-pref",
+      "name": "宮坂奈緒",
+      "name_kana": "みやさかなお",
+      "district": "浦安市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-77.html"
+    },
+    {
+      "id": "chiba-pref--miwayoshimi",
+      "council_id": "chiba-pref",
+      "name": "みわ由美",
+      "name_kana": "みわよしみ",
+      "district": "松戸市",
+      "faction": "日本共産党千葉県議会議員団",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-35.html"
+    },
+    {
+      "id": "chiba-pref--morigaku",
+      "council_id": "chiba-pref",
+      "name": "森岳",
+      "name_kana": "もりがく",
+      "district": "木更津市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-95.html"
+    },
+    {
+      "id": "chiba-pref--moriyatakako",
+      "council_id": "chiba-pref",
+      "name": "守屋貴子",
+      "name_kana": "もりやたかこ",
+      "district": "市川市",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総合企画企業常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-23.html"
+    },
+    {
+      "id": "chiba-pref--morotsuyoshi",
+      "council_id": "chiba-pref",
+      "name": "茂呂剛",
+      "name_kana": "もろつよし",
+      "district": "八千代市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "健康福祉常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-102.html"
+    },
+    {
+      "id": "chiba-pref--yatagawamitsutake",
+      "council_id": "chiba-pref",
+      "name": "谷田川充丈",
+      "name_kana": "やたがわみつたけ",
+      "district": "香取市・香取郡神崎町・香取郡多古町",
+      "faction": "千葉新政策議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-104.html"
+    },
+    {
+      "id": "chiba-pref--yamashitayousuke",
+      "council_id": "chiba-pref",
+      "name": "山下洋輔",
+      "name_kana": "やましたようすけ",
+      "district": "柏市",
+      "faction": "立憲民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務防災常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-129.html"
+    },
+    {
+      "id": "chiba-pref--yamamotoyoshikazu",
+      "council_id": "chiba-pref",
+      "name": "山本義一",
+      "name_kana": "やまもとよしかず",
+      "district": "八街市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-90.html"
+    },
+    {
+      "id": "chiba-pref--yokoyamahideaki",
+      "council_id": "chiba-pref",
+      "name": "横山秀明",
+      "name_kana": "よこやまひであき",
+      "district": "八千代市",
+      "faction": "公明党千葉県議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境生活警察常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-96.html"
+    },
+    {
+      "id": "chiba-pref--watanabetsutomu",
+      "council_id": "chiba-pref",
+      "name": "渡辺務",
+      "name_kana": "わたなべつとむ",
+      "district": "富津市",
+      "faction": "自由民主党千葉県議会議員会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "県土整備常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/giinshoukai/giin-130.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "profile_roster_with_capacity_table",
+    "capacity_source_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/senkyoku.html",
+    "district_count": 41,
+    "capacity_total": 95,
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/senkyoku.html",
+    "source_basis_date": "公式基準日記載なし / 選挙区及び議員定数HTML 定数95・プロフィール現員89",
+    "last_verified": "2026-06-16",
+    "teisu": 95,
+    "genin": 89,
+    "ketsuin": 6,
+    "parsed_members": 89,
+    "vacancy_details": [
+      {
+        "district": "船橋市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/senkyoku.html"
+      },
+      {
+        "district": "松戸市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/senkyoku.html"
+      },
+      {
+        "district": "勝浦市・いすみ市・夷隅郡",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/senkyoku.html"
+      },
+      {
+        "district": "流山市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/senkyoku.html"
+      },
+      {
+        "district": "鎌ケ谷市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/senkyoku.html"
+      },
+      {
+        "district": "山武市・山武郡",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.chiba.lg.jp/gikai/soumu/giin/senkyoku.html"
+      }
+    ],
+    "notes": [
+      "五十音順HTMLから個別プロフィールURLを取得",
+      "個別プロフィールは氏名・会派・選挙区・期数・所属委員会のみ許可リストで取得",
+      "連絡先欄は取得しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "source_basis_date": "公式基準日記載なし / 選挙区及び議員定数HTML 定数95・プロフィール現員89",
+  "last_verified": "2026-06-16",
+  "teisu": 95,
+  "genin": 89,
+  "ketsuin": 6,
+  "updated_at": "2026-06-16T21:53:55+00:00"
+}

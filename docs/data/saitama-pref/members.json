@@ -1,0 +1,1559 @@
+{
+  "council_id": "saitama-pref",
+  "source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-senkyoku.html",
+  "source_name": "埼玉県議会 議員名簿 選挙区別",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "saitama-pref--komori-katsumi",
+      "council_id": "saitama-pref",
+      "name": "小森克己",
+      "name_kana": "こもり かつみ",
+      "district": "南第1区 草加市",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--gamou-noriaki",
+      "council_id": "saitama-pref",
+      "name": "蒲生徳明",
+      "name_kana": "がもう のりあき",
+      "district": "南第1区 草加市",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務県民生活委員",
+        "経済・雇用対策特別委員",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kinoshita-hironobu",
+      "council_id": "saitama-pref",
+      "name": "木下博信",
+      "name_kana": "きのした ひろのぶ",
+      "district": "南第1区 草加市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務県民生活委員",
+        "危機管理・大規模災害対策特別委員長",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--nagase-hideki",
+      "council_id": "saitama-pref",
+      "name": "永瀬秀樹",
+      "name_kana": "ながせ ひでき",
+      "district": "南2区 川口市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業委員",
+        "少子・高齢福祉社会対策特別委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--yamazaki-sunao",
+      "council_id": "saitama-pref",
+      "name": "山崎すなお",
+      "name_kana": "やまざき すなお",
+      "district": "南2区 川口市",
+      "faction": "共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員",
+        "公社事業対策特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--shirane-daisuke",
+      "council_id": "saitama-pref",
+      "name": "白根大輔",
+      "name_kana": "しらね だいすけ",
+      "district": "南2区 川口市",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "企画財政委員",
+        "公社事業対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--shiono-masayuki",
+      "council_id": "saitama-pref",
+      "name": "塩野正行",
+      "name_kana": "しおの まさゆき",
+      "district": "南2区 川口市",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--hagiwara-kazuhisa",
+      "council_id": "saitama-pref",
+      "name": "萩原一寿",
+      "name_kana": "はぎわら かずひさ",
+      "district": "南2区 川口市",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "企画財政委員",
+        "人材育成・文化・スポーツ振興特別副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--komiyama-yuuki",
+      "council_id": "saitama-pref",
+      "name": "小見山祐紀",
+      "name_kana": "こみやま ゆうき",
+      "district": "南2区 川口市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "県土都市整備委員",
+        "経済・雇用対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--furukawa-keigo",
+      "council_id": "saitama-pref",
+      "name": "古川圭吾",
+      "name_kana": "ふるかわ けいご",
+      "district": "南2区 川口市",
+      "faction": "さくらの会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "県土都市整備委員",
+        "人材育成・文化・スポーツ振興特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kusakabe-nobumi",
+      "council_id": "saitama-pref",
+      "name": "日下部伸三",
+      "name_kana": "くさかべ のぶみ",
+      "district": "南第3区 さいたま市西区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--sekine-nobuaki",
+      "council_id": "saitama-pref",
+      "name": "関根信明",
+      "name_kana": "せきね のぶあき",
+      "district": "南第4区 さいたま市北区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業委員長",
+        "自然再生・循環社会対策特別副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--ogawa-hisashi",
+      "council_id": "saitama-pref",
+      "name": "小川寿士",
+      "name_kana": "おがわ ひさし",
+      "district": "南第4区 さいたま市北区",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療委員",
+        "自然再生・循環社会対策特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--fujii-takeshi",
+      "council_id": "saitama-pref",
+      "name": "藤井健志",
+      "name_kana": "ふじい たけし",
+      "district": "南第5区 さいたま市大宮区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員長",
+        "総務県民生活委員",
+        "地方創生・行財政改革特別委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--takeda-kazuhiro",
+      "council_id": "saitama-pref",
+      "name": "武田和浩",
+      "name_kana": "たけだ かずひろ",
+      "district": "南第6区 さいたま市見沼区",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災委員",
+        "人材育成・文化・スポーツ振興特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--tamura-takumi",
+      "council_id": "saitama-pref",
+      "name": "田村琢実",
+      "name_kana": "たむら たくみ",
+      "district": "南第6区 さいたま市見沼区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "企画財政委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--miyazaki-goichi",
+      "council_id": "saitama-pref",
+      "name": "宮崎吾一",
+      "name_kana": "みやざき ごいち",
+      "district": "南第7区 さいたま市中央区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務県民生活委員",
+        "公社事業対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--araki-yuusuke",
+      "council_id": "saitama-pref",
+      "name": "荒木裕介",
+      "name_kana": "あらき ゆうすけ",
+      "district": "南第8区 さいたま市桜区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議長",
+        "産業労働企業委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--nomoto-reiko",
+      "council_id": "saitama-pref",
+      "name": "野本怜子",
+      "name_kana": "のもと れいこ",
+      "district": "南第9区 さいたま市浦和区",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業委員",
+        "人材育成・文化・スポーツ振興特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--takagi-kousuke",
+      "council_id": "saitama-pref",
+      "name": "高木功介",
+      "name_kana": "たかぎ こうすけ",
+      "district": "南第9区 さいたま市浦和区",
+      "faction": "無所属",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業委員",
+        "公社事業対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--hayashi-kaoru",
+      "council_id": "saitama-pref",
+      "name": "林薫",
+      "name_kana": "はやし かおる",
+      "district": "南第10区 さいたま市南区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療委員",
+        "公社事業対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kimura-isao",
+      "council_id": "saitama-pref",
+      "name": "木村勇夫",
+      "name_kana": "きむら いさお",
+      "district": "南第10区 さいたま市南区",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "企画財政委員",
+        "自然再生・循環社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--takahashi-masao",
+      "council_id": "saitama-pref",
+      "name": "高橋政雄",
+      "name_kana": "たかはし まさお",
+      "district": "南第11区 さいたま市緑区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "県土都市整備委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kojima-nobuaki",
+      "council_id": "saitama-pref",
+      "name": "小島信昭",
+      "name_kana": "こじま のぶあき",
+      "district": "南第12区 さいたま市岩槻区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "環境農林委員",
+        "公社事業対策特別委員",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--tonobe-naono",
+      "council_id": "saitama-pref",
+      "name": "戸野部直乃",
+      "name_kana": "とのべ なおの",
+      "district": "南第13区 上尾市・伊奈町",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境農林副委員長",
+        "危機管理・大規模災害対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--machida-kousuke",
+      "council_id": "saitama-pref",
+      "name": "町田皇介",
+      "name_kana": "まちだ こうすけ",
+      "district": "南第13区 上尾市・伊奈町",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "文教委員",
+        "公社事業対策特別委員",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--okachi-masaru",
+      "council_id": "saitama-pref",
+      "name": "岡地優",
+      "name_kana": "おかち まさる",
+      "district": "南第14区 桶川市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "県土都市整備委員",
+        "人材育成・文化・スポーツ振興特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--arai-kazunori",
+      "council_id": "saitama-pref",
+      "name": "新井一徳",
+      "name_kana": "あらい かずのり",
+      "district": "南第15区 北本市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員",
+        "危機管理・大規模災害対策特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kaneko-yuuta",
+      "council_id": "saitama-pref",
+      "name": "金子裕太",
+      "name_kana": "かねこ ゆうた",
+      "district": "南第16区 鴻巣市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療副委員長",
+        "危機管理・大規模災害対策特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--nakayashiki-shinichi",
+      "council_id": "saitama-pref",
+      "name": "中屋敷慎一",
+      "name_kana": "なかやしき しんいち",
+      "district": "南第16区 鴻巣市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "文教委員",
+        "経済・雇用対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--suzuki-masato",
+      "council_id": "saitama-pref",
+      "name": "鈴木正人",
+      "name_kana": "すずき まさと",
+      "district": "南第17区 志木市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業委員",
+        "人材育成・文化・スポーツ振興特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--hiramatsu-daisuke",
+      "council_id": "saitama-pref",
+      "name": "平松大佑",
+      "name_kana": "ひらまつ だいすけ",
+      "district": "南第18区 新座市",
+      "faction": "県民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "県土都市整備委員",
+        "経済・雇用対策特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--andou-tomoki",
+      "council_id": "saitama-pref",
+      "name": "安藤友貴",
+      "name_kana": "あんどう ともき",
+      "district": "南第18区 新座市",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員",
+        "人材育成・文化・スポーツ振興特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--hoya-takeshi",
+      "council_id": "saitama-pref",
+      "name": "保谷武",
+      "name_kana": "ほや たけし",
+      "district": "南第19区 蕨市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "県土都市整備委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--konno-momoko",
+      "council_id": "saitama-pref",
+      "name": "金野桃子",
+      "name_kana": "こんの ももこ",
+      "district": "南第20区 戸田市",
+      "faction": "県民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務県民生活委員",
+        "公社事業対策特別委員",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--hosoda-yoshinori",
+      "council_id": "saitama-pref",
+      "name": "細田善則",
+      "name_kana": "ほそだ よしのり",
+      "district": "南第20区 戸田市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "企画財政委員",
+        "自然再生・循環社会対策特別委員",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--matsui-hiroshi",
+      "council_id": "saitama-pref",
+      "name": "松井弘",
+      "name_kana": "まつい ひろし",
+      "district": "南第21区 朝霞市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療委員長",
+        "危機管理・大規模災害対策特別副委員長",
+        "図書室副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--inoue-wataru",
+      "council_id": "saitama-pref",
+      "name": "井上航",
+      "name_kana": "いのうえ わたる",
+      "district": "南第22区 和光市",
+      "faction": "県民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "企画財政委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--shiroshita-noriko",
+      "council_id": "saitama-pref",
+      "name": "城下のり子",
+      "name_kana": "しろした のりこ",
+      "district": "西第1区 所沢市",
+      "faction": "共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務県民生活委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--mizumura-atsuhiro",
+      "council_id": "saitama-pref",
+      "name": "水村篤弘",
+      "name_kana": "みずむら あつひろ",
+      "district": "西第1区 所沢市",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "総務県民生活委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kobayakawa-kazuhiro",
+      "council_id": "saitama-pref",
+      "name": "小早川一博",
+      "name_kana": "こばやかわ かずひろ",
+      "district": "西第1区 所沢市",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "県土都市整備副委員長",
+        "自然再生・循環社会対策特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--matsumoto-yoshiaki",
+      "council_id": "saitama-pref",
+      "name": "松本義明",
+      "name_kana": "まつもと よしあき",
+      "district": "西第2区 入間市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "企画財政副委員長",
+        "自然再生・循環社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--sentsui-kiyouko",
+      "council_id": "saitama-pref",
+      "name": "泉津井京子",
+      "name_kana": "せんつい きょうこ",
+      "district": "西第2区 入間市",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境農林委員",
+        "危機管理・大規模災害対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--uchinuma-hiroshi",
+      "council_id": "saitama-pref",
+      "name": "内沼博史",
+      "name_kana": "うちぬま ひろし",
+      "district": "西第3区 飯能市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "県土都市整備委員",
+        "公社事業対策特別委員長",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--higashiyama-tooru",
+      "council_id": "saitama-pref",
+      "name": "東山徹",
+      "name_kana": "ひがしやま とおる",
+      "district": "西第4区 狭山市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災委員",
+        "自然再生・循環社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--nakagawa-hiroshi",
+      "council_id": "saitama-pref",
+      "name": "中川浩",
+      "name_kana": "なかがわ ひろし",
+      "district": "西第4区 狭山市",
+      "faction": "改革",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--watanabe-dai",
+      "council_id": "saitama-pref",
+      "name": "渡辺大",
+      "name_kana": "わたなべ だい",
+      "district": "西第5区 ふじみ野市・三芳町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員長",
+        "人材育成・文化・スポーツ振興特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--itou-hatsumi",
+      "council_id": "saitama-pref",
+      "name": "伊藤はつみ",
+      "name_kana": "いとう はつみ",
+      "district": "西第5区 ふじみ野市・三芳町",
+      "faction": "共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "福祉保健医療委員",
+        "危機管理・大規模災害対策特別委員",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--yako-tomohiro",
+      "council_id": "saitama-pref",
+      "name": "八子朋弘",
+      "name_kana": "やこ ともひろ",
+      "district": "西第6区 富士見市",
+      "faction": "県民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員",
+        "自然再生・循環社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--suga-akio",
+      "council_id": "saitama-pref",
+      "name": "須賀昭夫",
+      "name_kana": "すが あきお",
+      "district": "西第7区 川越市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--fukaya-kenji",
+      "council_id": "saitama-pref",
+      "name": "深谷顕史",
+      "name_kana": "ふかや けんじ",
+      "district": "西第7区 川越市",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災副委員長",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--shibuya-mamiko",
+      "council_id": "saitama-pref",
+      "name": "渋谷真実子",
+      "name_kana": "しぶや まみこ",
+      "district": "西第7区 川越市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--koyano-itsuo",
+      "council_id": "saitama-pref",
+      "name": "小谷野五雄",
+      "name_kana": "こやの いつお",
+      "district": "西第8区 日高市",
+      "faction": "無所属",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "県土都市整備委員",
+        "危機管理・大規模災害対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--takeuchi-masafumi",
+      "council_id": "saitama-pref",
+      "name": "武内政文",
+      "name_kana": "たけうち まさふみ",
+      "district": "西第9区 毛呂山町・越生町・鳩山町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災委員",
+        "公社事業対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--ogawa-tadashi",
+      "council_id": "saitama-pref",
+      "name": "小川直志",
+      "name_kana": "おがわ ただし",
+      "district": "西第10区 坂戸市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "環境農林委員長",
+        "危機管理・大規模災害対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--nagamine-hidekazu",
+      "council_id": "saitama-pref",
+      "name": "長峰秀和",
+      "name_kana": "ながみね ひでかず",
+      "district": "西第11区 鶴ヶ島市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境農林委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--yokokawa-masaya",
+      "council_id": "saitama-pref",
+      "name": "横川雅也",
+      "name_kana": "よこかわ まさや",
+      "district": "西第12区 東松山市・川島町・吉見町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "福祉保健医療委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kokubo-kenichi",
+      "council_id": "saitama-pref",
+      "name": "小久保憲一",
+      "name_kana": "こくぼ けんいち",
+      "district": "西第13区 滑川町・嵐山町・小川町・ときがわ町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--arai-gou",
+      "council_id": "saitama-pref",
+      "name": "新井豪",
+      "name_kana": "あらい ごう",
+      "district": "北第1区 秩父市・横瀬町・皆野町・長瀞町・小鹿野町・東秩父村",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業委員",
+        "自然再生・循環社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--asami-kenji",
+      "council_id": "saitama-pref",
+      "name": "阿左美健司",
+      "name_kana": "あさみ けんじ",
+      "district": "北第1区 秩父市・横瀬町・皆野町・長瀞町・小鹿野町・東秩父村",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営副委員長",
+        "企画財政委員",
+        "人材育成・文化・スポーツ振興特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--saitou-kuniaki",
+      "council_id": "saitama-pref",
+      "name": "齊藤邦明",
+      "name_kana": "さいとう くにあき",
+      "district": "北第2区 本庄市・神川町・上里町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "総務県民生活委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--iizuka-toshihiko",
+      "council_id": "saitama-pref",
+      "name": "飯塚俊彦",
+      "name_kana": "いいづか としひこ",
+      "district": "北第2区 本庄市・神川町・上里町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境農林委員",
+        "経済・雇用対策特別委員長",
+        "監査委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--ogawa-shinichirou",
+      "council_id": "saitama-pref",
+      "name": "小川真一郎",
+      "name_kana": "おがわ しんいちろう",
+      "district": "北第3区 深谷市・美里町・寄居町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "環境農林委員",
+        "人材育成・文化・スポーツ振興特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kamio-takayoshi",
+      "council_id": "saitama-pref",
+      "name": "神尾高善",
+      "name_kana": "かみお たかよし",
+      "district": "北第3区 深谷市・美里町・寄居町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災委員",
+        "自然再生・循環社会対策特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--sugita-shigemi",
+      "council_id": "saitama-pref",
+      "name": "杉田茂実",
+      "name_kana": "すぎた しげみ",
+      "district": "北第4区 熊谷市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "県土都市整備委員長",
+        "地方創生・行財政改革特別副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--tanami-hisaaki",
+      "council_id": "saitama-pref",
+      "name": "田並尚明",
+      "name_kana": "たなみ ひさあき",
+      "district": "北第4区 熊谷市",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--suzuki-masahiro",
+      "council_id": "saitama-pref",
+      "name": "鈴木まさひろ",
+      "name_kana": "すずき まさひろ",
+      "district": "北第4区 熊谷市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務県民生活副委員長",
+        "危機管理・大規模災害対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kakinuma-takashi",
+      "council_id": "saitama-pref",
+      "name": "柿沼貴志",
+      "name_kana": "かきぬま たかし",
+      "district": "東第1区 行田市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務県民生活委員長",
+        "少子・高齢福祉社会対策特別副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--moroi-masahide",
+      "council_id": "saitama-pref",
+      "name": "諸井真英",
+      "name_kana": "もろい まさひで",
+      "district": "東第2区 羽生市",
+      "faction": "無所属",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員",
+        "自然再生・循環社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--chiba-tatsuya",
+      "council_id": "saitama-pref",
+      "name": "千葉達也",
+      "name_kana": "ちば たつや",
+      "district": "東第3区 加須市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災委員長",
+        "経済・雇用対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--ishikawa-tadayoshi",
+      "council_id": "saitama-pref",
+      "name": "石川忠義",
+      "name_kana": "いしかわ ただよし",
+      "district": "東第4区 久喜市",
+      "faction": "県民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境農林委員",
+        "少子・高齢福祉社会対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--umezawa-yoshikazu",
+      "council_id": "saitama-pref",
+      "name": "梅澤佳一",
+      "name_kana": "うめざわ よしかず",
+      "district": "東第4区 久喜市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "福祉保健医療委員",
+        "危機管理・大規模災害対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--mori-ikuma",
+      "council_id": "saitama-pref",
+      "name": "森伊久磨",
+      "name_kana": "もり いくま",
+      "district": "東第5区 蓮田市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業副委員長",
+        "経済・雇用対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--watanabe-souichirou",
+      "council_id": "saitama-pref",
+      "name": "渡辺聡一郎",
+      "name_kana": "わたなべ そういちろう",
+      "district": "東第6区 白岡市・宮代町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務県民生活委員",
+        "公社事業対策特別委員",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--sakae-hiromi",
+      "council_id": "saitama-pref",
+      "name": "栄寛美",
+      "name_kana": "さかえ ひろみ",
+      "district": "東第7区 春日部市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教副委員長",
+        "人材育成・文化・スポーツ振興特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--shirato-yukihito",
+      "council_id": "saitama-pref",
+      "name": "白土幸仁",
+      "name_kana": "しらと ゆきひと",
+      "district": "東第7区 春日部市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員",
+        "企画財政委員",
+        "経済・雇用対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--gonmori-yukio",
+      "council_id": "saitama-pref",
+      "name": "権守幸男",
+      "name_kana": "ごんもり ゆきお",
+      "district": "東第7区 春日部市",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業労働企業委員",
+        "公社事業対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--hosokawa-takeshi",
+      "council_id": "saitama-pref",
+      "name": "細川威",
+      "name_kana": "ほそかわ たけし",
+      "district": "東第8区 越谷市",
+      "faction": "民主フォーラム",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "県土都市整備委員",
+        "経済・雇用対策特別委員",
+        "図書室委員",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--hashizume-shiyouji",
+      "council_id": "saitama-pref",
+      "name": "橋詰昌児",
+      "name_kana": "はしづめ しょうじ",
+      "district": "東第8区 越谷市",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営副委員長",
+        "企画財政委員",
+        "経済・雇用対策特別副委員長",
+        "八潮市道路陥没事故調査等特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--yamada-yuuko",
+      "council_id": "saitama-pref",
+      "name": "山田裕子",
+      "name_kana": "やまだ ゆうこ",
+      "district": "東第8区 越谷市",
+      "faction": "ネット",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境農林委員",
+        "経済・雇用対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--hashimoto-kento",
+      "council_id": "saitama-pref",
+      "name": "橋本健人",
+      "name_kana": "はしもと けんと",
+      "district": "東第8区 越谷市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "企画財政委員",
+        "地方創生・行財政改革特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--udagawa-yukio",
+      "council_id": "saitama-pref",
+      "name": "宇田川幸夫",
+      "name_kana": "うだがわ ゆきお",
+      "district": "東第9区 八潮市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "警察危機管理防災委員",
+        "経済・雇用対策特別委員",
+        "八潮市道路陥没事故調査等特別委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--mita-muneaki",
+      "council_id": "saitama-pref",
+      "name": "美田宗亮",
+      "name_kana": "みた むねあき",
+      "district": "東第10区 三郷市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境農林委員",
+        "自然再生・循環社会対策特別委員長",
+        "八潮市道路陥没事故調査等特別委員",
+        "図書室委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--aizawa-keiichirou",
+      "council_id": "saitama-pref",
+      "name": "逢澤圭一郎",
+      "name_kana": "あいざわ けいいちろう",
+      "district": "東第10区 三郷市",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "企画財政委員長",
+        "公社事業対策特別副委員長",
+        "八潮市道路陥没事故調査等特別副委員長",
+        "図書室委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--kira-hidetoshi",
+      "council_id": "saitama-pref",
+      "name": "吉良英敏",
+      "name_kana": "きら ひでとし",
+      "district": "東第11区 幸手市・杉戸町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "副議長",
+        "警察危機管理防災委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "saitama-pref--matsuzawa-tadashi",
+      "council_id": "saitama-pref",
+      "name": "松澤正",
+      "name_kana": "まつざわ ただし",
+      "district": "東第12区 吉川市・松伏町",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員",
+        "人材育成・文化・スポーツ振興特別委員長",
+        "八潮市道路陥没事故調査等特別委員",
+        "監査委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    }
+  ],
+  "checks": {
+    "source_shape": "district_split_roster_with_reference_crosscheck",
+    "district_count": 51,
+    "district_capacities": {
+      "南第1区 草加市": 3,
+      "南2区 川口市": 7,
+      "南第3区 さいたま市西区": 1,
+      "南第4区 さいたま市北区": 2,
+      "南第5区 さいたま市大宮区": 1,
+      "南第6区 さいたま市見沼区": 2,
+      "南第7区 さいたま市中央区": 1,
+      "南第8区 さいたま市桜区": 1,
+      "南第9区 さいたま市浦和区": 2,
+      "南第10区 さいたま市南区": 2,
+      "南第11区 さいたま市緑区": 1,
+      "南第12区 さいたま市岩槻区": 1,
+      "南第13区 上尾市・伊奈町": 3,
+      "南第14区 桶川市": 1,
+      "南第15区 北本市": 1,
+      "南第16区 鴻巣市": 2,
+      "南第17区 志木市": 1,
+      "南第18区 新座市": 2,
+      "南第19区 蕨市": 1,
+      "南第20区 戸田市": 2,
+      "南第21区 朝霞市": 2,
+      "南第22区 和光市": 1,
+      "西第1区 所沢市": 4,
+      "西第2区 入間市": 2,
+      "西第3区 飯能市": 1,
+      "西第4区 狭山市": 2,
+      "西第5区 ふじみ野市・三芳町": 2,
+      "西第6区 富士見市": 1,
+      "西第7区 川越市": 4,
+      "西第8区 日高市": 1,
+      "西第9区 毛呂山町・越生町・鳩山町": 1,
+      "西第10区 坂戸市": 1,
+      "西第11区 鶴ヶ島市": 1,
+      "西第12区 東松山市・川島町・吉見町": 2,
+      "西第13区 滑川町・嵐山町・小川町・ときがわ町": 1,
+      "北第1区 秩父市・横瀬町・皆野町・長瀞町・小鹿野町・東秩父村": 2,
+      "北第2区 本庄市・神川町・上里町": 2,
+      "北第3区 深谷市・美里町・寄居町": 3,
+      "北第4区 熊谷市": 3,
+      "東第1区 行田市": 1,
+      "東第2区 羽生市": 1,
+      "東第3区 加須市": 2,
+      "東第4区 久喜市": 2,
+      "東第5区 蓮田市": 1,
+      "東第6区 白岡市・宮代町": 1,
+      "東第7区 春日部市": 3,
+      "東第8区 越谷市": 4,
+      "東第9区 八潮市": 1,
+      "東第10区 三郷市": 2,
+      "東第11区 幸手市・杉戸町": 1,
+      "東第12区 吉川市・松伏町": 1
+    },
+    "reference_pages": {
+      "kaiha": "https://www.pref.saitama.lg.jp/e1601/gikai-member-kaiha.html",
+      "gojuon": "https://www.pref.saitama.lg.jp/e1601/gikai-member-50on.html"
+    },
+    "one_sided_reference_names": {
+      "kaiha_only": [
+        "松坂喜浩"
+      ],
+      "gojuon_only": [
+        "松坂喜浩"
+      ],
+      "district_only_from_kaiha": []
+    },
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-senkyoku.html",
+    "source_basis_date": "公式基準日記載なし / 選挙区別HTML 定数93・現員86（親ページ欠員6表記と区別実数に不整合あり）",
+    "last_verified": "2026-06-16",
+    "teisu": 93,
+    "genin": 86,
+    "ketsuin": 7,
+    "parsed_members": 86,
+    "vacancy_details": [
+      {
+        "district": "南第13区 上尾市・伊奈町",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-list/r5/s_13.html"
+      },
+      {
+        "district": "南第21区 朝霞市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-list/r5/s_21.html"
+      },
+      {
+        "district": "西第1区 所沢市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-list/r5/w_1.html"
+      },
+      {
+        "district": "西第7区 川越市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-list/r5/w_7.html"
+      },
+      {
+        "district": "西第12区 東松山市・川島町・吉見町",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-list/r5/w_12.html"
+      },
+      {
+        "district": "北第3区 深谷市・美里町・寄居町",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-list/r5/n_3.html"
+      },
+      {
+        "district": "東第3区 加須市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.saitama.lg.jp/e1601/gikai-member-list/r5/e_3.html"
+      }
+    ],
+    "notes": [
+      "区別ページの実掲載を現員の真値として採用",
+      "公式親ページは欠員6と表示するが、区別見出しの定数・欠員は定数93・現員86・欠員7",
+      "会派別・五十音順など参照ページ側だけに残る氏名はone_sided_reference_namesに保持し、自動補完しない",
+      "当選回数は公式HTMLに見当たらないためnull",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "source_basis_date": "公式基準日記載なし / 選挙区別HTML 定数93・現員86（親ページ欠員6表記と区別実数に不整合あり）",
+  "last_verified": "2026-06-16",
+  "teisu": 93,
+  "genin": 86,
+  "ketsuin": 7,
+  "updated_at": "2026-06-16T21:50:29+00:00"
+}

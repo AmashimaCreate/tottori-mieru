@@ -1,0 +1,1953 @@
+{
+  "council_id": "tokyo-pref",
+  "source_url": "https://www.gikai.metro.tokyo.lg.jp/membership/electoral-zone.html",
+  "source_name": "東京都議会 選挙区別議員名簿",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "tokyo-pref--satou-saori",
+      "council_id": "tokyo-pref",
+      "name": "さとうさおり",
+      "name_kana": "さとう さおり",
+      "district": "千代田区",
+      "faction": "無所属(やちよの会)",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num001.html"
+    },
+    {
+      "id": "tokyo-pref--takahashi-makiko",
+      "council_id": "tokyo-pref",
+      "name": "高橋まきこ",
+      "name_kana": "たかはし まきこ",
+      "district": "中央区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num002.html"
+    },
+    {
+      "id": "tokyo-pref--kanno-kouichi",
+      "council_id": "tokyo-pref",
+      "name": "菅野弘一",
+      "name_kana": "かんの こういち",
+      "district": "港区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num003.html"
+    },
+    {
+      "id": "tokyo-pref--miyazaki-daisuke",
+      "council_id": "tokyo-pref",
+      "name": "宮崎大輔",
+      "name_kana": "みやざき だいすけ",
+      "district": "港区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num004.html"
+    },
+    {
+      "id": "tokyo-pref--yoshizumi-haruo",
+      "council_id": "tokyo-pref",
+      "name": "吉住はるお",
+      "name_kana": "よしずみ はるお",
+      "district": "新宿区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num005.html"
+    },
+    {
+      "id": "tokyo-pref--ooyama-tomoko",
+      "council_id": "tokyo-pref",
+      "name": "大山とも子",
+      "name_kana": "おおやま ともこ",
+      "district": "新宿区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num006.html"
+    },
+    {
+      "id": "tokyo-pref--okumoto-yuri",
+      "council_id": "tokyo-pref",
+      "name": "おくもとゆり",
+      "name_kana": "おくもと ゆり",
+      "district": "新宿区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num007.html"
+    },
+    {
+      "id": "tokyo-pref--mikumo-takamasa",
+      "council_id": "tokyo-pref",
+      "name": "三雲崇正",
+      "name_kana": "みくも たかまさ",
+      "district": "新宿区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num008.html"
+    },
+    {
+      "id": "tokyo-pref--masuko-hiroki",
+      "council_id": "tokyo-pref",
+      "name": "増子博樹",
+      "name_kana": "ますこ ひろき",
+      "district": "文京区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num009.html"
+    },
+    {
+      "id": "tokyo-pref--fukute-yuuko",
+      "council_id": "tokyo-pref",
+      "name": "福手ゆう子",
+      "name_kana": "ふくて ゆうこ",
+      "district": "文京区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num010.html"
+    },
+    {
+      "id": "tokyo-pref--hosaka-masahiro",
+      "council_id": "tokyo-pref",
+      "name": "保坂まさひろ",
+      "name_kana": "ほさか まさひろ",
+      "district": "台東区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num011.html"
+    },
+    {
+      "id": "tokyo-pref--nakayama-hiroyuki",
+      "council_id": "tokyo-pref",
+      "name": "中山寛進",
+      "name_kana": "なかやま ひろゆき",
+      "district": "台東区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num012.html"
+    },
+    {
+      "id": "tokyo-pref--narikiyo-risako",
+      "council_id": "tokyo-pref",
+      "name": "成清梨沙子",
+      "name_kana": "なりきよ りさこ",
+      "district": "墨田区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num013.html"
+    },
+    {
+      "id": "tokyo-pref--katou-masayuki",
+      "council_id": "tokyo-pref",
+      "name": "加藤雅之",
+      "name_kana": "かとう まさゆき",
+      "district": "墨田区",
+      "faction": "都議会公明党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num014.html"
+    },
+    {
+      "id": "tokyo-pref--fujisaki-kouki",
+      "council_id": "tokyo-pref",
+      "name": "藤崎こうき",
+      "name_kana": "ふじさき こうき",
+      "district": "墨田区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num015.html"
+    },
+    {
+      "id": "tokyo-pref--sannohe-aya",
+      "council_id": "tokyo-pref",
+      "name": "さんのへあや",
+      "name_kana": "さんのへ あや",
+      "district": "江東区",
+      "faction": "地域政党 自由を守る会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num016.html"
+    },
+    {
+      "id": "tokyo-pref--takahashi-takumi",
+      "council_id": "tokyo-pref",
+      "name": "高橋巧",
+      "name_kana": "たかはし たくみ",
+      "district": "江東区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num017.html"
+    },
+    {
+      "id": "tokyo-pref--hosoda-isamu",
+      "council_id": "tokyo-pref",
+      "name": "細田いさむ",
+      "name_kana": "ほそだ いさむ",
+      "district": "江東区",
+      "faction": "都議会公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num018.html"
+    },
+    {
+      "id": "tokyo-pref--yamazaki-itsuki",
+      "council_id": "tokyo-pref",
+      "name": "山崎一輝",
+      "name_kana": "やまざき いっき",
+      "district": "江東区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num019.html"
+    },
+    {
+      "id": "tokyo-pref--shinohara-rika",
+      "council_id": "tokyo-pref",
+      "name": "しのはらりか",
+      "name_kana": "しのはら りか",
+      "district": "品川区",
+      "faction": "無所属(東京・品川からやさしい未来を)",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num020.html"
+    },
+    {
+      "id": "tokyo-pref--itou-kouichi",
+      "council_id": "tokyo-pref",
+      "name": "伊藤こういち",
+      "name_kana": "いとう こういち",
+      "district": "品川区",
+      "faction": "都議会公明党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num021.html"
+    },
+    {
+      "id": "tokyo-pref--serizawa-yuujirou",
+      "council_id": "tokyo-pref",
+      "name": "せりざわ裕次郎",
+      "name_kana": "せりざわ ゆうじろう",
+      "district": "品川区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num022.html"
+    },
+    {
+      "id": "tokyo-pref--higashi-yuki",
+      "council_id": "tokyo-pref",
+      "name": "ひがしゆき",
+      "name_kana": "ひがし ゆき",
+      "district": "品川区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num023.html"
+    },
+    {
+      "id": "tokyo-pref--nishizaki-tsubasa",
+      "council_id": "tokyo-pref",
+      "name": "西崎つばさ",
+      "name_kana": "にしざき つばさ",
+      "district": "目黒区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num024.html"
+    },
+    {
+      "id": "tokyo-pref--yamaguchi-seiya",
+      "council_id": "tokyo-pref",
+      "name": "山口せいや",
+      "name_kana": "やまぐち せいや",
+      "district": "目黒区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num025.html"
+    },
+    {
+      "id": "tokyo-pref--aoki-eita",
+      "council_id": "tokyo-pref",
+      "name": "青木英太",
+      "name_kana": "あおき えいた",
+      "district": "目黒区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num026.html"
+    },
+    {
+      "id": "tokyo-pref--fukui-yuuta",
+      "council_id": "tokyo-pref",
+      "name": "福井ゆうた",
+      "name_kana": "ふくい ゆうた",
+      "district": "大田区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num027.html"
+    },
+    {
+      "id": "tokyo-pref--fujita-riyouko",
+      "council_id": "tokyo-pref",
+      "name": "藤田りょうこ",
+      "name_kana": "ふじた りょうこ",
+      "district": "大田区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num028.html"
+    },
+    {
+      "id": "tokyo-pref--mori-ai",
+      "council_id": "tokyo-pref",
+      "name": "もり愛",
+      "name_kana": "もり あい",
+      "district": "大田区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num029.html"
+    },
+    {
+      "id": "tokyo-pref--mogami-yoshinori",
+      "council_id": "tokyo-pref",
+      "name": "もがみよしのり",
+      "name_kana": "もがみ よしのり",
+      "district": "大田区",
+      "faction": "東京都議会参政党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num030.html"
+    },
+    {
+      "id": "tokyo-pref--ogino-minoru",
+      "council_id": "tokyo-pref",
+      "name": "おぎの稔",
+      "name_kana": "おぎの みのる",
+      "district": "大田区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num031.html"
+    },
+    {
+      "id": "tokyo-pref--yumoto-riyoutarou",
+      "council_id": "tokyo-pref",
+      "name": "ゆもと良太郎",
+      "name_kana": "ゆもと りょうたろう",
+      "district": "大田区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num032.html"
+    },
+    {
+      "id": "tokyo-pref--okeya-masato",
+      "council_id": "tokyo-pref",
+      "name": "おけやまさと",
+      "name_kana": "おけや まさと",
+      "district": "大田区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num033.html"
+    },
+    {
+      "id": "tokyo-pref--komatsu-daisuke",
+      "council_id": "tokyo-pref",
+      "name": "小松大祐",
+      "name_kana": "こまつ だいすけ",
+      "district": "世田谷区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num034.html"
+    },
+    {
+      "id": "tokyo-pref--mochizuki-masanori",
+      "council_id": "tokyo-pref",
+      "name": "望月まさのり",
+      "name_kana": "もちづき まさのり",
+      "district": "世田谷区",
+      "faction": "東京都議会参政党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num035.html"
+    },
+    {
+      "id": "tokyo-pref--kazama-yutaka",
+      "council_id": "tokyo-pref",
+      "name": "風間ゆたか",
+      "name_kana": "かざま ゆたか",
+      "district": "世田谷区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num036.html"
+    },
+    {
+      "id": "tokyo-pref--fukushima-rieko",
+      "council_id": "tokyo-pref",
+      "name": "福島りえこ",
+      "name_kana": "ふくしま りえこ",
+      "district": "世田谷区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num037.html"
+    },
+    {
+      "id": "tokyo-pref--takaku-norio",
+      "council_id": "tokyo-pref",
+      "name": "たかく則男",
+      "name_kana": "たかく のりお",
+      "district": "世田谷区",
+      "faction": "都議会公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num038.html"
+    },
+    {
+      "id": "tokyo-pref--satoyoshi-yumi",
+      "council_id": "tokyo-pref",
+      "name": "里吉ゆみ",
+      "name_kana": "さとよし ゆみ",
+      "district": "世田谷区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num039.html"
+    },
+    {
+      "id": "tokyo-pref--takano-takahiro",
+      "council_id": "tokyo-pref",
+      "name": "高野たかひろ",
+      "name_kana": "たかの たかひろ",
+      "district": "世田谷区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num040.html"
+    },
+    {
+      "id": "tokyo-pref--sakamoto-masashi",
+      "council_id": "tokyo-pref",
+      "name": "坂本まさし",
+      "name_kana": "さかもと まさし",
+      "district": "世田谷区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num041.html"
+    },
+    {
+      "id": "tokyo-pref--nakada-takashi",
+      "council_id": "tokyo-pref",
+      "name": "中田たかし",
+      "name_kana": "なかだ たかし",
+      "district": "渋谷区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num042.html"
+    },
+    {
+      "id": "tokyo-pref--riyuuen-airi",
+      "council_id": "tokyo-pref",
+      "name": "龍円あいり",
+      "name_kana": "りゅうえん あいり",
+      "district": "渋谷区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num043.html"
+    },
+    {
+      "id": "tokyo-pref--araki-chiharu",
+      "council_id": "tokyo-pref",
+      "name": "荒木ちはる",
+      "name_kana": "あらき ちはる",
+      "district": "中野区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num044.html"
+    },
+    {
+      "id": "tokyo-pref--nishizawa-keita",
+      "council_id": "tokyo-pref",
+      "name": "西沢けいた",
+      "name_kana": "にしざわ けいた",
+      "district": "中野区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num045.html"
+    },
+    {
+      "id": "tokyo-pref--kubo-rika",
+      "council_id": "tokyo-pref",
+      "name": "久保りか",
+      "name_kana": "くぼ りか",
+      "district": "中野区",
+      "faction": "都議会公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num046.html"
+    },
+    {
+      "id": "tokyo-pref--akanegakubo-kayoko",
+      "council_id": "tokyo-pref",
+      "name": "あかねがくぼかよ子",
+      "name_kana": "あかねがくぼ かよこ",
+      "district": "杉並区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num047.html"
+    },
+    {
+      "id": "tokyo-pref--sekiguchi-kentarou",
+      "council_id": "tokyo-pref",
+      "name": "関口健太郎",
+      "name_kana": "せきぐち けんたろう",
+      "district": "杉並区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num048.html"
+    },
+    {
+      "id": "tokyo-pref--hayasaka-yoshihiro",
+      "council_id": "tokyo-pref",
+      "name": "早坂義弘",
+      "name_kana": "はやさか よしひろ",
+      "district": "杉並区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num049.html"
+    },
+    {
+      "id": "tokyo-pref--matsuba-tamiko",
+      "council_id": "tokyo-pref",
+      "name": "まつば多美子",
+      "name_kana": "まつば たみこ",
+      "district": "杉並区",
+      "faction": "都議会公明党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num050.html"
+    },
+    {
+      "id": "tokyo-pref--harada-akira",
+      "council_id": "tokyo-pref",
+      "name": "原田あきら",
+      "name_kana": "はらだ あきら",
+      "district": "杉並区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num051.html"
+    },
+    {
+      "id": "tokyo-pref--kunisaki-takashi",
+      "council_id": "tokyo-pref",
+      "name": "国崎たかし",
+      "name_kana": "くにさき たかし",
+      "district": "杉並区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num052.html"
+    },
+    {
+      "id": "tokyo-pref--motohashi-hirotaka",
+      "council_id": "tokyo-pref",
+      "name": "本橋ひろたか",
+      "name_kana": "もとはし ひろたか",
+      "district": "豊島区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num053.html"
+    },
+    {
+      "id": "tokyo-pref--yonekura-haruna",
+      "council_id": "tokyo-pref",
+      "name": "米倉春奈",
+      "name_kana": "よねくら はるな",
+      "district": "豊島区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num054.html"
+    },
+    {
+      "id": "tokyo-pref--tani-kimiyo",
+      "council_id": "tokyo-pref",
+      "name": "谷公代",
+      "name_kana": "たに きみよ",
+      "district": "豊島区",
+      "faction": "都議会公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num055.html"
+    },
+    {
+      "id": "tokyo-pref--komazaki-miki",
+      "council_id": "tokyo-pref",
+      "name": "こまざき美紀",
+      "name_kana": "こまざき みき",
+      "district": "北区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num056.html"
+    },
+    {
+      "id": "tokyo-pref--oomatsu-akira",
+      "council_id": "tokyo-pref",
+      "name": "大松あきら",
+      "name_kana": "おおまつ あきら",
+      "district": "北区",
+      "faction": "都議会公明党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num057.html"
+    },
+    {
+      "id": "tokyo-pref--seino-keiko",
+      "council_id": "tokyo-pref",
+      "name": "せいの恵子",
+      "name_kana": "せいの けいこ",
+      "district": "北区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num058.html"
+    },
+    {
+      "id": "tokyo-pref--saitou-kazuki",
+      "council_id": "tokyo-pref",
+      "name": "さいとう和樹",
+      "name_kana": "さいとう かずき",
+      "district": "荒川区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num059.html"
+    },
+    {
+      "id": "tokyo-pref--keino-shinichi",
+      "council_id": "tokyo-pref",
+      "name": "慶野信一",
+      "name_kana": "けいの しんいち",
+      "district": "荒川区",
+      "faction": "都議会公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num060.html"
+    },
+    {
+      "id": "tokyo-pref--nakayama-shizu",
+      "council_id": "tokyo-pref",
+      "name": "中山詩都",
+      "name_kana": "なかやま しづ",
+      "district": "板橋区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num061.html"
+    },
+    {
+      "id": "tokyo-pref--miyase-eiji",
+      "council_id": "tokyo-pref",
+      "name": "宮瀬英治",
+      "name_kana": "みやせ えいじ",
+      "district": "板橋区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num062.html"
+    },
+    {
+      "id": "tokyo-pref--kamata-etsuko",
+      "council_id": "tokyo-pref",
+      "name": "かまた悦子",
+      "name_kana": "かまた えつこ",
+      "district": "板橋区",
+      "faction": "都議会公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num063.html"
+    },
+    {
+      "id": "tokyo-pref--kouno-yuuki",
+      "council_id": "tokyo-pref",
+      "name": "河野ゆうき",
+      "name_kana": "こうの ゆうき",
+      "district": "板橋区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num064.html"
+    },
+    {
+      "id": "tokyo-pref--takeuchi-ai",
+      "council_id": "tokyo-pref",
+      "name": "竹内愛",
+      "name_kana": "たけうち あい",
+      "district": "板橋区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num065.html"
+    },
+    {
+      "id": "tokyo-pref--fujii-tomonori",
+      "council_id": "tokyo-pref",
+      "name": "藤井とものり",
+      "name_kana": "ふじい とものり",
+      "district": "練馬区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num066.html"
+    },
+    {
+      "id": "tokyo-pref--ezaki-sanae",
+      "council_id": "tokyo-pref",
+      "name": "江崎さなえ",
+      "name_kana": "えざき さなえ",
+      "district": "練馬区",
+      "faction": "東京都議会参政党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num068.html"
+    },
+    {
+      "id": "tokyo-pref--kobayashi-kenji",
+      "council_id": "tokyo-pref",
+      "name": "小林健二",
+      "name_kana": "こばやし けんじ",
+      "district": "練馬区",
+      "faction": "都議会公明党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num069.html"
+    },
+    {
+      "id": "tokyo-pref--yamaguchi-hana",
+      "council_id": "tokyo-pref",
+      "name": "山口花",
+      "name_kana": "やまぐち はな",
+      "district": "練馬区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num070.html"
+    },
+    {
+      "id": "tokyo-pref--toya-etsuko",
+      "council_id": "tokyo-pref",
+      "name": "とや英津子",
+      "name_kana": "とや えつこ",
+      "district": "練馬区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num071.html"
+    },
+    {
+      "id": "tokyo-pref--shibazaki-mikio",
+      "council_id": "tokyo-pref",
+      "name": "柴崎幹男",
+      "name_kana": "しばざき みきお",
+      "district": "練馬区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num072.html"
+    },
+    {
+      "id": "tokyo-pref--gotou-nami",
+      "council_id": "tokyo-pref",
+      "name": "後藤なみ",
+      "name_kana": "ごとう なみ",
+      "district": "足立区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num073.html"
+    },
+    {
+      "id": "tokyo-pref--ginkawa-yuiko",
+      "council_id": "tokyo-pref",
+      "name": "銀川ゆい子",
+      "name_kana": "ぎんかわ ゆいこ",
+      "district": "足立区",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num074.html"
+    },
+    {
+      "id": "tokyo-pref--hotsuchi-yasutaka",
+      "council_id": "tokyo-pref",
+      "name": "ほっち易隆",
+      "name_kana": "ほっち やすたか",
+      "district": "足立区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num075.html"
+    },
+    {
+      "id": "tokyo-pref--saitou-mariko",
+      "council_id": "tokyo-pref",
+      "name": "斉藤まりこ",
+      "name_kana": "さいとう まりこ",
+      "district": "足立区",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num076.html"
+    },
+    {
+      "id": "tokyo-pref--ootake-sayoko",
+      "council_id": "tokyo-pref",
+      "name": "大竹さよこ",
+      "name_kana": "おおたけ さよこ",
+      "district": "足立区",
+      "faction": "都議会公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num077.html"
+    },
+    {
+      "id": "tokyo-pref--usui-kouichi",
+      "council_id": "tokyo-pref",
+      "name": "うすい浩一",
+      "name_kana": "うすい こういち",
+      "district": "足立区",
+      "faction": "都議会公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num078.html"
+    },
+    {
+      "id": "tokyo-pref--hirata-mitsuyoshi",
+      "council_id": "tokyo-pref",
+      "name": "平田みつよし",
+      "name_kana": "ひらた みつよし",
+      "district": "葛飾区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num079.html"
+    },
+    {
+      "id": "tokyo-pref--tokizaki-naoyuki",
+      "council_id": "tokyo-pref",
+      "name": "ときざき直行",
+      "name_kana": "ときざき なおゆき",
+      "district": "葛飾区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num080.html"
+    },
+    {
+      "id": "tokyo-pref--kitaguchi-tsuyoshi",
+      "council_id": "tokyo-pref",
+      "name": "北口つよし",
+      "name_kana": "きたぐち つよし",
+      "district": "葛飾区",
+      "faction": "都議会公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num081.html"
+    },
+    {
+      "id": "tokyo-pref--ogawa-yuuta",
+      "council_id": "tokyo-pref",
+      "name": "小川ゆうた",
+      "name_kana": "おがわ ゆうた",
+      "district": "葛飾区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num082.html"
+    },
+    {
+      "id": "tokyo-pref--takehira-chiharu",
+      "council_id": "tokyo-pref",
+      "name": "竹平ちはる",
+      "name_kana": "たけひら ちはる",
+      "district": "江戸川区",
+      "faction": "都議会公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num083.html"
+    },
+    {
+      "id": "tokyo-pref--ueda-reiko",
+      "council_id": "tokyo-pref",
+      "name": "上田令子",
+      "name_kana": "うえだ れいこ",
+      "district": "江戸川区",
+      "faction": "地域政党 自由を守る会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num084.html"
+    },
+    {
+      "id": "tokyo-pref--udagawa-satoshi",
+      "council_id": "tokyo-pref",
+      "name": "宇田川聡史",
+      "name_kana": "うだがわ さとし",
+      "district": "江戸川区",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num085.html"
+    },
+    {
+      "id": "tokyo-pref--amanuma-hiroshi",
+      "council_id": "tokyo-pref",
+      "name": "天沼ひろし",
+      "name_kana": "あまぬま ひろし",
+      "district": "江戸川区",
+      "faction": "国民民主党東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num086.html"
+    },
+    {
+      "id": "tokyo-pref--yamada-asami",
+      "council_id": "tokyo-pref",
+      "name": "山田あさみ",
+      "name_kana": "やまだ あさみ",
+      "district": "江戸川区",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num087.html"
+    },
+    {
+      "id": "tokyo-pref--higashimura-kunihiro",
+      "council_id": "tokyo-pref",
+      "name": "東村邦浩",
+      "name_kana": "ひがしむら くにひろ",
+      "district": "八王子市",
+      "faction": "都議会公明党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num088.html"
+    },
+    {
+      "id": "tokyo-pref--takita-yasuhiko",
+      "council_id": "tokyo-pref",
+      "name": "滝田やすひこ",
+      "name_kana": "たきた やすひこ",
+      "district": "八王子市",
+      "faction": "無所属(新時代の八王子)",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num089.html"
+    },
+    {
+      "id": "tokyo-pref--morozumi-minoru",
+      "council_id": "tokyo-pref",
+      "name": "両角みのる",
+      "name_kana": "もろずみ みのる",
+      "district": "八王子市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num090.html"
+    },
+    {
+      "id": "tokyo-pref--itou-shiyoukou",
+      "council_id": "tokyo-pref",
+      "name": "伊藤しょうこう",
+      "name_kana": "いとう しょうこう",
+      "district": "八王子市",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num092.html"
+    },
+    {
+      "id": "tokyo-pref--itou-daisuke",
+      "council_id": "tokyo-pref",
+      "name": "伊藤大輔",
+      "name_kana": "いとう だいすけ",
+      "district": "立川市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num093.html"
+    },
+    {
+      "id": "tokyo-pref--sasaoka-yuuko",
+      "council_id": "tokyo-pref",
+      "name": "笹岡ゆうこ",
+      "name_kana": "ささおか ゆうこ",
+      "district": "武蔵野市",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num095.html"
+    },
+    {
+      "id": "tokyo-pref--nakamura-hiroshi",
+      "council_id": "tokyo-pref",
+      "name": "中村ひろし",
+      "name_kana": "なかむら ひろし",
+      "district": "三鷹市",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num096.html"
+    },
+    {
+      "id": "tokyo-pref--yamada-hiroshi",
+      "council_id": "tokyo-pref",
+      "name": "山田ひろし",
+      "name_kana": "やまだ ひろし",
+      "district": "三鷹市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num097.html"
+    },
+    {
+      "id": "tokyo-pref--morimura-takayuki",
+      "council_id": "tokyo-pref",
+      "name": "森村隆行",
+      "name_kana": "もりむら たかゆき",
+      "district": "青梅市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num098.html"
+    },
+    {
+      "id": "tokyo-pref--koyama-kunihiko",
+      "council_id": "tokyo-pref",
+      "name": "小山くにひこ",
+      "name_kana": "こやま くにひこ",
+      "district": "府中市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num099.html"
+    },
+    {
+      "id": "tokyo-pref--masuyama-asuka",
+      "council_id": "tokyo-pref",
+      "name": "増山あすか",
+      "name_kana": "ますやま あすか",
+      "district": "府中市",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num100.html"
+    },
+    {
+      "id": "tokyo-pref--uchiyama-shingo",
+      "council_id": "tokyo-pref",
+      "name": "内山真吾",
+      "name_kana": "うちやま しんご",
+      "district": "昭島市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num101.html"
+    },
+    {
+      "id": "tokyo-pref--fujii-akira",
+      "council_id": "tokyo-pref",
+      "name": "藤井あきら",
+      "name_kana": "ふじい あきら",
+      "district": "町田市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num102.html"
+    },
+    {
+      "id": "tokyo-pref--hoshi-daisuke",
+      "council_id": "tokyo-pref",
+      "name": "星大輔",
+      "name_kana": "ほし だいすけ",
+      "district": "町田市",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num103.html"
+    },
+    {
+      "id": "tokyo-pref--higashi-tomomi",
+      "council_id": "tokyo-pref",
+      "name": "東友美",
+      "name_kana": "ひがし ともみ",
+      "district": "町田市",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num104.html"
+    },
+    {
+      "id": "tokyo-pref--muramatsu-toshitaka",
+      "council_id": "tokyo-pref",
+      "name": "村松としたか",
+      "name_kana": "むらまつ としたか",
+      "district": "町田市",
+      "faction": "都議会公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num105.html"
+    },
+    {
+      "id": "tokyo-pref--kando-akiko",
+      "council_id": "tokyo-pref",
+      "name": "漢人あきこ",
+      "name_kana": "かんど あきこ",
+      "district": "小金井市",
+      "faction": "無所属(グリーンな東京)",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num106.html"
+    },
+    {
+      "id": "tokyo-pref--matsuoka-atsushi",
+      "council_id": "tokyo-pref",
+      "name": "松岡あつし",
+      "name_kana": "まつおか あつし",
+      "district": "小平市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num107.html"
+    },
+    {
+      "id": "tokyo-pref--takei-youko",
+      "council_id": "tokyo-pref",
+      "name": "竹井ようこ",
+      "name_kana": "たけい ようこ",
+      "district": "小平市",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num108.html"
+    },
+    {
+      "id": "tokyo-pref--teramae-momoko",
+      "council_id": "tokyo-pref",
+      "name": "寺前ももこ",
+      "name_kana": "てらまえ ももこ",
+      "district": "日野市",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num109.html"
+    },
+    {
+      "id": "tokyo-pref--shimizu-toshiko",
+      "council_id": "tokyo-pref",
+      "name": "清水とし子",
+      "name_kana": "しみず としこ",
+      "district": "日野市",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num110.html"
+    },
+    {
+      "id": "tokyo-pref--kiriyama-hitomi",
+      "council_id": "tokyo-pref",
+      "name": "桐山ひとみ",
+      "name_kana": "きりやま ひとみ",
+      "district": "西東京市",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num111.html"
+    },
+    {
+      "id": "tokyo-pref--hamanaka-norikata",
+      "council_id": "tokyo-pref",
+      "name": "浜中のりかた",
+      "name_kana": "はまなか のりかた",
+      "district": "西東京市",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num112.html"
+    },
+    {
+      "id": "tokyo-pref--shimizu-yasuko",
+      "council_id": "tokyo-pref",
+      "name": "清水やすこ",
+      "name_kana": "しみず やすこ",
+      "district": "西多摩",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num113.html"
+    },
+    {
+      "id": "tokyo-pref--tamura-toshimitsu",
+      "council_id": "tokyo-pref",
+      "name": "田村利光",
+      "name_kana": "たむら としみつ",
+      "district": "西多摩",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num114.html"
+    },
+    {
+      "id": "tokyo-pref--endou-chihiro",
+      "council_id": "tokyo-pref",
+      "name": "遠藤ちひろ",
+      "name_kana": "えんどう ちひろ",
+      "district": "南多摩",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "公営企業委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num115.html"
+    },
+    {
+      "id": "tokyo-pref--iwasa-yukihiro",
+      "council_id": "tokyo-pref",
+      "name": "岩佐ゆきひろ",
+      "name_kana": "いわさ ゆきひろ",
+      "district": "南多摩",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num116.html"
+    },
+    {
+      "id": "tokyo-pref--sekino-takanari",
+      "council_id": "tokyo-pref",
+      "name": "関野たかなり",
+      "name_kana": "せきの たかなり",
+      "district": "北多摩第一",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num117.html"
+    },
+    {
+      "id": "tokyo-pref--ozaki-ayako",
+      "council_id": "tokyo-pref",
+      "name": "尾崎あや子",
+      "name_kana": "おざき あやこ",
+      "district": "北多摩第一",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "都市整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num118.html"
+    },
+    {
+      "id": "tokyo-pref--takada-kiyohisa",
+      "council_id": "tokyo-pref",
+      "name": "高田清久",
+      "name_kana": "たかだ きよひさ",
+      "district": "北多摩第一",
+      "faction": "都議会公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num119.html"
+    },
+    {
+      "id": "tokyo-pref--iwanaga-yasuyo",
+      "council_id": "tokyo-pref",
+      "name": "岩永やす代",
+      "name_kana": "いわなが やすよ",
+      "district": "北多摩第二",
+      "faction": "東京都議会立憲民主党・ミライ会議・生活者ネットワーク・無所属の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num120.html"
+    },
+    {
+      "id": "tokyo-pref--motohashi-takumi",
+      "council_id": "tokyo-pref",
+      "name": "本橋たくみ",
+      "name_kana": "もとはし たくみ",
+      "district": "北多摩第二",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num121.html"
+    },
+    {
+      "id": "tokyo-pref--ozaki-daisuke",
+      "council_id": "tokyo-pref",
+      "name": "尾崎大介",
+      "name_kana": "おざき だいすけ",
+      "district": "北多摩第三",
+      "faction": "都民ファーストの会 東京都議団",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num122.html"
+    },
+    {
+      "id": "tokyo-pref--tanaka-tomoko",
+      "council_id": "tokyo-pref",
+      "name": "田中とも子",
+      "name_kana": "たなか ともこ",
+      "district": "北多摩第三",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境・建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num123.html"
+    },
+    {
+      "id": "tokyo-pref--iida-kenichi",
+      "council_id": "tokyo-pref",
+      "name": "いいだ健一",
+      "name_kana": "いいだ けんいち",
+      "district": "北多摩第三",
+      "faction": "都議会公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num124.html"
+    },
+    {
+      "id": "tokyo-pref--shibuya-nobuyuki",
+      "council_id": "tokyo-pref",
+      "name": "渋谷のぶゆき",
+      "name_kana": "しぶや のぶゆき",
+      "district": "北多摩第四",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "経済・港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num125.html"
+    },
+    {
+      "id": "tokyo-pref--hara-noriko",
+      "council_id": "tokyo-pref",
+      "name": "原のり子",
+      "name_kana": "はら のりこ",
+      "district": "北多摩第四",
+      "faction": "日本共産党東京都議会議員団",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "厚生委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num126.html"
+    },
+    {
+      "id": "tokyo-pref--miyake-masahiko",
+      "council_id": "tokyo-pref",
+      "name": "三宅正彦",
+      "name_kana": "みやけ まさひこ",
+      "district": "島部",
+      "faction": "東京都議会自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "警察・消防委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.gikai.metro.tokyo.lg.jp/membership/num127.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "single_page_roster_with_profile_allowlist",
+    "district_count": 42,
+    "district_capacities": {
+      "千代田区": 1,
+      "中央区": 1,
+      "港区": 2,
+      "新宿区": 4,
+      "文京区": 2,
+      "台東区": 2,
+      "墨田区": 3,
+      "江東区": 4,
+      "品川区": 4,
+      "目黒区": 3,
+      "大田区": 7,
+      "世田谷区": 8,
+      "渋谷区": 2,
+      "中野区": 3,
+      "杉並区": 6,
+      "豊島区": 3,
+      "北区": 3,
+      "荒川区": 2,
+      "板橋区": 5,
+      "練馬区": 7,
+      "足立区": 6,
+      "葛飾区": 4,
+      "江戸川区": 5,
+      "八王子市": 5,
+      "立川市": 2,
+      "武蔵野市": 1,
+      "三鷹市": 2,
+      "青梅市": 1,
+      "府中市": 2,
+      "昭島市": 1,
+      "町田市": 4,
+      "小金井市": 1,
+      "小平市": 2,
+      "日野市": 2,
+      "西東京市": 2,
+      "西多摩": 2,
+      "南多摩": 2,
+      "北多摩第一": 3,
+      "北多摩第二": 2,
+      "北多摩第三": 3,
+      "北多摩第四": 2,
+      "島部": 1
+    },
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.gikai.metro.tokyo.lg.jp/membership/electoral-zone.html",
+    "source_basis_date": "公式基準日記載なし / 選挙区別HTML 定数127・現員124",
+    "last_verified": "2026-06-16",
+    "teisu": 127,
+    "genin": 124,
+    "ketsuin": 3,
+    "parsed_members": 124,
+    "vacancy_details": [
+      {
+        "district": "練馬区",
+        "ketsuin": 1,
+        "source_url": "https://www.gikai.metro.tokyo.lg.jp/membership/electoral-zone.html"
+      },
+      {
+        "district": "八王子市",
+        "ketsuin": 1,
+        "source_url": "https://www.gikai.metro.tokyo.lg.jp/membership/electoral-zone.html"
+      },
+      {
+        "district": "立川市",
+        "ketsuin": 1,
+        "source_url": "https://www.gikai.metro.tokyo.lg.jp/membership/electoral-zone.html"
+      }
+    ],
+    "notes": [
+      "選挙区別HTMLのリンクを起点に個別プロフィールを巡回",
+      "個別プロフィールは会派・期数・所属委員会・選挙区のみ許可リストで取得",
+      "連絡先・住所・電話・個人サイトは取得しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "source_basis_date": "公式基準日記載なし / 選挙区別HTML 定数127・現員124",
+  "last_verified": "2026-06-16",
+  "teisu": 127,
+  "genin": 124,
+  "ketsuin": 3,
+  "updated_at": "2026-06-16T22:00:44+00:00"
+}

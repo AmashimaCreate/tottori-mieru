@@ -1,0 +1,1657 @@
+{
+  "council_id": "kanagawa-pref",
+  "source_url": "https://www.pref.kanagawa.jp/gikai/p80275.html",
+  "source_name": "神奈川県議会 議員の紹介 選挙区でさがす",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "kanagawa-pref--kawasaki-shiyuuhei",
+      "council_id": "kanagawa-pref",
+      "name": "川崎修平",
+      "name_kana": "かわさき しゅうへい",
+      "district": "横浜市鶴見区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p898567.html"
+    },
+    {
+      "id": "kanagawa-pref--suzuki-hideshi",
+      "council_id": "kanagawa-pref",
+      "name": "鈴木ひでし",
+      "name_kana": "すずき ひでし",
+      "district": "横浜市鶴見区",
+      "faction": "公明党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312105.html"
+    },
+    {
+      "id": "kanagawa-pref--kisaki-tadamasa",
+      "council_id": "kanagawa-pref",
+      "name": "木佐木忠晶",
+      "name_kana": "きさき ただまさ",
+      "district": "横浜市鶴見区",
+      "faction": "日本共産党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542101.html"
+    },
+    {
+      "id": "kanagawa-pref--umezawa-hiroyuki",
+      "council_id": "kanagawa-pref",
+      "name": "梅沢裕之",
+      "name_kana": "うめざわ ひろゆき",
+      "district": "横浜市神奈川区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312118.html"
+    },
+    {
+      "id": "kanagawa-pref--katagiri-noriko",
+      "council_id": "kanagawa-pref",
+      "name": "片桐紀子",
+      "name_kana": "かたぎり のりこ",
+      "district": "横浜市神奈川区",
+      "faction": "日本維新の会神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542102.html"
+    },
+    {
+      "id": "kanagawa-pref--katou-motoya",
+      "council_id": "kanagawa-pref",
+      "name": "加藤元弥",
+      "name_kana": "かとう もとや",
+      "district": "横浜市西区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311966.html"
+    },
+    {
+      "id": "kanagawa-pref--hara-sousuke",
+      "council_id": "kanagawa-pref",
+      "name": "原聡祐",
+      "name_kana": "はら そうすけ",
+      "district": "横浜市中区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311929.html"
+    },
+    {
+      "id": "kanagawa-pref--sakuyama-yuusuke",
+      "council_id": "kanagawa-pref",
+      "name": "作山ゆうすけ",
+      "name_kana": "さくやま ゆうすけ",
+      "district": "横浜市中区",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312091.html"
+    },
+    {
+      "id": "kanagawa-pref--shinbori-fumiaki",
+      "council_id": "kanagawa-pref",
+      "name": "新堀史明",
+      "name_kana": "しんぼり ふみあき",
+      "district": "横浜市南区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p898870.html"
+    },
+    {
+      "id": "kanagawa-pref--kishibe-miyako",
+      "council_id": "kanagawa-pref",
+      "name": "岸部都",
+      "name_kana": "きしべ みやこ",
+      "district": "横浜市南区",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311977.html"
+    },
+    {
+      "id": "kanagawa-pref--kiriyuu-hideaki",
+      "council_id": "kanagawa-pref",
+      "name": "桐生秀昭",
+      "name_kana": "きりゅう ひであき",
+      "district": "横浜市港南区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311976.html"
+    },
+    {
+      "id": "kanagawa-pref--uramichi-kenichi",
+      "council_id": "kanagawa-pref",
+      "name": "浦道健一",
+      "name_kana": "うらみち けんいち",
+      "district": "横浜市港南区",
+      "faction": "神奈川を変える港南の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312120.html"
+    },
+    {
+      "id": "kanagawa-pref--takahashi-eiichirou",
+      "council_id": "kanagawa-pref",
+      "name": "高橋栄一郎",
+      "name_kana": "たかはし えいいちろう",
+      "district": "横浜市保土ケ谷区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312108.html"
+    },
+    {
+      "id": "kanagawa-pref--mochizuki-seiko",
+      "council_id": "kanagawa-pref",
+      "name": "望月聖子",
+      "name_kana": "もちづき せいこ",
+      "district": "横浜市保土ケ谷区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420003.html"
+    },
+    {
+      "id": "kanagawa-pref--suda-kouhei",
+      "council_id": "kanagawa-pref",
+      "name": "須田こうへい",
+      "name_kana": "すだ こうへい",
+      "district": "横浜市旭区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420004.html"
+    },
+    {
+      "id": "kanagawa-pref--isomoto-keitarou",
+      "council_id": "kanagawa-pref",
+      "name": "いそもと桂太郎",
+      "name_kana": "いそもと けいたろう",
+      "district": "横浜市旭区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311946.html"
+    },
+    {
+      "id": "kanagawa-pref--onodera-shinichirou",
+      "council_id": "kanagawa-pref",
+      "name": "小野寺慎一郎",
+      "name_kana": "おのでら しんいちろう",
+      "district": "横浜市旭区",
+      "faction": "公明党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312085.html"
+    },
+    {
+      "id": "kanagawa-pref--arai-kinuyo",
+      "council_id": "kanagawa-pref",
+      "name": "あらい絹世",
+      "name_kana": "あらい きぬよ",
+      "district": "横浜市磯子区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311890.html"
+    },
+    {
+      "id": "kanagawa-pref--ichikawa-satoshi",
+      "council_id": "kanagawa-pref",
+      "name": "市川さとし",
+      "name_kana": "いちかわ さとし",
+      "district": "横浜市磯子区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420005.html"
+    },
+    {
+      "id": "kanagawa-pref--oomura-yuu",
+      "council_id": "kanagawa-pref",
+      "name": "大村悠",
+      "name_kana": "おおむら ゆう",
+      "district": "横浜市金沢区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420006.html"
+    },
+    {
+      "id": "kanagawa-pref--matsuzaki-jiyun",
+      "council_id": "kanagawa-pref",
+      "name": "松崎淳",
+      "name_kana": "まつざき じゅん",
+      "district": "横浜市金沢区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311993.html"
+    },
+    {
+      "id": "kanagawa-pref--takeda-shiyou",
+      "council_id": "kanagawa-pref",
+      "name": "武田翔",
+      "name_kana": "たけだ しょう",
+      "district": "横浜市港北区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p898903.html"
+    },
+    {
+      "id": "kanagawa-pref--shimamura-tadashi",
+      "council_id": "kanagawa-pref",
+      "name": "嶋村ただし",
+      "name_kana": "しまむら ただし",
+      "district": "横浜市港北区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312096.html"
+    },
+    {
+      "id": "kanagawa-pref--ooyama-nanako",
+      "council_id": "kanagawa-pref",
+      "name": "大山奈々子",
+      "name_kana": "おおやま ななこ",
+      "district": "横浜市港北区",
+      "faction": "翼の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p898902.html"
+    },
+    {
+      "id": "kanagawa-pref--sugahara-akihito",
+      "council_id": "kanagawa-pref",
+      "name": "菅原あきひと",
+      "name_kana": "すがはら あきひと",
+      "district": "横浜市港北区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420007.html"
+    },
+    {
+      "id": "kanagawa-pref--koga-teruki",
+      "council_id": "kanagawa-pref",
+      "name": "古賀照基",
+      "name_kana": "こが てるき",
+      "district": "横浜市緑区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p898917.html"
+    },
+    {
+      "id": "kanagawa-pref--yanagishita-tsuyoshi",
+      "council_id": "kanagawa-pref",
+      "name": "柳下剛",
+      "name_kana": "やなぎした つよし",
+      "district": "横浜市緑区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312138.html"
+    },
+    {
+      "id": "kanagawa-pref--akano-takashi",
+      "council_id": "kanagawa-pref",
+      "name": "赤野たかし",
+      "name_kana": "あかの たかし",
+      "district": "横浜市青葉区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311897.html"
+    },
+    {
+      "id": "kanagawa-pref--uchida-mihoko",
+      "council_id": "kanagawa-pref",
+      "name": "内田みほこ",
+      "name_kana": "うちだ みほこ",
+      "district": "横浜市青葉区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312117.html"
+    },
+    {
+      "id": "kanagawa-pref--kojima-kenichi",
+      "council_id": "kanagawa-pref",
+      "name": "小島健一",
+      "name_kana": "こじま けんいち",
+      "district": "横浜市青葉区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311979.html"
+    },
+    {
+      "id": "kanagawa-pref--aoki-maki",
+      "council_id": "kanagawa-pref",
+      "name": "青木マキ",
+      "name_kana": "あおき まき",
+      "district": "横浜市青葉区",
+      "faction": "県政会・立憲民主神奈川ネット神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542103.html"
+    },
+    {
+      "id": "kanagawa-pref--shikida-hiroaki",
+      "council_id": "kanagawa-pref",
+      "name": "しきだ博昭",
+      "name_kana": "しきだ ひろあき",
+      "district": "横浜市都筑区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312095.html"
+    },
+    {
+      "id": "kanagawa-pref--sutou-takanobu",
+      "council_id": "kanagawa-pref",
+      "name": "すとう天信",
+      "name_kana": "すとう たかのぶ",
+      "district": "横浜市都筑区",
+      "faction": "県政会・立憲民主神奈川ネット神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420008.html"
+    },
+    {
+      "id": "kanagawa-pref--matsuda-yoshiaki",
+      "council_id": "kanagawa-pref",
+      "name": "松田良昭",
+      "name_kana": "まつだ よしあき",
+      "district": "横浜市戸塚区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311992.html"
+    },
+    {
+      "id": "kanagawa-pref--kitai-hiroaki",
+      "council_id": "kanagawa-pref",
+      "name": "北井宏昭",
+      "name_kana": "きたい ひろあき",
+      "district": "横浜市戸塚区",
+      "faction": "わが町",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p898950.html"
+    },
+    {
+      "id": "kanagawa-pref--morita-manabu",
+      "council_id": "kanagawa-pref",
+      "name": "森田学",
+      "name_kana": "もりた まなぶ",
+      "district": "横浜市戸塚区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542104.html"
+    },
+    {
+      "id": "kanagawa-pref--kusunoki-rieko",
+      "council_id": "kanagawa-pref",
+      "name": "楠梨恵子",
+      "name_kana": "くすのき りえこ",
+      "district": "横浜市栄区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311989.html"
+    },
+    {
+      "id": "kanagawa-pref--tanaka-shinji",
+      "council_id": "kanagawa-pref",
+      "name": "田中信次",
+      "name_kana": "たなか しんじ",
+      "district": "横浜市泉区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p898959.html"
+    },
+    {
+      "id": "kanagawa-pref--matsumoto-kiyoshi",
+      "council_id": "kanagawa-pref",
+      "name": "松本清",
+      "name_kana": "まつもと きよし",
+      "district": "横浜市泉区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311994.html"
+    },
+    {
+      "id": "kanagawa-pref--tamura-yuusuke",
+      "council_id": "kanagawa-pref",
+      "name": "田村ゆうすけ",
+      "name_kana": "たむら ゆうすけ",
+      "district": "横浜市瀬谷区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p898965.html"
+    },
+    {
+      "id": "kanagawa-pref--sugiyama-nobuo",
+      "council_id": "kanagawa-pref",
+      "name": "杉山信雄",
+      "name_kana": "すぎやま のぶお",
+      "district": "川崎市川崎区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312101.html"
+    },
+    {
+      "id": "kanagawa-pref--nishimura-kuniko",
+      "council_id": "kanagawa-pref",
+      "name": "西村くにこ",
+      "name_kana": "にしむら くにこ",
+      "district": "川崎市川崎区",
+      "faction": "公明党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312005.html"
+    },
+    {
+      "id": "kanagawa-pref--sakai-manabu",
+      "council_id": "kanagawa-pref",
+      "name": "栄居学",
+      "name_kana": "さかい まなぶ",
+      "district": "川崎市川崎区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420009.html"
+    },
+    {
+      "id": "kanagawa-pref--tanaka-tokuichirou",
+      "council_id": "kanagawa-pref",
+      "name": "田中徳一郎",
+      "name_kana": "たなか とくいちろう",
+      "district": "川崎市幸区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312113.html"
+    },
+    {
+      "id": "kanagawa-pref--ichikawa-yoshiko",
+      "council_id": "kanagawa-pref",
+      "name": "市川よし子",
+      "name_kana": "いちかわ よしこ",
+      "district": "川崎市幸区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420010.html"
+    },
+    {
+      "id": "kanagawa-pref--takita-koutoku",
+      "council_id": "kanagawa-pref",
+      "name": "たきた孝徳",
+      "name_kana": "たきた こうとく",
+      "district": "川崎市中原区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312112.html"
+    },
+    {
+      "id": "kanagawa-pref--matsukawa-shiyoujirou",
+      "council_id": "kanagawa-pref",
+      "name": "松川正二郎",
+      "name_kana": "まつかわ しょうじろう",
+      "district": "川崎市中原区",
+      "faction": "中原・高津の会神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542105.html"
+    },
+    {
+      "id": "kanagawa-pref--ogawa-kuniko",
+      "council_id": "kanagawa-pref",
+      "name": "小川久仁子",
+      "name_kana": "おがわ くにこ",
+      "district": "川崎市高津区",
+      "faction": "県政会・立憲民主神奈川ネット神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312006.html"
+    },
+    {
+      "id": "kanagawa-pref--saitou-takami",
+      "council_id": "kanagawa-pref",
+      "name": "斉藤たかみ",
+      "name_kana": "さいとう たかみ",
+      "district": "川崎市高津区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312088.html"
+    },
+    {
+      "id": "kanagawa-pref--hiura-kazuaki",
+      "council_id": "kanagawa-pref",
+      "name": "日浦和明",
+      "name_kana": "ひうら かずあき",
+      "district": "川崎市高津区",
+      "faction": "中原・高津の会神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542106.html"
+    },
+    {
+      "id": "kanagawa-pref--mochida-fumio",
+      "council_id": "kanagawa-pref",
+      "name": "持田文男",
+      "name_kana": "もちだ ふみお",
+      "district": "川崎市宮前区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311996.html"
+    },
+    {
+      "id": "kanagawa-pref--yanase-kichisuke",
+      "council_id": "kanagawa-pref",
+      "name": "柳瀬吉助",
+      "name_kana": "やなせ きちすけ",
+      "district": "川崎市宮前区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420012.html"
+    },
+    {
+      "id": "kanagawa-pref--doi-riyuusuke",
+      "council_id": "kanagawa-pref",
+      "name": "土井りゅうすけ",
+      "name_kana": "どい りゅうすけ",
+      "district": "川崎市多摩区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311911.html"
+    },
+    {
+      "id": "kanagawa-pref--aoyama-keiichi",
+      "council_id": "kanagawa-pref",
+      "name": "青山圭一",
+      "name_kana": "あおやま けいいち",
+      "district": "川崎市多摩区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311892.html"
+    },
+    {
+      "id": "kanagawa-pref--ishikawa-hironori",
+      "council_id": "kanagawa-pref",
+      "name": "石川裕憲",
+      "name_kana": "いしかわ ひろのり",
+      "district": "川崎市麻生区",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899017.html"
+    },
+    {
+      "id": "kanagawa-pref--kobayashi-takeshi",
+      "council_id": "kanagawa-pref",
+      "name": "小林武史",
+      "name_kana": "こばやし たけし",
+      "district": "川崎市麻生区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542108.html"
+    },
+    {
+      "id": "kanagawa-pref--yamaguchi-mitsuo",
+      "council_id": "kanagawa-pref",
+      "name": "山口美津夫",
+      "name_kana": "やまぐち みつお",
+      "district": "相模原市緑区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420013.html"
+    },
+    {
+      "id": "kanagawa-pref--oda-takahisa",
+      "council_id": "kanagawa-pref",
+      "name": "小田貴久",
+      "name_kana": "おだ たかひさ",
+      "district": "相模原市緑区",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542109.html"
+    },
+    {
+      "id": "kanagawa-pref--kawamoto-fumio",
+      "council_id": "kanagawa-pref",
+      "name": "河本文雄",
+      "name_kana": "かわもと ふみお",
+      "district": "相模原市中央区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311973.html"
+    },
+    {
+      "id": "kanagawa-pref--terasaki-yuusuke",
+      "council_id": "kanagawa-pref",
+      "name": "てらさき雄介",
+      "name_kana": "てらさき ゆうすけ",
+      "district": "相模原市中央区",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312115.html"
+    },
+    {
+      "id": "kanagawa-pref--sasaki-masayuki",
+      "council_id": "kanagawa-pref",
+      "name": "佐々木正行",
+      "name_kana": "ささき まさゆき",
+      "district": "相模原市中央区",
+      "faction": "公明党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312092.html"
+    },
+    {
+      "id": "kanagawa-pref--hosoya-masayuki",
+      "council_id": "kanagawa-pref",
+      "name": "細谷政幸",
+      "name_kana": "ほそや まさゆき",
+      "district": "相模原市南区",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311933.html"
+    },
+    {
+      "id": "kanagawa-pref--kiyoushima-keiko",
+      "council_id": "kanagawa-pref",
+      "name": "京島けいこ",
+      "name_kana": "きょうしま けいこ",
+      "district": "相模原市南区",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899033.html"
+    },
+    {
+      "id": "kanagawa-pref--abe-shiyoutarou",
+      "council_id": "kanagawa-pref",
+      "name": "阿部将太郎",
+      "name_kana": "あべ しょうたろう",
+      "district": "相模原市南区",
+      "faction": "日本維新の会神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542110.html"
+    },
+    {
+      "id": "kanagawa-pref--tanaka-youjirou",
+      "council_id": "kanagawa-pref",
+      "name": "田中洋次郎",
+      "name_kana": "たなか ようじろう",
+      "district": "横須賀市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542111.html"
+    },
+    {
+      "id": "kanagawa-pref--kamei-takatsugu",
+      "council_id": "kanagawa-pref",
+      "name": "亀井たかつぐ",
+      "name_kana": "かめい たかつぐ",
+      "district": "横須賀市",
+      "faction": "公明党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311963.html"
+    },
+    {
+      "id": "kanagawa-pref--nagai-masato",
+      "council_id": "kanagawa-pref",
+      "name": "永井真人",
+      "name_kana": "ながい まさと",
+      "district": "横須賀市",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542112.html"
+    },
+    {
+      "id": "kanagawa-pref--isaka-shinya",
+      "council_id": "kanagawa-pref",
+      "name": "井坂新哉",
+      "name_kana": "いさか しんや",
+      "district": "横須賀市",
+      "faction": "日本共産党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542121.html"
+    },
+    {
+      "id": "kanagawa-pref--yonemura-kazuhiko",
+      "council_id": "kanagawa-pref",
+      "name": "米村和彦",
+      "name_kana": "よねむら かずひこ",
+      "district": "平塚市",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899054.html"
+    },
+    {
+      "id": "kanagawa-pref--mori-masaaki",
+      "council_id": "kanagawa-pref",
+      "name": "森正明",
+      "name_kana": "もり まさあき",
+      "district": "平塚市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311997.html"
+    },
+    {
+      "id": "kanagawa-pref--fujii-shinsuke",
+      "council_id": "kanagawa-pref",
+      "name": "藤井深介",
+      "name_kana": "ふじい しんすけ",
+      "district": "平塚市",
+      "faction": "公明党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311920.html"
+    },
+    {
+      "id": "kanagawa-pref--iino-masatake",
+      "council_id": "kanagawa-pref",
+      "name": "飯野まさたけ",
+      "name_kana": "いいの まさたけ",
+      "district": "鎌倉市",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420017.html"
+    },
+    {
+      "id": "kanagawa-pref--waki-reiko",
+      "council_id": "kanagawa-pref",
+      "name": "脇礼子",
+      "name_kana": "わき れいこ",
+      "district": "藤沢市",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420018.html"
+    },
+    {
+      "id": "kanagawa-pref--matsunaga-yasuyuki",
+      "council_id": "kanagawa-pref",
+      "name": "松長泰幸",
+      "name_kana": "まつなが やすゆき",
+      "district": "藤沢市",
+      "faction": "県政会・立憲民主神奈川ネット神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420019.html"
+    },
+    {
+      "id": "kanagawa-pref--yoshida-atsuki",
+      "council_id": "kanagawa-pref",
+      "name": "吉田あつき",
+      "name_kana": "よしだ あつき",
+      "district": "藤沢市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542113.html"
+    },
+    {
+      "id": "kanagawa-pref--ichikawa-kazuhiro",
+      "council_id": "kanagawa-pref",
+      "name": "市川和広",
+      "name_kana": "いちかわ かずひろ",
+      "district": "藤沢市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899069.html"
+    },
+    {
+      "id": "kanagawa-pref--oda-sachiko",
+      "council_id": "kanagawa-pref",
+      "name": "おだ幸子",
+      "name_kana": "おだ さちこ",
+      "district": "藤沢市",
+      "faction": "公明党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542114.html"
+    },
+    {
+      "id": "kanagawa-pref--ozawa-yoshinaka",
+      "council_id": "kanagawa-pref",
+      "name": "おざわ良央",
+      "name_kana": "おざわ よしなか",
+      "district": "小田原市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899159.html"
+    },
+    {
+      "id": "kanagawa-pref--hirano-migiwa",
+      "council_id": "kanagawa-pref",
+      "name": "平野みぎわ",
+      "name_kana": "ひらの みぎわ",
+      "district": "茅ヶ崎市",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542115.html"
+    },
+    {
+      "id": "kanagawa-pref--masu-seitarou",
+      "council_id": "kanagawa-pref",
+      "name": "ます晴太郎",
+      "name_kana": "ます せいたろう",
+      "district": "茅ヶ崎市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420022.html"
+    },
+    {
+      "id": "kanagawa-pref--kondou-daisuke",
+      "council_id": "kanagawa-pref",
+      "name": "近藤大輔",
+      "name_kana": "こんどう だいすけ",
+      "district": "逗子市・葉山町",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311980.html"
+    },
+    {
+      "id": "kanagawa-pref--ishikawa-takumi",
+      "council_id": "kanagawa-pref",
+      "name": "石川巧",
+      "name_kana": "いしかわ たくみ",
+      "district": "三浦市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899202.html"
+    },
+    {
+      "id": "kanagawa-pref--kamikura-hiroaki",
+      "council_id": "kanagawa-pref",
+      "name": "神倉寛明",
+      "name_kana": "かみくら ひろあき",
+      "district": "秦野市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899206.html"
+    },
+    {
+      "id": "kanagawa-pref--tani-kazuo",
+      "council_id": "kanagawa-pref",
+      "name": "谷和雄",
+      "name_kana": "たに かずお",
+      "district": "秦野市",
+      "faction": "創和会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542116.html"
+    },
+    {
+      "id": "kanagawa-pref--nanba-tatsuya",
+      "council_id": "kanagawa-pref",
+      "name": "難波達哉",
+      "name_kana": "なんば たつや",
+      "district": "厚木市・愛川町・清川村",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542117.html"
+    },
+    {
+      "id": "kanagawa-pref--satou-keisuke",
+      "council_id": "kanagawa-pref",
+      "name": "佐藤けいすけ",
+      "name_kana": "さとう けいすけ",
+      "district": "厚木市・愛川町・清川村",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420024.html"
+    },
+    {
+      "id": "kanagawa-pref--satou-tomokazu",
+      "council_id": "kanagawa-pref",
+      "name": "さとう知一",
+      "name_kana": "さとう ともかず",
+      "district": "厚木市・愛川町・清川村",
+      "faction": "厚木愛川清川の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p420025.html"
+    },
+    {
+      "id": "kanagawa-pref--fujishiro-yuuya",
+      "council_id": "kanagawa-pref",
+      "name": "藤代ゆうや",
+      "name_kana": "ふじしろ ゆうや",
+      "district": "大和市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p311917.html"
+    },
+    {
+      "id": "kanagawa-pref--nouchi-mitsue",
+      "council_id": "kanagawa-pref",
+      "name": "野内みつえ",
+      "name_kana": "のうち みつえ",
+      "district": "大和市",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542118.html"
+    },
+    {
+      "id": "kanagawa-pref--taniguchi-kazufumi",
+      "council_id": "kanagawa-pref",
+      "name": "谷口かずふみ",
+      "name_kana": "たにぐち かずふみ",
+      "district": "大和市",
+      "faction": "公明党神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312114.html"
+    },
+    {
+      "id": "kanagawa-pref--watanabe-noriyuki",
+      "council_id": "kanagawa-pref",
+      "name": "渡辺紀之",
+      "name_kana": "わたなべ のりゆき",
+      "district": "伊勢原市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p521501.html"
+    },
+    {
+      "id": "kanagawa-pref--osada-shinji",
+      "council_id": "kanagawa-pref",
+      "name": "長田進治",
+      "name_kana": "おさだ しんじ",
+      "district": "海老名市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312087.html"
+    },
+    {
+      "id": "kanagawa-pref--aihara-shiho",
+      "council_id": "kanagawa-pref",
+      "name": "相原しほ",
+      "name_kana": "あいはら しほ",
+      "district": "海老名市",
+      "faction": "立憲民主党・かながわクラブ神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542119.html"
+    },
+    {
+      "id": "kanagawa-pref--akutagawa-kaoru",
+      "council_id": "kanagawa-pref",
+      "name": "芥川薫",
+      "name_kana": "あくたがわ かおる",
+      "district": "座間市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "常任委員会",
+        "特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899228.html"
+    },
+    {
+      "id": "kanagawa-pref--takahashi-nobuyuki",
+      "council_id": "kanagawa-pref",
+      "name": "高橋延幸",
+      "name_kana": "たかはし のぶゆき",
+      "district": "南足柄市・足柄下",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899246.html"
+    },
+    {
+      "id": "kanagawa-pref--tsunashima-youichi",
+      "council_id": "kanagawa-pref",
+      "name": "綱嶋洋一",
+      "name_kana": "つなしま よういち",
+      "district": "綾瀬市",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899235.html"
+    },
+    {
+      "id": "kanagawa-pref--yamamoto-tetsu",
+      "council_id": "kanagawa-pref",
+      "name": "山本哲",
+      "name_kana": "やまもと てつ",
+      "district": "寒川町",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会",
+        "特別委員会",
+        "予算委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p899238.html"
+    },
+    {
+      "id": "kanagawa-pref--yoshikawa-satoshi",
+      "council_id": "kanagawa-pref",
+      "name": "吉川さとし",
+      "name_kana": "よしかわ さとし",
+      "district": "大磯町・二宮町",
+      "faction": "かながわ未来神奈川県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p542120.html"
+    },
+    {
+      "id": "kanagawa-pref--sugimoto-tooru",
+      "council_id": "kanagawa-pref",
+      "name": "杉本透",
+      "name_kana": "すぎもと とおる",
+      "district": "足柄上",
+      "faction": "自由民主党神奈川 県議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.kanagawa.jp/gikai/p312104.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "single_page_roster_multi_view",
+    "district_count": 47,
+    "faction_source_url": "https://www.pref.kanagawa.jp/gikai/p307827.html",
+    "committee_source_url": "https://www.pref.kanagawa.jp/gikai/p308696.html",
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.kanagawa.jp/gikai/p80275.html",
+    "source_basis_date": "公式基準日記載なし / 会派別HTML 定数105・現員99",
+    "last_verified": "2026-06-16",
+    "teisu": 105,
+    "genin": 99,
+    "ketsuin": 6,
+    "parsed_members": 99,
+    "vacancy_details": [
+      {
+        "district": "横浜市神奈川区",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.kanagawa.jp/gikai/p80275.html"
+      },
+      {
+        "district": "川崎市中原区",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.kanagawa.jp/gikai/p80275.html"
+      },
+      {
+        "district": "川崎市宮前区",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.kanagawa.jp/gikai/p80275.html"
+      },
+      {
+        "district": "鎌倉市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.kanagawa.jp/gikai/p80275.html"
+      },
+      {
+        "district": "小田原市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.kanagawa.jp/gikai/p80275.html"
+      },
+      {
+        "district": "茅ヶ崎市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.kanagawa.jp/gikai/p80275.html"
+      }
+    ],
+    "notes": [
+      "選挙区別HTMLから氏名・ふりがな・選挙区を取得",
+      "会派別HTMLをプロフィールURLキーで結合",
+      "委員会別HTMLをプロフィールURLキーで結合",
+      "当選回数は公式HTMLに見当たらないためnull",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "source_basis_date": "公式基準日記載なし / 会派別HTML 定数105・現員99",
+  "last_verified": "2026-06-16",
+  "teisu": 105,
+  "genin": 99,
+  "ketsuin": 6,
+  "updated_at": "2026-06-16T21:44:21+00:00"
+}

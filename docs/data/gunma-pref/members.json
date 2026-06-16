@@ -1,0 +1,843 @@
+{
+  "council_id": "gunma-pref",
+  "source_url": "https://www.pref.gunma.jp/site/gikai/25704.html",
+  "source_name": "群馬県議会 議員の紹介 選挙区別",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "gunma-pref--oobayashi-yuuko",
+      "council_id": "gunma-pref",
+      "name": "大林裕子",
+      "name_kana": "おおばやし ゆうこ",
+      "district": "北群馬郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環農",
+        "食・農",
+        "議運副委員長",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25722.html"
+    },
+    {
+      "id": "gunma-pref--ushiki-tadashi",
+      "council_id": "gunma-pref",
+      "name": "牛木義",
+      "name_kana": "うしき ただし",
+      "district": "甘楽郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総企",
+        "食・農副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25717.html"
+    },
+    {
+      "id": "gunma-pref--iriuchijima-michitaka",
+      "council_id": "gunma-pref",
+      "name": "入内島道隆",
+      "name_kana": "いりうちじま みちたか",
+      "district": "吾妻郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "健福委員長",
+        "次世代",
+        "図書委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23291.html"
+    },
+    {
+      "id": "gunma-pref--mizuno-yoshinori",
+      "council_id": "gunma-pref",
+      "name": "水野喜徳",
+      "name_kana": "みずの よしのり",
+      "district": "吾妻郡",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "産土",
+        "食・農",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/202690.html"
+    },
+    {
+      "id": "gunma-pref--hoshino-hiroshi",
+      "council_id": "gunma-pref",
+      "name": "星野寛",
+      "name_kana": "ほしの ひろし",
+      "district": "利根郡",
+      "faction": "自由民主党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "総企",
+        "次世代委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23287.html"
+    },
+    {
+      "id": "gunma-pref--ida-izumi",
+      "council_id": "gunma-pref",
+      "name": "井田泉",
+      "name_kana": "いだ いずみ",
+      "district": "佐波郡",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "健福",
+        "総合委員長",
+        "議運"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25728.html"
+    },
+    {
+      "id": "gunma-pref--kubota-jiyunichirou",
+      "council_id": "gunma-pref",
+      "name": "久保田順一郎",
+      "name_kana": "くぼた じゅんいちろう",
+      "district": "邑楽郡",
+      "faction": "自由民主党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "環農",
+        "食・農委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25720.html"
+    },
+    {
+      "id": "gunma-pref--kawanobe-tatsuya",
+      "council_id": "gunma-pref",
+      "name": "川野辺達也",
+      "name_kana": "かわのべ たつや",
+      "district": "邑楽郡",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文警",
+        "スポ・多",
+        "議運",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24183.html"
+    },
+    {
+      "id": "gunma-pref--mori-masahiko",
+      "council_id": "gunma-pref",
+      "name": "森昌彦",
+      "name_kana": "もり まさひこ",
+      "district": "邑楽郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総企委員長",
+        "次世代副委員長",
+        "議運"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25726.html"
+    },
+    {
+      "id": "gunma-pref--kanou-hiroshi",
+      "council_id": "gunma-pref",
+      "name": "狩野浩志",
+      "name_kana": "かのう ひろし",
+      "district": "前橋市",
+      "faction": "自由民主党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "産土",
+        "スポ・多",
+        "議運"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25723.html"
+    },
+    {
+      "id": "gunma-pref--mizuno-toshio",
+      "council_id": "gunma-pref",
+      "name": "水野俊雄",
+      "name_kana": "みずの としお",
+      "district": "前橋市",
+      "faction": "公明党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総企",
+        "食・農",
+        "議運"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25729.html"
+    },
+    {
+      "id": "gunma-pref--sakai-hiroaki",
+      "council_id": "gunma-pref",
+      "name": "酒井宏明",
+      "name_kana": "さかい ひろあき",
+      "district": "前橋市",
+      "faction": "日本共産党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総企",
+        "次世代"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23280.html"
+    },
+    {
+      "id": "gunma-pref--abiko-tetsu",
+      "council_id": "gunma-pref",
+      "name": "安孫子哲",
+      "name_kana": "あびこ てつ",
+      "district": "前橋市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文警",
+        "総合"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23290.html"
+    },
+    {
+      "id": "gunma-pref--hongou-takaaki",
+      "council_id": "gunma-pref",
+      "name": "本郷高明",
+      "name_kana": "ほんごう たかあき",
+      "district": "前橋市",
+      "faction": "リベラル群馬",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "産土",
+        "スポ・多",
+        "議運"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24186.html"
+    },
+    {
+      "id": "gunma-pref--suzuki-kazunari",
+      "council_id": "gunma-pref",
+      "name": "鈴木数成",
+      "name_kana": "すずき かずなり",
+      "district": "前橋市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環農副委員長",
+        "次世代",
+        "図書"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/203433.html"
+    },
+    {
+      "id": "gunma-pref--miyazaki-takeshi",
+      "council_id": "gunma-pref",
+      "name": "宮崎岳志",
+      "name_kana": "みやざき たけし",
+      "district": "前橋市",
+      "faction": "群馬維新の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "健福",
+        "総合"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/203330.html"
+    },
+    {
+      "id": "gunma-pref--hashizume-yousuke",
+      "council_id": "gunma-pref",
+      "name": "橋爪洋介",
+      "name_kana": "はしづめ ようすけ",
+      "district": "高崎市",
+      "faction": "自由民主党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文警",
+        "スポ・多委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25725.html"
+    },
+    {
+      "id": "gunma-pref--gotou-katsumi",
+      "council_id": "gunma-pref",
+      "name": "後藤克己",
+      "name_kana": "ごとう かつみ",
+      "district": "高崎市",
+      "faction": "リベラル群馬",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文警",
+        "次世代"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25730.html"
+    },
+    {
+      "id": "gunma-pref--matsumoto-motoshi",
+      "council_id": "gunma-pref",
+      "name": "松本基志",
+      "name_kana": "まつもと もとし",
+      "district": "高崎市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "産土",
+        "次世代",
+        "議運",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/206958.html"
+    },
+    {
+      "id": "gunma-pref--takai-shiyunichirou",
+      "council_id": "gunma-pref",
+      "name": "高井俊一郎",
+      "name_kana": "たかい しゅんいちろう",
+      "district": "高崎市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "健福",
+        "総合副委員長",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24042.html"
+    },
+    {
+      "id": "gunma-pref--oikawa-tokunobu",
+      "council_id": "gunma-pref",
+      "name": "追川徳信",
+      "name_kana": "おいかわ とくのぶ",
+      "district": "高崎市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文警委員長",
+        "食・農",
+        "図書",
+        "条例副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25718.html"
+    },
+    {
+      "id": "gunma-pref--suzuki-atsuko",
+      "council_id": "gunma-pref",
+      "name": "鈴木敦子",
+      "name_kana": "すずき あつこ",
+      "district": "高崎市",
+      "faction": "リベラル群馬",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総企",
+        "総合",
+        "図書"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25719.html"
+    },
+    {
+      "id": "gunma-pref--oosawa-ayako",
+      "council_id": "gunma-pref",
+      "name": "大沢綾子",
+      "name_kana": "おおさわ あやこ",
+      "district": "高崎市",
+      "faction": "日本共産党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "産土",
+        "総合"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/203351.html"
+    },
+    {
+      "id": "gunma-pref--shimizu-daiki",
+      "council_id": "gunma-pref",
+      "name": "清水大樹",
+      "name_kana": "しみず だいき",
+      "district": "高崎市",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環農",
+        "次世代",
+        "図書"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/202737.html"
+    },
+    {
+      "id": "gunma-pref--nakajima-tsuyoshi",
+      "council_id": "gunma-pref",
+      "name": "中島豪",
+      "name_kana": "なかじま つよし",
+      "district": "高崎市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総企副委員長",
+        "総合"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/202156.html"
+    },
+    {
+      "id": "gunma-pref--ida-yasuhiko",
+      "council_id": "gunma-pref",
+      "name": "井田泰彦",
+      "name_kana": "いだ やすひこ",
+      "district": "桐生市",
+      "faction": "つる舞う",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文警",
+        "スポ・多",
+        "議運"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24185.html"
+    },
+    {
+      "id": "gunma-pref--aizawa-takafumi",
+      "council_id": "gunma-pref",
+      "name": "相沢崇文",
+      "name_kana": "あいざわ たかふみ",
+      "district": "桐生市",
+      "faction": "真心",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環農",
+        "食・農"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24188.html"
+    },
+    {
+      "id": "gunma-pref--kameyama-takashi",
+      "council_id": "gunma-pref",
+      "name": "亀山貴史",
+      "name_kana": "かめやま たかし",
+      "district": "桐生市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文警",
+        "スポ・多",
+        "議運",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25724.html"
+    },
+    {
+      "id": "gunma-pref--ishita-yasunobu",
+      "council_id": "gunma-pref",
+      "name": "井下泰伸",
+      "name_kana": "いした やすのぶ",
+      "district": "伊勢崎市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "健福",
+        "次世代",
+        "議運委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23288.html"
+    },
+    {
+      "id": "gunma-pref--yamato-isao",
+      "council_id": "gunma-pref",
+      "name": "大和勲",
+      "name_kana": "やまと いさお",
+      "district": "伊勢崎市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総企",
+        "総合",
+        "議運",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24182.html"
+    },
+    {
+      "id": "gunma-pref--kagaya-fujiko",
+      "council_id": "gunma-pref",
+      "name": "加賀谷富士子",
+      "name_kana": "かがや ふじこ",
+      "district": "伊勢崎市",
+      "faction": "リベラル群馬",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "健福",
+        "食・農",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24179.html"
+    },
+    {
+      "id": "gunma-pref--saitou-masaru",
+      "council_id": "gunma-pref",
+      "name": "斉藤優",
+      "name_kana": "さいとう まさる",
+      "district": "伊勢崎市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環農委員長",
+        "スポ・多副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25715.html"
+    },
+    {
+      "id": "gunma-pref--sunaga-satoshi",
+      "council_id": "gunma-pref",
+      "name": "須永聡",
+      "name_kana": "すなが さとし",
+      "district": "伊勢崎市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "産土副委員長",
+        "食・農",
+        "図書"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/203347.html"
+    },
+    {
+      "id": "gunma-pref--abe-tomoyo",
+      "council_id": "gunma-pref",
+      "name": "あべともよ",
+      "name_kana": "あべ ともよ",
+      "district": "太田市",
+      "faction": "つる舞う",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総企",
+        "食・農"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25711.html"
+    },
+    {
+      "id": "gunma-pref--yakumaru-kiyoshi",
+      "council_id": "gunma-pref",
+      "name": "藥丸潔",
+      "name_kana": "やくまる きよし",
+      "district": "太田市",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文警",
+        "スポ・多",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23285.html"
+    },
+    {
+      "id": "gunma-pref--akiyama-kentarou",
+      "council_id": "gunma-pref",
+      "name": "秋山健太郎",
+      "name_kana": "あきやま けんたろう",
+      "district": "太田市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "健福",
+        "総合"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/25716.html"
+    },
+    {
+      "id": "gunma-pref--imai-toshiya",
+      "council_id": "gunma-pref",
+      "name": "今井俊哉",
+      "name_kana": "いまい としや",
+      "district": "太田市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環農",
+        "次世代",
+        "議運"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/202213.html"
+    },
+    {
+      "id": "gunma-pref--kanai-yasuo",
+      "council_id": "gunma-pref",
+      "name": "金井康夫",
+      "name_kana": "かない やすお",
+      "district": "沼田市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "議長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23281.html"
+    },
+    {
+      "id": "gunma-pref--sutou-kazuomi",
+      "council_id": "gunma-pref",
+      "name": "須藤和臣",
+      "name_kana": "すとう かずおみ",
+      "district": "館林市",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "産土",
+        "食・農",
+        "条例委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/202816.html"
+    },
+    {
+      "id": "gunma-pref--matsumoto-takashi",
+      "council_id": "gunma-pref",
+      "name": "松本隆志",
+      "name_kana": "まつもと たかし",
+      "district": "館林市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "健福副委員長",
+        "総合",
+        "図書"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/203337.html"
+    },
+    {
+      "id": "gunma-pref--kaneko-wataru",
+      "council_id": "gunma-pref",
+      "name": "金子渡",
+      "name_kana": "かねこ わたる",
+      "district": "渋川市",
+      "faction": "赤榛会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "健福",
+        "スポ・多"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23286.html"
+    },
+    {
+      "id": "gunma-pref--kanazawa-mitsutaka",
+      "council_id": "gunma-pref",
+      "name": "金沢充隆",
+      "name_kana": "かなざわ みつたか",
+      "district": "藤岡市・多野郡",
+      "faction": "つる舞う",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環農",
+        "次世代",
+        "図書"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24181.html"
+    },
+    {
+      "id": "gunma-pref--yano-eiji",
+      "council_id": "gunma-pref",
+      "name": "矢野英司",
+      "name_kana": "やの えいじ",
+      "district": "富岡市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "産土委員長",
+        "スポ・多",
+        "図書副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/23284.html"
+    },
+    {
+      "id": "gunma-pref--itou-kiyoshi",
+      "council_id": "gunma-pref",
+      "name": "伊藤清",
+      "name_kana": "いとう きよし",
+      "district": "安中市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環農",
+        "副議長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/24187.html"
+    },
+    {
+      "id": "gunma-pref--awano-yoshiaki",
+      "council_id": "gunma-pref",
+      "name": "粟野好映",
+      "name_kana": "あわの よしあき",
+      "district": "安中市",
+      "faction": "つる舞う",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "産土",
+        "総合",
+        "条例"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/202785.html"
+    },
+    {
+      "id": "gunma-pref--niwa-ayumi",
+      "council_id": "gunma-pref",
+      "name": "丹羽あゆみ",
+      "name_kana": "にわ あゆみ",
+      "district": "みどり市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文警副委員長",
+        "スポ・多",
+        "図書"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.gunma.jp/site/gikai/202701.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "single_page_roster_table",
+    "district_count": 18,
+    "district_capacities": {
+      "北群馬郡": 1,
+      "甘楽郡": 1,
+      "吾妻郡": 2,
+      "利根郡": 1,
+      "佐波郡": 1,
+      "邑楽郡": 3,
+      "前橋市": 8,
+      "高崎市": 9,
+      "桐生市": 3,
+      "伊勢崎市": 5,
+      "太田市": 5,
+      "沼田市": 1,
+      "館林市": 2,
+      "渋川市": 2,
+      "藤岡市・多野郡": 2,
+      "富岡市": 1,
+      "安中市": 2,
+      "みどり市": 1
+    },
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.gunma.jp/site/gikai/25704.html",
+    "source_basis_date": "公式基準日記載なし / 選挙区別HTML 定数50・現員46",
+    "last_verified": "2026-06-16",
+    "teisu": 50,
+    "genin": 46,
+    "ketsuin": 4,
+    "parsed_members": 46,
+    "vacancy_details": [
+      {
+        "district": "前橋市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.gunma.jp/site/gikai/25704.html"
+      },
+      {
+        "district": "太田市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.gunma.jp/site/gikai/25704.html"
+      },
+      {
+        "district": "渋川市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.gunma.jp/site/gikai/25704.html"
+      },
+      {
+        "district": "藤岡市・多野郡",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.gunma.jp/site/gikai/25704.html"
+      }
+    ],
+    "notes": [
+      "選挙区別HTMLの表から氏名・ふりがな・当選回数・会派・委員会のみを取得",
+      "選挙区セルの定数・欠員表記を件数検算アンカーとして使用",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "source_basis_date": "公式基準日記載なし / 選挙区別HTML 定数50・現員46",
+  "last_verified": "2026-06-16",
+  "teisu": 50,
+  "genin": 46,
+  "ketsuin": 4,
+  "updated_at": "2026-06-16T21:43:11+00:00"
+}
