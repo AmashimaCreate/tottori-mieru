@@ -35,8 +35,17 @@
       "lg_code": "020001",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "青森県議会公式サイト",
+          "url": "https://www.pref.aomori.lg.jp/soshiki/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.aomori.lg.jp/soshiki/gikai/giin-gojuon_05.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "iwate-pref",
@@ -47,8 +56,17 @@
       "lg_code": "030007",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "岩手県議会公式サイト",
+          "url": "https://www.pref.iwate.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://iwatekengikai.gijiroku.com/g07_giinlistP.asp"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "miyagi-pref",
@@ -59,8 +77,17 @@
       "lg_code": "040002",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "宮城県議会公式サイト",
+          "url": "https://www.pref.miyagi.jp/site/kengikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.miyagi.jp/site/kengikai/18meibo-kubetu.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "akita-pref",
@@ -71,8 +98,17 @@
       "lg_code": "050008",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "秋田県議会公式サイト",
+          "url": "https://pref.akita.gsl-service.net/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "yamagata-pref",
@@ -83,8 +119,17 @@
       "lg_code": "060003",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "山形県議会公式サイト",
+          "url": "https://www.pref.yamagata.jp/kensei/assembly/index.html"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "fukushima-pref",
@@ -95,8 +140,17 @@
       "lg_code": "070009",
       "minutes_system": "unknown",
       "vote_granularity": "unknown",
-      "official_links": [],
-      "status": "planned"
+      "official_links": [
+        {
+          "label": "福島県議会公式サイト",
+          "url": "https://www.pref.fukushima.lg.jp/site/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.pref.fukushima.lg.jp/site/gikai/meibo-senkyoku2020.html"
+        }
+      ],
+      "status": "active"
     },
     {
       "id": "ibaraki-pref",

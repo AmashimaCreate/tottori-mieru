@@ -1,0 +1,926 @@
+{
+  "council_id": "iwate-pref",
+  "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlistP.asp",
+  "source_name": "岩手県議会 議員名簿（五十音順）",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "iwate-pref--iizawa-tadashi",
+      "council_id": "iwate-pref",
+      "name": "飯澤匡",
+      "name_kana": "いいざわ ただし",
+      "district": "一関(一関市、平泉町)",
+      "faction": "いわて県民クラブ・無所属の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=28"
+    },
+    {
+      "id": "iwate-pref--iwasaki-tomokazu",
+      "council_id": "iwate-pref",
+      "name": "岩崎友一",
+      "name_kana": "いわさき ともかず",
+      "district": "釜石(釜石市、大槌町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=33"
+    },
+    {
+      "id": "iwate-pref--iwabuchi-makoto",
+      "council_id": "iwate-pref",
+      "name": "岩渕誠",
+      "name_kana": "いわぶち まこと",
+      "district": "一関(一関市、平泉町)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=27"
+    },
+    {
+      "id": "iwate-pref--uehara-yasuki",
+      "council_id": "iwate-pref",
+      "name": "上原康樹",
+      "name_kana": "うえはら やすき",
+      "district": "盛岡(盛岡市)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=1"
+    },
+    {
+      "id": "iwate-pref--usuzawa-tsutomu",
+      "council_id": "iwate-pref",
+      "name": "臼澤勉",
+      "name_kana": "うすざわ つとむ",
+      "district": "紫波(紫波町、矢巾町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=46"
+    },
+    {
+      "id": "iwate-pref--ookubo-takanori",
+      "council_id": "iwate-pref",
+      "name": "大久保隆規",
+      "name_kana": "おおくぼ たかのり",
+      "district": "釜石(釜石市、大槌町)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [
+        "環境福祉委員会 副委員長",
+        "グローバル化・多文化共生調査特別委員会 副委員長",
+        "東日本大震災津波復興特別委員会 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "環境福祉委員会",
+        "グローバル化・多文化共生調査特別委員会",
+        "東日本大震災津波復興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=144"
+    },
+    {
+      "id": "iwate-pref--karuishi-yoshinori",
+      "council_id": "iwate-pref",
+      "name": "軽石義則",
+      "name_kana": "かるいし よしのり",
+      "district": "盛岡(盛岡市)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工建設委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=8"
+    },
+    {
+      "id": "iwate-pref--kawamura-shinkou",
+      "council_id": "iwate-pref",
+      "name": "川村伸浩",
+      "name_kana": "かわむら しんこう",
+      "district": "花巻(花巻市)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工建設委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=15"
+    },
+    {
+      "id": "iwate-pref--kanzaki-hiroyuki",
+      "council_id": "iwate-pref",
+      "name": "神﨑浩之",
+      "name_kana": "かんざき ひろゆき",
+      "district": "一関(一関市、平泉町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "議会運営委員会 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "環境福祉委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=26"
+    },
+    {
+      "id": "iwate-pref--kanno-hironori",
+      "council_id": "iwate-pref",
+      "name": "菅野ひろのり",
+      "name_kana": "かんの ひろのり",
+      "district": "奥州(奥州市、金ケ崎町)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=38"
+    },
+    {
+      "id": "iwate-pref--kimura-yukihiro",
+      "council_id": "iwate-pref",
+      "name": "木村幸弘",
+      "name_kana": "きむら ゆきひろ",
+      "district": "花巻(花巻市)",
+      "faction": "社民党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工建設委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=18"
+    },
+    {
+      "id": "iwate-pref--kudou-daisuke",
+      "council_id": "iwate-pref",
+      "name": "工藤大輔",
+      "name_kana": "くどう だいすけ",
+      "district": "久慈(久慈市、野田村、洋野町)",
+      "faction": "いわて新政会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=48"
+    },
+    {
+      "id": "iwate-pref--kudou-tsuyoshi",
+      "council_id": "iwate-pref",
+      "name": "工藤剛",
+      "name_kana": "くどう つよし",
+      "district": "八幡平(八幡平市、葛巻町、岩手町)",
+      "faction": "いわて県民クラブ・無所属の会",
+      "elected_count": null,
+      "positions": [
+        "こども政策調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "農林水産委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=147"
+    },
+    {
+      "id": "iwate-pref--konishi-kazuko",
+      "council_id": "iwate-pref",
+      "name": "小西和子",
+      "name_kana": "こにし かずこ",
+      "district": "盛岡(盛岡市)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=5"
+    },
+    {
+      "id": "iwate-pref--kobayashi-masanobu",
+      "council_id": "iwate-pref",
+      "name": "小林正信",
+      "name_kana": "こばやし まさのぶ",
+      "district": "盛岡(盛岡市)",
+      "faction": "公明党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=9"
+    },
+    {
+      "id": "iwate-pref--saitou-shin",
+      "council_id": "iwate-pref",
+      "name": "斉藤信",
+      "name_kana": "さいとう しん",
+      "district": "盛岡(盛岡市)",
+      "faction": "日本共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=10"
+    },
+    {
+      "id": "iwate-pref--sasaki-shigemitsu",
+      "council_id": "iwate-pref",
+      "name": "佐々木茂光",
+      "name_kana": "ささき しげみつ",
+      "district": "大船渡・陸前高田(大船渡市、陸前高田市、住田町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "東日本大震災津波復興特別委員会 委員長"
+      ],
+      "committees": [
+        "文教委員会",
+        "防災・減災対策調査特別委員会",
+        "東日本大震災津波復興特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=31"
+    },
+    {
+      "id": "iwate-pref--sasaki-jiyunichi",
+      "council_id": "iwate-pref",
+      "name": "佐々木順一",
+      "name_kana": "ささき じゅんいち",
+      "district": "花巻(花巻市)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=16"
+    },
+    {
+      "id": "iwate-pref--sasaki-tsutomu",
+      "council_id": "iwate-pref",
+      "name": "佐々木努",
+      "name_kana": "ささき つとむ",
+      "district": "奥州(奥州市、金ケ崎町)",
+      "faction": "いわて県民クラブ・無所属の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=41"
+    },
+    {
+      "id": "iwate-pref--sasaki-tomokazu",
+      "council_id": "iwate-pref",
+      "name": "佐々木朋和",
+      "name_kana": "ささき ともかず",
+      "district": "一関(一関市、平泉町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=30"
+    },
+    {
+      "id": "iwate-pref--sasaki-nobukazu",
+      "council_id": "iwate-pref",
+      "name": "佐々木宣和",
+      "name_kana": "ささき のぶかず",
+      "district": "宮古(宮古市、山田町、岩泉町、田野畑村、普代村)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "総務委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=13"
+    },
+    {
+      "id": "iwate-pref--satou-keiko",
+      "council_id": "iwate-pref",
+      "name": "佐藤ケイ子",
+      "name_kana": "さとう けいこ",
+      "district": "北上(北上市、西和賀町)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [
+        "文教委員会 委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "文教委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=20"
+    },
+    {
+      "id": "iwate-pref--jiyounai-yoshihiko",
+      "council_id": "iwate-pref",
+      "name": "城内愛彦",
+      "name_kana": "じょうない よしひこ",
+      "district": "宮古(宮古市、山田町、岩泉町、田野畑村、普代村)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=12"
+    },
+    {
+      "id": "iwate-pref--sugawara-riyouta",
+      "council_id": "iwate-pref",
+      "name": "菅原亮太",
+      "name_kana": "すがわら りょうた",
+      "district": "奥州(奥州市、金ケ崎町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "人口減少・公共インフラ調査特別委員会 委員長"
+      ],
+      "committees": [
+        "文教委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=152"
+    },
+    {
+      "id": "iwate-pref--suzuki-akiko",
+      "council_id": "iwate-pref",
+      "name": "鈴木あきこ",
+      "name_kana": "すずき あきこ",
+      "district": "盛岡(盛岡市)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "農林水産委員会 副委員長",
+        "防災・減災対策調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "農林水産委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=120"
+    },
+    {
+      "id": "iwate-pref--sekine-toshinobu",
+      "council_id": "iwate-pref",
+      "name": "関根敏伸",
+      "name_kana": "せきね としのぶ",
+      "district": "北上(北上市、西和賀町)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=19"
+    },
+    {
+      "id": "iwate-pref--takada-ichirou",
+      "council_id": "iwate-pref",
+      "name": "高田一郎",
+      "name_kana": "たかだ いちろう",
+      "district": "一関(一関市、平泉町)",
+      "faction": "日本共産党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=29"
+    },
+    {
+      "id": "iwate-pref--takahashi-kousuke",
+      "council_id": "iwate-pref",
+      "name": "高橋こうすけ",
+      "name_kana": "たかはし こうすけ",
+      "district": "盛岡(盛岡市)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "環境福祉委員会 委員長"
+      ],
+      "committees": [
+        "環境福祉委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=7"
+    },
+    {
+      "id": "iwate-pref--takahashi-tajima",
+      "council_id": "iwate-pref",
+      "name": "髙橋但馬",
+      "name_kana": "たかはし たじま",
+      "district": "盛岡(盛岡市)",
+      "faction": "いわて新政会",
+      "elected_count": null,
+      "positions": [
+        "議会運営委員会 委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "文教委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=4"
+    },
+    {
+      "id": "iwate-pref--takahashi-hajime",
+      "council_id": "iwate-pref",
+      "name": "髙橋はじめ",
+      "name_kana": "たかはし はじめ",
+      "district": "北上(北上市、西和賀町)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=22"
+    },
+    {
+      "id": "iwate-pref--takahashi-yasuyuki",
+      "council_id": "iwate-pref",
+      "name": "高橋穏至",
+      "name_kana": "たかはし やすゆき",
+      "district": "北上(北上市、西和賀町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "総務委員会 委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "総務委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=21"
+    },
+    {
+      "id": "iwate-pref--tanaka-tatsuya",
+      "council_id": "iwate-pref",
+      "name": "田中辰也",
+      "name_kana": "たなか たつや",
+      "district": "二戸(二戸市、一戸町、軽米町、九戸村)",
+      "faction": "いわて新政会",
+      "elected_count": null,
+      "positions": [
+        "防災・減災対策調査特別委員会 委員長"
+      ],
+      "committees": [
+        "商工建設委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=146"
+    },
+    {
+      "id": "iwate-pref--chiba-sakari",
+      "council_id": "iwate-pref",
+      "name": "千葉盛",
+      "name_kana": "ちば さかり",
+      "district": "大船渡・陸前高田(大船渡市、陸前高田市、住田町)",
+      "faction": "いわて新政会",
+      "elected_count": null,
+      "positions": [
+        "農林水産委員会 委員長"
+      ],
+      "committees": [
+        "農林水産委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=14"
+    },
+    {
+      "id": "iwate-pref--chiba-tsutou",
+      "council_id": "iwate-pref",
+      "name": "千葉伝",
+      "name_kana": "ちば つとう",
+      "district": "八幡平(八幡平市、葛巻町、岩手町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工建設委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=36"
+    },
+    {
+      "id": "iwate-pref--chiba-hideyuki",
+      "council_id": "iwate-pref",
+      "name": "千葉秀幸",
+      "name_kana": "ちば ひでゆき",
+      "district": "奥州(奥州市、金ケ崎町)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [
+        "こども政策調査特別委員会 委員長"
+      ],
+      "committees": [
+        "商工建設委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=40"
+    },
+    {
+      "id": "iwate-pref--nasukawa-shin",
+      "council_id": "iwate-pref",
+      "name": "名須川晋",
+      "name_kana": "なすかわ しん",
+      "district": "花巻(花巻市)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=17"
+    },
+    {
+      "id": "iwate-pref--hagino-yukihiro",
+      "council_id": "iwate-pref",
+      "name": "はぎの幸弘",
+      "name_kana": "はぎの ゆきひろ",
+      "district": "遠野(遠野市)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=137"
+    },
+    {
+      "id": "iwate-pref--hakuseru-mihoko",
+      "council_id": "iwate-pref",
+      "name": "ハクセル美穂子",
+      "name_kana": "はくせる みほこ",
+      "district": "滝沢(滝沢市、雫石町)",
+      "faction": "いわて県民クラブ・無所属の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "商工建設委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=44"
+    },
+    {
+      "id": "iwate-pref--hatakeyama-shigeru",
+      "council_id": "iwate-pref",
+      "name": "畠山茂",
+      "name_kana": "はたけやま しげる",
+      "district": "宮古(宮古市、山田町、岩泉町、田野畑村、普代村)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [
+        "総務委員会 副委員長",
+        "人口減少・公共インフラ調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "総務委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=122"
+    },
+    {
+      "id": "iwate-pref--fukui-seiji",
+      "council_id": "iwate-pref",
+      "name": "福井せいじ",
+      "name_kana": "ふくい せいじ",
+      "district": "盛岡(盛岡市)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=118"
+    },
+    {
+      "id": "iwate-pref--matsumoto-takeshi",
+      "council_id": "iwate-pref",
+      "name": "松本雄士",
+      "name_kana": "まつもと たけし",
+      "district": "滝沢(滝沢市、雫石町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "グローバル化・多文化共生調査特別委員会 委員長"
+      ],
+      "committees": [
+        "環境福祉委員会",
+        "グローバル化・多文化共生調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=156"
+    },
+    {
+      "id": "iwate-pref--murakami-kouichi",
+      "council_id": "iwate-pref",
+      "name": "村上貢一",
+      "name_kana": "むらかみ こういち",
+      "district": "盛岡(盛岡市)",
+      "faction": "いわて県民クラブ・無所属の会",
+      "elected_count": null,
+      "positions": [
+        "文教委員会 副委員長"
+      ],
+      "committees": [
+        "文教委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=121"
+    },
+    {
+      "id": "iwate-pref--murakami-hidenori",
+      "council_id": "iwate-pref",
+      "name": "村上秀紀",
+      "name_kana": "むらかみ ひでのり",
+      "district": "紫波(紫波町、矢巾町)",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [
+        "商工建設委員会 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "商工建設委員会",
+        "人口減少・公共インフラ調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=158"
+    },
+    {
+      "id": "iwate-pref--yanagimura-makoto",
+      "council_id": "iwate-pref",
+      "name": "柳村一",
+      "name_kana": "やなぎむら まこと",
+      "district": "滝沢(滝沢市、雫石町)",
+      "faction": "希望いわて",
+      "elected_count": null,
+      "positions": [
+        "商工建設委員会 委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "商工建設委員会",
+        "防災・減災対策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=43"
+    },
+    {
+      "id": "iwate-pref--yoshida-keiko",
+      "council_id": "iwate-pref",
+      "name": "吉田敬子",
+      "name_kana": "よしだ けいこ",
+      "district": "盛岡(盛岡市)",
+      "faction": "いわて新政会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境福祉委員会",
+        "こども政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://iwatekengikai.gijiroku.com/g07_giinlistS.asp?SrchID=6"
+    }
+  ],
+  "checks": {
+    "source_shape": "gijiroku_g07_member_roster",
+    "district_source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp",
+    "committee_source_url": "https://iwatekengikai.gijiroku.com/g07_Committee.asp",
+    "capacity_total": 48,
+    "district_count": 14,
+    "parsed_members": 45,
+    "districts": [
+      {
+        "district": "盛岡(盛岡市)",
+        "capacity": 11,
+        "members": 11,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "宮古(宮古市、山田町、岩泉町、田野畑村、普代村)",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "大船渡・陸前高田(大船渡市、陸前高田市、住田町)",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "花巻(花巻市)",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "北上(北上市、西和賀町)",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "久慈(久慈市、野田村、洋野町)",
+        "capacity": 2,
+        "members": 1,
+        "vacancies": 1,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "遠野(遠野市)",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "一関(一関市、平泉町)",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "釜石(釜石市、大槌町)",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "二戸(二戸市、一戸町、軽米町、九戸村)",
+        "capacity": 2,
+        "members": 1,
+        "vacancies": 1,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "八幡平(八幡平市、葛巻町、岩手町)",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "奥州(奥州市、金ケ崎町)",
+        "capacity": 5,
+        "members": 4,
+        "vacancies": 1,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "滝沢(滝沢市、雫石町)",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "紫波(紫波町、矢巾町)",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      }
+    ],
+    "roster_minus_district": [],
+    "district_minus_roster": [],
+    "notes": [
+      "g07_giinlistP.aspから氏名・ふりがな・選挙区・会派のみを許可リスト抽出",
+      "許可リスト外の項目は保存しない",
+      "g07_giinlist_senkyoku.aspの区別定数を件数検算アンカーとして使用",
+      "写真は取得せず、photo_urlは全員null",
+      "gijiroku.com g07 系の選挙区別名簿を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_gijiroku_district_capacity",
+    "anchor_source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-16",
+    "teisu": 48,
+    "genin": 45,
+    "ketsuin": 3,
+    "vacancy_details": [
+      {
+        "district": "久慈(久慈市、野田村、洋野町)",
+        "ketsuin": 1,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "二戸(二戸市、一戸町、軽米町、九戸村)",
+        "ketsuin": 1,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      },
+      {
+        "district": "奥州(奥州市、金ケ崎町)",
+        "ketsuin": 1,
+        "source_url": "https://iwatekengikai.gijiroku.com/g07_giinlist_senkyoku.asp"
+      }
+    ]
+  },
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-16",
+  "teisu": 48,
+  "genin": 45,
+  "ketsuin": 3,
+  "updated_at": "2026-06-16T00:11:45+00:00"
+}

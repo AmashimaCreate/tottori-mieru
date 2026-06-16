@@ -1,0 +1,835 @@
+{
+  "council_id": "yamagata-pref",
+  "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html",
+  "source_name": "山形県議会 選挙区別・五十音順",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "yamagata-pref--ishikawa-shiyou",
+      "council_id": "yamagata-pref",
+      "name": "石川渉",
+      "name_kana": "いしかわ しょう",
+      "district": "山形市",
+      "faction": "日本共産党山形県議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工労働観光常任委員会",
+        "多様な人材活躍・関係人口交流人口対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/ishikawasho.html"
+    },
+    {
+      "id": "yamagata-pref--itou-kaori",
+      "council_id": "yamagata-pref",
+      "name": "伊藤香織",
+      "name_kana": "いとう かおり",
+      "district": "山形市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会",
+        "多様な人材活躍・関係人口交流人口対策特別委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/itokaori.html"
+    },
+    {
+      "id": "yamagata-pref--umetsu-yousei",
+      "council_id": "yamagata-pref",
+      "name": "梅津庸成",
+      "name_kana": "うめつ ようせい",
+      "district": "山形市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工労働観光常任委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/umetsuyosei.html"
+    },
+    {
+      "id": "yamagata-pref--endou-kazunori",
+      "council_id": "yamagata-pref",
+      "name": "遠藤和典",
+      "name_kana": "えんどう かずのり",
+      "district": "山形市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務常任委員会(委員長)",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/endokazunori.html"
+    },
+    {
+      "id": "yamagata-pref--okuyama-seiji",
+      "council_id": "yamagata-pref",
+      "name": "奥山誠治",
+      "name_kana": "おくやま せいじ",
+      "district": "山形市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工労働観光常任委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/okuyamaseji.html"
+    },
+    {
+      "id": "yamagata-pref--kikuchi-fumiaki",
+      "council_id": "yamagata-pref",
+      "name": "菊池文昭",
+      "name_kana": "きくち ふみあき",
+      "district": "山形市",
+      "faction": "公明党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/kikuchifumiaki.html"
+    },
+    {
+      "id": "yamagata-pref--takahashi-keisuke",
+      "council_id": "yamagata-pref",
+      "name": "髙橋啓介",
+      "name_kana": "たかはし けいすけ",
+      "district": "山形市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務常任委員会",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/takahashikesuke.html"
+    },
+    {
+      "id": "yamagata-pref--matsui-ai",
+      "council_id": "yamagata-pref",
+      "name": "松井愛",
+      "name_kana": "まつい あい",
+      "district": "山形市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生環境常任委員会(委員長)",
+        "地域経済力強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/matsuiai.html"
+    },
+    {
+      "id": "yamagata-pref--yoshimura-kazutake",
+      "council_id": "yamagata-pref",
+      "name": "吉村和武",
+      "name_kana": "よしむら かずたけ",
+      "district": "山形市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教公安常任委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/yoshimurakazutake.html"
+    },
+    {
+      "id": "yamagata-pref--aita-mitsuteru",
+      "council_id": "yamagata-pref",
+      "name": "相田光照",
+      "name_kana": "あいた みつてる",
+      "district": "米沢市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務常任委員会(副委員長)",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/aitamitsuteru.html"
+    },
+    {
+      "id": "yamagata-pref--kimura-chiyuuzou",
+      "council_id": "yamagata-pref",
+      "name": "木村忠三",
+      "name_kana": "きむら ちゅうぞう",
+      "district": "米沢市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設常任委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/kimurachuzo.html"
+    },
+    {
+      "id": "yamagata-pref--shibuma-kasumi",
+      "council_id": "yamagata-pref",
+      "name": "渋間佳寿美",
+      "name_kana": "しぶま かすみ",
+      "district": "米沢市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "副議長",
+        "厚生環境常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/shibumakasumi.html"
+    },
+    {
+      "id": "yamagata-pref--ishizuka-kei",
+      "council_id": "yamagata-pref",
+      "name": "石塚慶",
+      "name_kana": "いしづか けい",
+      "district": "鶴岡市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会(委員長)",
+        "多様な人材活躍・関係人口交流人口対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/ishizukakei.html"
+    },
+    {
+      "id": "yamagata-pref--konno-minako",
+      "council_id": "yamagata-pref",
+      "name": "今野美奈子",
+      "name_kana": "こんの みなこ",
+      "district": "鶴岡市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務常任委員会",
+        "地域経済力強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/konnominako.html"
+    },
+    {
+      "id": "yamagata-pref--satou-masatsugu",
+      "council_id": "yamagata-pref",
+      "name": "佐藤正胤",
+      "name_kana": "さとう まさつぐ",
+      "district": "鶴岡市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工労働観光常任委員会(委員長)",
+        "地域経済力強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/satomasatsugu.html"
+    },
+    {
+      "id": "yamagata-pref--seki-tooru",
+      "council_id": "yamagata-pref",
+      "name": "関徹",
+      "name_kana": "せき とおる",
+      "district": "鶴岡市",
+      "faction": "日本共産党山形県議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生環境常任委員会",
+        "地域経済力強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/sekitoru.html"
+    },
+    {
+      "id": "yamagata-pref--takahashi-jiyun",
+      "council_id": "yamagata-pref",
+      "name": "髙橋淳",
+      "name_kana": "たかはし じゅん",
+      "district": "鶴岡市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生環境常任委員会",
+        "予算特別委員会(副委員長)",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/takahashijun.html"
+    },
+    {
+      "id": "yamagata-pref--abe-hitomi",
+      "council_id": "yamagata-pref",
+      "name": "阿部ひとみ",
+      "name_kana": "あべ ひとみ",
+      "district": "酒田市・飽海郡",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教公安常任委員会",
+        "議会運営委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/abehitomi.html"
+    },
+    {
+      "id": "yamagata-pref--eguchi-youko",
+      "council_id": "yamagata-pref",
+      "name": "江口暢子",
+      "name_kana": "えぐち ようこ",
+      "district": "酒田市・飽海郡",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会(副委員長)",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/eguchiyoko.html"
+    },
+    {
+      "id": "yamagata-pref--kajiwara-muneaki",
+      "council_id": "yamagata-pref",
+      "name": "梶原宗明",
+      "name_kana": "かじわら むねあき",
+      "district": "酒田市・飽海郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教公安常任委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/kajiwaramuneaki.html"
+    },
+    {
+      "id": "yamagata-pref--satou-hisashi",
+      "council_id": "yamagata-pref",
+      "name": "佐藤寿",
+      "name_kana": "さとう ひさし",
+      "district": "酒田市・飽海郡",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設常任委員会(副委員長)",
+        "多様な人材活躍・関係人口交流人口対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/satohisashi.html"
+    },
+    {
+      "id": "yamagata-pref--morita-hiroshi",
+      "council_id": "yamagata-pref",
+      "name": "森田廣",
+      "name_kana": "もりた ひろし",
+      "district": "酒田市・飽海郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務常任委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/moritahiroshi.html"
+    },
+    {
+      "id": "yamagata-pref--ishikawa-masashi",
+      "council_id": "yamagata-pref",
+      "name": "石川正志",
+      "name_kana": "いしかわ まさし",
+      "district": "新庄市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工労働観光常任委員会",
+        "多様な人材活躍・関係人口交流人口対策特別委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/ishikawamasashi.html"
+    },
+    {
+      "id": "yamagata-pref--satou-bunichi",
+      "council_id": "yamagata-pref",
+      "name": "佐藤文一",
+      "name_kana": "さとう ぶんいち",
+      "district": "新庄市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設常任委員会(委員長)",
+        "地域経済力強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/satobunichi.html"
+    },
+    {
+      "id": "yamagata-pref--abe-kiyouhei",
+      "council_id": "yamagata-pref",
+      "name": "阿部恭平",
+      "name_kana": "あべ きょうへい",
+      "district": "寒河江市・西村山郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設常任委員会",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/abekyohei.html"
+    },
+    {
+      "id": "yamagata-pref--umetsu-hiroshi",
+      "council_id": "yamagata-pref",
+      "name": "楳津博士",
+      "name_kana": "うめつ ひろし",
+      "district": "寒河江市・西村山郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務常任委員会",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/umetsuhiroshi.html"
+    },
+    {
+      "id": "yamagata-pref--hashimoto-ayako",
+      "council_id": "yamagata-pref",
+      "name": "橋本彩子",
+      "name_kana": "はしもと あやこ",
+      "district": "寒河江市・西村山郡",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会",
+        "地域経済力強化対策特別委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/hashimotoayako.html"
+    },
+    {
+      "id": "yamagata-pref--komatsu-masakazu",
+      "council_id": "yamagata-pref",
+      "name": "小松正和",
+      "name_kana": "こまつ まさかず",
+      "district": "上山市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教公安常任委員会",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/komatsumasakazu.html"
+    },
+    {
+      "id": "yamagata-pref--noto-jiyunichi",
+      "council_id": "yamagata-pref",
+      "name": "能登淳一",
+      "name_kana": "のと じゅんいち",
+      "district": "村山市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設常任委員会",
+        "議会運営委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/notojunichi.html"
+    },
+    {
+      "id": "yamagata-pref--aoki-shiyouei",
+      "council_id": "yamagata-pref",
+      "name": "青木彰榮",
+      "name_kana": "あおき しょうえい",
+      "district": "長井市・西置賜郡",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務常任委員会",
+        "地域経済力強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/aokishoei.html"
+    },
+    {
+      "id": "yamagata-pref--igarashi-tomohiro",
+      "council_id": "yamagata-pref",
+      "name": "五十嵐智洋",
+      "name_kana": "いがらし ともひろ",
+      "district": "長井市・西置賜郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工労働観光常任委員会(副委員長)",
+        "予算特別委員会(委員長)",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/igarashitomohiro.html"
+    },
+    {
+      "id": "yamagata-pref--moriya-senichirou",
+      "council_id": "yamagata-pref",
+      "name": "森谷仙一郎",
+      "name_kana": "もりや せんいちろう",
+      "district": "天童市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生環境常任委員会",
+        "多様な人材活躍・関係人口交流人口対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/moriyasenichiro.html"
+    },
+    {
+      "id": "yamagata-pref--yabuki-eishiyuu",
+      "council_id": "yamagata-pref",
+      "name": "矢吹栄修",
+      "name_kana": "やぶき えいしゅう",
+      "district": "天童市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "商工労働観光常任委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/yabukieishu.html"
+    },
+    {
+      "id": "yamagata-pref--saitou-shiyunichirou",
+      "council_id": "yamagata-pref",
+      "name": "齋藤俊一郎",
+      "name_kana": "さいとう しゅんいちろう",
+      "district": "東根市",
+      "faction": "県政クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教公安常任委員会(委員長)",
+        "多様な人材活躍・関係人口交流人口対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/saitoshunichiro.html"
+    },
+    {
+      "id": "yamagata-pref--takahashi-yumitsugu",
+      "council_id": "yamagata-pref",
+      "name": "高橋弓嗣",
+      "name_kana": "たかはし ゆみつぐ",
+      "district": "東根市",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生環境常任委員会",
+        "地域経済力強化対策特別委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/takahashiyumitsugu.html"
+    },
+    {
+      "id": "yamagata-pref--kaga-masakazu",
+      "council_id": "yamagata-pref",
+      "name": "加賀正和",
+      "name_kana": "かが まさかず",
+      "district": "尾花沢市・北村山郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/kagamasakazu.html"
+    },
+    {
+      "id": "yamagata-pref--suzuki-manabu",
+      "council_id": "yamagata-pref",
+      "name": "鈴木学",
+      "name_kana": "すずき まなぶ",
+      "district": "東村山郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "厚生環境常任委員会(副委員長)",
+        "多様な人材活躍・関係人口交流人口対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/suzukimanabu.html"
+    },
+    {
+      "id": "yamagata-pref--itou-shigenari",
+      "council_id": "yamagata-pref",
+      "name": "伊藤重成",
+      "name_kana": "いとう しげなり",
+      "district": "最上郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/itoshigenari.html"
+    },
+    {
+      "id": "yamagata-pref--komatsu-shinya",
+      "council_id": "yamagata-pref",
+      "name": "小松伸也",
+      "name_kana": "こまつ しんや",
+      "district": "最上郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/komatsushinya.html"
+    },
+    {
+      "id": "yamagata-pref--aita-hideo",
+      "council_id": "yamagata-pref",
+      "name": "相田日出夫",
+      "name_kana": "あいた ひでお",
+      "district": "東置賜郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教公安常任委員会(副委員長)",
+        "持続可能なインフラ・安全安心なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/aitahideo.html"
+    },
+    {
+      "id": "yamagata-pref--funayama-akito",
+      "council_id": "yamagata-pref",
+      "name": "舩山現人",
+      "name_kana": "ふなやま あきと",
+      "district": "東置賜郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "農林水産常任委員会",
+        "地域経済力強化対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/funayamaakito.html"
+    },
+    {
+      "id": "yamagata-pref--tazawa-shinichi",
+      "council_id": "yamagata-pref",
+      "name": "田澤伸一",
+      "name_kana": "たざわ しんいち",
+      "district": "東田川郡",
+      "faction": "自由民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議長",
+        "文教公安常任委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/tazawashinichi.html"
+    }
+  ],
+  "checks": {
+    "source_shape": "single_page_table_with_profile_allowlist",
+    "district_count": 17,
+    "capacity_total": 43,
+    "parsed_members": 42,
+    "districts": [
+      {
+        "district": "山形市",
+        "capacity": 9,
+        "members": 9,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "米沢市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "鶴岡市",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "酒田市・飽海郡",
+        "capacity": 5,
+        "members": 5,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "新庄市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "寒河江市・西村山郡",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "上山市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "村山市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "長井市・西置賜郡",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "天童市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "東根市",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "尾花沢市・北村山郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "南陽市",
+        "capacity": 1,
+        "members": 0,
+        "vacancies": 1,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "東村山郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "最上郡",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "東置賜郡",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      },
+      {
+        "district": "東田川郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      }
+    ],
+    "notes": [
+      "選挙区別一覧から氏名・ふりがな・選挙区・定数を抽出",
+      "個別プロフィールは会派・委員会のみ許可リスト抽出",
+      "連絡先・その他本文は保存しない",
+      "当選回数は公式HTML上に見当たらないためnull",
+      "写真は取得せず、photo_urlは全員null",
+      "選挙区別一覧の定数を件数検算アンカーとして使用"
+    ],
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html",
+    "source_basis_date": "議員任期: 令和5年4月30日～令和9年4月29日",
+    "last_verified": "2026-06-15",
+    "teisu": 43,
+    "genin": 42,
+    "ketsuin": 1,
+    "vacancy_details": [
+      {
+        "district": "南陽市",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.yamagata.jp/600006/kensei/assembly/giinsyokai/senkyokubetu/index.html"
+      }
+    ]
+  },
+  "source_basis_date": "議員任期: 令和5年4月30日～令和9年4月29日",
+  "last_verified": "2026-06-15",
+  "teisu": 43,
+  "genin": 42,
+  "ketsuin": 1,
+  "updated_at": "2026-06-15T23:58:41+00:00"
+}

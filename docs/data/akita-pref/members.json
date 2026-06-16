@@ -1,0 +1,751 @@
+{
+  "council_id": "akita-pref",
+  "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/",
+  "source_name": "秋田県議会 議員紹介",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "akita-pref--kudou",
+      "council_id": "akita-pref",
+      "name": "工藤嘉範",
+      "name_kana": "くどう",
+      "district": "秋田市",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "産業観光委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300144/"
+    },
+    {
+      "id": "akita-pref--takeshita",
+      "council_id": "akita-pref",
+      "name": "竹下博英",
+      "name_kana": "たけした",
+      "district": "秋田市",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "福祉環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300311/"
+    },
+    {
+      "id": "akita-pref--miura",
+      "council_id": "akita-pref",
+      "name": "三浦茂人",
+      "name_kana": "みうら",
+      "district": "秋田市",
+      "faction": "みらい",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300380/"
+    },
+    {
+      "id": "akita-pref--kagaya",
+      "council_id": "akita-pref",
+      "name": "加賀屋千鶴子",
+      "name_kana": "かがや",
+      "district": "秋田市",
+      "faction": "日本共産党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300083/"
+    },
+    {
+      "id": "akita-pref--imakawa",
+      "council_id": "akita-pref",
+      "name": "今川雄策",
+      "name_kana": "いまかわ",
+      "district": "秋田市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300038/"
+    },
+    {
+      "id": "akita-pref--matsuda",
+      "council_id": "akita-pref",
+      "name": "松田豊臣",
+      "name_kana": "まつだ",
+      "district": "秋田市",
+      "faction": "公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "福祉環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2019051800017/"
+    },
+    {
+      "id": "akita-pref--usami",
+      "council_id": "akita-pref",
+      "name": "宇佐見康人",
+      "name_kana": "うさみ",
+      "district": "秋田市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2019051800031/"
+    },
+    {
+      "id": "akita-pref--shimada",
+      "council_id": "akita-pref",
+      "name": "島田薫",
+      "name_kana": "しまだ",
+      "district": "秋田市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "教育公安委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2021041500012/"
+    },
+    {
+      "id": "akita-pref--sakurada",
+      "council_id": "akita-pref",
+      "name": "櫻田憂子",
+      "name_kana": "さくらだ",
+      "district": "秋田市",
+      "faction": "立憲民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2023060100037/"
+    },
+    {
+      "id": "akita-pref--takeuchi",
+      "council_id": "akita-pref",
+      "name": "武内伸文",
+      "name_kana": "たけうち",
+      "district": "秋田市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2023060100020/"
+    },
+    {
+      "id": "akita-pref--kawabe",
+      "council_id": "akita-pref",
+      "name": "川邉隼之介",
+      "name_kana": "かわべ",
+      "district": "秋田市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2025040700015/"
+    },
+    {
+      "id": "akita-pref--fukuta",
+      "council_id": "akita-pref",
+      "name": "福田博之",
+      "name_kana": "ふくた",
+      "district": "秋田市",
+      "faction": "立憲民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "福祉環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2025040700022/"
+    },
+    {
+      "id": "akita-pref--usui",
+      "council_id": "akita-pref",
+      "name": "薄井司",
+      "name_kana": "うすい",
+      "district": "能代市山本郡",
+      "faction": "立憲民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "産業観光委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300045/"
+    },
+    {
+      "id": "akita-pref--takahashi",
+      "council_id": "akita-pref",
+      "name": "髙橋武浩",
+      "name_kana": "たかはし",
+      "district": "能代市山本郡",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "教育公安委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300298/"
+    },
+    {
+      "id": "akita-pref--satou",
+      "council_id": "akita-pref",
+      "name": "佐藤信喜",
+      "name_kana": "さとう",
+      "district": "能代市山本郡",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300205/"
+    },
+    {
+      "id": "akita-pref--tsuruta",
+      "council_id": "akita-pref",
+      "name": "鶴田有司",
+      "name_kana": "つるた",
+      "district": "横手市",
+      "faction": "自由民主党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "教育公安委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300335/"
+    },
+    {
+      "id": "akita-pref--shibata",
+      "council_id": "akita-pref",
+      "name": "柴田正敏",
+      "name_kana": "しばた",
+      "district": "横手市",
+      "faction": "自由民主党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300229/"
+    },
+    {
+      "id": "akita-pref--obara",
+      "council_id": "akita-pref",
+      "name": "小原正晃",
+      "name_kana": "おばら",
+      "district": "横手市",
+      "faction": "立憲民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "教育公安委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300076/"
+    },
+    {
+      "id": "akita-pref--yamagata",
+      "council_id": "akita-pref",
+      "name": "山形健二",
+      "name_kana": "やまがた",
+      "district": "横手市",
+      "faction": "みらい",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "福祉環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2023053100068/"
+    },
+    {
+      "id": "akita-pref--suzuki",
+      "council_id": "akita-pref",
+      "name": "鈴木洋一",
+      "name_kana": "すずき",
+      "district": "大館市",
+      "faction": "自由民主党",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "福祉環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300281/"
+    },
+    {
+      "id": "akita-pref--ishida",
+      "council_id": "akita-pref",
+      "name": "石田寛",
+      "name_kana": "いしだ",
+      "district": "大館市",
+      "faction": "立憲民主党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300021/"
+    },
+    {
+      "id": "akita-pref--odanagi",
+      "council_id": "akita-pref",
+      "name": "小棚木政之",
+      "name_kana": "おだなぎ",
+      "district": "大館市",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "産業観光委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2023053100013/"
+    },
+    {
+      "id": "akita-pref--sugimoto",
+      "council_id": "akita-pref",
+      "name": "杉本俊比古",
+      "name_kana": "すぎもと",
+      "district": "男鹿市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "福祉環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300250/"
+    },
+    {
+      "id": "akita-pref--satou-2",
+      "council_id": "akita-pref",
+      "name": "佐藤正一郎",
+      "name_kana": "さとう",
+      "district": "湯沢市雄勝郡",
+      "faction": "みらい",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300199/"
+    },
+    {
+      "id": "akita-pref--sumitani",
+      "council_id": "akita-pref",
+      "name": "住谷達",
+      "name_kana": "すみたに",
+      "district": "湯沢市雄勝郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "産業観光委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2019051800048/"
+    },
+    {
+      "id": "akita-pref--takahashi-2",
+      "council_id": "akita-pref",
+      "name": "高橋健",
+      "name_kana": "たかはし",
+      "district": "湯沢市雄勝郡",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "教育公安委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2023053100044/"
+    },
+    {
+      "id": "akita-pref--kawaguchi",
+      "council_id": "akita-pref",
+      "name": "川口一",
+      "name_kana": "かわぐち",
+      "district": "鹿角市鹿角郡",
+      "faction": "自由民主党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300113/"
+    },
+    {
+      "id": "akita-pref--kodama",
+      "council_id": "akita-pref",
+      "name": "児玉政明",
+      "name_kana": "こだま",
+      "district": "鹿角市鹿角郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "福祉環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2019051800055/"
+    },
+    {
+      "id": "akita-pref--miura-2",
+      "council_id": "akita-pref",
+      "name": "三浦英一",
+      "name_kana": "みうら",
+      "district": "由利本荘市",
+      "faction": "みらい",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "産業観光委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300373/"
+    },
+    {
+      "id": "akita-pref--katou",
+      "council_id": "akita-pref",
+      "name": "加藤鉱一",
+      "name_kana": "かとう",
+      "district": "由利本荘市",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300090/"
+    },
+    {
+      "id": "akita-pref--ono",
+      "council_id": "akita-pref",
+      "name": "小野一彦",
+      "name_kana": "おの",
+      "district": "由利本荘市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2019051800062/"
+    },
+    {
+      "id": "akita-pref--uriyuu",
+      "council_id": "akita-pref",
+      "name": "瓜生望",
+      "name_kana": "うりゅう",
+      "district": "潟上市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "教育公安委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2021041500029/"
+    },
+    {
+      "id": "akita-pref--watanabe",
+      "council_id": "akita-pref",
+      "name": "渡部英治",
+      "name_kana": "わたなべ",
+      "district": "大仙市仙北郡",
+      "faction": "みらい",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "教育公安委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300403/"
+    },
+    {
+      "id": "akita-pref--hara",
+      "council_id": "akita-pref",
+      "name": "原幸子",
+      "name_kana": "はら",
+      "district": "大仙市仙北郡",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "産業観光委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300359/"
+    },
+    {
+      "id": "akita-pref--katou-2",
+      "council_id": "akita-pref",
+      "name": "加藤麻里",
+      "name_kana": "かとう",
+      "district": "大仙市仙北郡",
+      "faction": "社会民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300106/"
+    },
+    {
+      "id": "akita-pref--oyama",
+      "council_id": "akita-pref",
+      "name": "小山緑郎",
+      "name_kana": "おやま",
+      "district": "大仙市仙北郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "産業観光委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2019051800079/"
+    },
+    {
+      "id": "akita-pref--kitabayashi",
+      "council_id": "akita-pref",
+      "name": "北林丈正",
+      "name_kana": "きたばやし",
+      "district": "北秋田市北秋田郡",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300137/"
+    },
+    {
+      "id": "akita-pref--satou-3",
+      "council_id": "akita-pref",
+      "name": "佐藤光子",
+      "name_kana": "さとう",
+      "district": "北秋田市北秋田郡",
+      "faction": "きらり",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2023053100037/"
+    },
+    {
+      "id": "akita-pref--sasaki",
+      "council_id": "akita-pref",
+      "name": "佐々木雄太",
+      "name_kana": "ささき",
+      "district": "にかほ市",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "農林水産委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2018052300175/"
+    },
+    {
+      "id": "akita-pref--takahashi-3",
+      "council_id": "akita-pref",
+      "name": "髙橋豪",
+      "name_kana": "たかはし",
+      "district": "仙北市",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務企画委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2023060100013/"
+    },
+    {
+      "id": "akita-pref--suzuki-2",
+      "council_id": "akita-pref",
+      "name": "鈴木真実",
+      "name_kana": "すずき",
+      "district": "南秋田郡",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://pref.akita.gsl-service.net/profile/2019051800086/"
+    }
+  ],
+  "checks": {
+    "source_shape": "gsl_service_member_csv",
+    "csv_source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/file_contents/giin_ichiran_R70526.csv",
+    "capacity_total": 41,
+    "district_count": 14,
+    "parsed_members": 41,
+    "districts": [
+      {
+        "district": "秋田市",
+        "capacity": 12,
+        "members": 12,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "能代市山本郡",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "横手市",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "大館市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "男鹿市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "湯沢市雄勝郡",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "鹿角市鹿角郡",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "由利本荘市",
+        "capacity": 3,
+        "members": 3,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "潟上市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "大仙市仙北郡",
+        "capacity": 4,
+        "members": 4,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "北秋田市北秋田郡",
+        "capacity": 2,
+        "members": 2,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "にかほ市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "仙北市",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      },
+      {
+        "district": "南秋田郡",
+        "capacity": 1,
+        "members": 1,
+        "vacancies": 0,
+        "source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/"
+      }
+    ],
+    "notes": [
+      "CSVから氏名・ふりがな・選挙区・当選回数・会派・委員会のみを許可リスト抽出",
+      "許可リスト外の項目は保存しない",
+      "選挙区別HTMLの定数を件数検算アンカーとして使用",
+      "写真は取得せず、photo_urlは全員null",
+      "gsl-service.net のCSVと選挙区別HTMLを突合"
+    ],
+    "anchor_type": "official_gsl_district_capacity",
+    "anchor_source_url": "https://pref.akita.gsl-service.net/doc/2018042300017/",
+    "source_basis_date": "議員一覧CSV: 令和7年5月26日版",
+    "last_verified": "2026-06-16",
+    "teisu": 41,
+    "genin": 41,
+    "ketsuin": 0,
+    "vacancy_details": []
+  },
+  "source_basis_date": "議員一覧CSV: 令和7年5月26日版",
+  "last_verified": "2026-06-16",
+  "teisu": 41,
+  "genin": 41,
+  "ketsuin": 0,
+  "updated_at": "2026-06-16T00:12:00+00:00"
+}
