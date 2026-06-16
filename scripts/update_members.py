@@ -15,6 +15,12 @@ REPO_ROOT = Path(__file__).resolve().parents[1]
 
 MEMBER_SCRIPTS = [
     ("hokkaido-pref", "scripts/councils/hokkaido_pref.py"),
+    ("aomori-pref", "scripts/councils/aomori_pref.py"),
+    ("iwate-pref", "scripts/councils/iwate_pref.py"),
+    ("miyagi-pref", "scripts/councils/miyagi_pref.py"),
+    ("akita-pref", "scripts/councils/akita_pref.py"),
+    ("yamagata-pref", "scripts/councils/yamagata_pref.py"),
+    ("fukushima-pref", "scripts/councils/fukushima_pref.py"),
     ("tottori-pref", "scripts/councils/tottori_pref.py"),
     ("shimane-pref", "scripts/councils/shimane_pref.py"),
     ("okayama-pref", "scripts/councils/okayama_pref.py"),
