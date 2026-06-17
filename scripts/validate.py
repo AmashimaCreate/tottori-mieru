@@ -683,8 +683,6 @@ def validate_finance_file(council: dict[str, Any], path: Path) -> list[str]:
     council_id = council.get("id")
     errors: list[str] = []
     if not path.exists():
-        if council.get("type") == "city":
-            return [f"{path}: file not found for city council '{council_id}'"]
         return errors
 
     data = load_json(path)

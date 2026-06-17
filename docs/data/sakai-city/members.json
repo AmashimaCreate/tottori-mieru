@@ -1,0 +1,742 @@
+{
+  "council_id": "sakai-city",
+  "source_url": "https://www.city.sakai.lg.jp/shigikai/meibo/50on.html",
+  "source_name": "堺市議会",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "sakai-city--aotaniyukihiro",
+      "council_id": "sakai-city",
+      "name": "青谷幸浩",
+      "name_kana": "あおたにゆきひろ",
+      "district": "中区",
+      "faction": "自由民主党・保守クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--ikejirihideki",
+      "council_id": "sakai-city",
+      "name": "池尻秀樹",
+      "name_kana": "いけじりひでき",
+      "district": "北区",
+      "faction": "自由民主党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--izumaruseiji",
+      "council_id": "sakai-city",
+      "name": "伊豆丸精二",
+      "name_kana": "いずまるせいじ",
+      "district": "南区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--isekitakashi",
+      "council_id": "sakai-city",
+      "name": "井関貴史",
+      "name_kana": "いせきたかし",
+      "district": "堺区",
+      "faction": "会派に属さない議員",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--inuitomomi",
+      "council_id": "sakai-city",
+      "name": "乾友美",
+      "name_kana": "いぬいともみ",
+      "district": "東区",
+      "faction": "日本共産党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--uedakatsuto",
+      "council_id": "sakai-city",
+      "name": "上田勝人",
+      "name_kana": "うえだかつと",
+      "district": "西区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "市民人権委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--uenoatsushi",
+      "council_id": "sakai-city",
+      "name": "上野充司",
+      "name_kana": "うえのあつし",
+      "district": "西区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--uemurataichi",
+      "council_id": "sakai-city",
+      "name": "上村太一",
+      "name_kana": "うえむらたいち",
+      "district": "堺区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--oonishikimihiko",
+      "council_id": "sakai-city",
+      "name": "大西公彦",
+      "name_kana": "おおにしきみひこ",
+      "district": "北区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--oonishikouji",
+      "council_id": "sakai-city",
+      "name": "大西耕治",
+      "name_kana": "おおにしこうじ",
+      "district": "中区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--oobayashikenji",
+      "council_id": "sakai-city",
+      "name": "大林健二",
+      "name_kana": "おおばやしけんじ",
+      "district": "中区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--onoshinya",
+      "council_id": "sakai-city",
+      "name": "小野伸也",
+      "name_kana": "おのしんや",
+      "district": "堺区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--katoushinpei",
+      "council_id": "sakai-city",
+      "name": "加藤慎平",
+      "name_kana": "かとうしんぺい",
+      "district": "中区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "市民人権委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--kaneshirotsuyoshi",
+      "council_id": "sakai-city",
+      "name": "兼城剛",
+      "name_kana": "かねしろつよし",
+      "district": "堺区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--kayanotakaya",
+      "council_id": "sakai-city",
+      "name": "萱野孝弥",
+      "name_kana": "かやのたかや",
+      "district": "西区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--kibatatadashi",
+      "council_id": "sakai-city",
+      "name": "木畑匡",
+      "name_kana": "きばたただし",
+      "district": "中区",
+      "faction": "堺創志会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--koboriseiji",
+      "council_id": "sakai-city",
+      "name": "小堀清次",
+      "name_kana": "こぼりせいじ",
+      "district": "南区",
+      "faction": "堺創志会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--sakamotochiyoko",
+      "council_id": "sakai-city",
+      "name": "坂本千代子",
+      "name_kana": "さかもとちよこ",
+      "district": "北区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--shigiriyouta",
+      "council_id": "sakai-city",
+      "name": "信貴良太",
+      "name_kana": "しぎりょうた",
+      "district": "南区",
+      "faction": "自由民主党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--shiraeyonekazu",
+      "council_id": "sakai-city",
+      "name": "白江米一",
+      "name_kana": "しらえよねかず",
+      "district": "美原区",
+      "faction": "自由民主党・保守クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--tashiroyuuko",
+      "council_id": "sakai-city",
+      "name": "田代優子",
+      "name_kana": "たしろゆうこ",
+      "district": "西区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--tabuchikazuo",
+      "council_id": "sakai-city",
+      "name": "田渕和夫",
+      "name_kana": "たぶちかずお",
+      "district": "南区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "市民人権委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--nakanotakafumi",
+      "council_id": "sakai-city",
+      "name": "中野貴文",
+      "name_kana": "なかのたかふみ",
+      "district": "北区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--nishitetsushi",
+      "council_id": "sakai-city",
+      "name": "西哲史",
+      "name_kana": "にしてつし",
+      "district": "西区",
+      "faction": "堺創志会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--nishikawatomomi",
+      "council_id": "sakai-city",
+      "name": "西川知己",
+      "name_kana": "にしかわともみ",
+      "district": "北区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--nishikawariyouhei",
+      "council_id": "sakai-city",
+      "name": "西川良平",
+      "name_kana": "にしかわりょうへい",
+      "district": "中区",
+      "faction": "自由民主党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "市民人権委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--nishidahironobu",
+      "council_id": "sakai-city",
+      "name": "西田浩延",
+      "name_kana": "にしだひろのぶ",
+      "district": "美原区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--nishimurashiyouzou",
+      "council_id": "sakai-city",
+      "name": "西村昭三",
+      "name_kana": "にしむらしょうぞう",
+      "district": "堺区",
+      "faction": "自由民主党・保守クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--nozatofumimori",
+      "council_id": "sakai-city",
+      "name": "野里文盛",
+      "name_kana": "のざとふみもり",
+      "district": "東区",
+      "faction": "自由民主党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--hasegawashiyunei",
+      "council_id": "sakai-city",
+      "name": "長谷川俊英",
+      "name_kana": "はせがわしゅんえい",
+      "district": "北区",
+      "faction": "会派に属さない議員",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--hirotashinichi",
+      "council_id": "sakai-city",
+      "name": "広田新一",
+      "name_kana": "ひろたしんいち",
+      "district": "東区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--fujiitoshiko",
+      "council_id": "sakai-city",
+      "name": "藤井載子",
+      "name_kana": "ふじいとしこ",
+      "district": "東区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "市民人権委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--fujimotoken",
+      "council_id": "sakai-city",
+      "name": "藤本憲",
+      "name_kana": "ふじもとけん",
+      "district": "堺区",
+      "faction": "日本共産党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--fujimotosachiko",
+      "council_id": "sakai-city",
+      "name": "藤本幸子",
+      "name_kana": "ふじもとさちこ",
+      "district": "南区",
+      "faction": "日本共産党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--fudabayasushi",
+      "council_id": "sakai-city",
+      "name": "札場泰司",
+      "name_kana": "ふだばやすし",
+      "district": "西区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "建設委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--fuchigamitakeshi",
+      "council_id": "sakai-city",
+      "name": "渕上猛志",
+      "name_kana": "ふちがみたけし",
+      "district": "堺区",
+      "faction": "堺創志会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--matsukiriyou",
+      "council_id": "sakai-city",
+      "name": "松木僚",
+      "name_kana": "まつきりょう",
+      "district": "東区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--matobashinichi",
+      "council_id": "sakai-city",
+      "name": "的場慎一",
+      "name_kana": "まとばしんいち",
+      "district": "南区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--mizunouenaruaki",
+      "council_id": "sakai-city",
+      "name": "水ノ上成彰",
+      "name_kana": "みずのうえなるあき",
+      "district": "西区",
+      "faction": "自由民主党・保守クラブ",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "市民人権委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--miyaketatsuya",
+      "council_id": "sakai-city",
+      "name": "三宅達也",
+      "name_kana": "みやけたつや",
+      "district": "南区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--miyamotokeiko",
+      "council_id": "sakai-city",
+      "name": "宮本恵子",
+      "name_kana": "みやもとけいこ",
+      "district": "北区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--moritakouichi",
+      "council_id": "sakai-city",
+      "name": "森田晃一",
+      "name_kana": "もりたこういち",
+      "district": "西区",
+      "faction": "日本共産党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--yamaguchinoriko",
+      "council_id": "sakai-city",
+      "name": "山口典子",
+      "name_kana": "やまぐちのりこ",
+      "district": "堺区",
+      "faction": "自由民主党堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--yamasakihikari",
+      "council_id": "sakai-city",
+      "name": "山﨑光",
+      "name_kana": "やまさきひかり",
+      "district": "堺区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--yoshikawatoshifumi",
+      "council_id": "sakai-city",
+      "name": "吉川敏文",
+      "name_kana": "よしかわとしふみ",
+      "district": "南区",
+      "faction": "公明党堺市議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--yoshikawamamoru",
+      "council_id": "sakai-city",
+      "name": "吉川守",
+      "name_kana": "よしかわまもる",
+      "district": "北区",
+      "faction": "堺創志会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "産業環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sakai-city--yonedatoshifumi",
+      "council_id": "sakai-city",
+      "name": "米田敏文",
+      "name_kana": "よねだとしふみ",
+      "district": "中区",
+      "faction": "大阪維新の会堺市議会議員団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "市民人権委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    }
+  ],
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-17",
+  "teisu": 48,
+  "genin": 47,
+  "ketsuin": 1,
+  "checks": {
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.city.sakai.lg.jp/shigikai/meibo/50on.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-17",
+    "teisu": 48,
+    "genin": 47,
+    "ketsuin": 1,
+    "parsed_members": 47,
+    "vacancy_details": [
+      {
+        "district": "欠員区未特定",
+        "ketsuin": 1,
+        "source_url": "https://www.city.sakai.lg.jp/shigikai/meibo/50on.html"
+      }
+    ],
+    "notes": [
+      "公式CMSの名簿ビューから氏名・ふりがな・会派・行政区・当選回数・委員会・役職のみを許可リスト抽出",
+      "許可外項目は保存しない",
+      "写真は取得せず、photo_urlは全員null",
+      "公式50音表に定数48人と掲載がある一方、掲載行は47人。欠員区は同表から特定できないため未特定として記録"
+    ]
+  },
+  "updated_at": "2026-06-17T21:20:09+00:00"
+}

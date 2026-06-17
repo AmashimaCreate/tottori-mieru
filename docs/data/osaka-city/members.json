@@ -1,0 +1,1312 @@
+{
+  "council_id": "osaka-city",
+  "source_url": "https://www.city.osaka.lg.jp/shikai/page/0000310422.html",
+  "source_name": "大阪市会",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "osaka-city--kondoudai",
+      "council_id": "osaka-city",
+      "name": "近藤大",
+      "name_kana": "こんどうだい",
+      "district": "北区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "民生保健委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310400.html"
+    },
+    {
+      "id": "osaka-city--takayamamika",
+      "council_id": "osaka-city",
+      "name": "高山美佳",
+      "name_kana": "たかやまみか",
+      "district": "北区",
+      "faction": "維新",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "市会運営副委員長",
+        "財政総務委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310400.html"
+    },
+    {
+      "id": "osaka-city--maedakazuhiko",
+      "council_id": "osaka-city",
+      "name": "前田和彦",
+      "name_kana": "まえだかずひこ",
+      "district": "北区",
+      "faction": "自民市民",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "財政総務委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310400.html"
+    },
+    {
+      "id": "osaka-city--yamamototomoko",
+      "council_id": "osaka-city",
+      "name": "山本智子",
+      "name_kana": "やまもとともこ",
+      "district": "北区",
+      "faction": "公明",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "建設港湾委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310400.html"
+    },
+    {
+      "id": "osaka-city--arakihajime",
+      "council_id": "osaka-city",
+      "name": "荒木肇",
+      "name_kana": "あらきはじめ",
+      "district": "都島区",
+      "faction": "自民市民",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "市政改革委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310424.html"
+    },
+    {
+      "id": "osaka-city--oonishishiyouichi",
+      "council_id": "osaka-city",
+      "name": "大西しょういち",
+      "name_kana": "おおにししょういち",
+      "district": "都島区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "教育こども委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310424.html"
+    },
+    {
+      "id": "osaka-city--okadayasutomo",
+      "council_id": "osaka-city",
+      "name": "岡田妥知",
+      "name_kana": "おかだやすとも",
+      "district": "都島区",
+      "faction": "維新",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "財政総務委員長",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310424.html"
+    },
+    {
+      "id": "osaka-city--ootakatsuki",
+      "council_id": "osaka-city",
+      "name": "太田勝己",
+      "name_kana": "おおたかつき",
+      "district": "福島区",
+      "faction": "自国くらし",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市経済副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310457.html"
+    },
+    {
+      "id": "osaka-city--hirotakazumi",
+      "council_id": "osaka-city",
+      "name": "広田和美",
+      "name_kana": "ひろたかずみ",
+      "district": "福島区",
+      "faction": "福島クラブ",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "民生保健委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310457.html"
+    },
+    {
+      "id": "osaka-city--imadanobuyuki",
+      "council_id": "osaka-city",
+      "name": "今田信行",
+      "name_kana": "いまだのぶゆき",
+      "district": "此花区",
+      "faction": "公明",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市経済委員",
+        "環境対策特別副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310423.html"
+    },
+    {
+      "id": "osaka-city--takechihiroyuki",
+      "council_id": "osaka-city",
+      "name": "たけち博幸",
+      "name_kana": "たけちひろゆき",
+      "district": "此花区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "財政総務委員",
+        "大都市・税財政制度特別副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310423.html"
+    },
+    {
+      "id": "osaka-city--shionakakazushige",
+      "council_id": "osaka-city",
+      "name": "塩中一成",
+      "name_kana": "しおなかかずしげ",
+      "district": "中央区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市経済委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310460.html"
+    },
+    {
+      "id": "osaka-city--suzukirie",
+      "council_id": "osaka-city",
+      "name": "鈴木理恵",
+      "name_kana": "すずきりえ",
+      "district": "中央区",
+      "faction": "自民市民",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "民生保健委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310460.html"
+    },
+    {
+      "id": "osaka-city--nogamiran",
+      "council_id": "osaka-city",
+      "name": "野上らん",
+      "name_kana": "のがみらん",
+      "district": "中央区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設港湾委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310460.html"
+    },
+    {
+      "id": "osaka-city--kuritayuuya",
+      "council_id": "osaka-city",
+      "name": "くりたゆうや",
+      "name_kana": "くりたゆうや",
+      "district": "西区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "民生保健委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310464.html"
+    },
+    {
+      "id": "osaka-city--nishitakurou",
+      "council_id": "osaka-city",
+      "name": "西拓郎",
+      "name_kana": "にしたくろう",
+      "district": "西区",
+      "faction": "大阪にし",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "市政改革委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310464.html"
+    },
+    {
+      "id": "osaka-city--higashitakayuki",
+      "council_id": "osaka-city",
+      "name": "東貴之",
+      "name_kana": "ひがしたかゆき",
+      "district": "西区",
+      "faction": "維新",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "財政総務委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310464.html"
+    },
+    {
+      "id": "osaka-city--nishinorihito",
+      "council_id": "osaka-city",
+      "name": "西徳人",
+      "name_kana": "にしのりひと",
+      "district": "港区",
+      "faction": "公明",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "財政総務委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310465.html"
+    },
+    {
+      "id": "osaka-city--fujitaakira",
+      "council_id": "osaka-city",
+      "name": "藤田あきら",
+      "name_kana": "ふじたあきら",
+      "district": "港区",
+      "faction": "維新",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "財政総務委員",
+        "大都市・税財政制度特別委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310465.html"
+    },
+    {
+      "id": "osaka-city--izumoteruhide",
+      "council_id": "osaka-city",
+      "name": "出雲輝英",
+      "name_kana": "いずもてるひで",
+      "district": "大正区",
+      "faction": "維新",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "監査委員",
+        "市政改革委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310455.html"
+    },
+    {
+      "id": "osaka-city--koyamamitsuaki",
+      "council_id": "osaka-city",
+      "name": "小山光明",
+      "name_kana": "こやまみつあき",
+      "district": "大正区",
+      "faction": "公明",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設港湾委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310455.html"
+    },
+    {
+      "id": "osaka-city--kanekoemi",
+      "council_id": "osaka-city",
+      "name": "金子恵美",
+      "name_kana": "かねこえみ",
+      "district": "天王寺区",
+      "faction": "維新",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "教育こども委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310471.html"
+    },
+    {
+      "id": "osaka-city--sudoushiyouta",
+      "council_id": "osaka-city",
+      "name": "須藤奨太",
+      "name_kana": "すどうしょうた",
+      "district": "天王寺区",
+      "faction": "自民市民",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市経済委員",
+        "大都市・税財政制度特別副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310471.html"
+    },
+    {
+      "id": "osaka-city--takeshitatakashi",
+      "council_id": "osaka-city",
+      "name": "竹下隆",
+      "name_kana": "たけしたたかし",
+      "district": "浪速区",
+      "faction": "維新",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "市政改革委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310473.html"
+    },
+    {
+      "id": "osaka-city--moriyamayoshihisa",
+      "council_id": "osaka-city",
+      "name": "森山よしひさ",
+      "name_kana": "もりやまよしひさ",
+      "district": "浪速区",
+      "faction": "自民市民",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "教育こども委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310473.html"
+    },
+    {
+      "id": "osaka-city--sasakitetsuo",
+      "council_id": "osaka-city",
+      "name": "佐々木哲夫",
+      "name_kana": "ささきてつお",
+      "district": "西淀川区",
+      "faction": "公明",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "財政総務委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310476.html"
+    },
+    {
+      "id": "osaka-city--shimizukou",
+      "council_id": "osaka-city",
+      "name": "清水こう",
+      "name_kana": "しみずこう",
+      "district": "西淀川区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設港湾委員",
+        "環境対策特別副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310476.html"
+    },
+    {
+      "id": "osaka-city--yamadakana",
+      "council_id": "osaka-city",
+      "name": "山田かな",
+      "name_kana": "やまだかな",
+      "district": "西淀川区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市経済副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310476.html"
+    },
+    {
+      "id": "osaka-city--imamuranaoto",
+      "council_id": "osaka-city",
+      "name": "今村直人",
+      "name_kana": "いまむらなおと",
+      "district": "淀川区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "建設港湾委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310467.html"
+    },
+    {
+      "id": "osaka-city--sakaihajime",
+      "council_id": "osaka-city",
+      "name": "坂井はじめ",
+      "name_kana": "さかいはじめ",
+      "district": "淀川区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "教育こども委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310467.html"
+    },
+    {
+      "id": "osaka-city--satakeriho",
+      "council_id": "osaka-city",
+      "name": "佐竹りほ",
+      "name_kana": "さたけりほ",
+      "district": "淀川区",
+      "faction": "総活躍",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市経済委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310467.html"
+    },
+    {
+      "id": "osaka-city--sugitatadahiro",
+      "council_id": "osaka-city",
+      "name": "杉田忠裕",
+      "name_kana": "すぎたただひろ",
+      "district": "淀川区",
+      "faction": "公明",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "民生保健副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310467.html"
+    },
+    {
+      "id": "osaka-city--minamitakafumi",
+      "council_id": "osaka-city",
+      "name": "南隆文",
+      "name_kana": "みなみたかふみ",
+      "district": "淀川区",
+      "faction": "自民市民",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設港湾副委員長",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310467.html"
+    },
+    {
+      "id": "osaka-city--ishikawahiroki",
+      "council_id": "osaka-city",
+      "name": "石川博紀",
+      "name_kana": "いしかわひろき",
+      "district": "東淀川区",
+      "faction": "自民市民",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "教育こども副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310544.html"
+    },
+    {
+      "id": "osaka-city--iwaikekiyo",
+      "council_id": "osaka-city",
+      "name": "岩池きよ",
+      "name_kana": "いわいけきよ",
+      "district": "東淀川区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設港湾副委員長",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310544.html"
+    },
+    {
+      "id": "osaka-city--hashimotomasato",
+      "council_id": "osaka-city",
+      "name": "橋本まさと",
+      "name_kana": "はしもとまさと",
+      "district": "東淀川区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "教育こども委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310544.html"
+    },
+    {
+      "id": "osaka-city--masumotosaori",
+      "council_id": "osaka-city",
+      "name": "ますもとさおり",
+      "name_kana": "ますもとさおり",
+      "district": "東淀川区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "教育こども委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310544.html"
+    },
+    {
+      "id": "osaka-city--morikeigo",
+      "council_id": "osaka-city",
+      "name": "森慶吾",
+      "name_kana": "もりけいご",
+      "district": "東淀川区",
+      "faction": "公明",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "民生保健委員長",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310544.html"
+    },
+    {
+      "id": "osaka-city--kondoumiwa",
+      "council_id": "osaka-city",
+      "name": "近藤みわ",
+      "name_kana": "こんどうみわ",
+      "district": "東成区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "教育こども委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310594.html"
+    },
+    {
+      "id": "osaka-city--nagasekanako",
+      "council_id": "osaka-city",
+      "name": "永瀬かなこ",
+      "name_kana": "ながせかなこ",
+      "district": "東成区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "民生保健副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310594.html"
+    },
+    {
+      "id": "osaka-city--fujiwarayouichi",
+      "council_id": "osaka-city",
+      "name": "藤原よういち",
+      "name_kana": "ふじわらよういち",
+      "district": "東成区",
+      "faction": "自国くらし",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政総務委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310594.html"
+    },
+    {
+      "id": "osaka-city--kinoshitamakoto",
+      "council_id": "osaka-city",
+      "name": "木下誠",
+      "name_kana": "きのしたまこと",
+      "district": "生野区",
+      "faction": "維新",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "民生保健委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310593.html"
+    },
+    {
+      "id": "osaka-city--takenaoki",
+      "council_id": "osaka-city",
+      "name": "武直樹",
+      "name_kana": "たけなおき",
+      "district": "生野区",
+      "faction": "自国くらし",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "建設港湾委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310593.html"
+    },
+    {
+      "id": "osaka-city--haraguchiyuusuke",
+      "council_id": "osaka-city",
+      "name": "原口悠介",
+      "name_kana": "はらぐちゆうすけ",
+      "district": "生野区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "財政総務委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310593.html"
+    },
+    {
+      "id": "osaka-city--yamadamasakazu",
+      "council_id": "osaka-city",
+      "name": "山田正和",
+      "name_kana": "やまだまさかず",
+      "district": "生野区",
+      "faction": "公明",
+      "elected_count": 4,
+      "positions": [
+        "議長",
+        "副議長"
+      ],
+      "committees": [
+        "都市経済委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310593.html"
+    },
+    {
+      "id": "osaka-city--nishizakiteruaki",
+      "council_id": "osaka-city",
+      "name": "西崎照明",
+      "name_kana": "にしざきてるあき",
+      "district": "旭区",
+      "faction": "公明",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "教育こども委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310592.html"
+    },
+    {
+      "id": "osaka-city--fukudatakehiro",
+      "council_id": "osaka-city",
+      "name": "福田武洋",
+      "name_kana": "ふくだたけひろ",
+      "district": "旭区",
+      "faction": "自民市民",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "財政総務委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310592.html"
+    },
+    {
+      "id": "osaka-city--miyawakinozomi",
+      "council_id": "osaka-city",
+      "name": "宮脇希",
+      "name_kana": "みやわきのぞみ",
+      "district": "旭区",
+      "faction": "維新",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "民生保健委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310592.html"
+    },
+    {
+      "id": "osaka-city--akashinaoki",
+      "council_id": "osaka-city",
+      "name": "明石直樹",
+      "name_kana": "あかしなおき",
+      "district": "城東区",
+      "faction": "公明",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "教育こども委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310591.html"
+    },
+    {
+      "id": "osaka-city--babanoriyuki",
+      "council_id": "osaka-city",
+      "name": "馬場のりゆき",
+      "name_kana": "ばばのりゆき",
+      "district": "城東区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政総務副委員長",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310591.html"
+    },
+    {
+      "id": "osaka-city--hondarie",
+      "council_id": "osaka-city",
+      "name": "ホンダリエ",
+      "name_kana": "ほんだりえ",
+      "district": "城東区",
+      "faction": "維新",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "市政改革委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310591.html"
+    },
+    {
+      "id": "osaka-city--yamanakatomoko",
+      "council_id": "osaka-city",
+      "name": "山中智子",
+      "name_kana": "やまなかともこ",
+      "district": "城東区",
+      "faction": "共産",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "民生保健委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310591.html"
+    },
+    {
+      "id": "osaka-city--washimishinichi",
+      "council_id": "osaka-city",
+      "name": "わしみ慎一",
+      "name_kana": "わしみしんいち",
+      "district": "城東区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市経済委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310591.html"
+    },
+    {
+      "id": "osaka-city--oohashikazutaka",
+      "council_id": "osaka-city",
+      "name": "大橋一隆",
+      "name_kana": "おおはしかずたか",
+      "district": "鶴見区",
+      "faction": "維新",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "市政改革委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310590.html"
+    },
+    {
+      "id": "osaka-city--kurodamariko",
+      "council_id": "osaka-city",
+      "name": "黒田まりこ",
+      "name_kana": "くろだまりこ",
+      "district": "鶴見区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "民生保健委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310590.html"
+    },
+    {
+      "id": "osaka-city--tokiyasuo",
+      "council_id": "osaka-city",
+      "name": "土岐恭生",
+      "name_kana": "ときやすお",
+      "district": "鶴見区",
+      "faction": "公明",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "都市経済委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310590.html"
+    },
+    {
+      "id": "osaka-city--umezonomakoto",
+      "council_id": "osaka-city",
+      "name": "梅園周",
+      "name_kana": "うめぞのまこと",
+      "district": "阿倍野区",
+      "faction": "維新",
+      "elected_count": 4,
+      "positions": [
+        "議長"
+      ],
+      "committees": [
+        "建設港湾委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310589.html"
+    },
+    {
+      "id": "osaka-city--kinoshitayoshinobu",
+      "council_id": "osaka-city",
+      "name": "木下吉信",
+      "name_kana": "きのしたよしのぶ",
+      "district": "阿倍野区",
+      "faction": "自民市民",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "民生保健委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310589.html"
+    },
+    {
+      "id": "osaka-city--taniimasayoshi",
+      "council_id": "osaka-city",
+      "name": "谷井正佳",
+      "name_kana": "たにいまさよし",
+      "district": "阿倍野区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "市政改革委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310589.html"
+    },
+    {
+      "id": "osaka-city--katayamaitsupo",
+      "council_id": "osaka-city",
+      "name": "片山一歩",
+      "name_kana": "かたやまいっぽ",
+      "district": "住之江区",
+      "faction": "維新",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "建設港湾委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310750.html"
+    },
+    {
+      "id": "osaka-city--kishimotosakae",
+      "council_id": "osaka-city",
+      "name": "岸本栄",
+      "name_kana": "きしもとさかえ",
+      "district": "住之江区",
+      "faction": "公明",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "市政改革委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310750.html"
+    },
+    {
+      "id": "osaka-city--kimurahikari",
+      "council_id": "osaka-city",
+      "name": "木村ひかり",
+      "name_kana": "きむらひかり",
+      "district": "住之江区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "教育こども副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310750.html"
+    },
+    {
+      "id": "osaka-city--matsuzakitooru",
+      "council_id": "osaka-city",
+      "name": "松崎孔",
+      "name_kana": "まつざきとおる",
+      "district": "住之江区",
+      "faction": "自国くらし",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "教育こども委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310750.html"
+    },
+    {
+      "id": "osaka-city--itouami",
+      "council_id": "osaka-city",
+      "name": "伊藤亜実",
+      "name_kana": "いとうあみ",
+      "district": "住吉区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設港湾委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310753.html"
+    },
+    {
+      "id": "osaka-city--inouehiroshi",
+      "council_id": "osaka-city",
+      "name": "井上浩",
+      "name_kana": "いのうえひろし",
+      "district": "住吉区",
+      "faction": "共産",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "教育こども委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310753.html"
+    },
+    {
+      "id": "osaka-city--uedatomotaka",
+      "council_id": "osaka-city",
+      "name": "上田智隆",
+      "name_kana": "うえだともたか",
+      "district": "住吉区",
+      "faction": "維新",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "市会運営委員長",
+        "都市経済委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310753.html"
+    },
+    {
+      "id": "osaka-city--kubotariyou",
+      "council_id": "osaka-city",
+      "name": "くぼた亮",
+      "name_kana": "くぼたりょう",
+      "district": "住吉区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市経済委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310753.html"
+    },
+    {
+      "id": "osaka-city--nakatakouichirou",
+      "council_id": "osaka-city",
+      "name": "中田光一郎",
+      "name_kana": "なかたこういちろう",
+      "district": "住吉区",
+      "faction": "公明",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "市政改革委員",
+        "環境対策特別委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310753.html"
+    },
+    {
+      "id": "osaka-city--tanabenobuhiro",
+      "council_id": "osaka-city",
+      "name": "田辺信広",
+      "name_kana": "たなべのぶひろ",
+      "district": "東住吉区",
+      "faction": "無所属",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "財政総務委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310752.html"
+    },
+    {
+      "id": "osaka-city--tsujiyoshitaka",
+      "council_id": "osaka-city",
+      "name": "辻義隆",
+      "name_kana": "つじよしたか",
+      "district": "東住吉区",
+      "faction": "公明",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "財政総務副委員長",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310752.html"
+    },
+    {
+      "id": "osaka-city--hitomitsuyoshi",
+      "council_id": "osaka-city",
+      "name": "人見つよし",
+      "name_kana": "ひとみつよし",
+      "district": "東住吉区",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "市政改革副委員長",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310752.html"
+    },
+    {
+      "id": "osaka-city--fuchikamihiromi",
+      "council_id": "osaka-city",
+      "name": "渕上浩美",
+      "name_kana": "ふちかみひろみ",
+      "district": "東住吉区",
+      "faction": "自民市民",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設港湾委員長",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310752.html"
+    },
+    {
+      "id": "osaka-city--sugimurakoutarou",
+      "council_id": "osaka-city",
+      "name": "杉村幸太郎",
+      "name_kana": "すぎむらこうたろう",
+      "district": "平野区",
+      "faction": "維新",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "民生保健委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310751.html"
+    },
+    {
+      "id": "osaka-city--tanakahiroki",
+      "council_id": "osaka-city",
+      "name": "田中ひろき",
+      "name_kana": "たなかひろき",
+      "district": "平野区",
+      "faction": "自国くらし",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "市政改革委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310751.html"
+    },
+    {
+      "id": "osaka-city--nagaihiroyuki",
+      "council_id": "osaka-city",
+      "name": "永井広幸",
+      "name_kana": "ながいひろゆき",
+      "district": "平野区",
+      "faction": "公明",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "監査委員",
+        "市会運営委員",
+        "民生保健委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310751.html"
+    },
+    {
+      "id": "osaka-city--nagatanoriko",
+      "council_id": "osaka-city",
+      "name": "永田典子",
+      "name_kana": "ながたのりこ",
+      "district": "平野区",
+      "faction": "公明",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "市政改革副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310751.html"
+    },
+    {
+      "id": "osaka-city--matsudamasatoshi",
+      "council_id": "osaka-city",
+      "name": "松田まさとし",
+      "name_kana": "まつだまさとし",
+      "district": "平野区",
+      "faction": "大阪平野",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設港湾委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310751.html"
+    },
+    {
+      "id": "osaka-city--yoshimimisako",
+      "council_id": "osaka-city",
+      "name": "吉見みさこ",
+      "name_kana": "よしみみさこ",
+      "district": "平野区",
+      "faction": "維新",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "市政改革委員",
+        "環境対策特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310751.html"
+    },
+    {
+      "id": "osaka-city--tsujijiyunko",
+      "council_id": "osaka-city",
+      "name": "辻淳子",
+      "name_kana": "つじじゅんこ",
+      "district": "西成区",
+      "faction": "維新",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "都市経済委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310534.html"
+    },
+    {
+      "id": "osaka-city--fujiokahirokazu",
+      "council_id": "osaka-city",
+      "name": "藤岡寛和",
+      "name_kana": "ふじおかひろかず",
+      "district": "西成区",
+      "faction": "維新",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "市会運営委員",
+        "都市経済委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310534.html"
+    },
+    {
+      "id": "osaka-city--yamaguchigorou",
+      "council_id": "osaka-city",
+      "name": "山口悟朗",
+      "name_kana": "やまぐちごろう",
+      "district": "西成区",
+      "faction": "公明",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "市会運営副委員長",
+        "教育こども委員",
+        "大都市・税財政制度特別委員"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.osaka.lg.jp/shikai/page/0000310534.html"
+    }
+  ],
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-17",
+  "teisu": 81,
+  "genin": 81,
+  "ketsuin": 0,
+  "checks": {
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.city.osaka.lg.jp/shikai/page/0000310422.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-17",
+    "teisu": 81,
+    "genin": 81,
+    "ketsuin": 0,
+    "parsed_members": 81,
+    "vacancy_details": [],
+    "notes": [
+      "公式CMSの名簿ビューから氏名・ふりがな・会派・行政区・当選回数・委員会・役職のみを許可リスト抽出",
+      "許可外項目は保存しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-17T21:36:06+00:00"
+}

@@ -1194,6 +1194,446 @@
       ],
       "status": "active",
       "notes": "公式議会ページが2026-06-11確認時点でHTTP 500のため、公式リンク再確認待ち。"
+    },
+    {
+      "id": "sapporo-city",
+      "name": "札幌市議会",
+      "type": "city",
+      "prefecture": "hokkaido",
+      "prefecture_name": "北海道",
+      "lg_code": "011002",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.sapporo.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.sapporo.jp/gikai/meibo/meibo-ku.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "sendai-city",
+      "name": "仙台市議会",
+      "type": "city",
+      "prefecture": "miyagi",
+      "prefecture_name": "宮城県",
+      "lg_code": "041009",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.gikai.city.sendai.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.gikai.city.sendai.jp/list/district/index.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "saitama-city",
+      "name": "さいたま市議会",
+      "type": "city",
+      "prefecture": "saitama",
+      "prefecture_name": "埼玉県",
+      "lg_code": "111007",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.saitama.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.saitama.lg.jp/gikai/001/002/002/index.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "chiba-city",
+      "name": "千葉市議会",
+      "type": "city",
+      "prefecture": "chiba",
+      "prefecture_name": "千葉県",
+      "lg_code": "121002",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.chiba.jp/shigikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.chiba.jp/shigikai/gojuon.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "yokohama-city",
+      "name": "横浜市会",
+      "type": "city",
+      "prefecture": "kanagawa",
+      "prefecture_name": "神奈川県",
+      "lg_code": "141003",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.yokohama.lg.jp/shikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.yokohama.lg.jp/shikai/giin/50on.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "kawasaki-city",
+      "name": "川崎市議会",
+      "type": "city",
+      "prefecture": "kanagawa",
+      "prefecture_name": "神奈川県",
+      "lg_code": "141305",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.kawasaki.jp/980/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.kawasaki.jp/shisei/category/40-3-4-0-0-0-0-0-0-0.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "sagamihara-city",
+      "name": "相模原市議会",
+      "type": "city",
+      "prefecture": "kanagawa",
+      "prefecture_name": "神奈川県",
+      "lg_code": "141500",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.sagamihara-shigikai.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.sagamihara-shigikai.jp/doc/2013122400014/"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "niigata-city",
+      "name": "新潟市議会",
+      "type": "city",
+      "prefecture": "niigata",
+      "prefecture_name": "新潟県",
+      "lg_code": "151009",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.niigata.lg.jp/shigikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.niigata.lg.jp/shigikai/index_meibo/meibo_01kubetsu.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "shizuoka-city",
+      "name": "静岡市議会",
+      "type": "city",
+      "prefecture": "shizuoka",
+      "prefecture_name": "静岡県",
+      "lg_code": "221007",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.shizuoka.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.shizuoka.lg.jp/gikai/s900078.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "hamamatsu-city",
+      "name": "浜松市議会",
+      "type": "city",
+      "prefecture": "shizuoka",
+      "prefecture_name": "静岡県",
+      "lg_code": "221309",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.hamamatsu.shizuoka.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.hamamatsu.shizuoka.jp/gikai/iinkai/meibo50.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "nagoya-city",
+      "name": "名古屋市会",
+      "type": "city",
+      "prefecture": "aichi",
+      "prefecture_name": "愛知県",
+      "lg_code": "231002",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.nagoya.jp/shikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.nagoya.jp/shikai/about/1030778/1030800.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "kyoto-city",
+      "name": "京都市会",
+      "type": "city",
+      "prefecture": "kyoto",
+      "prefecture_name": "京都府",
+      "lg_code": "261009",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www2.city.kyoto.lg.jp/shikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www2.city.kyoto.lg.jp/shikai/meibo/gojuon.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "osaka-city",
+      "name": "大阪市会",
+      "type": "city",
+      "prefecture": "osaka",
+      "prefecture_name": "大阪府",
+      "lg_code": "271004",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.osaka.lg.jp/shikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.osaka.lg.jp/shikai/page/0000310422.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "sakai-city",
+      "name": "堺市議会",
+      "type": "city",
+      "prefecture": "osaka",
+      "prefecture_name": "大阪府",
+      "lg_code": "271403",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.sakai.lg.jp/shigikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.sakai.lg.jp/shigikai/meibo/50on.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "kobe-city",
+      "name": "神戸市会",
+      "type": "city",
+      "prefecture": "hyogo",
+      "prefecture_name": "兵庫県",
+      "lg_code": "281000",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.kobe.lg.jp/shise/municipal/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.kobe.lg.jp/a71064/shise/municipal/giinnmeibo/index.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "okayama-city",
+      "name": "岡山市議会",
+      "type": "city",
+      "prefecture": "okayama",
+      "prefecture_name": "岡山県",
+      "lg_code": "331007",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.okayama.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.okayama.jp/gikai/0000015787.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "hiroshima-city",
+      "name": "広島市議会",
+      "type": "city",
+      "prefecture": "hiroshima",
+      "prefecture_name": "広島県",
+      "lg_code": "341002",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.hiroshima.lg.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.hiroshima.lg.jp/gikai/giin-shoukai/1014892/index.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "kitakyushu-city",
+      "name": "北九州市議会",
+      "type": "city",
+      "prefecture": "fukuoka",
+      "prefecture_name": "福岡県",
+      "lg_code": "401005",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://www.city.kitakyushu.lg.jp/sigikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.kitakyushu.lg.jp/sigikai/menu11_0002.html"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "fukuoka-city",
+      "name": "福岡市議会",
+      "type": "city",
+      "prefecture": "fukuoka",
+      "prefecture_name": "福岡県",
+      "lg_code": "401307",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://gikai.city.fukuoka.lg.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://gikai.city.fukuoka.lg.jp/member/alphabet"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "kumamoto-city",
+      "name": "熊本市議会",
+      "type": "city",
+      "prefecture": "kumamoto",
+      "prefecture_name": "熊本県",
+      "lg_code": "431001",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "議会の公式サイト",
+          "url": "https://kumamoto-shigikai.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://kumamoto-shigikai.jp/namelist/pub/list50.aspx?c_id=3"
+        }
+      ],
+      "status": "active",
+      "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
     }
   ]
 }

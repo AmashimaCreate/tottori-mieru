@@ -1,0 +1,1246 @@
+{
+  "council_id": "nagoya-city",
+  "source_url": "https://www.city.nagoya.jp/shikai/about/1030778/1030800.html",
+  "source_name": "名古屋市会",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "nagoya-city--akamatsutetsuji",
+      "council_id": "nagoya-city",
+      "name": "赤松哲次",
+      "name_kana": "あかまつてつじ",
+      "district": "中川区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "財政福祉委員会 副委員長",
+        "都市活力向上特別委員会 副委員長",
+        "財政福祉委員会〔〕 副委員長",
+        "都市活力向上特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "財政福祉委員会〔副委員長〕",
+        "都市活力向上特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--asaimasahito",
+      "council_id": "nagoya-city",
+      "name": "浅井正仁",
+      "name_kana": "あさいまさひと",
+      "district": "中川区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務環境委員会",
+        "公社対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--asanotamotsu",
+      "council_id": "nagoya-city",
+      "name": "浅野有",
+      "name_kana": "あさのたもつ",
+      "district": "西区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "経済水道委員会 委員長",
+        "経済水道委員会〔〕 委員長"
+      ],
+      "committees": [
+        "経済水道委員会〔委員長〕",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--ikamikunihiko",
+      "council_id": "nagoya-city",
+      "name": "伊神邦彦",
+      "name_kana": "いかみくにひこ",
+      "district": "千種区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "土木交通委員会",
+        "産業・歴史文化・観光戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--iwamototakahiro",
+      "council_id": "nagoya-city",
+      "name": "岩本たかひろ",
+      "name_kana": "いわもとたかひろ",
+      "district": "緑区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "産業・歴史文化・観光戦略特別委員会 委員長",
+        "産業・歴史文化・観光戦略特別委員会〔〕 委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "総務環境委員会",
+        "産業・歴史文化・観光戦略特別委員会〔委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--uezonoshinsuke",
+      "council_id": "nagoya-city",
+      "name": "うえぞの晋介",
+      "name_kana": "うえぞのしんすけ",
+      "district": "西区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "財政福祉委員会",
+        "防災・エネルギー対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--uemuramichiyo",
+      "council_id": "nagoya-city",
+      "name": "上村みちよ",
+      "name_kana": "うえむらみちよ",
+      "district": "東区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "都市消防委員会 副委員長",
+        "都市消防委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "都市消防委員会〔副委員長〕",
+        "公社対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--ukaiharumi",
+      "council_id": "nagoya-city",
+      "name": "うかい春美",
+      "name_kana": "うかいはるみ",
+      "district": "中村区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "経済水道委員会",
+        "産業・歴史文化・観光戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--ooshimahidehiro",
+      "council_id": "nagoya-city",
+      "name": "大島英勲",
+      "name_kana": "おおしまひでひろ",
+      "district": "名東区",
+      "faction": "維新",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "経済水道委員会",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--ootatomihiko",
+      "council_id": "nagoya-city",
+      "name": "大田とみひこ",
+      "name_kana": "おおたとみひこ",
+      "district": "西区",
+      "faction": "減税",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務環境委員会",
+        "産業・歴史文化・観光戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--ootanitomohiro",
+      "council_id": "nagoya-city",
+      "name": "大谷ともひろ",
+      "name_kana": "おおたにともひろ",
+      "district": "緑区",
+      "faction": "減税",
+      "elected_count": null,
+      "positions": [
+        "防災・エネルギー対策特別委員会 副委員長",
+        "防災・エネルギー対策特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "経済水道委員会",
+        "防災・エネルギー対策特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--oomuramitsuko",
+      "council_id": "nagoya-city",
+      "name": "大村光子",
+      "name_kana": "おおむらみつこ",
+      "district": "昭和区",
+      "faction": "減税",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "土木交通委員会",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--okachie",
+      "council_id": "nagoya-city",
+      "name": "おか千恵",
+      "name_kana": "おかちえ",
+      "district": "中村区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [
+        "経済水道委員会 副委員長",
+        "経済水道委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "経済水道委員会〔副委員長〕",
+        "防災・エネルギー対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--okadayukiko",
+      "council_id": "nagoya-city",
+      "name": "岡田ゆき子",
+      "name_kana": "おかだゆきこ",
+      "district": "北区",
+      "faction": "共産",
+      "elected_count": null,
+      "positions": [
+        "教育子ども委員会 副委員長",
+        "教育子ども委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "教育子ども委員会〔副委員長〕",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--okamotoyasuhiro",
+      "council_id": "nagoya-city",
+      "name": "岡本やすひろ",
+      "name_kana": "おかもとやすひろ",
+      "district": "緑区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "教育子ども委員会",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--ogawatoshiyuki",
+      "council_id": "nagoya-city",
+      "name": "小川としゆき",
+      "name_kana": "おがわとしゆき",
+      "district": "守山区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "土木交通委員会",
+        "公社対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--okumurabungo",
+      "council_id": "nagoya-city",
+      "name": "おくむら文悟",
+      "name_kana": "おくむらぶんご",
+      "district": "昭和区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "経済水道委員会 副委員長",
+        "防災・エネルギー対策特別委員会 委員長",
+        "経済水道委員会〔〕 副委員長",
+        "防災・エネルギー対策特別委員会〔〕 委員長"
+      ],
+      "committees": [
+        "経済水道委員会〔副委員長〕",
+        "防災・エネルギー対策特別委員会〔委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--katoukazuto",
+      "council_id": "nagoya-city",
+      "name": "加藤一登",
+      "name_kana": "かとうかずと",
+      "district": "港区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "教育子ども委員会",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--kitazumiyoshiyuki",
+      "council_id": "nagoya-city",
+      "name": "北角嘉幸",
+      "name_kana": "きたずみよしゆき",
+      "district": "千種区",
+      "faction": "新生",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "土木交通委員会",
+        "産業・歴史文化・観光戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--kitanoyoshiharu",
+      "council_id": "nagoya-city",
+      "name": "北野よしはる",
+      "name_kana": "きたのよしはる",
+      "district": "守山区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "特別市・大都市制度・広域連携促進特別委員会 委員長",
+        "特別市・大都市制度・広域連携促進特別委員会〔〕 委員長"
+      ],
+      "committees": [
+        "財政福祉委員会",
+        "特別市・大都市制度・広域連携促進特別委員会〔委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--kinoshitamasaru",
+      "council_id": "nagoya-city",
+      "name": "木下優",
+      "name_kana": "きのしたまさる",
+      "district": "中川区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [
+        "安心・安全なまちづくり対策特別委員会 委員長",
+        "安心・安全なまちづくり対策特別委員会〔〕 委員長"
+      ],
+      "committees": [
+        "教育子ども委員会",
+        "安心・安全なまちづくり対策特別委員会〔委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--kinjiyouyutaka",
+      "council_id": "nagoya-city",
+      "name": "金城ゆたか",
+      "name_kana": "きんじょうゆたか",
+      "district": "瑞穂区",
+      "faction": "陽向",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "教育子ども委員会",
+        "安心・安全なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--kuzuyatoshie",
+      "council_id": "nagoya-city",
+      "name": "くずや利枝",
+      "name_kana": "くずやとしえ",
+      "district": "名東区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "防災・エネルギー対策特別委員会 副委員長",
+        "防災・エネルギー対策特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "経済水道委員会",
+        "防災・エネルギー対策特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--kunimasanaoki",
+      "council_id": "nagoya-city",
+      "name": "くにまさ直記",
+      "name_kana": "くにまさなおき",
+      "district": "東区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "都市消防委員会 副委員長",
+        "産業・歴史文化・観光戦略特別委員会 副委員長",
+        "都市消防委員会〔〕 副委員長",
+        "産業・歴史文化・観光戦略特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "都市消防委員会〔副委員長〕",
+        "産業・歴史文化・観光戦略特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--kunomiho",
+      "council_id": "nagoya-city",
+      "name": "久野美穂",
+      "name_kana": "くのみほ",
+      "district": "中川区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "土木交通委員会 委員長",
+        "安心・安全なまちづくり対策特別委員会 副委員長",
+        "土木交通委員会〔〕 委員長",
+        "安心・安全なまちづくり対策特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "土木交通委員会〔委員長〕",
+        "安心・安全なまちづくり対策特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--koideshiyouji",
+      "council_id": "nagoya-city",
+      "name": "小出昭司",
+      "name_kana": "こいでしょうじ",
+      "district": "中村区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "議長"
+      ],
+      "committees": [
+        "都市消防委員会",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--kondoukazuhiro",
+      "council_id": "nagoya-city",
+      "name": "近藤和博",
+      "name_kana": "こんどうかずひろ",
+      "district": "緑区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会〔理事〕",
+        "都市消防委員会",
+        "公社対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--konbanobuo",
+      "council_id": "nagoya-city",
+      "name": "金庭宜雄",
+      "name_kana": "こんばのぶお",
+      "district": "守山区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [
+        "総務環境委員会 副委員長",
+        "総務環境委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "総務環境委員会〔副委員長〕",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--sakaidaisuke",
+      "council_id": "nagoya-city",
+      "name": "さかい大輔",
+      "name_kana": "さかいだいすけ",
+      "district": "南区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務環境委員会",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--satouyuuko",
+      "council_id": "nagoya-city",
+      "name": "佐藤ゆうこ",
+      "name_kana": "さとうゆうこ",
+      "district": "東区",
+      "faction": "減税",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務環境委員会",
+        "安心・安全なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--sawadakouichi",
+      "council_id": "nagoya-city",
+      "name": "さわだ晃一",
+      "name_kana": "さわだこういち",
+      "district": "西区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "財政福祉委員会",
+        "産業・歴史文化・観光戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--sawadahitomi",
+      "council_id": "nagoya-city",
+      "name": "沢田ひとみ",
+      "name_kana": "さわだひとみ",
+      "district": "港区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "教育子ども委員会 副委員長",
+        "教育子ども委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "教育子ども委員会〔副委員長〕",
+        "防災・エネルギー対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--jinhiroshi",
+      "council_id": "nagoya-city",
+      "name": "神ひろし",
+      "name_kana": "じんひろし",
+      "district": "千種区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "総務環境委員会",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--suzukitakayuki",
+      "council_id": "nagoya-city",
+      "name": "鈴木孝之",
+      "name_kana": "すずきたかゆき",
+      "district": "天白区",
+      "faction": "減税",
+      "elected_count": null,
+      "positions": [
+        "財政福祉委員会 副委員長",
+        "財政福祉委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "財政福祉委員会〔副委員長〕",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--taguchikazuto",
+      "council_id": "nagoya-city",
+      "name": "田口一登",
+      "name_kana": "たぐちかずと",
+      "district": "天白区",
+      "faction": "共産",
+      "elected_count": null,
+      "positions": [
+        "公社対策特別委員会 副委員長",
+        "公社対策特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "財政福祉委員会",
+        "公社対策特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--tanakarika",
+      "council_id": "nagoya-city",
+      "name": "田中里佳",
+      "name_kana": "たなかりか",
+      "district": "天白区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "都市消防委員会",
+        "安心・安全なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--tanabeyuuichi",
+      "council_id": "nagoya-city",
+      "name": "田辺雄一",
+      "name_kana": "たなべゆういち",
+      "district": "千種区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "経済水道委員会",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--tayamahiroyuki",
+      "council_id": "nagoya-city",
+      "name": "田山宏之",
+      "name_kana": "たやまひろゆき",
+      "district": "北区",
+      "faction": "減税",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "財政福祉委員会",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--tsukamototsuyoshi",
+      "council_id": "nagoya-city",
+      "name": "塚本つよし",
+      "name_kana": "つかもとつよし",
+      "district": "中区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "土木交通委員会",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--tsukimoritakuya",
+      "council_id": "nagoya-city",
+      "name": "月森たくや",
+      "name_kana": "つきもりたくや",
+      "district": "中川区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [
+        "産業・歴史文化・観光戦略特別委員会 副委員長",
+        "産業・歴史文化・観光戦略特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "教育子ども委員会",
+        "産業・歴史文化・観光戦略特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--tsujimasao",
+      "council_id": "nagoya-city",
+      "name": "辻󠄀まさお",
+      "name_kana": "つじまさお",
+      "district": "天白区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [
+        "特別市・大都市制度・広域連携促進特別委員会 副委員長",
+        "特別市・大都市制度・広域連携促進特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "財政福祉委員会",
+        "特別市・大都市制度・広域連携促進特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--toyodakaoru",
+      "council_id": "nagoya-city",
+      "name": "豊田かおる",
+      "name_kana": "とよだかおる",
+      "district": "中区",
+      "faction": "減税",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会〔理事〕",
+        "都市消防委員会",
+        "公社対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--nagaiyuri",
+      "council_id": "nagoya-city",
+      "name": "永井ゆり",
+      "name_kana": "ながいゆり",
+      "district": "緑区",
+      "faction": "減税",
+      "elected_count": null,
+      "positions": [
+        "都市活力向上特別委員会 副委員長",
+        "都市活力向上特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "教育子ども委員会",
+        "都市活力向上特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--nakagawaatsushi",
+      "council_id": "nagoya-city",
+      "name": "中川あつし",
+      "name_kana": "なかがわあつし",
+      "district": "中川区",
+      "faction": "創政",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "都市消防委員会",
+        "安心・安全なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--nakazatotakayuki",
+      "council_id": "nagoya-city",
+      "name": "中里高之",
+      "name_kana": "なかざとたかゆき",
+      "district": "緑区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "土木交通委員会",
+        "安心・安全なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--nakatachizuko",
+      "council_id": "nagoya-city",
+      "name": "中田ちづこ",
+      "name_kana": "なかたちづこ",
+      "district": "中区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "経済水道委員会",
+        "産業・歴史文化・観光戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--nakamurashiyuuhei",
+      "council_id": "nagoya-city",
+      "name": "中村しゅうへい",
+      "name_kana": "なかむらしゅうへい",
+      "district": "名東区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [
+        "土木交通委員会 副委員長",
+        "土木交通委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "土木交通委員会〔副委員長〕",
+        "公社対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--naritatakayuki",
+      "council_id": "nagoya-city",
+      "name": "成田たかゆき",
+      "name_kana": "なりたたかゆき",
+      "district": "天白区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "総務環境委員会 委員長",
+        "総務環境委員会〔〕 委員長"
+      ],
+      "committees": [
+        "総務環境委員会〔委員長〕",
+        "都市活力向上特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--nishikawahisashi",
+      "council_id": "nagoya-city",
+      "name": "西川学",
+      "name_kana": "にしかわひさし",
+      "district": "昭和区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "財政福祉委員会 委員長",
+        "財政福祉委員会〔〕 委員長"
+      ],
+      "committees": [
+        "財政福祉委員会〔委員長〕",
+        "防災・エネルギー対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--niwahiroshi",
+      "council_id": "nagoya-city",
+      "name": "丹羽ひろし",
+      "name_kana": "にわひろし",
+      "district": "名東区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "都市活力向上特別委員会 委員長",
+        "都市活力向上特別委員会〔〕 委員長"
+      ],
+      "committees": [
+        "都市消防委員会",
+        "都市活力向上特別委員会〔委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--nodarumi",
+      "council_id": "nagoya-city",
+      "name": "野田留美",
+      "name_kana": "のだるみ",
+      "district": "守山区",
+      "faction": "陽向",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "経済水道委員会",
+        "産業・歴史文化・観光戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--hashimotohiroki",
+      "council_id": "nagoya-city",
+      "name": "橋本ひろき",
+      "name_kana": "はしもとひろき",
+      "district": "南区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "公社対策特別委員会 委員長",
+        "公社対策特別委員会〔〕 委員長"
+      ],
+      "committees": [
+        "総務環境委員会",
+        "公社対策特別委員会〔委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--hasegawayumiko",
+      "council_id": "nagoya-city",
+      "name": "長谷川由美子",
+      "name_kana": "はせがわゆみこ",
+      "district": "北区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "土木交通委員会",
+        "安心・安全なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--hatsutorishinnosuke",
+      "council_id": "nagoya-city",
+      "name": "服部しんのすけ",
+      "name_kana": "はっとりしんのすけ",
+      "district": "熱田区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "議会運営委員会 委員長",
+        "議会運営委員会〔〕 委員長"
+      ],
+      "committees": [
+        "議会運営委員会〔委員長〕",
+        "教育子ども委員会",
+        "防災・エネルギー対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--hatsutorimasaya",
+      "council_id": "nagoya-city",
+      "name": "服部将也",
+      "name_kana": "はっとりまさや",
+      "district": "北区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "財政福祉委員会",
+        "防災・エネルギー対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--hisadakunihiro",
+      "council_id": "nagoya-city",
+      "name": "久田邦博",
+      "name_kana": "ひさだくにひろ",
+      "district": "瑞穂区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "総務環境委員会 副委員長",
+        "総務環境委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "総務環境委員会〔副委員長〕",
+        "安心・安全なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--hibimisaki",
+      "council_id": "nagoya-city",
+      "name": "日比美咲",
+      "name_kana": "ひびみさき",
+      "district": "名東区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "教育子ども委員会 委員長",
+        "特別市・大都市制度・広域連携促進特別委員会 副委員長",
+        "教育子ども委員会〔〕 委員長",
+        "特別市・大都市制度・広域連携促進特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "教育子ども委員会〔委員長〕",
+        "特別市・大都市制度・広域連携促進特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--fujisawachiaki",
+      "council_id": "nagoya-city",
+      "name": "藤沢ちあき",
+      "name_kana": "ふじさわちあき",
+      "district": "南区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "土木交通委員会 副委員長",
+        "安心・安全なまちづくり対策特別委員会 副委員長",
+        "土木交通委員会〔〕 副委員長",
+        "安心・安全なまちづくり対策特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "土木交通委員会〔副委員長〕",
+        "安心・安全なまちづくり対策特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--fujitakazuhide",
+      "council_id": "nagoya-city",
+      "name": "ふじた和秀",
+      "name_kana": "ふじたかずひで",
+      "district": "瑞穂区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "経済水道委員会",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--matsuiyoshinori",
+      "council_id": "nagoya-city",
+      "name": "松井よしのり",
+      "name_kana": "まついよしのり",
+      "district": "守山区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "土木交通委員会",
+        "産業・歴史文化・観光戦略特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--mitsunakamiyuki",
+      "council_id": "nagoya-city",
+      "name": "みつなか美由紀",
+      "name_kana": "みつなかみゆき",
+      "district": "緑区",
+      "faction": "共産",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務環境委員会",
+        "防災・エネルギー対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--murasekiyomi",
+      "council_id": "nagoya-city",
+      "name": "村瀬きよみ",
+      "name_kana": "むらせきよみ",
+      "district": "中村区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "都市消防委員会",
+        "公社対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--moritomoo",
+      "council_id": "nagoya-city",
+      "name": "森ともお",
+      "name_kana": "もりともお",
+      "district": "熱田区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "議長",
+        "副議長"
+      ],
+      "committees": [
+        "総務環境委員会",
+        "公社対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--yamadamasahiro",
+      "council_id": "nagoya-city",
+      "name": "山田昌弘",
+      "name_kana": "やまだまさひろ",
+      "district": "千種区",
+      "faction": "民主",
+      "elected_count": null,
+      "positions": [
+        "議会運営委員会 副委員長",
+        "議会運営委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "議会運営委員会〔副委員長〕",
+        "都市消防委員会",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--yokoitoshiaki",
+      "council_id": "nagoya-city",
+      "name": "横井利明",
+      "name_kana": "よこいとしあき",
+      "district": "南区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "財政福祉委員会",
+        "特別市・大都市制度・広域連携促進特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--yoshiokamasanobu",
+      "council_id": "nagoya-city",
+      "name": "吉岡正修",
+      "name_kana": "よしおかまさのぶ",
+      "district": "港区",
+      "faction": "公明",
+      "elected_count": null,
+      "positions": [
+        "都市消防委員会 委員長",
+        "都市消防委員会〔〕 委員長"
+      ],
+      "committees": [
+        "議会運営委員会",
+        "都市消防委員会〔委員長〕",
+        "防災・エネルギー対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--yoshidashigeru",
+      "council_id": "nagoya-city",
+      "name": "吉田茂",
+      "name_kana": "よしだしげる",
+      "district": "港区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営委員会",
+        "教育子ども委員会",
+        "安心・安全なまちづくり対策特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "nagoya-city--watanabeyasunori",
+      "council_id": "nagoya-city",
+      "name": "渡辺やすのり",
+      "name_kana": "わたなべやすのり",
+      "district": "北区",
+      "faction": "自民",
+      "elected_count": null,
+      "positions": [
+        "公社対策特別委員会 副委員長",
+        "公社対策特別委員会〔〕 副委員長"
+      ],
+      "committees": [
+        "財政福祉委員会",
+        "公社対策特別委員会〔副委員長〕"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    }
+  ],
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-17",
+  "teisu": 68,
+  "genin": 68,
+  "ketsuin": 0,
+  "checks": {
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.city.nagoya.jp/shikai/about/1030778/1030800.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-17",
+    "teisu": 68,
+    "genin": 68,
+    "ketsuin": 0,
+    "parsed_members": 68,
+    "vacancy_details": [],
+    "notes": [
+      "公式CMSの名簿ビューから氏名・ふりがな・会派・行政区・当選回数・委員会・役職のみを許可リスト抽出",
+      "許可外項目は保存しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-17T21:18:49+00:00"
+}

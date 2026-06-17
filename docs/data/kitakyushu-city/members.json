@@ -1,0 +1,894 @@
+{
+  "council_id": "kitakyushu-city",
+  "source_url": "https://www.city.kitakyushu.lg.jp/sigikai/menu11_0002.html",
+  "source_name": "北九州市議会",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "kitakyushu-city--member-457c8465",
+      "council_id": "kitakyushu-city",
+      "name": "菊地公平",
+      "name_kana": null,
+      "district": "門司区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0049.html"
+    },
+    {
+      "id": "kitakyushu-city--member-b5e7351f",
+      "council_id": "kitakyushu-city",
+      "name": "日野雄二",
+      "name_kana": null,
+      "district": "門司区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0049.html"
+    },
+    {
+      "id": "kitakyushu-city--member-a73230e6",
+      "council_id": "kitakyushu-city",
+      "name": "廣田信也",
+      "name_kana": null,
+      "district": "門司区",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0049.html"
+    },
+    {
+      "id": "kitakyushu-city--member-7346bd9c",
+      "council_id": "kitakyushu-city",
+      "name": "小宮けい子",
+      "name_kana": null,
+      "district": "門司区",
+      "faction": "市民とともに北九州",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0049.html"
+    },
+    {
+      "id": "kitakyushu-city--member-e3c49212",
+      "council_id": "kitakyushu-city",
+      "name": "高橋都",
+      "name_kana": null,
+      "district": "門司区",
+      "faction": "日本共産党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0049.html"
+    },
+    {
+      "id": "kitakyushu-city--member-80b09507",
+      "council_id": "kitakyushu-city",
+      "name": "奥村直樹",
+      "name_kana": null,
+      "district": "門司区",
+      "faction": "北九州会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0049.html"
+    },
+    {
+      "id": "kitakyushu-city--member-8bd1d78a",
+      "council_id": "kitakyushu-city",
+      "name": "佐藤栄作",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-238d0244",
+      "council_id": "kitakyushu-city",
+      "name": "中村義雄",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-35b1813a",
+      "council_id": "kitakyushu-city",
+      "name": "吉田幸正",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-48853ae8",
+      "council_id": "kitakyushu-city",
+      "name": "冨士川厚子",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-b56f7075",
+      "council_id": "kitakyushu-city",
+      "name": "松岡裕一郎",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-612708f9",
+      "council_id": "kitakyushu-city",
+      "name": "木畑広宣",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-736c4868",
+      "council_id": "kitakyushu-city",
+      "name": "中村じゅん子",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "市民とともに北九州",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-ec18c1c2",
+      "council_id": "kitakyushu-city",
+      "name": "山田大輔",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "市民とともに北九州",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-182ffac4",
+      "council_id": "kitakyushu-city",
+      "name": "宇都宮亮",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "市民とともに北九州",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-32a04212",
+      "council_id": "kitakyushu-city",
+      "name": "大石正信",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "日本共産党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-1fd37e93",
+      "council_id": "kitakyushu-city",
+      "name": "伊﨑大義",
+      "name_kana": null,
+      "district": "小倉北区",
+      "faction": "北九州会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0050.html"
+    },
+    {
+      "id": "kitakyushu-city--member-867cbdd1",
+      "council_id": "kitakyushu-city",
+      "name": "吉村太志",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-116b8253",
+      "council_id": "kitakyushu-city",
+      "name": "片山尹",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 11,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-ea8e2b1b",
+      "council_id": "kitakyushu-city",
+      "name": "西田一",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-13290b33",
+      "council_id": "kitakyushu-city",
+      "name": "金子秀一",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-24beebca",
+      "council_id": "kitakyushu-city",
+      "name": "たかの久仁子",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-da9f564e",
+      "council_id": "kitakyushu-city",
+      "name": "渡辺修一",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-3c84d984",
+      "council_id": "kitakyushu-city",
+      "name": "森本由美",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "市民とともに北九州",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-ed3c110b",
+      "council_id": "kitakyushu-city",
+      "name": "森結実子",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "市民とともに北九州",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-574982a6",
+      "council_id": "kitakyushu-city",
+      "name": "泉日出夫",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "市民とともに北九州",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-20c0cc5f",
+      "council_id": "kitakyushu-city",
+      "name": "宇土浩一郎",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "日本共産党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-5ee7cc45",
+      "council_id": "kitakyushu-city",
+      "name": "柳井誠",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "緑の風",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-ca33c4d1",
+      "council_id": "kitakyushu-city",
+      "name": "有田絵里",
+      "name_kana": null,
+      "district": "小倉南区",
+      "faction": "日本維新の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0051.html"
+    },
+    {
+      "id": "kitakyushu-city--member-76c579c3",
+      "council_id": "kitakyushu-city",
+      "name": "上野照弘",
+      "name_kana": null,
+      "district": "若松区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0052.html"
+    },
+    {
+      "id": "kitakyushu-city--member-c7d74f28",
+      "council_id": "kitakyushu-city",
+      "name": "小松みさ子",
+      "name_kana": null,
+      "district": "若松区",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0052.html"
+    },
+    {
+      "id": "kitakyushu-city--member-60a0a8a2",
+      "council_id": "kitakyushu-city",
+      "name": "三宅まゆみ",
+      "name_kana": null,
+      "district": "若松区",
+      "faction": "市民とともに北九州",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0052.html"
+    },
+    {
+      "id": "kitakyushu-city--member-e4499c3b",
+      "council_id": "kitakyushu-city",
+      "name": "山内涼成",
+      "name_kana": null,
+      "district": "若松区",
+      "faction": "日本共産党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0052.html"
+    },
+    {
+      "id": "kitakyushu-city--member-3e39879a",
+      "council_id": "kitakyushu-city",
+      "name": "本田一郎",
+      "name_kana": null,
+      "district": "若松区",
+      "faction": "北九州会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0052.html"
+    },
+    {
+      "id": "kitakyushu-city--member-00c96e4a",
+      "council_id": "kitakyushu-city",
+      "name": "戸町武弘",
+      "name_kana": null,
+      "district": "八幡東区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0053.html"
+    },
+    {
+      "id": "kitakyushu-city--member-afa212a8",
+      "council_id": "kitakyushu-city",
+      "name": "成重正丈",
+      "name_kana": null,
+      "district": "八幡東区",
+      "faction": "公明党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0053.html"
+    },
+    {
+      "id": "kitakyushu-city--member-279a5a47",
+      "council_id": "kitakyushu-city",
+      "name": "小金丸かずよし",
+      "name_kana": null,
+      "district": "八幡東区",
+      "faction": "北九州会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0053.html"
+    },
+    {
+      "id": "kitakyushu-city--member-98b85fc7",
+      "council_id": "kitakyushu-city",
+      "name": "井上しんご",
+      "name_kana": null,
+      "district": "八幡東区",
+      "faction": "緑の風",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0053.html"
+    },
+    {
+      "id": "kitakyushu-city--member-dd5f8b6a",
+      "council_id": "kitakyushu-city",
+      "name": "田仲常郎",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-226711e2",
+      "council_id": "kitakyushu-city",
+      "name": "宮﨑吉輝",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-4aa19ffa",
+      "council_id": "kitakyushu-city",
+      "name": "鷹木研一郎",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-fde80745",
+      "council_id": "kitakyushu-city",
+      "name": "香月耕治",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-fa32ccb4",
+      "council_id": "kitakyushu-city",
+      "name": "村上幸一",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-c02dbc76",
+      "council_id": "kitakyushu-city",
+      "name": "立山幸子",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-c432de91",
+      "council_id": "kitakyushu-city",
+      "name": "中島隆治",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-62e359ab",
+      "council_id": "kitakyushu-city",
+      "name": "村上直樹",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-fedcd873",
+      "council_id": "kitakyushu-city",
+      "name": "大久保無我",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "市民とともに北九州",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-24f567b2",
+      "council_id": "kitakyushu-city",
+      "name": "山﨑英樹",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "市民とともに北九州",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-ab82cea1",
+      "council_id": "kitakyushu-city",
+      "name": "永井佑",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "日本共産党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務財政委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-c33a47ed",
+      "council_id": "kitakyushu-city",
+      "name": "伊藤淳一",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "日本共産党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-21de28c9",
+      "council_id": "kitakyushu-city",
+      "name": "村上さとこ",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "緑の風",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-14fb6bee",
+      "council_id": "kitakyushu-city",
+      "name": "松尾和也",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "日本維新の会",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "経済港湾委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-d22c9d47",
+      "council_id": "kitakyushu-city",
+      "name": "井上純子",
+      "name_kana": null,
+      "district": "八幡西区",
+      "faction": "変革と成長",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "都市戦略整備委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0054.html"
+    },
+    {
+      "id": "kitakyushu-city--member-07ea072a",
+      "council_id": "kitakyushu-city",
+      "name": "田中元",
+      "name_kana": null,
+      "district": "戸畑区",
+      "faction": "自民党・無所属の会",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0055.html"
+    },
+    {
+      "id": "kitakyushu-city--member-61d17685",
+      "council_id": "kitakyushu-city",
+      "name": "岡本義之",
+      "name_kana": null,
+      "district": "戸畑区",
+      "faction": "公明党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "都市ブランド教育委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0055.html"
+    },
+    {
+      "id": "kitakyushu-city--member-68a14657",
+      "council_id": "kitakyushu-city",
+      "name": "荒川徹",
+      "name_kana": null,
+      "district": "戸畑区",
+      "faction": "日本共産党",
+      "elected_count": 10,
+      "positions": [],
+      "committees": [
+        "環境水道防災委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0055.html"
+    },
+    {
+      "id": "kitakyushu-city--member-586e0084",
+      "council_id": "kitakyushu-city",
+      "name": "小宮良彦",
+      "name_kana": null,
+      "district": "戸畑区",
+      "faction": "北九州会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "保健福祉子ども委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kitakyushu.lg.jp/sigikai/file_0055.html"
+    }
+  ],
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-17",
+  "teisu": 57,
+  "genin": 57,
+  "ketsuin": 0,
+  "checks": {
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.city.kitakyushu.lg.jp/sigikai/menu11_0002.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-17",
+    "teisu": 57,
+    "genin": 57,
+    "ketsuin": 0,
+    "parsed_members": 57,
+    "vacancy_details": [],
+    "notes": [
+      "公式CMSの名簿ビューから氏名・ふりがな・会派・行政区・当選回数・委員会・役職のみを許可リスト抽出",
+      "許可外項目は保存しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-17T21:26:38+00:00"
+}

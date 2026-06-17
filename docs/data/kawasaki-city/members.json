@@ -1,0 +1,955 @@
+{
+  "council_id": "kawasaki-city",
+  "source_url": "https://www.city.kawasaki.jp/shisei/category/40-3-4-0-0-0-0-0-0-0.html",
+  "source_name": "川崎市議会",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "kawasaki-city--nodamasayuki",
+      "council_id": "kawasaki-city",
+      "name": "野田雅之",
+      "name_kana": "のだまさゆき",
+      "district": "幸区",
+      "faction": "自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000066856.html"
+    },
+    {
+      "id": "kawasaki-city--katoutakaaki",
+      "council_id": "kawasaki-city",
+      "name": "加藤孝明",
+      "name_kana": "かとうたかあき",
+      "district": "幸区",
+      "faction": "自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会(副委員長)",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000134113.html"
+    },
+    {
+      "id": "kawasaki-city--honmakenjirou",
+      "council_id": "kawasaki-city",
+      "name": "本間賢次郎",
+      "name_kana": "ほんまけんじろう",
+      "district": "川崎区",
+      "faction": "自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境委員会",
+        "議会運営委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000092045.html"
+    },
+    {
+      "id": "kawasaki-city--yazawatakao",
+      "council_id": "kawasaki-city",
+      "name": "矢沢孝雄",
+      "name_kana": "やざわたかお",
+      "district": "宮前区",
+      "faction": "自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022302.html"
+    },
+    {
+      "id": "kawasaki-city--aokinorio",
+      "council_id": "kawasaki-city",
+      "name": "青木功雄",
+      "name_kana": "あおきのりお",
+      "district": "高津区",
+      "faction": "自民党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022048.html"
+    },
+    {
+      "id": "kawasaki-city--asanofuminao",
+      "council_id": "kawasaki-city",
+      "name": "浅野文直",
+      "name_kana": "あさのふみなお",
+      "district": "宮前区",
+      "faction": "自民党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "臨海部大規模土地利用転換調査特別委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022223.html"
+    },
+    {
+      "id": "kawasaki-city--ishidayasuhiro",
+      "council_id": "kawasaki-city",
+      "name": "石田康博",
+      "name_kana": "いしだやすひろ",
+      "district": "宮前区",
+      "faction": "自民党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "総務委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022219.html"
+    },
+    {
+      "id": "kawasaki-city--ooshimaakira",
+      "council_id": "kawasaki-city",
+      "name": "大島明",
+      "name_kana": "おおしまあきら",
+      "district": "高津区",
+      "faction": "自民党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022227.html"
+    },
+    {
+      "id": "kawasaki-city--kagamimasahiko",
+      "council_id": "kawasaki-city",
+      "name": "各務雅彦",
+      "name_kana": "かがみまさひこ",
+      "district": "多摩区",
+      "faction": "自民党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000106597.html"
+    },
+    {
+      "id": "kawasaki-city--shimazakiyoshio",
+      "council_id": "kawasaki-city",
+      "name": "嶋崎嘉夫",
+      "name_kana": "しまざきよしお",
+      "district": "川崎区",
+      "faction": "自民党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022296.html"
+    },
+    {
+      "id": "kawasaki-city--suenaganao",
+      "council_id": "kawasaki-city",
+      "name": "末永直",
+      "name_kana": "すえながなお",
+      "district": "中原区",
+      "faction": "自民党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "環境委員会",
+        "議会運営委員会(委員長)",
+        "大都市制度・税財政調査特別委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000066854.html"
+    },
+    {
+      "id": "kawasaki-city--sugayahidehiko",
+      "council_id": "kawasaki-city",
+      "name": "菅谷英彦",
+      "name_kana": "すがやひでひこ",
+      "district": "川崎区",
+      "faction": "自民党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会(副委員長)",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000181586.html"
+    },
+    {
+      "id": "kawasaki-city--hashimotomasaru",
+      "council_id": "kawasaki-city",
+      "name": "橋本勝",
+      "name_kana": "はしもとまさる",
+      "district": "多摩区",
+      "faction": "自民党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022056.html"
+    },
+    {
+      "id": "kawasaki-city--haranoriyuki",
+      "council_id": "kawasaki-city",
+      "name": "原典之",
+      "name_kana": "はらのりゆき",
+      "district": "中原区",
+      "faction": "自民党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022043.html"
+    },
+    {
+      "id": "kawasaki-city--matsubarashigefumi",
+      "council_id": "kawasaki-city",
+      "name": "松原成文",
+      "name_kana": "まつばらしげふみ",
+      "district": "中原区",
+      "faction": "自民党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022130.html"
+    },
+    {
+      "id": "kawasaki-city--yamazakinaofumi",
+      "council_id": "kawasaki-city",
+      "name": "山崎直史",
+      "name_kana": "やまざきなおふみ",
+      "district": "麻生区",
+      "faction": "自民党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022141.html"
+    },
+    {
+      "id": "kawasaki-city--kobarikako",
+      "council_id": "kawasaki-city",
+      "name": "木庭理香子",
+      "name_kana": "こばりかこ",
+      "district": "麻生区",
+      "faction": "みらい",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022078.html"
+    },
+    {
+      "id": "kawasaki-city--oshimotoyoshiji",
+      "council_id": "kawasaki-city",
+      "name": "押本吉司",
+      "name_kana": "おしもとよしじ",
+      "district": "中原区",
+      "faction": "みらい",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "議会運営委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022014.html"
+    },
+    {
+      "id": "kawasaki-city--hayashitoshio",
+      "council_id": "kawasaki-city",
+      "name": "林敏夫",
+      "name_kana": "はやしとしお",
+      "district": "川崎区",
+      "faction": "みらい",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会",
+        "議会運営委員会",
+        "大都市制度・税財政調査特別委員会(副委員長)",
+        "臨海部大規模土地利用転換調査特別委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000066858.html"
+    },
+    {
+      "id": "kawasaki-city--suzukitomoko",
+      "council_id": "kawasaki-city",
+      "name": "鈴木朋子",
+      "name_kana": "すずきともこ",
+      "district": "麻生区",
+      "faction": "みらい",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000106600.html"
+    },
+    {
+      "id": "kawasaki-city--amagasayuuji",
+      "council_id": "kawasaki-city",
+      "name": "雨笠裕治",
+      "name_kana": "あまがさゆうじ",
+      "district": "麻生区",
+      "faction": "みらい",
+      "elected_count": 10,
+      "positions": [],
+      "committees": [
+        "総務委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022271.html"
+    },
+    {
+      "id": "kawasaki-city--idokiyotaka",
+      "council_id": "kawasaki-city",
+      "name": "井土清貴",
+      "name_kana": "いどきよたか",
+      "district": "中原区",
+      "faction": "みらい",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境委員会(副委員長)",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150431.html"
+    },
+    {
+      "id": "kawasaki-city--iwakumachihiro",
+      "council_id": "kawasaki-city",
+      "name": "岩隈千尋",
+      "name_kana": "いわくまちひろ",
+      "district": "高津区",
+      "faction": "みらい",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022164.html"
+    },
+    {
+      "id": "kawasaki-city--odakatsuhisa",
+      "council_id": "kawasaki-city",
+      "name": "織田勝久",
+      "name_kana": "おだかつひさ",
+      "district": "宮前区",
+      "faction": "みらい",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022174.html"
+    },
+    {
+      "id": "kawasaki-city--shimariyouta",
+      "council_id": "kawasaki-city",
+      "name": "嶋凌汰",
+      "name_kana": "しまりょうた",
+      "district": "幸区",
+      "faction": "みらい",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150433.html"
+    },
+    {
+      "id": "kawasaki-city--shimadakazuaki",
+      "council_id": "kawasaki-city",
+      "name": "嶋田和明",
+      "name_kana": "しまだかずあき",
+      "district": "多摩区",
+      "faction": "みらい",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150425.html"
+    },
+    {
+      "id": "kawasaki-city--takahashimisato",
+      "council_id": "kawasaki-city",
+      "name": "高橋美里",
+      "name_kana": "たかはしみさと",
+      "district": "中原区",
+      "faction": "みらい",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150429.html"
+    },
+    {
+      "id": "kawasaki-city--takurashiyunsuke",
+      "council_id": "kawasaki-city",
+      "name": "田倉俊輔",
+      "name_kana": "たくらしゅんすけ",
+      "district": "多摩区",
+      "faction": "みらい",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150430.html"
+    },
+    {
+      "id": "kawasaki-city--hasegawatomokazu",
+      "council_id": "kawasaki-city",
+      "name": "長谷川智一",
+      "name_kana": "はせがわともかず",
+      "district": "川崎区",
+      "faction": "みらい",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150426.html"
+    },
+    {
+      "id": "kawasaki-city--horizoeken",
+      "council_id": "kawasaki-city",
+      "name": "堀添健",
+      "name_kana": "ほりぞえけん",
+      "district": "高津区",
+      "faction": "みらい",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000066860.html"
+    },
+    {
+      "id": "kawasaki-city--tamurashinichirou",
+      "council_id": "kawasaki-city",
+      "name": "田村伸一郎",
+      "name_kana": "たむらしんいちろう",
+      "district": "宮前区",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022037.html"
+    },
+    {
+      "id": "kawasaki-city--kounoyukari",
+      "council_id": "kawasaki-city",
+      "name": "河野ゆかり",
+      "name_kana": "こうのゆかり",
+      "district": "多摩区",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022108.html"
+    },
+    {
+      "id": "kawasaki-city--kawashimamasahiro",
+      "council_id": "kawasaki-city",
+      "name": "川島雅裕",
+      "name_kana": "かわしままさひろ",
+      "district": "中原区",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "環境委員会",
+        "議会運営委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022034.html"
+    },
+    {
+      "id": "kawasaki-city--uratadaisuke",
+      "council_id": "kawasaki-city",
+      "name": "浦田大輔",
+      "name_kana": "うらただいすけ",
+      "district": "川崎区",
+      "faction": "公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000106593.html"
+    },
+    {
+      "id": "kawasaki-city--edagawamai",
+      "council_id": "kawasaki-city",
+      "name": "枝川舞",
+      "name_kana": "えだがわまい",
+      "district": "幸区",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150435.html"
+    },
+    {
+      "id": "kawasaki-city--kawanotadamasa",
+      "council_id": "kawasaki-city",
+      "name": "かわの忠正",
+      "name_kana": "かわのただまさ",
+      "district": "幸区",
+      "faction": "公明党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000106664.html"
+    },
+    {
+      "id": "kawasaki-city--kudoureiko",
+      "council_id": "kawasaki-city",
+      "name": "工藤礼子",
+      "name_kana": "くどうれいこ",
+      "district": "宮前区",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150434.html"
+    },
+    {
+      "id": "kawasaki-city--hamadamasatoshi",
+      "council_id": "kawasaki-city",
+      "name": "浜田昌利",
+      "name_kana": "はまだまさとし",
+      "district": "川崎区",
+      "faction": "公明党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022112.html"
+    },
+    {
+      "id": "kawasaki-city--harutakaaki",
+      "council_id": "kawasaki-city",
+      "name": "春孝明",
+      "name_kana": "はるたかあき",
+      "district": "高津区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000066859.html"
+    },
+    {
+      "id": "kawasaki-city--hirayamakouji",
+      "council_id": "kawasaki-city",
+      "name": "平山浩二",
+      "name_kana": "ひらやまこうじ",
+      "district": "高津区",
+      "faction": "公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "環境委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000106605.html"
+    },
+    {
+      "id": "kawasaki-city--yanagisawayuu",
+      "council_id": "kawasaki-city",
+      "name": "柳沢優",
+      "name_kana": "やなぎさわゆう",
+      "district": "麻生区",
+      "faction": "公明党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150436.html"
+    },
+    {
+      "id": "kawasaki-city--munetahiroyuki",
+      "council_id": "kawasaki-city",
+      "name": "宗田裕之",
+      "name_kana": "むねたひろゆき",
+      "district": "高津区",
+      "faction": "共産党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000066862.html"
+    },
+    {
+      "id": "kawasaki-city--iguchimami",
+      "council_id": "kawasaki-city",
+      "name": "井口真美",
+      "name_kana": "いぐちまみ",
+      "district": "多摩区",
+      "faction": "共産党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022145.html"
+    },
+    {
+      "id": "kawasaki-city--ichikojirou",
+      "council_id": "kawasaki-city",
+      "name": "市古次郎",
+      "name_kana": "いちこじろう",
+      "district": "中原区",
+      "faction": "共産党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会",
+        "議会運営委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022243.html"
+    },
+    {
+      "id": "kawasaki-city--ishikawakenji",
+      "council_id": "kawasaki-city",
+      "name": "石川建二",
+      "name_kana": "いしかわけんじ",
+      "district": "宮前区",
+      "faction": "共産党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "総務委員会(副委員長)",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022154.html"
+    },
+    {
+      "id": "kawasaki-city--gotoumasami",
+      "council_id": "kawasaki-city",
+      "name": "後藤真左美",
+      "name_kana": "ごとうまさみ",
+      "district": "川崎区",
+      "faction": "共産党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000106598.html"
+    },
+    {
+      "id": "kawasaki-city--koborishiyouko",
+      "council_id": "kawasaki-city",
+      "name": "小堀祥子",
+      "name_kana": "こぼりしょうこ",
+      "district": "高津区",
+      "faction": "共産党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000106599.html"
+    },
+    {
+      "id": "kawasaki-city--saitounodoka",
+      "council_id": "kawasaki-city",
+      "name": "齋藤温",
+      "name_kana": "さいとうのどか",
+      "district": "麻生区",
+      "faction": "共産党",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150437.html"
+    },
+    {
+      "id": "kawasaki-city--watanabemanabu",
+      "council_id": "kawasaki-city",
+      "name": "渡辺学",
+      "name_kana": "わたなべまなぶ",
+      "district": "幸区",
+      "faction": "共産党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000066864.html"
+    },
+    {
+      "id": "kawasaki-city--shigetomitatsuya",
+      "council_id": "kawasaki-city",
+      "name": "重冨達也",
+      "name_kana": "しげとみたつや",
+      "district": "中原区/川崎",
+      "faction": "維新",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会",
+        "臨海部大規模土地利用転換調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000066853.html"
+    },
+    {
+      "id": "kawasaki-city--niheikatsue",
+      "council_id": "kawasaki-city",
+      "name": "仁平克枝",
+      "name_kana": "にへいかつえ",
+      "district": "川崎区/川崎",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150577.html"
+    },
+    {
+      "id": "kawasaki-city--takadotomoko",
+      "council_id": "kawasaki-city",
+      "name": "高戸友子",
+      "name_kana": "たかどともこ",
+      "district": "宮前区/川崎",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "大都市制度・税財政調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150581.html"
+    },
+    {
+      "id": "kawasaki-city--iwatahidetaka",
+      "council_id": "kawasaki-city",
+      "name": "岩田英高",
+      "name_kana": "いわたひでたか",
+      "district": "高津区/川崎",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境委員会(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150579.html"
+    },
+    {
+      "id": "kawasaki-city--nasunoayaka",
+      "council_id": "kawasaki-city",
+      "name": "那須野純花",
+      "name_kana": "なすのあやか",
+      "district": "幸区/川崎",
+      "faction": "維新",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "健康福祉委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150583.html"
+    },
+    {
+      "id": "kawasaki-city--iidamitsuru",
+      "council_id": "kawasaki-city",
+      "name": "飯田満",
+      "name_kana": "いいだみつる",
+      "district": "宮前区",
+      "faction": "無所属",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150576.html"
+    },
+    {
+      "id": "kawasaki-city--tsukimototakuya",
+      "council_id": "kawasaki-city",
+      "name": "月本琢也",
+      "name_kana": "つきもとたくや",
+      "district": "麻生区",
+      "faction": "無所属",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022074.html"
+    },
+    {
+      "id": "kawasaki-city--miuraemi",
+      "council_id": "kawasaki-city",
+      "name": "三浦恵美",
+      "name_kana": "みうらえみ",
+      "district": "中原区",
+      "faction": "無所属",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000150580.html"
+    },
+    {
+      "id": "kawasaki-city--miyakeriyuusuke",
+      "council_id": "kawasaki-city",
+      "name": "三宅隆介",
+      "name_kana": "みやけりゅうすけ",
+      "district": "多摩区",
+      "faction": "無所属",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "まちづくり委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000022023.html"
+    },
+    {
+      "id": "kawasaki-city--yoshizawaakiko",
+      "council_id": "kawasaki-city",
+      "name": "吉沢章子",
+      "name_kana": "よしざわあきこ",
+      "district": "多摩区",
+      "faction": "無所属",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "環境委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.kawasaki.jp/980/page/0000106608.html"
+    }
+  ],
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-17",
+  "teisu": 59,
+  "genin": 59,
+  "ketsuin": 0,
+  "checks": {
+    "anchor_type": "official_roster_count",
+    "anchor_source_url": "https://www.city.kawasaki.jp/shisei/category/40-3-4-0-0-0-0-0-0-0.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-17",
+    "teisu": 59,
+    "genin": 59,
+    "ketsuin": 0,
+    "parsed_members": 59,
+    "vacancy_details": [],
+    "notes": [
+      "公式CMSの名簿ビューから氏名・ふりがな・会派・行政区・当選回数・委員会・役職のみを許可リスト抽出",
+      "許可外項目は保存しない",
+      "写真は取得せず、photo_urlは全員null",
+      "公式ページ内に定数・欠員表示がないため、掲載現員59人を件数検算アンカーとして使用"
+    ]
+  },
+  "updated_at": "2026-06-17T21:32:56+00:00"
+}

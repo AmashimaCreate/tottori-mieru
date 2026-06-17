@@ -1,0 +1,347 @@
+{
+  "council_id": "nagoya-city",
+  "updated_at": "2026-06-17T21:44:07+00:00",
+  "source": {
+    "provider": "e-Stat 社会・人口統計体系（SSDS）",
+    "api": "getStatsData",
+    "retrieved_at": "2026-06-17T21:44:07+00:00",
+    "area_code": "23100",
+    "statsDataIds": {
+      "population_total": "0000020101",
+      "aging_rate": "0000020101",
+      "births": "0000020101",
+      "social_change": "0000020101",
+      "expenditure_total": "0000020104",
+      "fiscal_index": "0000020104"
+    },
+    "note": "SSDSは確定統計のため最新年が1〜3年遅れる。profileの最新公表値とは出典・年次が異なる。"
+  },
+  "indicators": {
+    "population_total": {
+      "label": "住民基本台帳人口（総数）",
+      "unit": "persons",
+      "ssds_item": "A2301",
+      "year_start": 2014,
+      "year_end": 2023,
+      "values": [
+        {
+          "year": 2014,
+          "value": 2260440
+        },
+        {
+          "year": 2015,
+          "value": 2269444
+        },
+        {
+          "year": 2016,
+          "value": 2279194
+        },
+        {
+          "year": 2017,
+          "value": 2288240
+        },
+        {
+          "year": 2018,
+          "value": 2294362
+        },
+        {
+          "year": 2019,
+          "value": 2301639
+        },
+        {
+          "year": 2020,
+          "value": 2300949
+        },
+        {
+          "year": 2021,
+          "value": 2293437
+        },
+        {
+          "year": 2022,
+          "value": 2294854
+        },
+        {
+          "year": 2023,
+          "value": 2297745
+        }
+      ],
+      "first": {
+        "year": 2014,
+        "value": 2260440
+      },
+      "latest": {
+        "year": 2023,
+        "value": 2297745
+      },
+      "delta": 37305,
+      "delta_pct": 1.65
+    },
+    "aging_rate": {
+      "label": "高齢化率",
+      "unit": "percent",
+      "ssds_item": "A1301/A1302/A1303",
+      "year_start": 2015,
+      "year_end": 2020,
+      "values": [
+        {
+          "year": 2015,
+          "value": 24.2,
+          "population_total": 2257502,
+          "young_population": 282497,
+          "working_age_population": 1429795,
+          "elderly_population": 545210
+        },
+        {
+          "year": 2020,
+          "value": 25.4,
+          "population_total": 2229986,
+          "young_population": 275484,
+          "working_age_population": 1388348,
+          "elderly_population": 566154
+        }
+      ],
+      "first": {
+        "year": 2015,
+        "value": 24.2
+      },
+      "latest": {
+        "year": 2020,
+        "value": 25.4
+      },
+      "delta": 1.1999999999999993,
+      "delta_pct": 4.96
+    },
+    "births": {
+      "label": "出生数",
+      "unit": "persons",
+      "ssds_item": "A4101",
+      "year_start": 2013,
+      "year_end": 2022,
+      "values": [
+        {
+          "year": 2013,
+          "value": 19492
+        },
+        {
+          "year": 2014,
+          "value": 19316
+        },
+        {
+          "year": 2015,
+          "value": 19606
+        },
+        {
+          "year": 2016,
+          "value": 19545
+        },
+        {
+          "year": 2017,
+          "value": 19120
+        },
+        {
+          "year": 2018,
+          "value": 18904
+        },
+        {
+          "year": 2019,
+          "value": 17740
+        },
+        {
+          "year": 2020,
+          "value": 17538
+        },
+        {
+          "year": 2021,
+          "value": 17121
+        },
+        {
+          "year": 2022,
+          "value": 16325
+        }
+      ],
+      "first": {
+        "year": 2013,
+        "value": 19492
+      },
+      "latest": {
+        "year": 2022,
+        "value": 16325
+      },
+      "delta": -3167,
+      "delta_pct": -16.25
+    },
+    "social_change": {
+      "label": "社会増減",
+      "unit": "persons",
+      "ssds_item": "A5103/A5104",
+      "year_start": 2018,
+      "year_end": 2023,
+      "values": [
+        {
+          "year": 2018,
+          "value": 1868,
+          "in_migration": 143993,
+          "out_migration": 142125
+        },
+        {
+          "year": 2019,
+          "value": 3415,
+          "in_migration": 148836,
+          "out_migration": 145421
+        },
+        {
+          "year": 2020,
+          "value": 3075,
+          "in_migration": 146502,
+          "out_migration": 143427
+        },
+        {
+          "year": 2021,
+          "value": 1302,
+          "in_migration": 143981,
+          "out_migration": 142679
+        },
+        {
+          "year": 2022,
+          "value": -551,
+          "in_migration": 144591,
+          "out_migration": 145142
+        },
+        {
+          "year": 2023,
+          "value": 1212,
+          "in_migration": 146317,
+          "out_migration": 145105
+        }
+      ],
+      "first": {
+        "year": 2018,
+        "value": 1868
+      },
+      "latest": {
+        "year": 2023,
+        "value": 1212
+      },
+      "delta": -656,
+      "delta_pct": -35.12
+    },
+    "expenditure_total": {
+      "label": "歳出決算総額",
+      "unit": "yen",
+      "ssds_item": "D3203",
+      "year_start": 2012,
+      "year_end": 2021,
+      "values": [
+        {
+          "year": 2012,
+          "value": 1001930854000
+        },
+        {
+          "year": 2013,
+          "value": 1025506831000
+        },
+        {
+          "year": 2014,
+          "value": 1047391598000
+        },
+        {
+          "year": 2015,
+          "value": 1046937269000
+        },
+        {
+          "year": 2016,
+          "value": 1059912891000
+        },
+        {
+          "year": 2017,
+          "value": 1158445781000
+        },
+        {
+          "year": 2018,
+          "value": 1195202179000
+        },
+        {
+          "year": 2019,
+          "value": 1217190222000
+        },
+        {
+          "year": 2020,
+          "value": 1496380572000
+        },
+        {
+          "year": 2021,
+          "value": 1378101394000
+        }
+      ],
+      "first": {
+        "year": 2012,
+        "value": 1001930854000
+      },
+      "latest": {
+        "year": 2021,
+        "value": 1378101394000
+      },
+      "delta": 376170540000,
+      "delta_pct": 37.54
+    },
+    "fiscal_index": {
+      "label": "財政力指数",
+      "unit": "index",
+      "ssds_item": "D2201",
+      "year_start": 2012,
+      "year_end": 2021,
+      "values": [
+        {
+          "year": 2012,
+          "value": 0.99
+        },
+        {
+          "year": 2013,
+          "value": 0.98
+        },
+        {
+          "year": 2014,
+          "value": 0.98
+        },
+        {
+          "year": 2015,
+          "value": 0.99
+        },
+        {
+          "year": 2016,
+          "value": 0.99
+        },
+        {
+          "year": 2017,
+          "value": 0.99
+        },
+        {
+          "year": 2018,
+          "value": 0.99
+        },
+        {
+          "year": 2019,
+          "value": 0.99
+        },
+        {
+          "year": 2020,
+          "value": 0.99
+        },
+        {
+          "year": 2021,
+          "value": 0.98
+        }
+      ],
+      "first": {
+        "year": 2012,
+        "value": 0.99
+      },
+      "latest": {
+        "year": 2021,
+        "value": 0.98
+      },
+      "delta": -0.010000000000000009,
+      "delta_pct": -1.01
+    }
+  }
+}

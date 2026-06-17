@@ -1,0 +1,1157 @@
+{
+  "council_id": "sapporo-city",
+  "source_url": "https://www.city.sapporo.jp/gikai/meibo/meibo-ku.html",
+  "source_name": "札幌市議会",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "sapporo-city--osanainaoya",
+      "council_id": "sapporo-city",
+      "name": "長内直也",
+      "name_kana": "おさないなおや",
+      "district": "中央区",
+      "faction": "自由民主党",
+      "elected_count": 7,
+      "positions": [
+        "議長"
+      ],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--hosokawamasato",
+      "council_id": "sapporo-city",
+      "name": "細川正人",
+      "name_kana": "ほそかわまさと",
+      "district": "中央区",
+      "faction": "自由民主党",
+      "elected_count": 6,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--nakagawakenichi",
+      "council_id": "sapporo-city",
+      "name": "中川賢一",
+      "name_kana": "なかがわけんいち",
+      "district": "中央区",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [
+        "大都市税財政制度・DX推進調査特別委員会 委員長"
+      ],
+      "committees": [
+        "建設委員会",
+        "大都市税財政制度・DX推進調査特別委員会委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--murakamiyuuko",
+      "council_id": "sapporo-city",
+      "name": "村上ゆうこ",
+      "name_kana": "むらかみゆうこ",
+      "district": "中央区",
+      "faction": "民主市民連合",
+      "elected_count": 4,
+      "positions": [
+        "議長",
+        "副議長"
+      ],
+      "committees": [
+        "文教委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--takenouchiyumitakenouchi",
+      "council_id": "sapporo-city",
+      "name": "有美",
+      "name_kana": "たけのうちゆみたけのうち",
+      "district": "中央区",
+      "faction": "民主市民連合",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kumagaiseiichi",
+      "council_id": "sapporo-city",
+      "name": "熊谷誠一",
+      "name_kana": "くまがいせいいち",
+      "district": "中央区",
+      "faction": "公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "経済観光委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--ogatakaori",
+      "council_id": "sapporo-city",
+      "name": "小形香織",
+      "name_kana": "おがたかおり",
+      "district": "中央区",
+      "faction": "日本共産党",
+      "elected_count": 5,
+      "positions": [
+        "文教委員会 委員長"
+      ],
+      "committees": [
+        "文教委員会委員長",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--hadadaisen",
+      "council_id": "sapporo-city",
+      "name": "波田大専",
+      "name_kana": "はだだいせん",
+      "district": "中央区",
+      "faction": "日本維新の会",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政市民委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--takahashikatsutomo",
+      "council_id": "sapporo-city",
+      "name": "高橋克朋",
+      "name_kana": "たかはしかつとも",
+      "district": "北区",
+      "faction": "自由民主党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--yokoyamaminekoyokoyama",
+      "council_id": "sapporo-city",
+      "name": "峰子",
+      "name_kana": "よこやまみねこよこやま",
+      "district": "北区",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "厚生委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--banyoshitaka",
+      "council_id": "sapporo-city",
+      "name": "伴良隆",
+      "name_kana": "ばんよしたか",
+      "district": "北区",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--muramatsuyasuhiro",
+      "council_id": "sapporo-city",
+      "name": "村松叶啓",
+      "name_kana": "むらまつやすひろ",
+      "district": "北区",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--hayashiseiji",
+      "council_id": "sapporo-city",
+      "name": "林清治",
+      "name_kana": "はやしせいじ",
+      "district": "北区",
+      "faction": "民主市民連合",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "厚生委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--mizukamimika",
+      "council_id": "sapporo-city",
+      "name": "水上美華",
+      "name_kana": "みずかみみか",
+      "district": "北区",
+      "faction": "民主市民連合",
+      "elected_count": 2,
+      "positions": [
+        "厚生委員会 委員長"
+      ],
+      "committees": [
+        "厚生委員会委員長",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kuniyasumasanori",
+      "council_id": "sapporo-city",
+      "name": "國安政典",
+      "name_kana": "くにやすまさのり",
+      "district": "北区",
+      "faction": "公明党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--nagayaizumi",
+      "council_id": "sapporo-city",
+      "name": "長屋いずみ",
+      "name_kana": "ながやいずみ",
+      "district": "北区",
+      "faction": "日本共産党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--araiisao",
+      "council_id": "sapporo-city",
+      "name": "荒井勇雄",
+      "name_kana": "あらいいさお",
+      "district": "北区",
+      "faction": "坂元・荒井",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--yonekuraminako",
+      "council_id": "sapporo-city",
+      "name": "米倉みな子",
+      "name_kana": "よねくらみなこ",
+      "district": "北区",
+      "faction": "市民ネットワーク北海道",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--igarashitokumi",
+      "council_id": "sapporo-city",
+      "name": "五十嵐徳美",
+      "name_kana": "いがらしとくみ",
+      "district": "東区",
+      "faction": "自由民主党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "財政市民委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--yamadaichirou",
+      "council_id": "sapporo-city",
+      "name": "山田一郎",
+      "name_kana": "やまだいちろう",
+      "district": "東区",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [
+        "総務委員会 副委員長"
+      ],
+      "committees": [
+        "総務委員会副委員長",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--fujiwarahiroakifujiwara",
+      "council_id": "sapporo-city",
+      "name": "広昭",
+      "name_kana": "ふじわらひろあきふじわら",
+      "district": "東区",
+      "faction": "民主市民連合",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "財政市民委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--shinodaerikoshinoda",
+      "council_id": "sapporo-city",
+      "name": "江里子",
+      "name_kana": "しのだえりこしのだ",
+      "district": "東区",
+      "faction": "民主市民連合",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--koguchitomohisa",
+      "council_id": "sapporo-city",
+      "name": "小口智久",
+      "name_kana": "こぐちともひさ",
+      "district": "東区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [
+        "財政市民委員会 副委員長"
+      ],
+      "committees": [
+        "財政市民委員会副委員長",
+        "議会運営委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--ootahideko",
+      "council_id": "sapporo-city",
+      "name": "太田秀子",
+      "name_kana": "おおたひでこ",
+      "district": "東区",
+      "faction": "日本共産党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "議会運営委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--naritayuuki",
+      "council_id": "sapporo-city",
+      "name": "成田祐樹",
+      "name_kana": "なりたゆうき",
+      "district": "東区",
+      "faction": "未来さっぽろ",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "厚生委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--maruokamoriyuki",
+      "council_id": "sapporo-city",
+      "name": "丸岡守幸",
+      "name_kana": "まるおかもりゆき",
+      "district": "東区",
+      "faction": "健康さっぽろ",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "経済観光委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--sasakimitsuko",
+      "council_id": "sapporo-city",
+      "name": "佐々木みつこ",
+      "name_kana": "ささきみつこ",
+      "district": "白石区",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--fujitatoshihito",
+      "council_id": "sapporo-city",
+      "name": "藤田稔人",
+      "name_kana": "ふじたとしひと",
+      "district": "白石区",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--urushiharanaokourushihara",
+      "council_id": "sapporo-city",
+      "name": "直子",
+      "name_kana": "うるしはらなおこうるしはら",
+      "district": "白石区",
+      "faction": "民主市民連合",
+      "elected_count": 2,
+      "positions": [
+        "大都市税財政制度・DX推進調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "厚生委員会",
+        "大都市税財政制度・DX推進調査特別委員会副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--shinoharasumire",
+      "council_id": "sapporo-city",
+      "name": "篠原すみれ",
+      "name_kana": "しのはらすみれ",
+      "district": "白石区",
+      "faction": "民主市民連合",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--maekawatakashi",
+      "council_id": "sapporo-city",
+      "name": "前川隆史",
+      "name_kana": "まえかわたかし",
+      "district": "白石区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済観光委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--satouaya",
+      "council_id": "sapporo-city",
+      "name": "佐藤綾",
+      "name_kana": "さとうあや",
+      "district": "白石区",
+      "faction": "日本共産党",
+      "elected_count": 2,
+      "positions": [
+        "総合交通政策調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "経済観光委員会",
+        "総合交通政策調査特別委員会副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--yamaguchikazusa",
+      "council_id": "sapporo-city",
+      "name": "山口かずさ",
+      "name_kana": "やまぐちかずさ",
+      "district": "白石区",
+      "faction": "山口かずさ",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "厚生委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kojimayumi",
+      "council_id": "sapporo-city",
+      "name": "こじまゆみ",
+      "name_kana": "こじまゆみ",
+      "district": "厚別区",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "経済観光委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kawatatadahisa",
+      "council_id": "sapporo-city",
+      "name": "川田ただひさ",
+      "name_kana": "かわたただひさ",
+      "district": "厚別区",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--matsubarajiyunji",
+      "council_id": "sapporo-city",
+      "name": "松原淳二",
+      "name_kana": "まつばらじゅんじ",
+      "district": "厚別区",
+      "faction": "民主市民連合",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--morikiyonori",
+      "council_id": "sapporo-city",
+      "name": "森基誉則",
+      "name_kana": "もりきよのり",
+      "district": "厚別区",
+      "faction": "民主市民連合",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "財政市民委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--maruyamahideki",
+      "council_id": "sapporo-city",
+      "name": "丸山秀樹",
+      "name_kana": "まるやまひでき",
+      "district": "厚別区",
+      "faction": "公明党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "厚生委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--mikamiyousuke",
+      "council_id": "sapporo-city",
+      "name": "三上洋右",
+      "name_kana": "みかみようすけ",
+      "district": "豊平区",
+      "faction": "自由民主党",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kondoukazuokondou",
+      "council_id": "sapporo-city",
+      "name": "和雄",
+      "name_kana": "こんどうかずおこんどう",
+      "district": "豊平区",
+      "faction": "自由民主党",
+      "elected_count": 7,
+      "positions": [],
+      "committees": [
+        "経済観光委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kotaketomoko",
+      "council_id": "sapporo-city",
+      "name": "小竹ともこ",
+      "name_kana": "こたけともこ",
+      "district": "豊平区",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [
+        "議会運営委員会 委員長"
+      ],
+      "committees": [
+        "財政市民委員会",
+        "議会運営委員会委員長",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kannotaichikanno",
+      "council_id": "sapporo-city",
+      "name": "太一",
+      "name_kana": "かんのたいちかんの",
+      "district": "豊平区",
+      "faction": "民主市民連合",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "議会運営委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--yoshiinanami",
+      "council_id": "sapporo-city",
+      "name": "好井七海",
+      "name_kana": "よしいななみ",
+      "district": "豊平区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [
+        "総合交通政策調査特別委員会 委員長"
+      ],
+      "committees": [
+        "文教委員会",
+        "総合交通政策調査特別委員会委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--ikedayumi",
+      "council_id": "sapporo-city",
+      "name": "池田由美",
+      "name_kana": "いけだゆみ",
+      "district": "豊平区",
+      "faction": "日本共産党",
+      "elected_count": 3,
+      "positions": [
+        "建設委員会 副委員長"
+      ],
+      "committees": [
+        "建設委員会副委員長",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--sakamotomichitaka",
+      "council_id": "sapporo-city",
+      "name": "坂元みちたか",
+      "name_kana": "さかもとみちたか",
+      "district": "豊平区",
+      "faction": "坂元・荒井",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kitamurakouichirou",
+      "council_id": "sapporo-city",
+      "name": "北村光一郎",
+      "name_kana": "きたむらこういちろう",
+      "district": "清田区",
+      "faction": "自由民主党",
+      "elected_count": 4,
+      "positions": [],
+      "committees": [
+        "文教委員会",
+        "議会運営委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--yamadahiroaki",
+      "council_id": "sapporo-city",
+      "name": "山田洋聡",
+      "name_kana": "やまだひろあき",
+      "district": "清田区",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [
+        "厚生委員会 副委員長"
+      ],
+      "committees": [
+        "厚生委員会副委員長",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--onmurakentarouonmura",
+      "council_id": "sapporo-city",
+      "name": "健太郎",
+      "name_kana": "おんむらけんたろうおんむら",
+      "district": "清田区",
+      "faction": "民主市民連合",
+      "elected_count": 2,
+      "positions": [
+        "総務委員会 委員長"
+      ],
+      "committees": [
+        "総務委員会委員長",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--takeuchitakayo",
+      "council_id": "sapporo-city",
+      "name": "竹内孝代",
+      "name_kana": "たけうちたかよ",
+      "district": "清田区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [
+        "建設委員会 委員長"
+      ],
+      "committees": [
+        "建設委員会委員長",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--yoshiokahiroko",
+      "council_id": "sapporo-city",
+      "name": "吉岡弘子",
+      "name_kana": "よしおかひろこ",
+      "district": "清田区",
+      "faction": "日本共産党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "厚生委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--mikamihidehiko",
+      "council_id": "sapporo-city",
+      "name": "三神英彦",
+      "name_kana": "みかみひでひこ",
+      "district": "南区",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [
+        "財政市民委員会 委員長"
+      ],
+      "committees": [
+        "財政市民委員会委員長",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--kosudatomohiro",
+      "council_id": "sapporo-city",
+      "name": "小須田大拓",
+      "name_kana": "こすだともひろ",
+      "district": "南区",
+      "faction": "自由民主党",
+      "elected_count": 2,
+      "positions": [
+        "経済観光委員会 委員長",
+        "新たな都心空間調査特別委員会 副委員長"
+      ],
+      "committees": [
+        "経済観光委員会委員長",
+        "新たな都心空間調査特別委員会副委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--aoihiromi",
+      "council_id": "sapporo-city",
+      "name": "あおいひろみ",
+      "name_kana": "あおいひろみ",
+      "district": "南区",
+      "faction": "民主市民連合",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "経済観光委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--watanabeyasuyukiwatanabe",
+      "council_id": "sapporo-city",
+      "name": "泰行",
+      "name_kana": "わたなべやすゆきわたなべ",
+      "district": "南区",
+      "faction": "公明党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "財政市民委員会",
+        "議会運営委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--wakimotoshigeyuki",
+      "council_id": "sapporo-city",
+      "name": "脇元繁之",
+      "name_kana": "わきもとしげゆき",
+      "district": "南区",
+      "faction": "大地さっぽろ",
+      "elected_count": 1,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--katsukihayato",
+      "council_id": "sapporo-city",
+      "name": "勝木勇人",
+      "name_kana": "かつきはやと",
+      "district": "西区",
+      "faction": "自由民主党",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "厚生委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--iijimahiroyuki",
+      "council_id": "sapporo-city",
+      "name": "飯島弘之",
+      "name_kana": "いいじまひろゆき",
+      "district": "西区",
+      "faction": "自由民主党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "財政市民委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--murayamatakuji",
+      "council_id": "sapporo-city",
+      "name": "村山拓司",
+      "name_kana": "むらやまたくじ",
+      "district": "西区",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "経済観光委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--nakamuratakeshi",
+      "council_id": "sapporo-city",
+      "name": "中村たけし",
+      "name_kana": "なかむらたけし",
+      "district": "西区",
+      "faction": "民主市民連合",
+      "elected_count": 4,
+      "positions": [
+        "議会運営委員会 副委員長",
+        "新たな都心空間調査特別委員会 委員長"
+      ],
+      "committees": [
+        "財政市民委員会",
+        "議会運営委員会副委員長",
+        "新たな都心空間調査特別委員会委員長"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--sadamorihikaru",
+      "council_id": "sapporo-city",
+      "name": "定森光",
+      "name_kana": "さだもりひかる",
+      "district": "西区",
+      "faction": "民主市民連合",
+      "elected_count": 1,
+      "positions": [
+        "経済観光委員会 副委員長"
+      ],
+      "committees": [
+        "経済観光委員会副委員長",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--moriyamayumiko",
+      "council_id": "sapporo-city",
+      "name": "森山由美子",
+      "name_kana": "もりやまゆみこ",
+      "district": "西区",
+      "faction": "公明党",
+      "elected_count": 2,
+      "positions": [],
+      "committees": [
+        "建設委員会",
+        "大都市税財政制度・DX推進調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--tanakakeisuke",
+      "council_id": "sapporo-city",
+      "name": "田中啓介",
+      "name_kana": "たなかけいすけ",
+      "district": "西区",
+      "faction": "日本共産党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "財政市民委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--matsuitakafumi",
+      "council_id": "sapporo-city",
+      "name": "松井隆文",
+      "name_kana": "まついたかふみ",
+      "district": "手稲区",
+      "faction": "自由民主党",
+      "elected_count": 3,
+      "positions": [],
+      "committees": [
+        "厚生委員会",
+        "議会運営委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--wadakatsuya",
+      "council_id": "sapporo-city",
+      "name": "和田勝也",
+      "name_kana": "わだかつや",
+      "district": "手稲区",
+      "faction": "自由民主党",
+      "elected_count": 1,
+      "positions": [
+        "文教委員会 副委員長"
+      ],
+      "committees": [
+        "文教委員会副委員長",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--fukushikatsu",
+      "council_id": "sapporo-city",
+      "name": "福士勝",
+      "name_kana": "ふくしかつ",
+      "district": "手稲区",
+      "faction": "民主市民連合",
+      "elected_count": 9,
+      "positions": [],
+      "committees": [
+        "経済観光委員会",
+        "総合交通政策調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--onomasami",
+      "council_id": "sapporo-city",
+      "name": "小野正美",
+      "name_kana": "おのまさみ",
+      "district": "手稲区",
+      "faction": "民主市民連合",
+      "elected_count": 8,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    },
+    {
+      "id": "sapporo-city--fukudakoutarou",
+      "council_id": "sapporo-city",
+      "name": "福田浩太郎",
+      "name_kana": "ふくだこうたろう",
+      "district": "手稲区",
+      "faction": "公明党",
+      "elected_count": 5,
+      "positions": [],
+      "committees": [
+        "総務委員会",
+        "新たな都心空間調査特別委員会"
+      ],
+      "photo_url": null,
+      "official_profile_url": null
+    }
+  ],
+  "source_basis_date": "公式基準日記載なし",
+  "last_verified": "2026-06-17",
+  "teisu": 68,
+  "genin": 67,
+  "ketsuin": 1,
+  "checks": {
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.city.sapporo.jp/gikai/meibo/meibo-ku.html",
+    "source_basis_date": "公式基準日記載なし",
+    "last_verified": "2026-06-17",
+    "teisu": 68,
+    "genin": 67,
+    "ketsuin": 1,
+    "parsed_members": 67,
+    "vacancy_details": [
+      {
+        "district": "東区",
+        "ketsuin": 1,
+        "source_url": "https://www.city.sapporo.jp/gikai/meibo/meibo-ku.html"
+      }
+    ],
+    "notes": [
+      "公式CMSの名簿ビューから氏名・ふりがな・会派・行政区・当選回数・委員会・役職のみを許可リスト抽出",
+      "許可外項目は保存しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-17T21:14:15+00:00"
+}
