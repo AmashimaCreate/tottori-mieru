@@ -20,6 +20,7 @@ if str(REPO_ROOT) not in sys.path:
 
 from scripts.adapters.single_page_roster import (  # noqa: E402
     build_member,
+    compact_kana_text,
     ensure_unique_ids,
     expand_table,
     normalize_text,
@@ -223,7 +224,7 @@ class YamaguchiPrefScraper(CouncilScraperBase):
         for span in table.find_all("span"):
             text = normalize_text(span.get_text(" ", strip=True))
             if text and re.fullmatch(r"[ぁ-んァ-ンー\s]+", text):
-                kana = text
+                kana = compact_kana_text(text)
                 break
         for row in expand_table(table):
             values = [normalize_text(cell.get_text(" ", strip=True)) for cell in row]

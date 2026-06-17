@@ -6,7 +6,7 @@ import json
 from pathlib import Path
 from typing import Any, Iterable
 
-DEFAULT_VOLATILE_KEYS = frozenset({"updated_at", "retrieved_at"})
+DEFAULT_VOLATILE_KEYS = frozenset({"updated_at", "retrieved_at", "last_verified"})
 
 
 def strip_volatile_fields(

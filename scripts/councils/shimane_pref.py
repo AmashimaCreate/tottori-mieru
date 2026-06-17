@@ -19,6 +19,7 @@ if str(REPO_ROOT) not in sys.path:
 
 from scripts.adapters.single_page_roster import (  # noqa: E402
     build_member,
+    compact_kana_text,
     ensure_unique_ids,
     expand_table,
     normalize_text,
@@ -189,7 +190,7 @@ class ShimanePrefScraper(CouncilScraperBase):
                 name_index = lines.index(name)
             except ValueError:
                 name_index = 0
-            kana = normalize_text(" ".join(lines[:name_index])) or None
+            kana = compact_kana_text(" ".join(lines[:name_index]))
             faction = normalize_text(lines[name_index + 1]) if name_index + 1 < len(lines) else None
             members.append(
                 build_member(

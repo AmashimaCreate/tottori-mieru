@@ -5,10 +5,10 @@
   "acquisition": "scraping",
   "members": [
     {
-      "id": "nagano-pref--uzuhashi-shi-geto",
+      "id": "nagano-pref--uzuhashishigeto",
       "council_id": "nagano-pref",
       "name": "埋橋茂人",
-      "name_kana": "うずはし し げと",
+      "name_kana": "うずはししげと",
       "district": "長野市・上水内郡",
       "faction": "改革信",
       "elected_count": null,
@@ -18,10 +18,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/uzuhashi2.html"
     },
     {
-      "id": "nagano-pref--kazama-ta-tsufumi",
+      "id": "nagano-pref--kazamatatsufumi",
       "council_id": "nagano-pref",
       "name": "風間辰一",
-      "name_kana": "かざま た つふみ",
+      "name_kana": "かざまたつふみ",
       "district": "長野市・上水内郡",
       "faction": "自民党",
       "elected_count": null,
@@ -31,10 +31,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/kazama2.html"
     },
     {
-      "id": "nagano-pref--katsuyama-hideo",
+      "id": "nagano-pref--katsuyamahideo",
       "council_id": "nagano-pref",
       "name": "勝山秀夫",
-      "name_kana": "かつやま ひでお",
+      "name_kana": "かつやまひでお",
       "district": "長野市・上水内郡",
       "faction": "公明党",
       "elected_count": null,
@@ -44,10 +44,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/katsuyama.html"
     },
     {
-      "id": "nagano-pref--katou-ya-suharu",
+      "id": "nagano-pref--katouyasuharu",
       "council_id": "nagano-pref",
       "name": "加藤康治",
-      "name_kana": "かとう や すはる",
+      "name_kana": "かとうやすはる",
       "district": "長野市・上水内郡",
       "faction": "公明党",
       "elected_count": null,
@@ -70,10 +70,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/takeuchi.html"
     },
     {
-      "id": "nagano-pref--takashima-youko",
+      "id": "nagano-pref--takashimayouko",
       "council_id": "nagano-pref",
       "name": "髙島陽子",
-      "name_kana": "たかしま ようこ",
+      "name_kana": "たかしまようこ",
       "district": "長野市・上水内郡",
       "faction": "改革信",
       "elected_count": null,
@@ -83,10 +83,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/takashima2.html"
     },
     {
-      "id": "nagano-pref--nishizawa-ma-sataka",
+      "id": "nagano-pref--nishizawamasataka",
       "council_id": "nagano-pref",
       "name": "西沢正隆",
-      "name_kana": "にしざわ ま さたか",
+      "name_kana": "にしざわまさたか",
       "district": "長野市・上水内郡",
       "faction": "自民党",
       "elected_count": null,
@@ -96,10 +96,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/nishizawa2.html"
     },
     {
-      "id": "nagano-pref--hatsutori-hi-roaki",
+      "id": "nagano-pref--hatsutorihiroaki",
       "council_id": "nagano-pref",
       "name": "服部宏昭",
-      "name_kana": "はっとり ひ ろあき",
+      "name_kana": "はっとりひろあき",
       "district": "長野市・上水内郡",
       "faction": "自民党",
       "elected_count": null,
@@ -109,10 +109,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/kamiminochi/hattori2.html"
     },
     {
-      "id": "nagano-pref--mochizuki-yo-shihisa",
+      "id": "nagano-pref--mochizukiyoshihisa",
       "council_id": "nagano-pref",
       "name": "望月義寿",
-      "name_kana": "もちづき よ しひさ",
+      "name_kana": "もちづきよしひさ",
       "district": "長野市・上水内郡",
       "faction": "改革信",
       "elected_count": null,
@@ -122,10 +122,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/mochiduki2.html"
     },
     {
-      "id": "nagano-pref--yamaguchi-no-rihisa",
+      "id": "nagano-pref--yamaguchinorihisa",
       "council_id": "nagano-pref",
       "name": "山口典久",
-      "name_kana": "やまぐち の りひさ",
+      "name_kana": "やまぐちのりひさ",
       "district": "長野市・上水内郡",
       "faction": "共産党",
       "elected_count": null,
@@ -135,10 +135,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/yamaguchi3.html"
     },
     {
-      "id": "nagano-pref--wada-a-kiko",
+      "id": "nagano-pref--wadaakiko",
       "council_id": "nagano-pref",
       "name": "和田明子",
-      "name_kana": "わだ あ きこ",
+      "name_kana": "わだあきこ",
       "district": "長野市・上水内郡",
       "faction": "共産党",
       "elected_count": null,
@@ -148,10 +148,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nagano/wada2.html"
     },
     {
-      "id": "nagano-pref--aoki-takashi",
+      "id": "nagano-pref--aokitakashi",
       "council_id": "nagano-pref",
       "name": "青木崇",
-      "name_kana": "あおき たかし",
+      "name_kana": "あおきたかし",
       "district": "松本市・東筑摩郡",
       "faction": "自民党",
       "elected_count": null,
@@ -161,10 +161,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/matsumoto/aoki.html"
     },
     {
-      "id": "nagano-pref--katsuno-tomoyuki",
+      "id": "nagano-pref--katsunotomoyuki",
       "council_id": "nagano-pref",
       "name": "勝野智行",
-      "name_kana": "かつの ともゆき",
+      "name_kana": "かつのともゆき",
       "district": "松本市・東筑摩郡",
       "faction": "公明党",
       "elected_count": null,
@@ -174,10 +174,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/matsumoto/katsuno.html"
     },
     {
-      "id": "nagano-pref--aya-kobayashi-a-ya",
+      "id": "nagano-pref--kobayashiaya",
       "council_id": "nagano-pref",
-      "name": "小林",
-      "name_kana": "あや こばやし あ や",
+      "name": "小林あや",
+      "name_kana": "こばやしあや",
       "district": "松本市・東筑摩郡",
       "faction": "新政団",
       "elected_count": null,
@@ -187,10 +187,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/matsumoto/kobayashi.html"
     },
     {
-      "id": "nagano-pref--nakagawa-hiro-ji",
+      "id": "nagano-pref--nakagawahiroji",
       "council_id": "nagano-pref",
       "name": "中川博司",
-      "name_kana": "なかがわ ひろ じ",
+      "name_kana": "なかがわひろじ",
       "district": "松本市・東筑摩郡",
       "faction": "改革信",
       "elected_count": null,
@@ -200,10 +200,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/matsumoto/nakagawa.html"
     },
     {
-      "id": "nagano-pref--hagiwara-ki-yoshi",
+      "id": "nagano-pref--hagiwarakiyoshi",
       "council_id": "nagano-pref",
       "name": "萩原清",
-      "name_kana": "はぎわら き よし",
+      "name_kana": "はぎわらきよし",
       "district": "松本市・東筑摩郡",
       "faction": "自民党",
       "elected_count": null,
@@ -213,10 +213,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/matsumoto/hagiwara1.html"
     },
     {
-      "id": "nagano-pref--momose-to-moyuki",
+      "id": "nagano-pref--momosetomoyuki",
       "council_id": "nagano-pref",
       "name": "百瀬智之",
-      "name_kana": "ももせ と もゆき",
+      "name_kana": "ももせともゆき",
       "district": "松本市・東筑摩郡",
       "faction": "新政団",
       "elected_count": null,
@@ -226,10 +226,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/matsumoto/momose1.html"
     },
     {
-      "id": "nagano-pref--morozumi-to-monari",
+      "id": "nagano-pref--morozumitomonari",
       "council_id": "nagano-pref",
       "name": "両角友成",
-      "name_kana": "もろずみ と もなり",
+      "name_kana": "もろずみともなり",
       "district": "松本市・東筑摩郡",
       "faction": "共産党",
       "elected_count": null,
@@ -239,10 +239,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/matsumoto/morozumi1.html"
     },
     {
-      "id": "nagano-pref--shimizu-ji-yunko",
+      "id": "nagano-pref--shimizujiyunko",
       "council_id": "nagano-pref",
       "name": "清水純子",
-      "name_kana": "しみず じ ゅんこ",
+      "name_kana": "しみずじゅんこ",
       "district": "上田市・小県郡",
       "faction": "公明党",
       "elected_count": null,
@@ -252,10 +252,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/ueda/shimizu1.html"
     },
     {
-      "id": "nagano-pref--hayashi-kazuaki",
+      "id": "nagano-pref--hayashikazuaki",
       "council_id": "nagano-pref",
       "name": "林和明",
-      "name_kana": "はやし かずあき",
+      "name_kana": "はやしかずあき",
       "district": "上田市・小県郡",
       "faction": "改革信",
       "elected_count": null,
@@ -265,10 +265,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/ueda/hayashi.html"
     },
     {
-      "id": "nagano-pref--yamada-hideki",
+      "id": "nagano-pref--yamadahideki",
       "council_id": "nagano-pref",
       "name": "山田英喜",
-      "name_kana": "やまだ ひでき",
+      "name_kana": "やまだひでき",
       "district": "上田市・小県郡",
       "faction": "自民党",
       "elected_count": null,
@@ -278,23 +278,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/ueda/yamada1.html"
     },
     {
-      "id": "nagano-pref--member-da39a3ee",
-      "council_id": "nagano-pref",
-      "name": "",
-      "name_kana": "ー",
-      "district": "上田市・小県郡",
-      "faction": null,
-      "elected_count": null,
-      "positions": [],
-      "committees": [],
-      "photo_url": null,
-      "official_profile_url": null
-    },
-    {
-      "id": "nagano-pref--tomoda-ta-kefumi",
+      "id": "nagano-pref--tomodatakefumi",
       "council_id": "nagano-pref",
       "name": "共田武史",
-      "name_kana": "ともだ た けふみ",
+      "name_kana": "ともだたけふみ",
       "district": "岡谷市・下諏訪町",
       "faction": "自民党",
       "elected_count": null,
@@ -304,10 +291,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/okaya/tomoda1.html"
     },
     {
-      "id": "nagano-pref--mouri-e-iko",
+      "id": "nagano-pref--mourieiko",
       "council_id": "nagano-pref",
       "name": "毛利栄子",
-      "name_kana": "もうり え いこ",
+      "name_kana": "もうりえいこ",
       "district": "岡谷市・下諏訪町",
       "faction": "共産党",
       "elected_count": null,
@@ -317,10 +304,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/okaya/mouri1.html"
     },
     {
-      "id": "nagano-pref--kawakami-no-buhiko",
+      "id": "nagano-pref--kawakaminobuhiko",
       "council_id": "nagano-pref",
       "name": "川上信彦",
-      "name_kana": "かわかみ の ぶひこ",
+      "name_kana": "かわかみのぶひこ",
       "district": "飯田市・下伊那郡",
       "faction": "公明党",
       "elected_count": null,
@@ -330,10 +317,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/iida/kawakami1.html"
     },
     {
-      "id": "nagano-pref--koike-kiyo-shi",
+      "id": "nagano-pref--koikekiyoshi",
       "council_id": "nagano-pref",
       "name": "小池清",
-      "name_kana": "こいけ きよ し",
+      "name_kana": "こいけきよし",
       "district": "飯田市・下伊那郡",
       "faction": "自民党",
       "elected_count": null,
@@ -343,10 +330,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/iida/koike2.html"
     },
     {
-      "id": "nagano-pref--takemura-naoko",
+      "id": "nagano-pref--takemuranaoko",
       "council_id": "nagano-pref",
       "name": "竹村直子",
-      "name_kana": "たけむら なおこ",
+      "name_kana": "たけむらなおこ",
       "district": "飯田市・下伊那郡",
       "faction": "改革信",
       "elected_count": null,
@@ -356,10 +343,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/iida/takemura.html"
     },
     {
-      "id": "nagano-pref--hayakawa-daichi",
+      "id": "nagano-pref--hayakawadaichi",
       "council_id": "nagano-pref",
       "name": "早川大地",
-      "name_kana": "はやかわ だいち",
+      "name_kana": "はやかわだいち",
       "district": "飯田市・下伊那郡",
       "faction": "自民党",
       "elected_count": null,
@@ -369,10 +356,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/iida/hayakawa.html"
     },
     {
-      "id": "nagano-pref--miyashita-ka-tsuhiko",
+      "id": "nagano-pref--miyashitakatsuhiko",
       "council_id": "nagano-pref",
       "name": "宮下克彦",
-      "name_kana": "みやした か つひこ",
+      "name_kana": "みやしたかつひこ",
       "district": "諏訪市",
       "faction": "自民党",
       "elected_count": null,
@@ -382,10 +369,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/suwa/miyashita.html"
     },
     {
-      "id": "nagano-pref--kobayashi-ki-mio",
+      "id": "nagano-pref--kobayashikimio",
       "council_id": "nagano-pref",
       "name": "小林君男",
-      "name_kana": "こばやし き みお",
+      "name_kana": "こばやしきみお",
       "district": "須坂市・上高井郡",
       "faction": "無所属",
       "elected_count": null,
@@ -395,10 +382,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/suzaka/kobayasi1.html"
     },
     {
-      "id": "nagano-pref--horiuchi-ta-kato",
+      "id": "nagano-pref--horiuchitakato",
       "council_id": "nagano-pref",
       "name": "堀内孝人",
-      "name_kana": "ほりうち た かと",
+      "name_kana": "ほりうちたかと",
       "district": "須坂市・上高井郡",
       "faction": "自民党",
       "elected_count": null,
@@ -408,10 +395,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/suzaka/horiuchi1.html"
     },
     {
-      "id": "nagano-pref--yamagishi-yo-shiaki",
+      "id": "nagano-pref--yamagishiyoshiaki",
       "council_id": "nagano-pref",
       "name": "山岸喜昭",
-      "name_kana": "やまぎし よ しあき",
+      "name_kana": "やまぎしよしあき",
       "district": "小諸市",
       "faction": "自民党",
       "elected_count": null,
@@ -421,10 +408,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/komoro/yamagishi1.html"
     },
     {
-      "id": "nagano-pref--sakai-shi-geru",
+      "id": "nagano-pref--sakaishigeru",
       "council_id": "nagano-pref",
       "name": "酒井茂",
-      "name_kana": "さかい し げる",
+      "name_kana": "さかいしげる",
       "district": "伊那市",
       "faction": "自民党",
       "elected_count": null,
@@ -434,10 +421,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/ina/sakai1.html"
     },
     {
-      "id": "nagano-pref--mukaiyama-kengo",
+      "id": "nagano-pref--mukaiyamakengo",
       "council_id": "nagano-pref",
       "name": "向山賢悟",
-      "name_kana": "むかいやま けんご",
+      "name_kana": "むかいやまけんご",
       "district": "伊那市",
       "faction": "自民党",
       "elected_count": null,
@@ -447,10 +434,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/ina/mukaiyama1.html"
     },
     {
-      "id": "nagano-pref--sasaki-shi-youji",
+      "id": "nagano-pref--sasakishiyouji",
       "council_id": "nagano-pref",
       "name": "佐々木祥二",
-      "name_kana": "ささき し ょうじ",
+      "name_kana": "ささきしょうじ",
       "district": "駒ヶ根市",
       "faction": "自民党",
       "elected_count": null,
@@ -460,10 +447,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/komagane/sasaki1.html"
     },
     {
-      "id": "nagano-pref--kobayashi-to-uichirou",
+      "id": "nagano-pref--kobayashitouichirou",
       "council_id": "nagano-pref",
       "name": "小林東一郎",
-      "name_kana": "こばやし と ういちろう",
+      "name_kana": "こばやしとういちろう",
       "district": "中野市・下高井郡",
       "faction": "改革信",
       "elected_count": null,
@@ -473,10 +460,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nakano/kobayashi2.html"
     },
     {
-      "id": "nagano-pref--maruyama-e-iichi",
+      "id": "nagano-pref--maruyamaeiichi",
       "council_id": "nagano-pref",
       "name": "丸山栄一",
-      "name_kana": "まるやま え いいち",
+      "name_kana": "まるやまえいいち",
       "district": "中野市・下高井郡",
       "faction": "自民党",
       "elected_count": null,
@@ -486,10 +473,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/nakano/maruyama7.html"
     },
     {
-      "id": "nagano-pref--okumura-kenji",
+      "id": "nagano-pref--okumurakenji",
       "council_id": "nagano-pref",
       "name": "奥村健仁",
-      "name_kana": "おくむら けんじ",
+      "name_kana": "おくむらけんじ",
       "district": "大町市",
       "faction": "新政団",
       "elected_count": null,
@@ -499,10 +486,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/omachi/okumura.html"
     },
     {
-      "id": "nagano-pref--miyamoto-ko-uji",
+      "id": "nagano-pref--miyamotokouji",
       "council_id": "nagano-pref",
       "name": "宮本衡司",
-      "name_kana": "みやもと こ うじ",
+      "name_kana": "みやもとこうじ",
       "district": "飯山市・下水内郡",
       "faction": "自民党",
       "elected_count": null,
@@ -512,10 +499,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/iiyama/miyamoto1.html"
     },
     {
-      "id": "nagano-pref--koike-hi-sanaga",
+      "id": "nagano-pref--koikehisanaga",
       "council_id": "nagano-pref",
       "name": "小池久長",
-      "name_kana": "こいけ ひ さなが",
+      "name_kana": "こいけひさなが",
       "district": "茅野市・富士見町・原村",
       "faction": "新政団",
       "elected_count": null,
@@ -525,10 +512,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/chino/koike2.html"
     },
     {
-      "id": "nagano-pref--marumo-ta-keto",
+      "id": "nagano-pref--marumotaketo",
       "council_id": "nagano-pref",
       "name": "丸茂岳人",
-      "name_kana": "まるも た けと",
+      "name_kana": "まるもたけと",
       "district": "茅野市・富士見町・原村",
       "faction": "自民党",
       "elected_count": null,
@@ -538,10 +525,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/chino/marumo1.html"
     },
     {
-      "id": "nagano-pref--tsuzuki-mi-kio",
+      "id": "nagano-pref--tsuzukimikio",
       "council_id": "nagano-pref",
       "name": "続木幹夫",
-      "name_kana": "つづき み きお",
+      "name_kana": "つづきみきお",
       "district": "塩尻市",
       "faction": "改革信",
       "elected_count": null,
@@ -551,10 +538,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/shiojiri/tsuduki.html"
     },
     {
-      "id": "nagano-pref--maruyama-toshiko",
+      "id": "nagano-pref--maruyamatoshiko",
       "council_id": "nagano-pref",
       "name": "丸山寿子",
-      "name_kana": "まるやま としこ",
+      "name_kana": "まるやまとしこ",
       "district": "塩尻市",
       "faction": "改革信",
       "elected_count": null,
@@ -564,10 +551,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/shiojiri/maruyama1.html"
     },
     {
-      "id": "nagano-pref--ooi-ta-keo",
+      "id": "nagano-pref--ooitakeo",
       "council_id": "nagano-pref",
       "name": "大井岳夫",
-      "name_kana": "おおい た けお",
+      "name_kana": "おおいたけお",
       "district": "佐久市・北佐久郡",
       "faction": "自民党",
       "elected_count": null,
@@ -577,10 +564,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/saku/ooi1.html"
     },
     {
-      "id": "nagano-pref--koyama-hi-toshi",
+      "id": "nagano-pref--koyamahitoshi",
       "council_id": "nagano-pref",
       "name": "小山仁志",
-      "name_kana": "こやま ひ とし",
+      "name_kana": "こやまひとし",
       "district": "佐久市・北佐久郡",
       "faction": "新政団",
       "elected_count": null,
@@ -590,10 +577,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/saku/koyama1.html"
     },
     {
-      "id": "nagano-pref--hanaoka-kenichi",
+      "id": "nagano-pref--hanaokakenichi",
       "council_id": "nagano-pref",
       "name": "花岡賢一",
-      "name_kana": "はなおか けんいち",
+      "name_kana": "はなおかけんいち",
       "district": "佐久市・北佐久郡",
       "faction": "改革信",
       "elected_count": null,
@@ -603,10 +590,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/saku/hanaoka1.html"
     },
     {
-      "id": "nagano-pref--fujioka-yoshihide",
+      "id": "nagano-pref--fujiokayoshihide",
       "council_id": "nagano-pref",
       "name": "藤岡義英",
-      "name_kana": "ふじおか よしひで",
+      "name_kana": "ふじおかよしひで",
       "district": "佐久市・北佐久郡",
       "faction": "共産党",
       "elected_count": null,
@@ -616,10 +603,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/saku/fujioka1.html"
     },
     {
-      "id": "nagano-pref--arai-ta-keshi",
+      "id": "nagano-pref--araitakeshi",
       "council_id": "nagano-pref",
       "name": "荒井武志",
-      "name_kana": "あらい た けし",
+      "name_kana": "あらいたけし",
       "district": "千曲市・埴科郡",
       "faction": "改革信",
       "elected_count": null,
@@ -629,10 +616,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/chikuma/arai1.html"
     },
     {
-      "id": "nagano-pref--takeuchi-ma-sami",
+      "id": "nagano-pref--takeuchimasami",
       "council_id": "nagano-pref",
       "name": "竹内正美",
-      "name_kana": "たけうち ま さみ",
+      "name_kana": "たけうちまさみ",
       "district": "千曲市・埴科郡",
       "faction": "自民党",
       "elected_count": null,
@@ -642,10 +629,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/chikuma/takeuchi1.html"
     },
     {
-      "id": "nagano-pref--satou-chie",
+      "id": "nagano-pref--satouchie",
       "council_id": "nagano-pref",
       "name": "佐藤千枝",
-      "name_kana": "さとう ちえ",
+      "name_kana": "さとうちえ",
       "district": "東御市",
       "faction": "改革信",
       "elected_count": null,
@@ -655,10 +642,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/tomi/sato.html"
     },
     {
-      "id": "nagano-pref--kobayashi-youko",
+      "id": "nagano-pref--kobayashiyouko",
       "council_id": "nagano-pref",
       "name": "小林陽子",
-      "name_kana": "こばやし ようこ",
+      "name_kana": "こばやしようこ",
       "district": "安曇野市",
       "faction": "改革信",
       "elected_count": null,
@@ -668,10 +655,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/azumino/kobayashi.html"
     },
     {
-      "id": "nagano-pref--terasawa-kouki",
+      "id": "nagano-pref--terasawakouki",
       "council_id": "nagano-pref",
       "name": "寺沢功希",
-      "name_kana": "てらさわ こうき",
+      "name_kana": "てらさわこうき",
       "district": "安曇野市",
       "faction": "自民党",
       "elected_count": null,
@@ -681,10 +668,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/azumino/terasawa1.html"
     },
     {
-      "id": "nagano-pref--yoda-me-izen",
+      "id": "nagano-pref--yodameizen",
       "council_id": "nagano-pref",
       "name": "依田明善",
-      "name_kana": "よだ め いぜん",
+      "name_kana": "よだめいぜん",
       "district": "南佐久郡",
       "faction": "自民党",
       "elected_count": null,
@@ -694,10 +681,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/minamisaku/yoda1.html"
     },
     {
-      "id": "nagano-pref--kakiuchi-masakuni",
+      "id": "nagano-pref--kakiuchimasakuni",
       "council_id": "nagano-pref",
       "name": "垣内将邦",
-      "name_kana": "かきうち まさくに",
+      "name_kana": "かきうちまさくに",
       "district": "上伊那郡",
       "faction": "自民党",
       "elected_count": null,
@@ -707,10 +694,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/kamiina/kakiuchi.html"
     },
     {
-      "id": "nagano-pref--shimizu-masayasu",
+      "id": "nagano-pref--shimizumasayasu",
       "council_id": "nagano-pref",
       "name": "清水正康",
-      "name_kana": "しみず まさやす",
+      "name_kana": "しみずまさやす",
       "district": "上伊那郡",
       "faction": "新政団",
       "elected_count": null,
@@ -720,10 +707,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/kamiina/shimizu1.html"
     },
     {
-      "id": "nagano-pref--oohata-to-shitaka",
+      "id": "nagano-pref--oohatatoshitaka",
       "council_id": "nagano-pref",
       "name": "大畑俊隆",
-      "name_kana": "おおはた と したか",
+      "name_kana": "おおはたとしたか",
       "district": "木曽郡",
       "faction": "自民党",
       "elected_count": null,
@@ -733,10 +720,10 @@
       "official_profile_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/kiso/ohata.html"
     },
     {
-      "id": "nagano-pref--miyazawa-to-shifumi",
+      "id": "nagano-pref--miyazawatoshifumi",
       "council_id": "nagano-pref",
       "name": "宮澤敏文",
-      "name_kana": "みやざわ と しふみ",
+      "name_kana": "みやざわとしふみ",
       "district": "北安曇郡",
       "faction": "無所属",
       "elected_count": null,
@@ -747,25 +734,32 @@
     }
   ],
   "source_basis_date": "更新日 2026-04-06 / 任期 2023-04-30〜2027-04-29",
-  "last_verified": "2026-06-16",
+  "last_verified": "2026-06-17",
   "teisu": 57,
-  "genin": 57,
-  "ketsuin": 0,
+  "genin": 56,
+  "ketsuin": 1,
   "checks": {
     "anchor_type": "official_district_capacity",
     "anchor_source_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/index.html",
     "source_basis_date": "更新日 2026-04-06 / 任期 2023-04-30〜2027-04-29",
-    "last_verified": "2026-06-16",
+    "last_verified": "2026-06-17",
     "teisu": 57,
-    "genin": 57,
-    "ketsuin": 0,
-    "parsed_members": 57,
-    "vacancy_details": [],
+    "genin": 56,
+    "ketsuin": 1,
+    "parsed_members": 56,
+    "vacancy_details": [
+      {
+        "district": "上田市・小県郡",
+        "ketsuin": 1,
+        "source_url": "https://www.pref.nagano.lg.jp/gikai/gikai/giin/senkyoku/index.html"
+      }
+    ],
     "notes": [
       "選挙区別HTMLの氏名・ふりがな・会派のみを取得",
+      "氏名欄がーの行は欠員プレースホルダとして扱い、議員データには含めない",
       "連絡場所列は読まず、重複表示行はプロフィールURLで除外",
       "写真は取得せず、photo_urlは全員null"
     ]
   },
-  "updated_at": "2026-06-16T18:36:43+00:00"
+  "updated_at": "2026-06-17T18:42:39+00:00"
 }

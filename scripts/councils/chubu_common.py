@@ -16,6 +16,7 @@ if str(REPO_ROOT) not in sys.path:
 
 from scripts.adapters.single_page_roster import (  # noqa: E402
     build_member,
+    compact_kana_text,
     compact_name,
     ensure_unique_ids,
     normalize_text,
@@ -49,7 +50,7 @@ def parse_name_kana(value: str) -> tuple[str, str | None, list[str]]:
     text, positions = clean_role_prefix(value)
     paren = re.search(r"(.+?)[（(]\s*([^（）()]+?)\s*[）)]", text)
     if paren:
-        return normalize_text(paren.group(1)), normalize_text(paren.group(2)), positions
+        return normalize_text(paren.group(1)), compact_kana_text(paren.group(2)), positions
 
     tokens = normalize_text(text).split()
     if not tokens:
@@ -61,13 +62,13 @@ def parse_name_kana(value: str) -> tuple[str, str | None, list[str]]:
             split_at += 1
         kana = " ".join(tokens[:split_at])
         name = " ".join(tokens[split_at:])
-        return normalize_text(name), normalize_text(kana) or None, positions
+        return normalize_text(name), compact_kana_text(kana), positions
 
     for index, token in enumerate(tokens):
         if is_kana_token(token):
             name = " ".join(tokens[:index])
             kana = " ".join(tokens[index:])
-            return normalize_text(name), normalize_text(kana) or None, positions
+            return normalize_text(name), compact_kana_text(kana), positions
     return normalize_text(text), None, positions
 
 

@@ -63,6 +63,19 @@ def kana_to_katakana(value: str | None) -> str | None:
     return text.translate(HIRAGANA_TO_KATAKANA)
 
 
+KANA_ONLY_RE = re.compile(r"^[ぁ-ゖァ-ヺー・\s]+$")
+
+
+def compact_kana_text(value: str | None) -> str | None:
+    """Remove presentation-only spacing inside kana strings."""
+    text = normalize_text(value)
+    if not text:
+        return None
+    if KANA_ONLY_RE.fullmatch(text):
+        return re.sub(r"\s+", "", text)
+    return text
+
+
 def parse_count(value: str | None) -> int | None:
     text = normalize_text(value)
     if not text:

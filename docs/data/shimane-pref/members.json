@@ -5,10 +5,10 @@
   "acquisition": "scraping",
   "members": [
     {
-      "id": "shimane-pref--fuku-da-masaaki",
+      "id": "shimane-pref--fukudamasaaki",
       "council_id": "shimane-pref",
       "name": "福田正明",
-      "name_kana": "ふく だ まさあき",
+      "name_kana": "ふくだまさあき",
       "district": "松江",
       "faction": "自民党ネクスト島根",
       "elected_count": 10,
@@ -20,10 +20,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin33_fukuda.html"
     },
     {
-      "id": "shimane-pref--ioga-wa-sumihisa",
+      "id": "shimane-pref--iogawasumihisa",
       "council_id": "shimane-pref",
       "name": "五百川純寿",
-      "name_kana": "いおが わ すみひさ",
+      "name_kana": "いおがわすみひさ",
       "district": "松江",
       "faction": "自民党議員連盟",
       "elected_count": 9,
@@ -35,10 +35,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin28_iogawa.html"
     },
     {
-      "id": "shimane-pref--omu-ra-toshinari",
+      "id": "shimane-pref--omuratoshinari",
       "council_id": "shimane-pref",
       "name": "尾村利成",
-      "name_kana": "おむ ら としなり",
+      "name_kana": "おむらとしなり",
       "district": "松江",
       "faction": "日本共産党島根県議団",
       "elected_count": 6,
@@ -50,10 +50,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin10_omura.html"
     },
     {
-      "id": "shimane-pref--hakui-shi-keiko",
+      "id": "shimane-pref--hakuishikeiko",
       "council_id": "shimane-pref",
       "name": "白石恵子",
-      "name_kana": "はくい し けいこ",
+      "name_kana": "はくいしけいこ",
       "district": "松江",
       "faction": "民主県民クラブ",
       "elected_count": 5,
@@ -65,10 +65,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin08_hakuishi.html"
     },
     {
-      "id": "shimane-pref--su-mi-tomoko",
+      "id": "shimane-pref--sumitomoko",
       "council_id": "shimane-pref",
       "name": "角智子",
-      "name_kana": "す み ともこ",
+      "name_kana": "すみともこ",
       "district": "松江",
       "faction": "民主県民クラブ",
       "elected_count": 5,
@@ -80,10 +80,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin05_sumi.html"
     },
     {
-      "id": "shimane-pref--iwa-ta-hirotaka",
+      "id": "shimane-pref--iwatahirotaka",
       "council_id": "shimane-pref",
       "name": "岩田浩岳",
-      "name_kana": "いわ た ひろたか",
+      "name_kana": "いわたひろたか",
       "district": "松江",
       "faction": "民主県民クラブ",
       "elected_count": 4,
@@ -96,10 +96,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin01iwata.html"
     },
     {
-      "id": "shimane-pref--yoshi-no-kazuhiko",
+      "id": "shimane-pref--yoshinokazuhiko",
       "council_id": "shimane-pref",
       "name": "吉野和彦",
-      "name_kana": "よし の かずひこ",
+      "name_kana": "よしのかずひこ",
       "district": "松江",
       "faction": "公明党島根県議団",
       "elected_count": 3,
@@ -111,10 +111,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin04_yoshino.html"
     },
     {
-      "id": "shimane-pref--no-tsu-naotsugu",
+      "id": "shimane-pref--notsunaotsugu",
       "council_id": "shimane-pref",
       "name": "野津直嗣",
-      "name_kana": "の つ なおつぐ",
+      "name_kana": "のつなおつぐ",
       "district": "松江",
       "faction": "自民党ネクスト島根",
       "elected_count": 1,
@@ -127,10 +127,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin06_notsu.html"
     },
     {
-      "id": "shimane-pref--kawau-chi-daisuke",
+      "id": "shimane-pref--kawauchidaisuke",
       "council_id": "shimane-pref",
       "name": "河内大輔",
-      "name_kana": "かわう ち だいすけ",
+      "name_kana": "かわうちだいすけ",
       "district": "松江",
       "faction": "自民党ネクスト島根",
       "elected_count": 1,
@@ -143,10 +143,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin03_kawauchi.html"
     },
     {
-      "id": "shimane-pref--nakamu-ra-jiyun",
+      "id": "shimane-pref--nakamurajiyun",
       "council_id": "shimane-pref",
       "name": "中村絢",
-      "name_kana": "なかむ ら じゅん",
+      "name_kana": "なかむらじゅん",
       "district": "松江",
       "faction": "自民党ネクスト島根",
       "elected_count": 1,
@@ -158,10 +158,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin01_nakamurajun.html"
     },
     {
-      "id": "shimane-pref--oo-ya-toshihiro",
+      "id": "shimane-pref--ooyatoshihiro",
       "council_id": "shimane-pref",
       "name": "大屋俊弘",
-      "name_kana": "おお や としひろ",
+      "name_kana": "おおやとしひろ",
       "district": "浜田",
       "faction": "自民党議員連盟",
       "elected_count": 7,
@@ -173,10 +173,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin16_oya.html"
     },
     {
-      "id": "shimane-pref--suya-ma-takashi",
+      "id": "shimane-pref--suyamatakashi",
       "council_id": "shimane-pref",
       "name": "須山隆",
-      "name_kana": "すや ま たかし",
+      "name_kana": "すやまたかし",
       "district": "浜田",
       "faction": "民主県民クラブ",
       "elected_count": 5,
@@ -188,10 +188,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin02_suyama.html"
     },
     {
-      "id": "shimane-pref--okamo-to-jiyun",
+      "id": "shimane-pref--okamotojiyun",
       "council_id": "shimane-pref",
       "name": "岡本淳",
-      "name_kana": "おかも と じゅん",
+      "name_kana": "おかもとじゅん",
       "district": "浜田",
       "faction": "自民党ネクスト島根",
       "elected_count": 1,
@@ -204,10 +204,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin07_okamoto.html"
     },
     {
-      "id": "shimane-pref--naria-i-yasunobu",
+      "id": "shimane-pref--nariaiyasunobu",
       "council_id": "shimane-pref",
       "name": "成相安信",
-      "name_kana": "なりあ い やすのぶ",
+      "name_kana": "なりあいやすのぶ",
       "district": "出雲",
       "faction": "会派に属しない",
       "elected_count": 11,
@@ -219,10 +219,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin34_nariai.html"
     },
     {
-      "id": "shimane-pref--sonoya-ma-shigeru",
+      "id": "shimane-pref--sonoyamashigeru",
       "council_id": "shimane-pref",
       "name": "園山繁",
-      "name_kana": "そのや ま しげる",
+      "name_kana": "そのやましげる",
       "district": "出雲",
       "faction": "自民党議員連盟",
       "elected_count": 6,
@@ -234,10 +234,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin11_sonoyama.html"
     },
     {
-      "id": "shimane-pref--ike-da-hajime",
+      "id": "shimane-pref--ikedahajime",
       "council_id": "shimane-pref",
       "name": "池田一",
-      "name_kana": "いけ だ はじめ",
+      "name_kana": "いけだはじめ",
       "district": "出雲",
       "faction": "自民党議員連盟",
       "elected_count": 5,
@@ -249,10 +249,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin21_ikeda.html"
     },
     {
-      "id": "shimane-pref--oogu-ni-yousuke",
+      "id": "shimane-pref--ooguniyousuke",
       "council_id": "shimane-pref",
       "name": "大国陽介",
-      "name_kana": "おおぐ に ようすけ",
+      "name_kana": "おおぐにようすけ",
       "district": "出雲",
       "faction": "日本共産党島根県議団",
       "elected_count": 3,
@@ -264,10 +264,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin02_ooguni.html"
     },
     {
-      "id": "shimane-pref--tata-no-tsuyoto",
+      "id": "shimane-pref--tatanotsuyoto",
       "council_id": "shimane-pref",
       "name": "多々納剛人",
-      "name_kana": "たた の つよと",
+      "name_kana": "たたのつよと",
       "district": "出雲",
       "faction": "自民党ネクスト島根",
       "elected_count": 2,
@@ -280,10 +280,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin04_tatano.html"
     },
     {
-      "id": "shimane-pref--ha-ra-takuya",
+      "id": "shimane-pref--haratakuya",
       "council_id": "shimane-pref",
       "name": "原拓也",
-      "name_kana": "は ら たくや",
+      "name_kana": "はらたくや",
       "district": "出雲",
       "faction": "自民党ネクスト島根",
       "elected_count": 2,
@@ -295,10 +295,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin02_hara.html"
     },
     {
-      "id": "shimane-pref--ki-shi-michizou",
+      "id": "shimane-pref--kishimichizou",
       "council_id": "shimane-pref",
       "name": "岸道三",
-      "name_kana": "き し みちぞう",
+      "name_kana": "きしみちぞう",
       "district": "出雲",
       "faction": "民主県民クラブ",
       "elected_count": 1,
@@ -312,10 +312,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin08_kishi.html"
     },
     {
-      "id": "shimane-pref--okaza-ki-ayako",
+      "id": "shimane-pref--okazakiayako",
       "council_id": "shimane-pref",
       "name": "岡崎綾子",
-      "name_kana": "おかざ き あやこ",
+      "name_kana": "おかざきあやこ",
       "district": "出雲",
       "faction": "公明党島根県議団",
       "elected_count": 1,
@@ -327,10 +327,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin05_okazaki.html"
     },
     {
-      "id": "shimane-pref--moriya-ma-yuusuke",
+      "id": "shimane-pref--moriyamayuusuke",
       "council_id": "shimane-pref",
       "name": "森山裕介",
-      "name_kana": "もりや ま ゆうすけ",
+      "name_kana": "もりやまゆうすけ",
       "district": "出雲",
       "faction": "自民党ネクスト島根",
       "elected_count": 1,
@@ -343,10 +343,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin02_moriyama.html"
     },
     {
-      "id": "shimane-pref--nakashi-ma-kenji",
+      "id": "shimane-pref--nakashimakenji",
       "council_id": "shimane-pref",
       "name": "中島謙二",
-      "name_kana": "なかし ま けんじ",
+      "name_kana": "なかしまけんじ",
       "district": "益田",
       "faction": null,
       "elected_count": 5,
@@ -376,10 +376,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin09_kushiro.html"
     },
     {
-      "id": "shimane-pref--ogo-shi-shiyunichi",
+      "id": "shimane-pref--ogoshishiyunichi",
       "council_id": "shimane-pref",
       "name": "生越俊一",
-      "name_kana": "おご し しゅんいち",
+      "name_kana": "おごししゅんいち",
       "district": "大田",
       "faction": "自民党議員連盟",
       "elected_count": 4,
@@ -392,10 +392,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin03ogosi.html"
     },
     {
-      "id": "shimane-pref--naito-u-yoshihide",
+      "id": "shimane-pref--naitouyoshihide",
       "council_id": "shimane-pref",
       "name": "内藤芳秀",
-      "name_kana": "ないと う よしひで",
+      "name_kana": "ないとうよしひで",
       "district": "大田",
       "faction": "自民党ネクスト島根",
       "elected_count": 2,
@@ -407,10 +407,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin06_naitou.html"
     },
     {
-      "id": "shimane-pref--kamo-to-yuuichi",
+      "id": "shimane-pref--kamotoyuuichi",
       "council_id": "shimane-pref",
       "name": "嘉本祐一",
-      "name_kana": "かも と ゆういち",
+      "name_kana": "かもとゆういち",
       "district": "安来",
       "faction": "自民党ネクスト島根",
       "elected_count": 3,
@@ -422,10 +422,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin10_kamoto.html"
     },
     {
-      "id": "shimane-pref--tana-ka-akemi",
+      "id": "shimane-pref--tanakaakemi",
       "council_id": "shimane-pref",
       "name": "田中明美",
-      "name_kana": "たな か あけみ",
+      "name_kana": "たなかあけみ",
       "district": "安来",
       "faction": "自民党議員連盟",
       "elected_count": 3,
@@ -438,10 +438,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin09_tanaka-akemi.html"
     },
     {
-      "id": "shimane-pref--tsubou-chi-riyouji",
+      "id": "shimane-pref--tsubouchiriyouji",
       "council_id": "shimane-pref",
       "name": "坪内涼二",
-      "name_kana": "つぼう ち りょうじ",
+      "name_kana": "つぼうちりょうじ",
       "district": "江津",
       "faction": "自民党議員連盟",
       "elected_count": 2,
@@ -484,10 +484,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin08_takahashi.html"
     },
     {
-      "id": "shimane-pref--itoha-ra-tokuyasu",
+      "id": "shimane-pref--itoharatokuyasu",
       "council_id": "shimane-pref",
       "name": "絲原徳康",
-      "name_kana": "いとは ら とくやす",
+      "name_kana": "いとはらとくやす",
       "district": "仁多",
       "faction": "自民党議員連盟",
       "elected_count": 7,
@@ -499,10 +499,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin20_itohara.html"
     },
     {
-      "id": "shimane-pref--fuku-i-tatsuo",
+      "id": "shimane-pref--fukuitatsuo",
       "council_id": "shimane-pref",
       "name": "福井竜夫",
-      "name_kana": "ふく い たつお",
+      "name_kana": "ふくいたつお",
       "district": "邑智",
       "faction": "自民党議員連盟",
       "elected_count": 2,
@@ -515,10 +515,10 @@
       "official_profile_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/simeibetu/giin03_fukui.html"
     },
     {
-      "id": "shimane-pref--nakamu-ra-yoshinobu",
+      "id": "shimane-pref--nakamurayoshinobu",
       "council_id": "shimane-pref",
       "name": "中村芳信",
-      "name_kana": "なかむ ら よしのぶ",
+      "name_kana": "なかむらよしのぶ",
       "district": "鹿足",
       "faction": "自民党議員連盟",
       "elected_count": 7,
@@ -655,7 +655,7 @@
     "anchor_type": "official_district_capacity_image",
     "anchor_source_url": "https://www.pref.shimane.lg.jp/gikai/gaido/meibo/tiku.data/r5_senkyoku2.jpg",
     "source_basis_date": "選挙区別名簿 公式基準日記載なし / 選挙区ごとの定数画像 r5_senkyoku2.jpg",
-    "last_verified": "2026-06-15",
+    "last_verified": "2026-06-17",
     "teisu": 36,
     "genin": 35,
     "ketsuin": 1,
@@ -668,9 +668,9 @@
     ]
   },
   "source_basis_date": "選挙区別名簿 公式基準日記載なし / 選挙区ごとの定数画像 r5_senkyoku2.jpg",
-  "last_verified": "2026-06-15",
+  "last_verified": "2026-06-17",
   "teisu": 36,
   "genin": 35,
   "ketsuin": 1,
-  "updated_at": "2026-06-15T09:03:22+00:00"
+  "updated_at": "2026-06-17T18:39:33+00:00"
 }

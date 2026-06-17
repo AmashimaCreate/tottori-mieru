@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 from pathlib import Path
 from typing import Any
@@ -52,6 +53,7 @@ MEMBER_KEYS = {
     "committees",
     "photo_url",
 }
+PLACEHOLDER_NAME_RE = r"^[\-ー－―−\s]+$"
 PROFILE_ROOT_KEYS = {
     "council_id",
     "population",
@@ -333,6 +335,17 @@ def validate_members_file(council_id: str, path: Path) -> list[str]:
                 f"{label}: council_id '{member.get('council_id')}' "
                 f"does not match '{council_id}'"
             )
+        name = member.get("name")
+        if not isinstance(name, str) or not name.strip():
+            errors.append(f"{label}: name must be a non-empty string")
+        elif re.fullmatch(PLACEHOLDER_NAME_RE, name):
+            errors.append(f"{label}: name must not be a placeholder")
+        name_kana = member.get("name_kana")
+        if name_kana is not None:
+            if not isinstance(name_kana, str) or not name_kana.strip():
+                errors.append(f"{label}: name_kana must be a non-empty string or null")
+            elif re.fullmatch(PLACEHOLDER_NAME_RE, name_kana):
+                errors.append(f"{label}: name_kana must not be a placeholder")
         if not isinstance(member.get("positions"), list):
             errors.append(f"{label}: positions must be a list")
         if not isinstance(member.get("committees"), list):

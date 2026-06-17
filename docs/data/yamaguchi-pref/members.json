@@ -5,10 +5,10 @@
   "acquisition": "scraping",
   "members": [
     {
-      "id": "yamaguchi-pref--shiomitsu-hisao",
+      "id": "yamaguchi-pref--shiomitsuhisao",
       "council_id": "yamaguchi-pref",
       "name": "塩満久雄",
-      "name_kana": "しおみつ ひさお",
+      "name_kana": "しおみつひさお",
       "district": "下関市",
       "faction": "自由民主党",
       "elected_count": 8,
@@ -21,10 +21,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25276.html"
     },
     {
-      "id": "yamaguchi-pref--ki-sa-ki-daisuke",
+      "id": "yamaguchi-pref--kisakidaisuke",
       "council_id": "yamaguchi-pref",
       "name": "木佐木大助",
-      "name_kana": "き さ き だいすけ",
+      "name_kana": "きさきだいすけ",
       "district": "下関市",
       "faction": "日本共産党",
       "elected_count": 4,
@@ -37,10 +37,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25278.html"
     },
     {
-      "id": "yamaguchi-pref--tomoda-tamotsu",
+      "id": "yamaguchi-pref--tomodatamotsu",
       "council_id": "yamaguchi-pref",
       "name": "友田有",
-      "name_kana": "ともだ たもつ",
+      "name_kana": "ともだたもつ",
       "district": "下関市",
       "faction": "自由民主党",
       "elected_count": 8,
@@ -53,10 +53,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25280.html"
     },
     {
-      "id": "yamaguchi-pref--takase-toshiya",
+      "id": "yamaguchi-pref--takasetoshiya",
       "council_id": "yamaguchi-pref",
       "name": "髙瀬利也",
-      "name_kana": "たかせ としや",
+      "name_kana": "たかせとしや",
       "district": "下関市",
       "faction": "自由民主党",
       "elected_count": 3,
@@ -69,10 +69,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25303.html"
     },
     {
-      "id": "yamaguchi-pref--maehigashi-naoki",
+      "id": "yamaguchi-pref--maehigashinaoki",
       "council_id": "yamaguchi-pref",
       "name": "前東直樹",
-      "name_kana": "まえひがし なおき",
+      "name_kana": "まえひがしなおき",
       "district": "下関市",
       "faction": "公明党",
       "elected_count": 1,
@@ -86,10 +86,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/205995.html"
     },
     {
-      "id": "yamaguchi-pref--sakamoto-tetsuya",
+      "id": "yamaguchi-pref--sakamototetsuya",
       "council_id": "yamaguchi-pref",
       "name": "酒本哲也",
-      "name_kana": "さかもと てつや",
+      "name_kana": "さかもとてつや",
       "district": "下関市",
       "faction": "やまぐち県政会",
       "elected_count": 2,
@@ -103,10 +103,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25311.html"
     },
     {
-      "id": "yamaguchi-pref--hiraoka-nozomu",
+      "id": "yamaguchi-pref--hiraokanozomu",
       "council_id": "yamaguchi-pref",
       "name": "平岡望",
-      "name_kana": "ひらおか のぞむ",
+      "name_kana": "ひらおかのぞむ",
       "district": "下関市",
       "faction": "未来創政の会",
       "elected_count": 4,
@@ -118,10 +118,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25301.html"
     },
     {
-      "id": "yamaguchi-pref--hayashi-naoto",
+      "id": "yamaguchi-pref--hayashinaoto",
       "council_id": "yamaguchi-pref",
       "name": "林直人",
-      "name_kana": "はやし なおと",
+      "name_kana": "はやしなおと",
       "district": "下関市",
       "faction": "自由民主党",
       "elected_count": 1,
@@ -135,10 +135,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206002.html"
     },
     {
-      "id": "yamaguchi-pref--nishimoto-kenjirou",
+      "id": "yamaguchi-pref--nishimotokenjirou",
       "council_id": "yamaguchi-pref",
       "name": "西本健治郎",
-      "name_kana": "にしもと けんじろう",
+      "name_kana": "にしもとけんじろう",
       "district": "下関市",
       "faction": "自由民主党",
       "elected_count": 3,
@@ -168,10 +168,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25282.html"
     },
     {
-      "id": "yamaguchi-pref--fujimoto-kazunori",
+      "id": "yamaguchi-pref--fujimotokazunori",
       "council_id": "yamaguchi-pref",
       "name": "藤本一規",
-      "name_kana": "ふじもと かずのり",
+      "name_kana": "ふじもとかずのり",
       "district": "宇部市",
       "faction": "日本共産党",
       "elected_count": 6,
@@ -185,10 +185,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25283.html"
     },
     {
-      "id": "yamaguchi-pref--takai-tomoko",
+      "id": "yamaguchi-pref--takaitomoko",
       "council_id": "yamaguchi-pref",
       "name": "高井智子",
-      "name_kana": "たかい ともこ",
+      "name_kana": "たかいともこ",
       "district": "宇部市",
       "faction": "自由民主党",
       "elected_count": 2,
@@ -201,10 +201,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/132677.html"
     },
     {
-      "id": "yamaguchi-pref--ujihara-hideki",
+      "id": "yamaguchi-pref--ujiharahideki",
       "council_id": "yamaguchi-pref",
       "name": "氏原秀城",
-      "name_kana": "うじはら ひでき",
+      "name_kana": "うじはらひでき",
       "district": "宇部市",
       "faction": "やまぐち県政会",
       "elected_count": 1,
@@ -216,10 +216,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206008.html"
     },
     {
-      "id": "yamaguchi-pref--naono-suguru",
+      "id": "yamaguchi-pref--naonosuguru",
       "council_id": "yamaguchi-pref",
       "name": "猶野克",
-      "name_kana": "なおの すぐる",
+      "name_kana": "なおのすぐる",
       "district": "宇部市",
       "faction": "公明党",
       "elected_count": 2,
@@ -232,10 +232,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25313.html"
     },
     {
-      "id": "yamaguchi-pref--goushi-eiichi",
+      "id": "yamaguchi-pref--goushieiichi",
       "council_id": "yamaguchi-pref",
       "name": "合志栄一",
-      "name_kana": "ごうし えいいち",
+      "name_kana": "ごうしえいいち",
       "district": "山口市",
       "faction": "新政クラブ",
       "elected_count": 8,
@@ -247,10 +247,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25285.html"
     },
     {
-      "id": "yamaguchi-pref--odamura-katsuhiko",
+      "id": "yamaguchi-pref--odamurakatsuhiko",
       "council_id": "yamaguchi-pref",
       "name": "小田村克彦",
-      "name_kana": "おだむら かつひこ",
+      "name_kana": "おだむらかつひこ",
       "district": "山口市",
       "faction": "やまぐち県政会",
       "elected_count": 2,
@@ -263,10 +263,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25314.html"
     },
     {
-      "id": "yamaguchi-pref--kawai-kiyo",
+      "id": "yamaguchi-pref--kawaikiyo",
       "council_id": "yamaguchi-pref",
       "name": "河合喜代",
-      "name_kana": "かわい きよ",
+      "name_kana": "かわいきよ",
       "district": "山口市",
       "faction": "日本共産党",
       "elected_count": 2,
@@ -278,10 +278,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206013.html"
     },
     {
-      "id": "yamaguchi-pref--so-ta-satoshi",
+      "id": "yamaguchi-pref--sotasatoshi",
       "council_id": "yamaguchi-pref",
       "name": "曽田聡",
-      "name_kana": "そ た さとし",
+      "name_kana": "そたさとし",
       "district": "山口市",
       "faction": "公明党",
       "elected_count": 4,
@@ -294,10 +294,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25281.html"
     },
     {
-      "id": "yamaguchi-pref--yoshida-mitsuhiro",
+      "id": "yamaguchi-pref--yoshidamitsuhiro",
       "council_id": "yamaguchi-pref",
       "name": "吉田充宏",
-      "name_kana": "よしだ みつひろ",
+      "name_kana": "よしだみつひろ",
       "district": "山口市",
       "faction": "自由民主党",
       "elected_count": 4,
@@ -309,10 +309,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25286.html"
     },
     {
-      "id": "yamaguchi-pref--fujio-osamu",
+      "id": "yamaguchi-pref--fujioosamu",
       "council_id": "yamaguchi-pref",
       "name": "藤生宰",
-      "name_kana": "ふじお おさむ",
+      "name_kana": "ふじおおさむ",
       "district": "山口市",
       "faction": "自由民主党",
       "elected_count": 1,
@@ -325,10 +325,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206014.html"
     },
     {
-      "id": "yamaguchi-pref--oka-takako",
+      "id": "yamaguchi-pref--okatakako",
       "council_id": "yamaguchi-pref",
       "name": "岡生子",
-      "name_kana": "おか たかこ",
+      "name_kana": "おかたかこ",
       "district": "萩市・阿武町",
       "faction": "自由民主党",
       "elected_count": 2,
@@ -342,10 +342,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/127752.html"
     },
     {
-      "id": "yamaguchi-pref--sasamura-naoya",
+      "id": "yamaguchi-pref--sasamuranaoya",
       "council_id": "yamaguchi-pref",
       "name": "笹村直也",
-      "name_kana": "ささむら なおや",
+      "name_kana": "ささむらなおや",
       "district": "萩市・阿武町",
       "faction": "自由民主党",
       "elected_count": 1,
@@ -358,10 +358,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206025.html"
     },
     {
-      "id": "yamaguchi-pref--shimata-noriaki",
+      "id": "yamaguchi-pref--shimatanoriaki",
       "council_id": "yamaguchi-pref",
       "name": "島田教明",
-      "name_kana": "しまた のりあき",
+      "name_kana": "しまたのりあき",
       "district": "防府市",
       "faction": "自由民主党",
       "elected_count": 4,
@@ -373,10 +373,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25288.html"
     },
     {
-      "id": "yamaguchi-pref--ishimaru-noriko",
+      "id": "yamaguchi-pref--ishimarunoriko",
       "council_id": "yamaguchi-pref",
       "name": "石丸典子",
-      "name_kana": "いしまる のりこ",
+      "name_kana": "いしまるのりこ",
       "district": "防府市",
       "faction": "公明党",
       "elected_count": 6,
@@ -389,10 +389,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25289.html"
     },
     {
-      "id": "yamaguchi-pref--matsuura-tamon",
+      "id": "yamaguchi-pref--matsuuratamon",
       "council_id": "yamaguchi-pref",
       "name": "松浦多紋",
-      "name_kana": "まつうら たもん",
+      "name_kana": "まつうらたもん",
       "district": "防府市",
       "faction": "県民の誇りを育む会",
       "elected_count": 2,
@@ -405,10 +405,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25315.html"
     },
     {
-      "id": "yamaguchi-pref--ushimi-wataru",
+      "id": "yamaguchi-pref--ushimiwataru",
       "council_id": "yamaguchi-pref",
       "name": "牛見航",
-      "name_kana": "うしみ わたる",
+      "name_kana": "うしみわたる",
       "district": "防府市",
       "faction": "自由民主党",
       "elected_count": 1,
@@ -421,10 +421,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206030.html"
     },
     {
-      "id": "yamaguchi-pref--morita-muneharu",
+      "id": "yamaguchi-pref--moritamuneharu",
       "council_id": "yamaguchi-pref",
       "name": "守田宗治",
-      "name_kana": "もりた むねはる",
+      "name_kana": "もりたむねはる",
       "district": "下松市",
       "faction": "自由民主党",
       "elected_count": 8,
@@ -437,10 +437,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25291.html"
     },
     {
-      "id": "yamaguchi-pref--morishige-tetsuya",
+      "id": "yamaguchi-pref--morishigetetsuya",
       "council_id": "yamaguchi-pref",
       "name": "森繁哲也",
-      "name_kana": "もりしげ てつや",
+      "name_kana": "もりしげてつや",
       "district": "下松市",
       "faction": "自由民主党",
       "elected_count": 3,
@@ -453,10 +453,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25309.html"
     },
     {
-      "id": "yamaguchi-pref--makimoto-toshimitsu",
+      "id": "yamaguchi-pref--makimototoshimitsu",
       "council_id": "yamaguchi-pref",
       "name": "槙本利光",
-      "name_kana": "まきもと としみつ",
+      "name_kana": "まきもととしみつ",
       "district": "岩国市・和木町",
       "faction": "自由民主党",
       "elected_count": 5,
@@ -468,10 +468,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25292.html"
     },
     {
-      "id": "yamaguchi-pref--ihara-su-ga-ko",
+      "id": "yamaguchi-pref--iharasugako",
       "council_id": "yamaguchi-pref",
       "name": "井原寿加子",
-      "name_kana": "いはら す が こ",
+      "name_kana": "いはらすがこ",
       "district": "岩国市・和木町",
       "faction": "草の根",
       "elected_count": 4,
@@ -483,10 +483,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25293.html"
     },
     {
-      "id": "yamaguchi-pref--hashimoto-naomichi",
+      "id": "yamaguchi-pref--hashimotonaomichi",
       "council_id": "yamaguchi-pref",
       "name": "橋本尚理",
-      "name_kana": "はしもと なおみち",
+      "name_kana": "はしもとなおみち",
       "district": "岩国市・和木町",
       "faction": "自由民主党新生会",
       "elected_count": 6,
@@ -498,10 +498,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25294.html"
     },
     {
-      "id": "yamaguchi-pref--yamate-yasuhiro",
+      "id": "yamaguchi-pref--yamateyasuhiro",
       "council_id": "yamaguchi-pref",
       "name": "山手康弘",
-      "name_kana": "やまて やすひろ",
+      "name_kana": "やまてやすひろ",
       "district": "岩国市・和木町",
       "faction": "自由民主党",
       "elected_count": 3,
@@ -514,10 +514,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25305.html"
     },
     {
-      "id": "yamaguchi-pref--hatahara-yuuta",
+      "id": "yamaguchi-pref--hataharayuuta",
       "council_id": "yamaguchi-pref",
       "name": "畑原勇太",
-      "name_kana": "はたはら ゆうた",
+      "name_kana": "はたはらゆうた",
       "district": "岩国市・和木町",
       "faction": "自由民主党",
       "elected_count": 3,
@@ -530,10 +530,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25310.html"
     },
     {
-      "id": "yamaguchi-pref--isobe-to-shi-e",
+      "id": "yamaguchi-pref--isobetoshie",
       "council_id": "yamaguchi-pref",
       "name": "磯部登志恵",
-      "name_kana": "いそべ と し え",
+      "name_kana": "いそべとしえ",
       "district": "光市",
       "faction": "自由民主党",
       "elected_count": 2,
@@ -546,10 +546,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/127675.html"
     },
     {
-      "id": "yamaguchi-pref--kawano-tooru",
+      "id": "yamaguchi-pref--kawanotooru",
       "council_id": "yamaguchi-pref",
       "name": "河野亨",
-      "name_kana": "かわの とおる",
+      "name_kana": "かわのとおる",
       "district": "光市",
       "faction": "自由民主党",
       "elected_count": 5,
@@ -561,10 +561,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25295.html"
     },
     {
-      "id": "yamaguchi-pref--kasamoto-toshiya",
+      "id": "yamaguchi-pref--kasamototoshiya",
       "council_id": "yamaguchi-pref",
       "name": "笠本俊也",
-      "name_kana": "かさもと としや",
+      "name_kana": "かさもととしや",
       "district": "長門市",
       "faction": "自由民主党",
       "elected_count": 4,
@@ -577,10 +577,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25296.html"
     },
     {
-      "id": "yamaguchi-pref--yamagata-takashi",
+      "id": "yamaguchi-pref--yamagatatakashi",
       "council_id": "yamaguchi-pref",
       "name": "山縣孝司",
-      "name_kana": "やまがた たかし",
+      "name_kana": "やまがたたかし",
       "district": "柳井市",
       "faction": "無所属の会",
       "elected_count": 1,
@@ -592,10 +592,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/339100.html"
     },
     {
-      "id": "yamaguchi-pref--nakamoto-yoshihiro",
+      "id": "yamaguchi-pref--nakamotoyoshihiro",
       "council_id": "yamaguchi-pref",
       "name": "中本喜弘",
-      "name_kana": "なかもと よしひろ",
+      "name_kana": "なかもとよしひろ",
       "district": "美祢市",
       "faction": "自由民主党",
       "elected_count": 1,
@@ -608,10 +608,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206036.html"
     },
     {
-      "id": "yamaguchi-pref--tomohiro-iwao",
+      "id": "yamaguchi-pref--tomohiroiwao",
       "council_id": "yamaguchi-pref",
       "name": "友広巌",
-      "name_kana": "ともひろ いわお",
+      "name_kana": "ともひろいわお",
       "district": "周南市",
       "faction": "自由民主党",
       "elected_count": 4,
@@ -624,10 +624,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25298.html"
     },
     {
-      "id": "yamaguchi-pref--ueoka-yasuhiko",
+      "id": "yamaguchi-pref--ueokayasuhiko",
       "council_id": "yamaguchi-pref",
       "name": "上岡康彦",
-      "name_kana": "うえおか やすひこ",
+      "name_kana": "うえおかやすひこ",
       "district": "周南市",
       "faction": "公明党",
       "elected_count": 6,
@@ -640,10 +640,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25300.html"
     },
     {
-      "id": "yamaguchi-pref--sakamoto-shinji",
+      "id": "yamaguchi-pref--sakamotoshinji",
       "council_id": "yamaguchi-pref",
       "name": "坂本心次",
-      "name_kana": "さかもと しんじ",
+      "name_kana": "さかもとしんじ",
       "district": "周南市",
       "faction": "自由民主党",
       "elected_count": 2,
@@ -656,10 +656,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25317.html"
     },
     {
-      "id": "yamaguchi-pref--oouchi-kazuya",
+      "id": "yamaguchi-pref--oouchikazuya",
       "council_id": "yamaguchi-pref",
       "name": "大内一也",
-      "name_kana": "おおうち かずや",
+      "name_kana": "おおうちかずや",
       "district": "周南市",
       "faction": "やまぐち県政会",
       "elected_count": 1,
@@ -671,10 +671,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206037.html"
     },
     {
-      "id": "yamaguchi-pref--fukuda-rieko",
+      "id": "yamaguchi-pref--fukudarieko",
       "council_id": "yamaguchi-pref",
       "name": "福田吏江子",
-      "name_kana": "ふくだ りえこ",
+      "name_kana": "ふくだりえこ",
       "district": "周南市",
       "faction": "すずらんの会",
       "elected_count": 1,
@@ -687,10 +687,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/206045.html"
     },
     {
-      "id": "yamaguchi-pref--nakashima-mitsuo",
+      "id": "yamaguchi-pref--nakashimamitsuo",
       "council_id": "yamaguchi-pref",
       "name": "中嶋光雄",
-      "name_kana": "なかしま みつお",
+      "name_kana": "なかしまみつお",
       "district": "山陽小野田市",
       "faction": "社民党・市民連合",
       "elected_count": 3,
@@ -702,10 +702,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25308.html"
     },
     {
-      "id": "yamaguchi-pref--emoto-ikuo",
+      "id": "yamaguchi-pref--emotoikuo",
       "council_id": "yamaguchi-pref",
       "name": "江本郁夫",
-      "name_kana": "えもと いくお",
+      "name_kana": "えもといくお",
       "district": "山陽小野田市",
       "faction": "自由民主党",
       "elected_count": 4,
@@ -717,10 +717,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25302.html"
     },
     {
-      "id": "yamaguchi-pref--yanai-shiyungaku",
+      "id": "yamaguchi-pref--yanaishiyungaku",
       "council_id": "yamaguchi-pref",
       "name": "柳居俊学",
-      "name_kana": "やない しゅんがく",
+      "name_kana": "やないしゅんがく",
       "district": "周防大島町",
       "faction": "自由民主党",
       "elected_count": 9,
@@ -732,10 +732,10 @@
       "official_profile_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25275.html"
     },
     {
-      "id": "yamaguchi-pref--kunimoto-takuya",
+      "id": "yamaguchi-pref--kunimototakuya",
       "council_id": "yamaguchi-pref",
       "name": "国本卓也",
-      "name_kana": "くにもと たくや",
+      "name_kana": "くにもとたくや",
       "district": "上関町・田布施町・平生町",
       "faction": "自由民主党",
       "elected_count": 2,
@@ -888,16 +888,16 @@
     "anchor_type": "official_district_capacity",
     "anchor_source_url": "https://www.pref.yamaguchi.lg.jp/site/gikai/25262.html",
     "source_basis_date": "議員名簿 更新日: 2026年4月21日 / 会派別 令和8年3月10日現在",
-    "last_verified": "2026-06-15",
+    "last_verified": "2026-06-17",
     "teisu": 47,
     "genin": 47,
     "ketsuin": 0,
     "vacancy_details": []
   },
   "source_basis_date": "議員名簿 更新日: 2026年4月21日 / 会派別 令和8年3月10日現在",
-  "last_verified": "2026-06-15",
+  "last_verified": "2026-06-17",
   "teisu": 47,
   "genin": 47,
   "ketsuin": 0,
-  "updated_at": "2026-06-15T09:11:01+00:00"
+  "updated_at": "2026-06-17T18:41:29+00:00"
 }
