@@ -82,50 +82,95 @@ function renderMemberResearchSection(member, state) {
 
 function memberPromptItems(member, state) {
   const council = state.currentCouncil;
-  const prompts = [
+  return [
     {
       key: "activity",
       label: "活動テーマ",
-      text: structuredPrompt(member.name, council, activityInstruction(member, council)),
+      text: activityPrompt(member, council),
+    },
+    {
+      key: "profile",
+      label: "経歴・基本情報",
+      text: profilePrompt(member, council),
     },
   ];
-  prompts.push({
-    key: "profile",
-    label: "経歴・基本情報",
-    text: structuredPrompt(member.name, council, profileInstruction(member, council)),
-  });
-  return prompts;
 }
 
-function structuredPrompt(target, council, instruction) {
+function activityPrompt(member, council) {
+  const councilName = council?.name || "議会";
+  const factionText = member.faction ? `、会派: ${promptFaction(member.faction)}` : "";
+  const officialSources = officialSourceText(member, council);
   return [
-    `対象: ${target}(${council?.name || "議会"})`,
+    `対象: ${member.name}（${councilName}）`,
+    "",
     "# お願い",
-    `- ${instruction}`,
-    "- 専門用語にはひとこと説明を添えてください",
-    "- 確実でない点や古い可能性のある点は「分からない」と述べ、できれば出典を示してください",
-    "- 評価や良し悪しの断定ではなく、事実の整理をお願いします",
+    `${member.name}議員（${councilName}${factionText}）が、議会でどんなテーマに取り組んでいるかを、公開情報の範囲で整理してください。`,
+    "",
+    "# 前提（重要）",
+    `- 出典（公式）: ${officialSources}`,
+    `- 同姓同名の別人と取り違えないよう、${councilName}議員本人であることを確認してください。`,
+    "- 議員の発言や活動について、良し悪しの評価・採点・他議員との優劣づけはしないでください。事実（どのテーマを、いつ、どの場で取り上げたか）を中立に整理してください。",
+    "- 確認できないこと・情報が少ないことは、断定せず正直に述べてください。",
+    "- できる限り出典（会議録のURL等）を併記してください。",
+    "",
+    "# 聞きたいこと",
+    "- どんな政策テーマ・発言・質問が公開記録にあるか（公式の会議録などの範囲で）",
+    "- そのテーマについて、自分でさらに調べるにはどの会議録・資料を見ればよいか",
   ].join("\n");
 }
 
-function activityInstruction(member, council) {
-  const prefectureName = council?.prefecture_name || "鳥取県";
+function profilePrompt(member, council) {
   const councilName = council?.name || "議会";
-  const minutesUrl = council?.minutes_base_url;
-  if (minutesUrl) {
-    return `${prefectureName}の${councilName}議員・${member.name}さんについて、${councilName}の会議録検索システム(${minutesUrl})で最近の発言を検索し、どんなテーマについて発言しているか事実ベースで整理してください`;
-  }
-  const officialUrl = officialCouncilUrl(council);
-  return `${prefectureName}の${councilName}議員・${member.name}さんについて、${councilName}の公式サイト(${officialUrl})で公開情報を確認し、最近どんなテーマに関わっているか事実ベースで整理してください`;
+  const factionText = member.faction ? `、会派: ${promptFaction(member.faction)}` : "";
+  const siteFacts = memberSiteFacts(member);
+  const officialUrl = member.official_profile_url || officialCouncilUrl(council) || "公式ページ";
+  return [
+    `対象: ${member.name}（${councilName}）`,
+    "",
+    "# お願い",
+    `${member.name}議員（${councilName}${factionText}）について、公開されている経歴や活動の基本情報を整理してください。`,
+    "",
+    "# 前提（重要）",
+    "- 以下は当サイト「政治見える化」の記載です。正しい前提とせず、必ず公式の一次情報で確認したうえで使ってください。",
+    ...siteFacts.map((fact) => `  - ${fact}`),
+    `  - 出典（公式）: ${officialUrl}`,
+    `- 同姓同名の別人（他自治体の議員、国会議員、一般の方など）と取り違えないよう、${councilName}議員の本人であることを確認してから答えてください。`,
+    "- 確実でない点や、情報が古い可能性がある点は、断定せず「確認できない」と述べてください。公開情報が少ない場合は、無理に埋めず「公開されている情報が少ない」と述べて構いません。",
+    "- できる限り、述べた内容の出典（URL）を併記してください。",
+    "- 専門用語（委員会名・役職など）には、ひとこと説明を添えてください。",
+    "",
+    "# 聞きたいこと",
+    "- どんな経歴の人物か（前職・当選回数など、公開情報の範囲で）",
+    "- 所属会派と、議会で担っている役割",
+    "- この議員について、次に自分で確認するなら何を見ればよいか（公式ページ・会議録など）",
+  ].join("\n");
 }
 
-function profileInstruction(member, council) {
-  const faction = member.faction || "会派データなし";
-  const committees = Array.isArray(member.committees) && member.committees.length
-    ? `担当委員会: ${member.committees.join(" / ")}。`
-    : "";
+function officialSourceText(member, council) {
+  const sources = [];
   const profileUrl = member.official_profile_url || officialCouncilUrl(council);
-  return `${member.name}議員(${council?.name || "議会"}、${faction})の経歴や担当委員会など公開されている基本情報を、出典(${profileUrl})を示しながら整理してください。${committees}`;
+  if (profileUrl) sources.push(profileUrl);
+  if (council?.minutes_base_url) {
+    sources.push(`${council.name || "議会"}の会議録検索システム: ${council.minutes_base_url}`);
+  } else {
+    sources.push(`${council?.name || "議会"}の会議録`);
+  }
+  return sources.join(" および ");
+}
+
+function memberSiteFacts(member) {
+  const facts = [];
+  if (member.district) facts.push(`選挙区: ${member.district}`);
+  if (member.faction) facts.push(`会派: ${promptFaction(member.faction)}`);
+  if (typeof member.elected_count === "number") facts.push(`当選回数: ${member.elected_count}回`);
+  if (Array.isArray(member.positions) && member.positions.length) facts.push(`役職: ${member.positions.join(" / ")}`);
+  if (Array.isArray(member.committees) && member.committees.length) facts.push(`担当委員会: ${member.committees.join(" / ")}`);
+  if (!facts.length) facts.push("当サイト側の補足データ: データなし");
+  return facts;
+}
+
+function promptFaction(value) {
+  return String(value).replace(/[（(]([^（）()]+)[）)]/g, "〔$1〕");
 }
 
 function detailRow(label, value) {
