@@ -483,6 +483,9 @@ a:hover { color: var(--brand-dark); }
   gap: 12px;
   margin-bottom: 24px;
 }
+.council-grid-compact {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 320px));
+}
 .council-card {
   background: var(--surface);
   border: 1px solid var(--border);

@@ -83,6 +83,8 @@ function renderGenericPrefecturePage(root, prefectureCouncils, prefectureCouncil
     summaries.map((summary) => [summary.council.id, summary]),
   );
   const activeCouncils = prefectureCouncils.filter((council) => council.status === "active");
+  const cityCouncils = activeCouncils.filter((council) => council.type === "city");
+
   root.appendChild(
     el("section", { class: "prefecture-map-panel" }, [
       el("div", { class: "section-heading-row" }, [
@@ -92,19 +94,47 @@ function renderGenericPrefecturePage(root, prefectureCouncils, prefectureCouncil
         ]),
       ]),
       el("p", { class: "muted" },
-        "このページは、現在このサイトに掲載している議会だけを表示しています。県内すべての市町村議会を網羅しているわけではありません。",
+        "このページは、現在このサイトに掲載している議会だけを表示しています。",
       ),
     ]),
   );
-  root.appendChild(
-    el("section", { class: "council-card-section" }, [
-      el("div", { class: "council-grid" },
-        activeCouncils.map((council) =>
-          renderCouncilCard(council, prefecture, summaryByCouncilId.get(council.id)),
+
+  if (prefectureCouncil) {
+    root.appendChild(
+      el("section", { class: "council-card-section" }, [
+        el("div", { class: "section-heading-row" }, [
+          el("div", {}, [
+            el("p", { class: "eyebrow" }, "都道府県議会"),
+            el("h2", { class: "section-title" }, `${prefectureCouncil.prefecture_name}議会`),
+          ]),
+        ]),
+        el("div", { class: "council-grid council-grid-compact" }, [
+          renderCouncilCard(prefectureCouncil, prefecture, summaryByCouncilId.get(prefectureCouncil.id), { hideTypeLabel: true }),
+        ]),
+      ]),
+    );
+  }
+
+  if (cityCouncils.length) {
+    root.appendChild(
+      el("section", { class: "council-card-section" }, [
+        el("div", { class: "section-heading-row" }, [
+          el("div", {}, [
+            el("p", { class: "eyebrow" }, "政令指定都市"),
+            el("h2", { class: "section-title" }, "この県の政令市"),
+          ]),
+        ]),
+        el("p", { class: "muted" },
+          "現在は政令指定都市の市議会のみ掲載しています。県内すべての市区町村議会を網羅しているわけではありません。",
         ),
-      ),
-    ]),
-  );
+        el("div", { class: "council-grid" },
+          cityCouncils.map((council) =>
+            renderCouncilCard(council, prefecture, summaryByCouncilId.get(council.id)),
+          ),
+        ),
+      ]),
+    );
+  }
 }
 
 function renderCouncilCard(council, prefecture, summary = null, options = {}) {
