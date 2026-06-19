@@ -85,69 +85,60 @@ function renderGenericPrefecturePage(root, prefectureCouncils, prefectureCouncil
   const activeCouncils = prefectureCouncils.filter((council) => council.status === "active");
   const wardCouncils = activeCouncils.filter((council) => isTokyoWardCouncil(council));
   const cityCouncils = activeCouncils.filter((council) => council.type === "city" && !isTokyoWardCouncil(council));
+  const totalMembers = activeCouncils.reduce((sum, council) => {
+    const count = summaryByCouncilId.get(council.id)?.memberCount;
+    return sum + (typeof count === "number" ? count : 0);
+  }, 0);
+  const groups = [
+    cityCouncils.length
+      ? renderCouncilGroup("政令指定都市", cityCouncils, prefecture, summaryByCouncilId)
+      : null,
+    wardCouncils.length
+      ? renderCouncilGroup("特別区議会", wardCouncils, prefecture, summaryByCouncilId, { compact: true })
+      : null,
+  ].filter(Boolean);
 
   root.appendChild(
-    el("section", { class: "prefecture-map-panel" }, [
-      el("div", { class: "section-heading-row" }, [
+    el("section", { class: "prefecture-landing page-card" }, [
+      el("div", { class: "prefecture-landing-hero" }, [
         el("div", {}, [
-          el("p", { class: "eyebrow" }, prefectureCouncil?.prefecture_name || "都道府県"),
-          el("h2", { class: "section-title" }, "掲載中の議会"),
+          el("p", { class: "eyebrow" }, prefectureCouncil?.prefecture_name || "地域ページ"),
+          el("h2", { class: "section-title" }, "掲載中の議会を見る"),
+          el("div", { class: "prefecture-summary-pills", "aria-label": "掲載データ数" }, [
+            renderSummaryPill("掲載議会", `${activeCouncils.length}議会`),
+            renderSummaryPill("掲載議員", totalMembers ? `${formatNumber(totalMembers)}人` : "確認中"),
+          ]),
         ]),
+        prefectureCouncil
+          ? renderCouncilCard(prefectureCouncil, prefecture, summaryByCouncilId.get(prefectureCouncil.id), { hideTypeLabel: true, featured: true })
+          : null,
       ]),
+      groups.length ? el("div", { class: "prefecture-council-groups" }, groups) : null,
     ]),
   );
+}
 
-  if (prefectureCouncil) {
-    root.appendChild(
-      el("section", { class: "council-card-section" }, [
-        el("div", { class: "section-heading-row" }, [
-          el("div", {}, [
-            el("p", { class: "eyebrow" }, "都道府県議会"),
-            el("h2", { class: "section-title" }, `${prefectureCouncil.prefecture_name}議会`),
-          ]),
-        ]),
-        el("div", { class: "council-grid council-grid-compact" }, [
-          renderCouncilCard(prefectureCouncil, prefecture, summaryByCouncilId.get(prefectureCouncil.id), { hideTypeLabel: true }),
-        ]),
-      ]),
-    );
-  }
+function renderCouncilGroup(label, councils, prefecture, summaryByCouncilId, options = {}) {
+  return el("section", { class: "prefecture-council-group" }, [
+    el("div", { class: "prefecture-group-heading" }, [
+      el("h3", {}, label),
+      el("span", {}, `${councils.length}議会`),
+    ]),
+    el(
+      "div",
+      { class: `council-grid ${options.compact ? "council-grid-compact" : ""}` },
+      councils.map((council) =>
+        renderCouncilCard(council, prefecture, summaryByCouncilId.get(council.id), options),
+      ),
+    ),
+  ]);
+}
 
-  if (cityCouncils.length) {
-    root.appendChild(
-      el("section", { class: "council-card-section" }, [
-        el("div", { class: "section-heading-row" }, [
-          el("div", {}, [
-            el("p", { class: "eyebrow" }, "政令指定都市"),
-            el("h2", { class: "section-title" }, "この県の政令市"),
-          ]),
-        ]),
-        el("div", { class: "council-grid" },
-          cityCouncils.map((council) =>
-            renderCouncilCard(council, prefecture, summaryByCouncilId.get(council.id)),
-          ),
-        ),
-      ]),
-    );
-  }
-
-  if (wardCouncils.length) {
-    root.appendChild(
-      el("section", { class: "council-card-section" }, [
-        el("div", { class: "section-heading-row" }, [
-          el("div", {}, [
-            el("p", { class: "eyebrow" }, "特別区議会"),
-            el("h2", { class: "section-title" }, "東京23区の区議会"),
-          ]),
-        ]),
-        el("div", { class: "council-grid council-grid-compact" },
-          wardCouncils.map((council) =>
-            renderCouncilCard(council, prefecture, summaryByCouncilId.get(council.id)),
-          ),
-        ),
-      ]),
-    );
-  }
+function renderSummaryPill(label, value) {
+  return el("span", { class: "prefecture-summary-pill" }, [
+    el("span", {}, label),
+    el("strong", {}, value),
+  ]);
 }
 
 function renderCouncilCard(council, prefecture, summary = null, options = {}) {
@@ -155,7 +146,12 @@ function renderCouncilCard(council, prefecture, summary = null, options = {}) {
     ? `議員${summary.memberCount}人`
     : "議員数を確認中";
   const hideTypeLabel = options.hideTypeLabel || council.type === "prefecture";
-  return el("article", { class: `council-card ${council.type === "prefecture" ? "is-prefecture" : "is-city"}` }, [
+  const classes = [
+    "council-card",
+    council.type === "prefecture" ? "is-prefecture" : "is-city",
+    options.featured ? "is-featured" : "",
+  ].filter(Boolean).join(" ");
+  return el("article", { class: classes }, [
     hideTypeLabel ? null : el("div", { class: "card-eyebrow" }, councilTypeLabel(council)),
     el("h3", {}, council.name),
     el("p", { class: "muted" }, memberText),
@@ -171,6 +167,10 @@ function councilTypeLabel(council) {
 
 function isTokyoWardCouncil(council) {
   return council?.prefecture === "tokyo" && council?.name?.includes("区議会");
+}
+
+function formatNumber(value) {
+  return Number(value).toLocaleString("ja-JP");
 }
 
 async function hydrateMunicipalityMap(container, prefecture) {

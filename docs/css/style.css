@@ -493,6 +493,11 @@ a:hover { color: var(--brand-dark); }
   padding: 16px;
   box-shadow: 0 8px 20px rgba(20, 32, 51, 0.06);
 }
+.council-card.is-featured {
+  border-left-width: 0;
+  border-color: var(--border-strong);
+  background: linear-gradient(135deg, #ffffff 0%, #eff6ff 100%);
+}
 .council-card h3 {
   margin: 4px 0 8px;
   font-size: 18px;
@@ -708,6 +713,70 @@ a:hover { color: var(--brand-dark); }
 }
 .prefecture-tab-panel {
   margin-bottom: 24px;
+}
+.prefecture-landing {
+  padding: clamp(20px, 4vw, 34px);
+}
+.prefecture-landing-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(220px, 320px);
+  gap: clamp(18px, 4vw, 36px);
+  align-items: center;
+}
+.prefecture-summary-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 18px;
+}
+.prefecture-summary-pill {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 9px 13px;
+  border: 1px solid rgba(37, 99, 235, 0.16);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--text-muted);
+  font-size: 13px;
+  font-weight: 800;
+}
+.prefecture-summary-pill strong {
+  color: var(--brand-dark);
+  font-size: 18px;
+  font-weight: 900;
+  white-space: nowrap;
+}
+.prefecture-council-groups {
+  display: grid;
+  gap: 18px;
+  margin-top: clamp(24px, 4vw, 36px);
+  padding-top: clamp(18px, 3vw, 26px);
+  border-top: 1px solid var(--border);
+}
+.prefecture-council-group {
+  min-width: 0;
+}
+.prefecture-group-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 10px;
+}
+.prefecture-group-heading h3 {
+  margin: 0;
+  color: var(--text);
+  font-size: clamp(18px, 2vw, 22px);
+}
+.prefecture-group-heading span {
+  color: var(--text-muted);
+  font-size: 13px;
+  font-weight: 800;
+  white-space: nowrap;
+}
+.prefecture-council-group .council-grid {
+  margin-bottom: 0;
 }
 .prefecture-map-panel {
   margin-bottom: 24px;
@@ -2959,6 +3028,13 @@ main { padding: 24px 0 48px; }
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
   .national-stat-grid {
+    grid-template-columns: 1fr;
+  }
+  .prefecture-landing-hero {
+    grid-template-columns: 1fr;
+  }
+  .prefecture-summary-pills {
+    display: grid;
     grid-template-columns: 1fr;
   }
   .profile-detail-list {
