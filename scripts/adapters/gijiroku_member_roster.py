@@ -37,6 +37,14 @@ class GijirokuRosterConfig:
     teisu: int
     source_basis_date: str | None = None
     min_count: int = 1
+    roster_path: str = "g07_giinlistP.asp"
+    district_path: str | None = "g07_giinlist_senkyoku.asp"
+    committee_path: str | None = "g07_Committee.asp"
+    single_district: str | None = None
+    vacancy_details: list[dict[str, Any]] | None = None
+    anchor_type: str = "official_gijiroku_district_capacity"
+    anchor_source_url: str | None = None
+    notes: list[str] | None = None
 
 
 def profile_key(url: str) -> str:
@@ -67,13 +75,30 @@ class GijirokuMemberRosterScraper(CouncilScraperBase):
         return BeautifulSoup(text, "html.parser")
 
     def scrape_members(self) -> dict[str, Any]:
-        roster_url = urljoin(self.config.base_url, "g07_giinlistP.asp")
-        district_url = urljoin(self.config.base_url, "g07_giinlist_senkyoku.asp")
-        committee_url = urljoin(self.config.base_url, "g07_Committee.asp")
+        roster_url = urljoin(self.config.base_url, self.config.roster_path)
+        district_url = urljoin(self.config.base_url, self.config.district_path) if self.config.district_path else None
+        committee_url = urljoin(self.config.base_url, self.config.committee_path) if self.config.committee_path else None
 
         roster_soup = self.fetch_cp932(roster_url)
+        if self.config.single_district:
+            members = self.parse_single_district_roster(roster_soup, roster_url)
+            committees_by_profile: dict[str, dict[str, list[str]]] = {}
+            if committee_url:
+                try:
+                    committees_by_profile = self.parse_committees(self.fetch_cp932(committee_url))
+                except requests.HTTPError:
+                    committees_by_profile = {}
+            for member in members:
+                key = profile_key(str(member["official_profile_url"]))
+                committee_data = committees_by_profile.get(key, {})
+                member["committees"] = committee_data.get("committees", [])
+                member["positions"] = committee_data.get("positions", [])
+            return self.build_single_district_payload(members, roster_url, committee_url)
+
+        if not district_url:
+            raise RuntimeError("district_path is required unless single_district is set")
         district_soup = self.fetch_cp932(district_url)
-        committee_soup = self.fetch_cp932(committee_url)
+        committee_soup = self.fetch_cp932(committee_url) if committee_url else BeautifulSoup("", "html.parser")
 
         members = self.parse_roster(roster_soup, roster_url)
         district_checks, district_profiles = self.parse_districts(district_soup, district_url)
@@ -148,6 +173,58 @@ class GijirokuMemberRosterScraper(CouncilScraperBase):
         )
         return payload
 
+    def build_single_district_payload(
+        self,
+        members: list[dict[str, Any]],
+        roster_url: str,
+        committee_url: str | None,
+    ) -> dict[str, Any]:
+        self.assert_min_count(members, self.config.min_count, "members")
+        ensure_unique_ids(members)
+        if len(members) > self.config.teisu:
+            raise RuntimeError(f"members {len(members)} exceeds teisu {self.config.teisu}")
+        payload: dict[str, Any] = {
+            "council_id": self.config.council_id,
+            "source_url": roster_url,
+            "source_name": self.config.source_name,
+            "acquisition": "scraping",
+            "members": members,
+            "checks": {
+                "source_shape": "gijiroku_g07_single_district_roster",
+                "committee_source_url": committee_url,
+                "capacity_total": self.config.teisu,
+                "district_count": 1,
+                "parsed_members": len(members),
+                "districts": [
+                    {
+                        "district": self.config.single_district,
+                        "capacity": self.config.teisu,
+                        "members": len(members),
+                        "vacancies": self.config.teisu - len(members),
+                        "source_url": roster_url,
+                    }
+                ],
+                "notes": [
+                    "g07名簿ページから氏名・ふりがな・会派・当選回数のみを許可リスト抽出",
+                    "特別区は区全体を1選挙区として扱う",
+                    "許可リスト外の項目は保存しない",
+                    "写真は取得せず、photo_urlは全員null",
+                ],
+            },
+        }
+        force_photo_null(payload)
+        apply_member_contract(
+            payload,
+            teisu=self.config.teisu,
+            source_basis_date=self.config.source_basis_date,
+            vacancy_details=self.config.vacancy_details or [],
+            anchor_source_url=self.config.anchor_source_url or roster_url,
+            anchor_type=self.config.anchor_type,
+            notes=self.config.notes
+            or ["g07名簿ページの掲載数を件数検算アンカーとして使用"],
+        )
+        return payload
+
     def parse_roster(self, soup: BeautifulSoup, roster_url: str) -> list[dict[str, Any]]:
         members: list[dict[str, Any]] = []
         seen: set[str] = set()
@@ -180,6 +257,54 @@ class GijirokuMemberRosterScraper(CouncilScraperBase):
                 )
             )
         return members
+
+    def parse_single_district_roster(self, soup: BeautifulSoup, roster_url: str) -> list[dict[str, Any]]:
+        members: list[dict[str, Any]] = []
+        seen: set[str] = set()
+        for cell in soup.select("td.tnowrap"):
+            link = cell.find("a", href=re.compile(r"g07_giinlistS\.asp\?SrchID="))
+            if not isinstance(link, Tag):
+                continue
+            url = urljoin(roster_url, str(link["href"]))
+            key = profile_key(url)
+            if key in seen:
+                continue
+            text = cell.get_text("\n", strip=True)
+            name, kana = self.parse_single_district_name(link, text)
+            if not name:
+                continue
+            faction_match = re.search(r"所属会派[：:]\s*([^\n\r]+)", text)
+            elected_match = re.search(r"当選回数[：:]\s*([0-9０-９一二三四五六七八九十]+)\s*回", text)
+            faction = normalize_text(faction_match.group(1)) if faction_match else None
+            if faction in {"─", "-", "ー", "－"}:
+                faction = None
+            members.append(
+                build_member(
+                    council_id=self.config.council_id,
+                    name=name,
+                    kana=kana,
+                    district=self.config.single_district,
+                    faction=faction,
+                    elected_count=parse_count(elected_match.group(1)) if elected_match else None,
+                    profile_url=url,
+                )
+            )
+            seen.add(key)
+        return members
+
+    def parse_single_district_name(self, link: Tag, text: str) -> tuple[str, str | None]:
+        link_label = normalize_text(link.get_text(" ", strip=True))
+        lines = [normalize_text(line) for line in text.splitlines() if normalize_text(line)]
+        if len(lines) >= 2 and re.fullmatch(r"[ぁ-ゖァ-ヺー・\s]+", lines[0]) and not re.search(r"議席番号|所属会派", lines[1]):
+            name = compact_name(lines[1])
+            kana = lines[0]
+            return name, kana
+        kana_match = re.search(r"[（(]\s*([^()（）]+?)\s*[)）]", text)
+        name = re.sub(r"[（(].*?[)）]", "", link_label)
+        name = compact_name(name)
+        if name in {"", "-", "ー", "－", "―", "−"}:
+            return "", None
+        return name, kana_match.group(1) if kana_match else None
 
     def parse_districts(self, soup: BeautifulSoup, district_url: str) -> tuple[list[dict[str, Any]], set[str]]:
         checks: list[dict[str, Any]] = []

@@ -136,7 +136,7 @@ function renderComparisonRow(summary, metric, domain, average) {
   return el("div", { class: "comparison-row" }, [
     el("div", { class: "comparison-council" }, [
       el("span", {}, summary.council.name),
-      el("span", { class: "comparison-type" }, summary.council.type === "prefecture" ? "県議会" : "市議会"),
+      el("span", { class: "comparison-type" }, councilTypeLabel(summary.council)),
     ]),
     el("div", { class: "comparison-value" }, [
       formatted
@@ -150,6 +150,12 @@ function renderComparisonRow(summary, metric, domain, average) {
         : el("span", { class: "comparison-missing-bar" }),
     ]),
   ]);
+}
+
+function councilTypeLabel(council) {
+  if (council.type === "prefecture") return "県議会";
+  if (council.name?.includes("区議会")) return "区議会";
+  return "市議会";
 }
 
 export function renderPrefectureComparison(summaries, prefecture = "tottori") {

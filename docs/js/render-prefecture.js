@@ -83,7 +83,8 @@ function renderGenericPrefecturePage(root, prefectureCouncils, prefectureCouncil
     summaries.map((summary) => [summary.council.id, summary]),
   );
   const activeCouncils = prefectureCouncils.filter((council) => council.status === "active");
-  const cityCouncils = activeCouncils.filter((council) => council.type === "city");
+  const wardCouncils = activeCouncils.filter((council) => isTokyoWardCouncil(council));
+  const cityCouncils = activeCouncils.filter((council) => council.type === "city" && !isTokyoWardCouncil(council));
 
   root.appendChild(
     el("section", { class: "prefecture-map-panel" }, [
@@ -93,9 +94,6 @@ function renderGenericPrefecturePage(root, prefectureCouncils, prefectureCouncil
           el("h2", { class: "section-title" }, "掲載中の議会"),
         ]),
       ]),
-      el("p", { class: "muted" },
-        "このページは、現在このサイトに掲載している議会だけを表示しています。",
-      ),
     ]),
   );
 
@@ -124,11 +122,26 @@ function renderGenericPrefecturePage(root, prefectureCouncils, prefectureCouncil
             el("h2", { class: "section-title" }, "この県の政令市"),
           ]),
         ]),
-        el("p", { class: "muted" },
-          "現在は政令指定都市の市議会のみ掲載しています。県内すべての市区町村議会を網羅しているわけではありません。",
-        ),
         el("div", { class: "council-grid" },
           cityCouncils.map((council) =>
+            renderCouncilCard(council, prefecture, summaryByCouncilId.get(council.id)),
+          ),
+        ),
+      ]),
+    );
+  }
+
+  if (wardCouncils.length) {
+    root.appendChild(
+      el("section", { class: "council-card-section" }, [
+        el("div", { class: "section-heading-row" }, [
+          el("div", {}, [
+            el("p", { class: "eyebrow" }, "特別区議会"),
+            el("h2", { class: "section-title" }, "東京23区の区議会"),
+          ]),
+        ]),
+        el("div", { class: "council-grid council-grid-compact" },
+          wardCouncils.map((council) =>
             renderCouncilCard(council, prefecture, summaryByCouncilId.get(council.id)),
           ),
         ),
@@ -152,7 +165,12 @@ function renderCouncilCard(council, prefecture, summary = null, options = {}) {
 
 function councilTypeLabel(council) {
   if (council.type === "prefecture") return "県議会";
+  if (isTokyoWardCouncil(council)) return "区議会";
   return "市議会";
+}
+
+function isTokyoWardCouncil(council) {
+  return council?.prefecture === "tokyo" && council?.name?.includes("区議会");
 }
 
 async function hydrateMunicipalityMap(container, prefecture) {

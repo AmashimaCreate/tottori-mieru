@@ -117,7 +117,7 @@ function renderAiServiceButtons(container, textarea, status) {
         rel: "noopener noreferrer",
         class: `ai-service-link is-${link.key}`,
         title: link.note || undefined,
-        onclick: () => copyPromptForExternalOpen(textarea.value, textarea, status),
+        onclick: (event) => openAiService(event, link.url, textarea.value, textarea, status),
       }, [
         el("span", { class: `ai-service-icon is-${link.key}`, "aria-hidden": "true" }, link.icon),
         link.label,
@@ -168,6 +168,20 @@ async function copyPromptForExternalOpen(text, textarea, status) {
     textarea.select();
     status.textContent = "コピーできない場合は、選択された本文を手動でコピーしてください";
   }
+}
+
+function openAiService(event, url, text, textarea, status) {
+  event.preventDefault();
+  // Mobile browsers can block a tab if we wait for clipboard.writeText().
+  // Reserve the tab synchronously, then copy the prompt and navigate it.
+  const newTab = window.open("about:blank", "_blank");
+  copyPromptForExternalOpen(text, textarea, status);
+  if (newTab) {
+    newTab.opener = null;
+    newTab.location.href = url;
+    return;
+  }
+  window.location.href = url;
 }
 
 export function officialCouncilUrl(council) {

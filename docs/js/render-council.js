@@ -10,7 +10,7 @@ import {
   renderResultOnlyVoteCard,
   renderVoteAvailabilityNotice,
   sortedVotesByDate,
-} from "./render-votes.js?v=20260615-ai-links-anchor-v1";
+} from "./render-votes.js?v=20260618-gemini-open-v1";
 import {
   renderCommitteeView,
   renderKaihaView,
@@ -1106,6 +1106,7 @@ function areaNameForCouncil(council) {
 function areaTypeLabel(council) {
   if (council?.type === "prefecture") return "県";
   const name = council?.name || "";
+  if (name.includes("区議会")) return "区";
   if (name.includes("町議会")) return "町";
   if (name.includes("村議会")) return "村";
   return "市";

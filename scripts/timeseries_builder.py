@@ -121,6 +121,104 @@ AREAS = [
         "area_level": "prefecture",
     },
     {
+        "council_id": "chiyoda-ward",
+        "name": "千代田区",
+        "lg_code": "131016",
+        "estat_area_code": "13101",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "minato-ward",
+        "name": "港区",
+        "lg_code": "131032",
+        "estat_area_code": "13103",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "taito-ward",
+        "name": "台東区",
+        "lg_code": "131067",
+        "estat_area_code": "13106",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "koto-ward",
+        "name": "江東区",
+        "lg_code": "131083",
+        "estat_area_code": "13108",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "shinagawa-ward",
+        "name": "品川区",
+        "lg_code": "131091",
+        "estat_area_code": "13109",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "setagaya-ward",
+        "name": "世田谷区",
+        "lg_code": "131121",
+        "estat_area_code": "13112",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "shibuya-ward",
+        "name": "渋谷区",
+        "lg_code": "131130",
+        "estat_area_code": "13113",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "nakano-ward",
+        "name": "中野区",
+        "lg_code": "131148",
+        "estat_area_code": "13114",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "suginami-ward",
+        "name": "杉並区",
+        "lg_code": "131156",
+        "estat_area_code": "13115",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "toshima-ward",
+        "name": "豊島区",
+        "lg_code": "131164",
+        "estat_area_code": "13116",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "itabashi-ward",
+        "name": "板橋区",
+        "lg_code": "131199",
+        "estat_area_code": "13119",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "nerima-ward",
+        "name": "練馬区",
+        "lg_code": "131202",
+        "estat_area_code": "13120",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "adachi-ward",
+        "name": "足立区",
+        "lg_code": "131211",
+        "estat_area_code": "13121",
+        "area_level": "municipality",
+    },
+    {
+        "council_id": "edogawa-ward",
+        "name": "江戸川区",
+        "lg_code": "131237",
+        "estat_area_code": "13123",
+        "area_level": "municipality",
+    },
+    {
         "council_id": "kanagawa-pref",
         "name": "神奈川県",
         "lg_code": "140007",
@@ -723,6 +821,7 @@ OUTPUT_INDICATORS: dict[str, dict[str, Any]] = {
 
 DEFAULT_AREA_LEVELS = ["prefecture", "municipality"]
 OPTIONAL_TIMESERIES_INDICATORS = {
+    "fiscal_index",
     "pref_assembly_turnout",
     "pref_governor_turnout",
 }
@@ -1074,9 +1173,23 @@ def spot_checks(output_dir: Path) -> list[str]:
 
 
 def main() -> int:
+    global AREAS
     parser = argparse.ArgumentParser()
     parser.add_argument("--output-dir", type=Path, default=DATA_DIR)
+    parser.add_argument(
+        "--council-id",
+        action="append",
+        default=[],
+        help="Generate only the specified council id. Can be used multiple times.",
+    )
     args = parser.parse_args()
+
+    if args.council_id:
+        wanted = set(args.council_id)
+        AREAS = [area for area in AREAS if area["council_id"] in wanted]
+        missing = sorted(wanted - {area["council_id"] for area in AREAS})
+        if missing:
+            raise RuntimeError(f"unknown council ids for timeseries: {missing}")
 
     app_id = load_app_id()
     fetched = fetch_all_series(app_id)

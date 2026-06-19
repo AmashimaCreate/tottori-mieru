@@ -1,0 +1,526 @@
+{
+  "council_id": "toshima-ward",
+  "source_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2404241622.html",
+  "source_name": "豊島区議会",
+  "acquisition": "scraping",
+  "members": [
+    {
+      "id": "toshima-ward--kobayashihiroaki",
+      "council_id": "toshima-ward",
+      "name": "小林弘明",
+      "name_kana": "こばやしひろあき",
+      "district": "豊島区",
+      "faction": "豊島区無所属元気の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171120.html"
+    },
+    {
+      "id": "toshima-ward--inouekouichi",
+      "council_id": "toshima-ward",
+      "name": "井上幸一",
+      "name_kana": "いのうえこういち",
+      "district": "豊島区",
+      "faction": "自由民主党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "行財政(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291820.html"
+    },
+    {
+      "id": "toshima-ward--arisatomaho",
+      "council_id": "toshima-ward",
+      "name": "有里真穂",
+      "name_kana": "ありさとまほ",
+      "district": "豊島区",
+      "faction": "自由民主党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291859.html"
+    },
+    {
+      "id": "toshima-ward--izumiyatsuyoshi",
+      "council_id": "toshima-ward",
+      "name": "泉谷つよし",
+      "name_kana": "いづみやつよし",
+      "district": "豊島区",
+      "faction": "維新・無所属の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291910.html"
+    },
+    {
+      "id": "toshima-ward--hayashifutaba",
+      "council_id": "toshima-ward",
+      "name": "林二葉",
+      "name_kana": "はやしふたば",
+      "district": "豊島区",
+      "faction": "維新・無所属の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "施設用地(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291917.html"
+    },
+    {
+      "id": "toshima-ward--furuboutomoo",
+      "council_id": "toshima-ward",
+      "name": "ふるぼう知生",
+      "name_kana": "ふるぼうともお",
+      "district": "豊島区",
+      "faction": "維新・無所属の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171139.html"
+    },
+    {
+      "id": "toshima-ward--irieayumi",
+      "council_id": "toshima-ward",
+      "name": "入江あゆみ",
+      "name_kana": "いりえあゆみ",
+      "district": "豊島区",
+      "faction": "維新・無所属の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "副都心(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171130.html"
+    },
+    {
+      "id": "toshima-ward--nishizakifuuka",
+      "council_id": "toshima-ward",
+      "name": "西崎ふうか",
+      "name_kana": "にしざきふうか",
+      "district": "豊島区",
+      "faction": "立憲・れいわ・市民の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291930.html"
+    },
+    {
+      "id": "toshima-ward--kawasesanae",
+      "council_id": "toshima-ward",
+      "name": "川瀬さなえ",
+      "name_kana": "かわせさなえ",
+      "district": "豊島区",
+      "faction": "立憲・れいわ・市民の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171128.html"
+    },
+    {
+      "id": "toshima-ward--tsukadahisako",
+      "council_id": "toshima-ward",
+      "name": "塚田ひさこ",
+      "name_kana": "つかだひさこ",
+      "district": "豊島区",
+      "faction": "立憲・れいわ・市民の会",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "副都心(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171129.html"
+    },
+    {
+      "id": "toshima-ward--kitaokaayako",
+      "council_id": "toshima-ward",
+      "name": "北岡あや子",
+      "name_kana": "きたおかあやこ",
+      "district": "豊島区",
+      "faction": "公明党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "副都心(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291947.html"
+    },
+    {
+      "id": "toshima-ward--fumamichi",
+      "council_id": "toshima-ward",
+      "name": "ふまミチ",
+      "name_kana": "ふまみち",
+      "district": "豊島区",
+      "faction": "公明党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "都市整備(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171131.html"
+    },
+    {
+      "id": "toshima-ward--negishimitsuhiro",
+      "council_id": "toshima-ward",
+      "name": "根岸光洋",
+      "name_kana": "ねぎしみつひろ",
+      "district": "豊島区",
+      "faction": "公明党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171133.html"
+    },
+    {
+      "id": "toshima-ward--fujisawaaiko",
+      "council_id": "toshima-ward",
+      "name": "藤澤愛子",
+      "name_kana": "ふじさわあいこ",
+      "district": "豊島区",
+      "faction": "自由民主党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "副都心(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2403011714.html"
+    },
+    {
+      "id": "toshima-ward--matsushitasouichirou",
+      "council_id": "toshima-ward",
+      "name": "松下創一郎",
+      "name_kana": "まつしたそういちろう",
+      "district": "豊島区",
+      "faction": "自由民主党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "子ども文教(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305292010.html"
+    },
+    {
+      "id": "toshima-ward--haradatakaki",
+      "council_id": "toshima-ward",
+      "name": "原田たかき",
+      "name_kana": "はらだたかき",
+      "district": "豊島区",
+      "faction": "都民ファーストの会豊島区議団・国民民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境清掃(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291951.html"
+    },
+    {
+      "id": "toshima-ward--kataokakiyouko",
+      "council_id": "toshima-ward",
+      "name": "片岡きょうこ",
+      "name_kana": "かたおかきょうこ",
+      "district": "豊島区",
+      "faction": "都民ファーストの会豊島区議団・国民民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305292002.html"
+    },
+    {
+      "id": "toshima-ward--nakayamayoshito",
+      "council_id": "toshima-ward",
+      "name": "中山よしと",
+      "name_kana": "なかやまよしと",
+      "district": "豊島区",
+      "faction": "都民ファーストの会豊島区議団・国民民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "都市整備(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291936.html"
+    },
+    {
+      "id": "toshima-ward--miyazakikeiko",
+      "council_id": "toshima-ward",
+      "name": "宮崎けい子",
+      "name_kana": "みやざきけいこ",
+      "district": "豊島区",
+      "faction": "都民ファーストの会豊島区議団・国民民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "区民厚生(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305291942.html"
+    },
+    {
+      "id": "toshima-ward--moritooru",
+      "council_id": "toshima-ward",
+      "name": "森とおる",
+      "name_kana": "もりとおる",
+      "district": "豊島区",
+      "faction": "日本共産党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "環境清掃(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305292133.html"
+    },
+    {
+      "id": "toshima-ward--nishiyamayousuke",
+      "council_id": "toshima-ward",
+      "name": "西山陽介",
+      "name_kana": "にしやまようすけ",
+      "district": "豊島区",
+      "faction": "公明党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "施設用地(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171132.html"
+    },
+    {
+      "id": "toshima-ward--tsujikaoru",
+      "council_id": "toshima-ward",
+      "name": "辻薫",
+      "name_kana": "つじかおる",
+      "district": "豊島区",
+      "faction": "公明党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "防災震災(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171144.html"
+    },
+    {
+      "id": "toshima-ward--takahashikayoko",
+      "council_id": "toshima-ward",
+      "name": "高橋佳代子",
+      "name_kana": "たかはしかよこ",
+      "district": "豊島区",
+      "faction": "公明党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171143.html"
+    },
+    {
+      "id": "toshima-ward--shimamuratakahiko",
+      "council_id": "toshima-ward",
+      "name": "島村高彦",
+      "name_kana": "しまむらたかひこ",
+      "district": "豊島区",
+      "faction": "公明党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171145.html"
+    },
+    {
+      "id": "toshima-ward--hagariyuurou",
+      "council_id": "toshima-ward",
+      "name": "芳賀竜朗",
+      "name_kana": "はがりゅうろう",
+      "district": "豊島区",
+      "faction": "自由民主党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "区民厚生(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171134.html"
+    },
+    {
+      "id": "toshima-ward--isokazuaki",
+      "council_id": "toshima-ward",
+      "name": "磯一昭",
+      "name_kana": "いそかずあき",
+      "district": "豊島区",
+      "faction": "自由民主党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "防災震災(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171148.html"
+    },
+    {
+      "id": "toshima-ward--takeshitahiromi",
+      "council_id": "toshima-ward",
+      "name": "竹下ひろみ",
+      "name_kana": "たけしたひろみ",
+      "district": "豊島区",
+      "faction": "自由民主党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "総務(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305292014.html"
+    },
+    {
+      "id": "toshima-ward--hosokawamasahiro",
+      "council_id": "toshima-ward",
+      "name": "細川正博",
+      "name_kana": "ほそかわまさひろ",
+      "district": "豊島区",
+      "faction": "都民ファーストの会豊島区議団・国民民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "副都心(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171149.html"
+    },
+    {
+      "id": "toshima-ward--hoshikiyouko",
+      "council_id": "toshima-ward",
+      "name": "星京子",
+      "name_kana": "ほしきょうこ",
+      "district": "豊島区",
+      "faction": "都民ファーストの会豊島区議団・国民民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171151.html"
+    },
+    {
+      "id": "toshima-ward--nakazawamasayuki",
+      "council_id": "toshima-ward",
+      "name": "中澤まさゆき",
+      "name_kana": "なかざわまさゆき",
+      "district": "豊島区",
+      "faction": "都民ファーストの会豊島区議団・国民民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "子ども文教(委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171137.html"
+    },
+    {
+      "id": "toshima-ward--sakumaitsusei",
+      "council_id": "toshima-ward",
+      "name": "さくま一生",
+      "name_kana": "さくまいっせい",
+      "district": "豊島区",
+      "faction": "立憲民主党",
+      "elected_count": null,
+      "positions": [],
+      "committees": [],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171126.html"
+    },
+    {
+      "id": "toshima-ward--gibusatoru",
+      "council_id": "toshima-ward",
+      "name": "儀武さとる",
+      "name_kana": "ぎぶさとる",
+      "district": "豊島区",
+      "faction": "日本共産党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "行財政(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171141.html"
+    },
+    {
+      "id": "toshima-ward--kobayashihiromi",
+      "council_id": "toshima-ward",
+      "name": "小林ひろみ",
+      "name_kana": "こばやしひろみ",
+      "district": "豊島区",
+      "faction": "日本共産党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "議会運営(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/1904171153.html"
+    },
+    {
+      "id": "toshima-ward--kakiuchinobuyuki",
+      "council_id": "toshima-ward",
+      "name": "垣内信行",
+      "name_kana": "かきうちのぶゆき",
+      "district": "豊島区",
+      "faction": "日本共産党豊島区議団",
+      "elected_count": null,
+      "positions": [],
+      "committees": [
+        "副都心(副委員長)"
+      ],
+      "photo_url": null,
+      "official_profile_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2305300911.html"
+    }
+  ],
+  "source_basis_date": "公式名簿 掲載34人・欠員2人",
+  "last_verified": "2026-06-19",
+  "teisu": 36,
+  "genin": 34,
+  "ketsuin": 2,
+  "checks": {
+    "anchor_type": "official_district_capacity",
+    "anchor_source_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2404241622.html",
+    "source_basis_date": "公式名簿 掲載34人・欠員2人",
+    "last_verified": "2026-06-19",
+    "teisu": 36,
+    "genin": 34,
+    "ketsuin": 2,
+    "parsed_members": 34,
+    "vacancy_details": [
+      {
+        "district": "豊島区",
+        "ketsuin": 2,
+        "source_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2404241622.html"
+      }
+    ],
+    "notes": [
+      "公式CMSの名簿ビューから氏名・ふりがな・会派・行政区・当選回数・委員会・役職のみを許可リスト抽出",
+      "許可外項目は保存しない",
+      "写真は取得せず、photo_urlは全員null"
+    ]
+  },
+  "updated_at": "2026-06-19T00:07:15+00:00"
+}

@@ -1634,6 +1634,314 @@
       ],
       "status": "active",
       "notes": "市区町村フェーズ第1便。現在は政令指定都市の市議会のみを掲載。県内全市区町村議会の網羅ではない。"
+    },
+    {
+      "id": "chiyoda-ward",
+      "name": "千代田区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131016",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "千代田区議会公式サイト",
+          "url": "https://gikai-chiyoda-tokyo.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://gikai-chiyoda-tokyo.jp/about/giin/index.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "minato-ward",
+      "name": "港区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131032",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "港区議会公式サイト",
+          "url": "https://www.gikai.city.minato.tokyo.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.gikai.city.minato.tokyo.jp/0000000684.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "taito-ward",
+      "name": "台東区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131067",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "台東区議会公式サイト",
+          "url": "https://taito.gijiroku.com/voices/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://taito.gijiroku.com/voices/g07_giinlistP.asp"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "koto-ward",
+      "name": "江東区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131083",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "江東区議会公式サイト",
+          "url": "https://www.city.koto.lg.jp/kuse/kugikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.koto.lg.jp/kuse/kugikai/shokai/gisekijun/index.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "shinagawa-ward",
+      "name": "品川区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131091",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "品川区議会公式サイト",
+          "url": "https://gikai.city.shinagawa.tokyo.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://gikai.city.shinagawa.tokyo.jp/profile/50on"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "setagaya-ward",
+      "name": "世田谷区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131121",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "世田谷区議会公式サイト",
+          "url": "https://www.city.setagaya.lg.jp/kugikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.setagaya.lg.jp/02030/9461.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "shibuya-ward",
+      "name": "渋谷区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131130",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "渋谷区議会公式サイト",
+          "url": "https://shibukugi.tokyo/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://shibukugi.tokyo/giin/2023012400017/"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "nakano-ward",
+      "name": "中野区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131148",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "中野区議会公式サイト",
+          "url": "https://kugikai-nakano.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://kugikai-nakano.jp/giin_list.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "suginami-ward",
+      "name": "杉並区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131156",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "杉並区議会公式サイト",
+          "url": "https://www.city.suginami.tokyo.jp/kugikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.suginami.tokyo.jp/s117/kugikai/18847.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "toshima-ward",
+      "name": "豊島区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131164",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "豊島区議会公式サイト",
+          "url": "https://www.city.toshima.lg.jp/kuse/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2404241622.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "itabashi-ward",
+      "name": "板橋区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131199",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "板橋区議会公式サイト",
+          "url": "https://www.city.itabashi.tokyo.jp/kugikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.itabashi.tokyo.jp/kugikai/giin/1010916.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "nerima-ward",
+      "name": "練馬区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131202",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "練馬区議会公式サイト",
+          "url": "https://www.city.nerima.tokyo.jp/gikai/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.city.nerima.tokyo.jp/gikai/giin/20ichiran.html"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "adachi-ward",
+      "name": "足立区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131211",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "足立区議会公式サイト",
+          "url": "https://www.gikai-adachi.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.gikai-adachi.jp/g07_giinlist.asp?Hmode=20"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
+    },
+    {
+      "id": "edogawa-ward",
+      "name": "江戸川区議会",
+      "type": "city",
+      "prefecture": "tokyo",
+      "prefecture_name": "東京都",
+      "lg_code": "131237",
+      "minutes_system": "unknown",
+      "vote_granularity": "unknown",
+      "official_links": [
+        {
+          "label": "江戸川区議会公式サイト",
+          "url": "https://www.gikai.city.edogawa.tokyo.jp/"
+        },
+        {
+          "label": "議員名簿",
+          "url": "https://www.gikai.city.edogawa.tokyo.jp/g07_giinlistP.asp"
+        }
+      ],
+      "notes": "市区町村フェーズ第2便。東京特別区のうち既存アダプタで取得できる区議会のみを掲載。23区すべての網羅ではない。",
+      "status": "active"
     }
   ]
 }

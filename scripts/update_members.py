@@ -85,6 +85,20 @@ MEMBER_SCRIPTS = [
     ("kitakyushu-city", "scripts/councils/kitakyushu_city.py"),
     ("fukuoka-city", "scripts/councils/fukuoka_city.py"),
     ("kumamoto-city", "scripts/councils/kumamoto_city.py"),
+    ("chiyoda-ward", "scripts/councils/chiyoda_ward.py"),
+    ("minato-ward", "scripts/councils/minato_ward.py"),
+    ("taito-ward", "scripts/councils/taito_ward.py"),
+    ("koto-ward", "scripts/councils/koto_ward.py"),
+    ("shinagawa-ward", "scripts/councils/shinagawa_ward.py"),
+    ("setagaya-ward", "scripts/councils/setagaya_ward.py"),
+    ("shibuya-ward", "scripts/councils/shibuya_ward.py"),
+    ("nakano-ward", "scripts/councils/nakano_ward.py"),
+    ("suginami-ward", "scripts/councils/suginami_ward.py"),
+    ("toshima-ward", "scripts/councils/toshima_ward.py"),
+    ("itabashi-ward", "scripts/councils/itabashi_ward.py"),
+    ("nerima-ward", "scripts/councils/nerima_ward.py"),
+    ("adachi-ward", "scripts/councils/adachi_ward.py"),
+    ("edogawa-ward", "scripts/councils/edogawa_ward.py"),
 ]
 
 

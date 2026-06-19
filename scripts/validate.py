@@ -120,9 +120,9 @@ TIMESERIES_INDICATORS = {
     "births",
     "social_change",
     "expenditure_total",
-    "fiscal_index",
 }
 OPTIONAL_TIMESERIES_INDICATORS = {
+    "fiscal_index",
     "pref_assembly_turnout",
     "pref_governor_turnout",
 }

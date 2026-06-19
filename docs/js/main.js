@@ -1,9 +1,9 @@
 import { loadCouncilBundle, loadCouncils, loadCouncilSummaries } from "./data-loader.js?v=20260615-no-member-photos-v1";
 import { renderAbout } from "./render-about.js?v=20260615-no-member-photos-v1";
-import { renderCouncilPage } from "./render-council.js?v=20260615-member-contract-v1";
+import { renderCouncilPage } from "./render-council.js?v=20260618-gemini-open-v1";
 import { renderGuide } from "./render-guide.js?v=20260615-no-member-photos-v1";
-import { renderMemberPage } from "./render-member.js?v=20260617-member-ai-prompt-v1";
-import { renderPrefecturePage } from "./render-prefecture.js?v=20260618-designated-cities-v1";
+import { renderMemberPage } from "./render-member.js?v=20260618-gemini-open-v1";
+import { renderPrefecturePage } from "./render-prefecture.js?v=20260619-tokyo-wards-v1";
 import { renderPrefectureComparisonPage } from "./render-prefecture-comparison.js?v=20260615-no-member-photos-v1";
 import { renderProfile } from "./render-profile.js?v=20260615-no-member-photos-v1";
 import { renderTop } from "./render-top.js?v=20260615-top-region-simple-v1";
@@ -48,7 +48,9 @@ function setHeader({ title, lead, meta = "" }) {
     ? title
     : `${title} | 議会見える化`;
   titleNode().textContent = title;
-  leadNode().textContent = lead;
+  const leadElement = leadNode();
+  leadElement.textContent = lead || "";
+  leadElement.hidden = !lead;
   metaNode().textContent = meta;
 }
 
@@ -387,7 +389,7 @@ async function applyRoute() {
         }
       : {
           title: `${prefectureName} 議会見える化`,
-          lead: `${prefectureName}内の掲載議会の公開データを同じ形で確認できます。`,
+          lead: "",
         });
     setRouteNav(route.name === "prefecture-compare"
       ? {
@@ -584,7 +586,9 @@ function setupCouncilVizEvents() {
 }
 
 function councilTypeLabel(council) {
-  return council?.type === "prefecture" ? "県議会" : "市議会";
+  if (council?.type === "prefecture") return "県議会";
+  if (council?.name?.includes("区議会")) return "区議会";
+  return "市議会";
 }
 
 setupTabs();

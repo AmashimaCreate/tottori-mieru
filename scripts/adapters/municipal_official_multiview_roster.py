@@ -40,6 +40,7 @@ OUT_DIR = REPO_ROOT / "docs" / "data"
 KANA_RE = re.compile(r"^[ぁ-ゖァ-ヺー・\s]+$")
 DISTRICT_RE = re.compile(r"[一-龥ぁ-ゖァ-ヺー・々ヶヵ]+区$")
 SKIP_MEMBER_NAMES = {"", "-", "ー", "－", "―", "−"}
+WINDOW_NOTICE_RE = re.compile(r"（?別(?:ウインドウ|ウィンドウ)で開く）?")
 
 
 def out_path(council_id: str) -> Path:
@@ -58,6 +59,7 @@ def is_kana(value: str) -> bool:
 
 def clean_member_name(value: str | None) -> str:
     text = normalize_text(value)
+    text = WINDOW_NOTICE_RE.sub("", text)
     text = re.sub(r"議員$", "", text).strip()
     text = re.sub(r"（(?:議長|副議長)）", "", text)
     text = text.replace("\u3000", " ")
@@ -696,6 +698,161 @@ def parse_kitakyushu(scraper: MunicipalOfficialMultiviewScraper, config: dict[st
     return root_payload(config, members, teisu=sum(capacities.values()) or config["teisu"])
 
 
+def parse_tokyo_ward_links(scraper: MunicipalOfficialMultiviewScraper, config: dict[str, Any]) -> dict[str, Any]:
+    """Parse Tokyo ward rosters whose official page exposes member profile links."""
+    soup = scraper.fetch_soup(config["source_url"])
+    members: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    href_re = re.compile(config["member_href_re"])
+    for link in soup.find_all("a", href=True):
+        href = str(link.get("href", ""))
+        full_url = urljoin(config["source_url"], href)
+        if not href_re.search(href) and not href_re.search(full_url):
+            continue
+        label = clean_member_name(link.get_text(" ", strip=True))
+        if not label or label in config.get("exclude_labels", []):
+            continue
+        name, kana = split_name_kana(label)
+        key = full_url
+        if key in seen:
+            continue
+        seen.add(key)
+        member = make_member(
+            council_id=config["council_id"],
+            name=name,
+            kana=kana,
+            district=config["district"],
+            profile_url=full_url,
+        )
+        if member:
+            members.append(member)
+    return root_payload(config, members)
+
+
+def parse_tokyo_ward_table(scraper: MunicipalOfficialMultiviewScraper, config: dict[str, Any]) -> dict[str, Any]:
+    """Parse contact-rich ward tables by reading only allowlisted columns."""
+    soup = scraper.fetch_soup(config["source_url"])
+    members: list[dict[str, Any]] = []
+    for table in soup.find_all("table"):
+        rows = expand_table(table)
+        if not rows:
+            continue
+        headers = [normalize_text(cell.get_text(" ", strip=True)) for cell in rows[0]]
+        for cells in rows[1:]:
+            values = [normalize_text(cell.get_text(" ", strip=True)) for cell in cells]
+            if not any(values):
+                continue
+            member = parse_tokyo_ward_table_row(config, headers, cells, values)
+            if member:
+                members.append(member)
+    return root_payload(config, members)
+
+
+def parse_tokyo_ward_table_row(config: dict[str, Any], headers: list[str], cells: list[Tag], values: list[str]) -> dict[str, Any] | None:
+    cid = config["council_id"]
+    kind = config["table_kind"]
+    district = config["district"]
+    if kind == "itabashi":
+        if len(values) < 2 or "議員氏名" in values[0] or not values[0]:
+            return None
+        name, kana = split_name_kana(values[0])
+        link = cells[0].find("a", href=True)
+        return make_member(
+            council_id=cid,
+            name=name,
+            kana=kana,
+            district=district,
+            faction=values[1],
+            positions=positions_from_text(values[2] if len(values) > 2 else None),
+            profile_url=urljoin(config["source_url"], link["href"]) if link else None,
+        )
+    if kind == "nerima":
+        if len(values) < 3 or values[0] == "氏 名" or values[0] == "電 話":
+            return None
+        link = cells[0].find("a", href=True)
+        committees = []
+        for value in values[4:]:
+            committees.extend(committee_tokens(value))
+        return make_member(
+            council_id=cid,
+            name=values[0],
+            kana=values[1],
+            district=district,
+            faction=values[2],
+            committees=committees,
+            positions=positions_from_text(" ".join(values[4:])),
+            profile_url=urljoin(config["source_url"], link["href"]) if link else None,
+        )
+    if kind == "toshima":
+        if len(values) < 6 or values[1] == "氏名" or not values[1] or values[1] == "欠員":
+            return None
+        name, kana = split_name_kana(values[1])
+        link = cells[1].find("a", href=True)
+        committee_text = values[5]
+        return make_member(
+            council_id=cid,
+            name=name,
+            kana=kana,
+            district=district,
+            faction=values[4],
+            committees=committee_tokens(committee_text),
+            positions=positions_from_text(committee_text),
+            profile_url=urljoin(config["source_url"], link["href"]) if link else None,
+        )
+    return None
+
+
+def parse_setagaya_ward(scraper: MunicipalOfficialMultiviewScraper, config: dict[str, Any]) -> dict[str, Any]:
+    soup = scraper.fetch_soup(config["source_url"])
+    members: list[dict[str, Any]] = []
+    seen: set[tuple[str, str | None]] = set()
+    for cell in soup.find_all("td"):
+        text = normalize_text(cell.get_text(" ", strip=True))
+        match = re.search(r"(?P<name>[^［\[(（]+?)[（(](?P<kana>[^）)]+)[）)]\s*[［\[](?P<faction>[^］\]]+)[］\]]", text)
+        if not match:
+            continue
+        name = clean_member_name(match.group("name"))
+        kana = compact_kana_text(match.group("kana"))
+        key = (compact_name(name), kana)
+        if key in seen:
+            continue
+        seen.add(key)
+        member = make_member(
+            council_id=config["council_id"],
+            name=name,
+            kana=kana,
+            district=config["district"],
+            faction=match.group("faction"),
+        )
+        if member:
+            members.append(member)
+    return root_payload(config, members)
+
+
+def parse_chiyoda_ward(scraper: MunicipalOfficialMultiviewScraper, config: dict[str, Any]) -> dict[str, Any]:
+    soup = scraper.fetch_soup(config["source_url"])
+    text = normalize_text((soup.find("main") or soup.find("body") or soup).get_text(" ", strip=True))
+    if "議員紹介" in text:
+        text = text.split("議員紹介", 1)[1]
+    text = text.split("ページの 先頭へ", 1)[0]
+    members: list[dict[str, Any]] = []
+    seen_names: set[str] = set()
+    for match in re.finditer(r"(?:^|\s)([0-9０-９]{1,2})\s+(.+?)(?=\s+[0-9０-９]{1,2}\s+|$)", text):
+        name = clean_member_name(match.group(2))
+        if not name or any(word in name for word in ("定数", "現員", "議員", "紹介", "連絡先", "お問い合わせ")):
+            continue
+        if len(name) > 12:
+            continue
+        compact = compact_name(name)
+        if compact in seen_names:
+            continue
+        seen_names.add(compact)
+        member = make_member(council_id=config["council_id"], name=name, district=config["district"])
+        if member:
+            members.append(member)
+    return root_payload(config, members)
+
+
 PARSERS: dict[str, Callable[[MunicipalOfficialMultiviewScraper, dict[str, Any]], dict[str, Any]]] = {
     "sapporo": parse_sapporo,
     "simple_table": parse_simple_table,
@@ -711,6 +868,10 @@ PARSERS: dict[str, Callable[[MunicipalOfficialMultiviewScraper, dict[str, Any]],
     "kobe": parse_kobe,
     "okayama": parse_okayama,
     "kitakyushu": parse_kitakyushu,
+    "tokyo_ward_links": parse_tokyo_ward_links,
+    "tokyo_ward_table": parse_tokyo_ward_table,
+    "setagaya_ward": parse_setagaya_ward,
+    "chiyoda_ward": parse_chiyoda_ward,
 }
 
 CITY_CONFIGS: dict[str, dict[str, Any]] = {
@@ -734,6 +895,17 @@ CITY_CONFIGS: dict[str, dict[str, Any]] = {
     "kitakyushu-city": {"council_id": "kitakyushu-city", "name": "北九州市議会", "parser": "kitakyushu", "source_url": "https://www.city.kitakyushu.lg.jp/sigikai/menu11_0002.html", "district_index_url": "https://www.city.kitakyushu.lg.jp/sigikai/menu11_0003.html", "teisu": 57},
     "fukuoka-city": {"council_id": "fukuoka-city", "name": "福岡市議会", "parser": "fukuoka", "source_url": "https://gikai.city.fukuoka.lg.jp/member/alphabet", "teisu": 62, "vacancy_details": [{"district": "早良区", "ketsuin": 1, "source_url": "https://gikai.city.fukuoka.lg.jp/member"}, {"district": "西区", "ketsuin": 1, "source_url": "https://gikai.city.fukuoka.lg.jp/member"}]},
     "kumamoto-city": {"council_id": "kumamoto-city", "name": "熊本市議会", "parser": "simple_table", "table_kind": "kumamoto", "source_url": "https://kumamoto-shigikai.jp/namelist/pub/list50.aspx?c_id=3", "teisu": 47, "anchor_type": "official_roster_count", "notes": ["公式ページ内に定数・欠員表示がないため、掲載現員47人を件数検算アンカーとして使用"]},
+    "minato-ward": {"council_id": "minato-ward", "name": "港区議会", "parser": "tokyo_ward_links", "source_url": "https://www.gikai.city.minato.tokyo.jp/0000000684.html", "member_href_re": r"/00000025\d+\.html$", "district": "港区", "teisu": 34, "source_basis_date": "公式名簿 定数34人・欠員2人", "vacancy_details": [{"district": "港区", "ketsuin": 2, "source_url": "https://www.gikai.city.minato.tokyo.jp/0000000684.html"}]},
+    "koto-ward": {"council_id": "koto-ward", "name": "江東区議会", "parser": "tokyo_ward_links", "source_url": "https://www.city.koto.lg.jp/kuse/kugikai/shokai/gisekijun/index.html", "member_href_re": r"/gisekijun/\d+\.html$", "district": "江東区", "teisu": 39, "anchor_type": "official_roster_count", "notes": ["公式ページ内に定数・欠員表示がないため、掲載現員39人を件数検算アンカーとして使用"]},
+    "shinagawa-ward": {"council_id": "shinagawa-ward", "name": "品川区議会", "parser": "tokyo_ward_links", "source_url": "https://gikai.city.shinagawa.tokyo.jp/profile/50on", "member_href_re": r"/councillors/", "district": "品川区", "teisu": 37, "anchor_type": "official_roster_count", "notes": ["公式ページ内に定数・欠員表示がないため、掲載現員37人を件数検算アンカーとして使用"]},
+    "setagaya-ward": {"council_id": "setagaya-ward", "name": "世田谷区議会", "parser": "setagaya_ward", "source_url": "https://www.city.setagaya.lg.jp/02030/9461.html", "district": "世田谷区", "teisu": 50, "source_basis_date": "令和8年6月15日現在 / 定数50人・現員50人"},
+    "shibuya-ward": {"council_id": "shibuya-ward", "name": "渋谷区議会", "parser": "tokyo_ward_links", "source_url": "https://shibukugi.tokyo/giin/2023012400017/", "member_href_re": r"/giin/profile/", "district": "渋谷区", "teisu": 32, "source_basis_date": "令和8年1月27日更新 / 掲載32人", "anchor_type": "official_roster_count", "notes": ["公式ページ内に定数・欠員表示がないため、掲載現員32人を件数検算アンカーとして使用"]},
+    "nakano-ward": {"council_id": "nakano-ward", "name": "中野区議会", "parser": "tokyo_ward_links", "source_url": "https://kugikai-nakano.jp/giin_list.html", "member_href_re": r"giin_detail\.html\?giin_id=", "district": "中野区", "teisu": 41, "anchor_type": "official_roster_count", "notes": ["公式ページ内に定数・欠員表示がないため、掲載現員41人を件数検算アンカーとして使用"]},
+    "suginami-ward": {"council_id": "suginami-ward", "name": "杉並区議会", "parser": "tokyo_ward_links", "source_url": "https://www.city.suginami.tokyo.jp/s117/kugikai/18847.html", "member_href_re": r"/kugikai/s117/4\d+\.html$", "exclude_labels": ["会派別一覧", "議席配置図", "常任・特別委員会の仕事と名簿"], "district": "杉並区", "teisu": 46, "source_basis_date": "令和8年5月13日更新 / 掲載46人", "anchor_type": "official_roster_count", "notes": ["公式ページ内に定数・欠員表示がないため、掲載現員46人を件数検算アンカーとして使用"]},
+    "itabashi-ward": {"council_id": "itabashi-ward", "name": "板橋区議会", "parser": "tokyo_ward_table", "table_kind": "itabashi", "source_url": "https://www.city.itabashi.tokyo.jp/kugikai/giin/1010916.html", "district": "板橋区", "teisu": 46, "source_basis_date": "公式名簿 定数46人・現員44人", "vacancy_details": [{"district": "板橋区", "ketsuin": 2, "source_url": "https://www.city.itabashi.tokyo.jp/kugikai/giin/1010916.html"}]},
+    "nerima-ward": {"council_id": "nerima-ward", "name": "練馬区議会", "parser": "tokyo_ward_table", "table_kind": "nerima", "source_url": "https://www.city.nerima.tokyo.jp/gikai/giin/20ichiran.html", "district": "練馬区", "teisu": 50, "source_basis_date": "令和8年5月26日現在 / 定数50人・在職議員50人"},
+    "chiyoda-ward": {"council_id": "chiyoda-ward", "name": "千代田区議会", "parser": "chiyoda_ward", "source_url": "https://gikai-chiyoda-tokyo.jp/about/giin/index.html", "district": "千代田区", "teisu": 25, "source_basis_date": "公式名簿 定数25人・現員22人", "vacancy_details": [{"district": "千代田区", "ketsuin": 3, "source_url": "https://gikai-chiyoda-tokyo.jp/about/giin/index.html"}]},
+    "toshima-ward": {"council_id": "toshima-ward", "name": "豊島区議会", "parser": "tokyo_ward_table", "table_kind": "toshima", "source_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2404241622.html", "district": "豊島区", "teisu": 36, "source_basis_date": "公式名簿 掲載34人・欠員2人", "vacancy_details": [{"district": "豊島区", "ketsuin": 2, "source_url": "https://www.city.toshima.lg.jp/366/kuse/gikai/ginichiran/mebo/2404241622.html"}]},
 }
 
 
