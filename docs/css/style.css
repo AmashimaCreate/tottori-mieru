@@ -601,6 +601,45 @@ a:hover { color: var(--brand-dark); }
   font-weight: 800;
   line-height: 1.2;
 }
+.national-stats {
+  margin-top: 18px;
+  padding: 14px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: linear-gradient(135deg, #ffffff 0%, #f3fbf8 100%);
+}
+.national-stats h3 {
+  margin: 0 0 10px;
+  font-size: 15px;
+}
+.national-stat-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 8px;
+}
+.national-stat-card {
+  min-width: 0;
+  padding: 10px;
+  border: 1px solid rgba(15, 118, 110, 0.18);
+  border-radius: 14px;
+  background: var(--surface);
+}
+.national-stat-label {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--text-muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+.national-stat-value {
+  display: block;
+  color: var(--brand-dark);
+  font-size: clamp(18px, 4.4vw, 28px);
+  font-weight: 900;
+  line-height: 1.15;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
 .prefecture-hero {
   margin-bottom: 18px;
 }

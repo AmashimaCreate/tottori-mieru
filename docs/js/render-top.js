@@ -5,9 +5,11 @@ export function renderTop(root, councils = []) {
   root.innerHTML = "";
   const prefectures = councils.filter((council) => council.type === "prefecture");
   const activePrefectures = prefectures.filter((council) => council.status === "active");
+  const activeCouncils = councils.filter((council) => council.status === "active");
   const prefectureByCode = new Map(
     prefectures.map((council) => [String(Number(council.lg_code.slice(0, 2))), council]),
   );
+  const memberCountNode = el("strong", { class: "national-stat-value" }, "集計中");
   const mapFrame = el("div", { class: "map-frame japan-map-frame" }, [
     el("p", { class: "muted" }, "日本地図を読み込み中..."),
   ]);
@@ -33,17 +35,55 @@ export function renderTop(root, councils = []) {
             ...activePrefectures.map((council) => renderSupportedRegionCard(council)),
           ]),
         ]),
+        el("section", { class: "national-stats", "aria-label": "掲載データ数" }, [
+          el("h3", {}, "掲載データ"),
+          el("div", { class: "national-stat-grid" }, [
+            renderNationalStat("対応地域", `${formatNumber(activePrefectures.length)}都道府県`),
+            renderNationalStat("掲載議会", `${formatNumber(activeCouncils.length)}議会`),
+            renderNationalStat("掲載議員", memberCountNode),
+          ]),
+        ]),
       ]),
     ]),
   );
 
   hydrateJapanMap(mapFrame, prefectureByCode, statusMessage);
+  hydrateMemberCount(memberCountNode, activeCouncils);
 }
 
 function renderSupportedRegionCard(prefectureCouncil) {
   return el("a", { class: "supported-region-card", href: prefPath(prefectureCouncil.prefecture) }, [
     el("strong", {}, prefectureCouncil.prefecture_name),
   ]);
+}
+
+function renderNationalStat(label, value) {
+  return el("div", { class: "national-stat-card" }, [
+    el("span", { class: "national-stat-label" }, label),
+    typeof value === "string" ? el("strong", { class: "national-stat-value" }, value) : value,
+  ]);
+}
+
+function formatNumber(value) {
+  return new Intl.NumberFormat("ja-JP").format(value);
+}
+
+async function hydrateMemberCount(node, activeCouncils) {
+  try {
+    const counts = await Promise.all(
+      activeCouncils.map(async (council) => {
+        const response = await fetch(`./data/${council.id}/members.json`, { cache: "no-cache" });
+        if (!response.ok) return 0;
+        const data = await response.json();
+        return Array.isArray(data.members) ? data.members.length : 0;
+      }),
+    );
+    const total = counts.reduce((sum, count) => sum + count, 0);
+    node.textContent = `${formatNumber(total)}人`;
+  } catch (error) {
+    console.warn("Failed to count members", error);
+    node.textContent = "確認中";
+  }
 }
 
 async function hydrateJapanMap(container, prefectureByCode, statusMessage) {
