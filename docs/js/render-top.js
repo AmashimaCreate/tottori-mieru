@@ -1,11 +1,41 @@
 import { prefPath } from "./router.js?v=20260615-no-member-photos-v1";
 import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 
+const REGION_GROUPS = [
+  {
+    label: "北海道・東北",
+    slugs: ["hokkaido", "aomori", "iwate", "miyagi", "akita", "yamagata", "fukushima"],
+  },
+  {
+    label: "関東",
+    slugs: ["ibaraki", "tochigi", "gunma", "saitama", "chiba", "tokyo", "kanagawa"],
+  },
+  {
+    label: "中部",
+    slugs: ["niigata", "toyama", "ishikawa", "fukui", "yamanashi", "nagano", "gifu", "shizuoka", "aichi", "mie"],
+  },
+  {
+    label: "近畿",
+    slugs: ["shiga", "kyoto", "osaka", "hyogo", "nara", "wakayama"],
+  },
+  {
+    label: "中国・四国",
+    slugs: ["tottori", "shimane", "okayama", "hiroshima", "yamaguchi", "tokushima", "kagawa", "ehime", "kochi"],
+  },
+  {
+    label: "九州・沖縄",
+    slugs: ["fukuoka", "saga", "nagasaki", "kumamoto", "oita", "miyazaki", "kagoshima", "okinawa"],
+  },
+];
+
 export function renderTop(root, councils = []) {
   root.innerHTML = "";
   const prefectures = councils.filter((council) => council.type === "prefecture");
   const activePrefectures = prefectures.filter((council) => council.status === "active");
   const activeCouncils = councils.filter((council) => council.status === "active");
+  const activePrefectureBySlug = new Map(
+    activePrefectures.map((council) => [council.prefecture, council]),
+  );
   const prefectureByCode = new Map(
     prefectures.map((council) => [String(Number(council.lg_code.slice(0, 2))), council]),
   );
@@ -16,39 +46,56 @@ export function renderTop(root, councils = []) {
   const statusMessage = el("p", { class: "map-status-message", "aria-live": "polite" }, "");
 
   root.appendChild(
-    el("section", { class: "national-hero page-card" }, [
-      el("div", { class: "national-copy" }, [
-        el("p", { class: "eyebrow" }, "全国トップ"),
-        el("h2", { class: "section-title" }, "対応地域から議会を見る"),
-        el(
-          "p",
-          {},
-          "対応済みの都道府県から議会ページへ進めます。準備中の地域は順次追加します。",
-        ),
+    el("section", { class: "national-landing page-card" }, [
+      el("div", { class: "national-hero" }, [
+        el("div", { class: "national-copy" }, [
+          el("p", { class: "eyebrow" }, "全国トップ"),
+          el("h2", { class: "section-title" }, "対応地域から議会を見る"),
+          el("p", {}, "都道府県ごとの議会ページから、議員名簿や地域データへ進めます。"),
+          el("section", { class: "national-stats", "aria-label": "掲載データ数" }, [
+            el("h3", {}, "掲載データ"),
+            el("div", { class: "national-stat-grid" }, [
+              renderNationalStat("対応地域", `${formatNumber(activePrefectures.length)}都道府県`),
+              renderNationalStat("掲載議会", `${formatNumber(activeCouncils.length)}議会`),
+              renderNationalStat("掲載議員", memberCountNode),
+            ]),
+          ]),
+        ]),
+        el("div", { class: "national-map-wrap" }, [
+          mapFrame,
+          statusMessage,
+        ]),
       ]),
-      el("div", { class: "national-map-wrap" }, [
-        mapFrame,
-        statusMessage,
-        el("section", { class: "national-stats", "aria-label": "掲載データ数" }, [
-          el("h3", {}, "掲載データ"),
-          el("div", { class: "national-stat-grid" }, [
-            renderNationalStat("対応地域", `${formatNumber(activePrefectures.length)}都道府県`),
-            renderNationalStat("掲載議会", `${formatNumber(activeCouncils.length)}議会`),
-            renderNationalStat("掲載議員", memberCountNode),
+      el("section", { class: "supported-region-list", "aria-labelledby": "supported-regions-title" }, [
+        el("div", { class: "section-heading-row" }, [
+          el("div", {}, [
+            el("p", { class: "eyebrow" }, "地域別"),
+            el("h3", { id: "supported-regions-title" }, "対応地域"),
           ]),
         ]),
-        el("section", { class: "supported-region-list", "aria-labelledby": "supported-regions-title" }, [
-          el("h3", { id: "supported-regions-title" }, "対応地域"),
-          el("div", { class: "supported-region-grid" }, [
-            ...activePrefectures.map((council) => renderSupportedRegionCard(council)),
-          ]),
-        ]),
+        el("div", { class: "region-group-grid" },
+          REGION_GROUPS.map((group) => renderRegionGroup(group, activePrefectureBySlug))
+            .filter(Boolean),
+        ),
       ]),
     ]),
   );
 
   hydrateJapanMap(mapFrame, prefectureByCode, statusMessage);
   hydrateMemberCount(memberCountNode, activeCouncils);
+}
+
+function renderRegionGroup(group, activePrefectureBySlug) {
+  const councils = group.slugs
+    .map((slug) => activePrefectureBySlug.get(slug))
+    .filter(Boolean);
+  if (!councils.length) return null;
+  return el("article", { class: "region-group-card" }, [
+    el("h4", {}, group.label),
+    el("div", { class: "region-prefecture-links" },
+      councils.map((council) => renderSupportedRegionCard(council)),
+    ),
+  ]);
 }
 
 function renderSupportedRegionCard(prefectureCouncil) {

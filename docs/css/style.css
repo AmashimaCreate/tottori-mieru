@@ -1,15 +1,15 @@
 :root {
-  --bg: #f3faf8;
+  --bg: #f5f8ff;
   --surface: #ffffff;
-  --surface-soft: #f7fcfb;
+  --surface-soft: #f8fbff;
   --text: #142033;
   --text-muted: #5c6b7c;
-  --border: #cfe4df;
-  --border-strong: #95c7bd;
-  --brand: #0f766e;
-  --brand-dark: #0b4f49;
-  --brand-soft: #e4f5f2;
-  --focus: #14b8a6;
+  --border: #d5e3f5;
+  --border-strong: #93b4e5;
+  --brand: #2563eb;
+  --brand-dark: #1e3a8a;
+  --brand-soft: #dbeafe;
+  --focus: #3b82f6;
   --shadow: 0 10px 28px rgba(20, 32, 51, 0.08);
 
   /* Okabe-Ito系の識別用カラー */
@@ -32,8 +32,8 @@
   /* 当選回数ビュー */
   --term-color: var(--brand-dark);
 
-  --vote-yes-bg: #def7f1;
-  --vote-yes-border: #67c7bb;
+  --vote-yes-bg: #dbeafe;
+  --vote-yes-border: #93c5fd;
   --vote-no-bg: #fff3db;
   --vote-no-border: #e9b85d;
 
@@ -511,24 +511,31 @@ a:hover { color: var(--brand-dark); }
 }
 
 /* 地図ナビゲーション */
+.national-landing {
+  padding: clamp(20px, 4vw, 34px);
+}
 .national-hero {
   display: grid;
-  grid-template-columns: minmax(0, 0.9fr) minmax(260px, 1.1fr);
-  gap: 24px;
+  grid-template-columns: minmax(280px, 0.85fr) minmax(320px, 1.15fr);
+  gap: clamp(24px, 5vw, 56px);
   align-items: center;
+}
+.national-copy {
+  align-self: center;
 }
 .national-copy p {
   max-width: 38em;
 }
 .national-map-wrap {
   min-width: 0;
+  align-self: center;
 }
 .map-frame {
   max-width: 720px;
   margin: 18px auto;
 }
 .japan-map-frame {
-  max-width: 420px;
+  max-width: 520px;
   margin: 0 auto 12px;
 }
 .map-status-message {
@@ -566,25 +573,47 @@ a:hover { color: var(--brand-dark); }
   outline: none;
 }
 .supported-region-list {
-  margin-top: 16px;
+  margin-top: clamp(24px, 4vw, 38px);
+  padding-top: clamp(18px, 3vw, 28px);
+  border-top: 1px solid var(--border);
 }
 .supported-region-list h3 {
-  margin: 0 0 10px;
-  font-size: 15px;
+  margin: 0;
+  font-size: clamp(22px, 3vw, 30px);
+  line-height: 1.25;
 }
-.supported-region-grid {
+.region-group-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(112px, 1fr));
-  gap: 8px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 18px;
+}
+.region-group-card {
+  min-width: 0;
+  padding: 14px;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  background: linear-gradient(180deg, #ffffff 0%, #f8fbff 100%);
+}
+.region-group-card h4 {
+  margin: 0 0 10px;
+  color: var(--text);
+  font-size: 15px;
+  font-weight: 900;
+}
+.region-prefecture-links {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 7px;
 }
 .supported-region-card {
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 44px;
-  padding: 9px 12px;
+  min-height: 36px;
+  padding: 7px 9px;
   border: 1px solid var(--border);
-  border-radius: 999px;
+  border-radius: 12px;
   background: var(--surface);
   color: var(--text);
   text-decoration: none;
@@ -597,16 +626,16 @@ a:hover { color: var(--brand-dark); }
 }
 .supported-region-card strong {
   color: var(--brand-dark);
-  font-size: 16px;
+  font-size: 14px;
   font-weight: 800;
   line-height: 1.2;
 }
 .national-stats {
-  margin-top: 18px;
-  padding: 14px;
+  margin-top: 22px;
+  padding: 16px;
   border: 1px solid var(--border);
-  border-radius: 18px;
-  background: linear-gradient(135deg, #ffffff 0%, #f3fbf8 100%);
+  border-radius: 20px;
+  background: linear-gradient(135deg, #ffffff 0%, #eff6ff 100%);
 }
 .national-stats h3 {
   margin: 0 0 10px;
@@ -614,19 +643,23 @@ a:hover { color: var(--brand-dark); }
 }
 .national-stat-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 8px;
+  grid-template-columns: 1fr;
+  gap: 7px;
 }
 .national-stat-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
   min-width: 0;
-  padding: 10px;
-  border: 1px solid rgba(15, 118, 110, 0.18);
-  border-radius: 14px;
+  padding: 9px 12px;
+  border: 1px solid rgba(37, 99, 235, 0.16);
+  border-radius: 16px;
   background: var(--surface);
 }
 .national-stat-label {
   display: block;
-  margin-bottom: 4px;
+  margin-bottom: 0;
   color: var(--text-muted);
   font-size: 12px;
   font-weight: 800;
@@ -634,7 +667,8 @@ a:hover { color: var(--brand-dark); }
 .national-stat-value {
   display: block;
   color: var(--brand-dark);
-  font-size: clamp(18px, 4.4vw, 28px);
+  font-size: clamp(20px, 2.8vw, 26px);
+  text-align: right;
   font-weight: 900;
   line-height: 1.15;
   letter-spacing: 0;
@@ -2917,6 +2951,15 @@ main { padding: 24px 0 48px; }
   }
   .japan-map-frame {
     max-width: 320px;
+  }
+  .region-group-grid {
+    grid-template-columns: 1fr;
+  }
+  .region-prefecture-links {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+  .national-stat-grid {
+    grid-template-columns: 1fr;
   }
   .profile-detail-list {
     grid-template-columns: 1fr;
