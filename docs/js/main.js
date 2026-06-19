@@ -6,7 +6,7 @@ import { renderMemberPage } from "./render-member.js?v=20260618-gemini-open-v1";
 import { renderPrefecturePage } from "./render-prefecture.js?v=20260619-tokyo-wards-v1";
 import { renderPrefectureComparisonPage } from "./render-prefecture-comparison.js?v=20260615-no-member-photos-v1";
 import { renderProfile } from "./render-profile.js?v=20260615-no-member-photos-v1";
-import { renderTop } from "./render-top.js?v=20260620-national-stats-v1";
+import { renderTop } from "./render-top.js?v=20260620-national-stats-v2";
 import {
   councilPath,
   parseRoute,

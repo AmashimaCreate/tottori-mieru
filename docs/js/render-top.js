@@ -29,18 +29,18 @@ export function renderTop(root, councils = []) {
       el("div", { class: "national-map-wrap" }, [
         mapFrame,
         statusMessage,
-        el("section", { class: "supported-region-list", "aria-labelledby": "supported-regions-title" }, [
-          el("h3", { id: "supported-regions-title" }, "対応地域"),
-          el("div", { class: "supported-region-grid" }, [
-            ...activePrefectures.map((council) => renderSupportedRegionCard(council)),
-          ]),
-        ]),
         el("section", { class: "national-stats", "aria-label": "掲載データ数" }, [
           el("h3", {}, "掲載データ"),
           el("div", { class: "national-stat-grid" }, [
             renderNationalStat("対応地域", `${formatNumber(activePrefectures.length)}都道府県`),
             renderNationalStat("掲載議会", `${formatNumber(activeCouncils.length)}議会`),
             renderNationalStat("掲載議員", memberCountNode),
+          ]),
+        ]),
+        el("section", { class: "supported-region-list", "aria-labelledby": "supported-regions-title" }, [
+          el("h3", { id: "supported-regions-title" }, "対応地域"),
+          el("div", { class: "supported-region-grid" }, [
+            ...activePrefectures.map((council) => renderSupportedRegionCard(council)),
           ]),
         ]),
       ]),
