@@ -1,15 +1,15 @@
 :root {
-  --bg: #f5f8ff;
+  --bg: #f6f8fb;
   --surface: #ffffff;
-  --surface-soft: #f8fbff;
+  --surface-soft: #f8fafc;
   --text: #142033;
   --text-muted: #5c6b7c;
-  --border: #d5e3f5;
-  --border-strong: #93b4e5;
-  --brand: #2563eb;
-  --brand-dark: #1e3a8a;
-  --brand-soft: #dbeafe;
-  --focus: #3b82f6;
+  --border: #d9e2ec;
+  --border-strong: #9bb3ce;
+  --brand: #38699c;
+  --brand-dark: #233f63;
+  --brand-soft: #edf4fb;
+  --focus: #5b8cc2;
   --shadow: 0 10px 28px rgba(20, 32, 51, 0.08);
 
   /* Okabe-Ito系の識別用カラー */
@@ -32,8 +32,8 @@
   /* 当選回数ビュー */
   --term-color: var(--brand-dark);
 
-  --vote-yes-bg: #dbeafe;
-  --vote-yes-border: #93c5fd;
+  --vote-yes-bg: #e8f1fb;
+  --vote-yes-border: #94b7d8;
   --vote-no-bg: #fff3db;
   --vote-no-border: #e9b85d;
 
@@ -496,7 +496,7 @@ a:hover { color: var(--brand-dark); }
 .council-card.is-featured {
   border-left-width: 0;
   border-color: var(--border-strong);
-  background: linear-gradient(135deg, #ffffff 0%, #eff6ff 100%);
+  background: linear-gradient(135deg, #ffffff 0%, #f2f6fb 100%);
 }
 .council-card h3 {
   margin: 4px 0 8px;
@@ -640,7 +640,7 @@ a:hover { color: var(--brand-dark); }
   padding: 16px;
   border: 1px solid var(--border);
   border-radius: 20px;
-  background: linear-gradient(135deg, #ffffff 0%, #eff6ff 100%);
+  background: linear-gradient(135deg, #ffffff 0%, #f2f6fb 100%);
 }
 .national-stats h3 {
   margin: 0 0 10px;
@@ -658,7 +658,7 @@ a:hover { color: var(--brand-dark); }
   gap: 12px;
   min-width: 0;
   padding: 9px 12px;
-  border: 1px solid rgba(37, 99, 235, 0.16);
+  border: 1px solid rgba(56, 105, 156, 0.18);
   border-radius: 16px;
   background: var(--surface);
 }
@@ -734,7 +734,7 @@ a:hover { color: var(--brand-dark); }
   align-items: baseline;
   gap: 10px;
   padding: 9px 13px;
-  border: 1px solid rgba(37, 99, 235, 0.16);
+  border: 1px solid rgba(56, 105, 156, 0.18);
   border-radius: 999px;
   background: var(--surface);
   color: var(--text-muted);
