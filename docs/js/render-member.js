@@ -12,7 +12,7 @@ export function renderMemberPage(root, state, memberId) {
     return;
   }
 
-  root.appendChild(renderMemberProfile(member, state.membersMeta, state.currentCouncil));
+  const profileSection = renderMemberProfile(member, state.membersMeta, state.currentCouncil);
   const voteSection = renderMemberVoteSection(
     state.votes,
     state.votesMeta,
@@ -20,12 +20,15 @@ export function renderMemberPage(root, state, memberId) {
     state.currentCouncil,
     state.route,
   );
-  if (voteSection) root.appendChild(voteSection);
+  root.appendChild(el("div", { class: "member-page-dashboard" }, [
+    profileSection,
+    voteSection,
+  ]));
   root.appendChild(renderMemberResearchSection(member, state));
 }
 
 function renderMemberProfile(member, membersMeta, council) {
-  return el("section", { class: "member-detail member-profile-hero" }, [
+  return el("section", { class: "member-profile-hero" }, [
     el("div", { class: "member-profile-heading" }, [
       el("p", { class: "eyebrow" }, "人物プロフィール"),
     ]),

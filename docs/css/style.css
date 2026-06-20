@@ -2195,6 +2195,21 @@ main { padding: 24px 0 48px; }
   text-decoration: underline;
 }
 
+.member-page-dashboard {
+  display: grid;
+  grid-template-columns: minmax(260px, 0.72fr) minmax(0, 1.28fr);
+  gap: 20px;
+  align-items: start;
+  margin-bottom: 24px;
+}
+.member-page-dashboard .member-profile-hero,
+.member-page-dashboard .member-vote-section {
+  margin-bottom: 0;
+}
+.member-page-dashboard .member-profile-hero {
+  position: sticky;
+  top: 104px;
+}
 .member-detail-main {
   display: block;
 }
@@ -2245,6 +2260,7 @@ main { padding: 24px 0 48px; }
 }
 .detail-row {
   margin: 6px 0;
+  min-width: 0;
 }
 .detail-label {
   display: inline-block;
@@ -2252,6 +2268,7 @@ main { padding: 24px 0 48px; }
   color: var(--text-muted);
 }
 .detail-value {
+  min-width: 0;
   overflow-wrap: anywhere;
 }
 .quality-inline {
@@ -2305,7 +2322,7 @@ main { padding: 24px 0 48px; }
   font-size: 13px;
 }
 .research-section {
-  max-width: 820px;
+  max-width: none;
 }
 .member-research-details {
   padding: 0;
@@ -2780,6 +2797,14 @@ main { padding: 24px 0 48px; }
   align-items: center;
   padding: 8px 12px;
   border-top: 1px solid var(--border);
+  min-width: 0;
+}
+.member-vote-row > * {
+  min-width: 0;
+}
+.member-vote-row .vote-badge {
+  justify-self: start;
+  width: fit-content;
 }
 .member-vote-row:first-child {
   border-top: 0;
@@ -3063,6 +3088,12 @@ main { padding: 24px 0 48px; }
   .member-detail-main {
     grid-template-columns: 1fr;
   }
+  .member-page-dashboard {
+    grid-template-columns: 1fr;
+  }
+  .member-page-dashboard .member-profile-hero {
+    position: static;
+  }
   .detail-row {
     display: grid;
     grid-template-columns: 5em minmax(0, 1fr);
@@ -3116,6 +3147,10 @@ main { padding: 24px 0 48px; }
   .member-vote-row {
     grid-template-columns: 1fr;
     gap: 4px;
+  }
+  .member-vote-row .vote-title,
+  .member-vote-row .vote-summary-result {
+    overflow-wrap: anywhere;
   }
   .all-vote-records h3 {
     font-size: 16px;
