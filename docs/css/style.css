@@ -1767,13 +1767,19 @@ main { padding: 24px 0 48px; }
 }
 .stage-overview-grid {
   display: grid;
-  grid-template-columns: minmax(0, 1.45fr) minmax(300px, 0.8fr);
-  gap: 18px;
+  grid-template-columns: minmax(0, 1fr) minmax(320px, 410px);
+  gap: 20px;
   align-items: start;
+}
+.stage-overview-grid .face-lineup-section,
+.stage-overview-grid .recent-votes {
+  margin-bottom: 0;
 }
 .stage-overview-grid .recent-votes {
   position: sticky;
   top: 104px;
+  max-height: calc(100vh - 128px);
+  overflow: auto;
 }
 .stage-overview-grid .vote-highlight-grid {
   grid-template-columns: 1fr;
@@ -1906,7 +1912,7 @@ main { padding: 24px 0 48px; }
 }
 .face-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
   gap: 10px;
   padding: 12px;
   border: 1px solid var(--border);

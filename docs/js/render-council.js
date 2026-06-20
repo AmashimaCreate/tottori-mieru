@@ -82,13 +82,16 @@ function renderStageOneCouncilPage(root, state, filteredMembers) {
   root.appendChild(renderCouncilSectionTabs(state));
 
   if (state.councilSection === "members") {
-    root.appendChild(renderRecentVoteHighlights(state));
     if (state.view === "votes") {
+      root.appendChild(renderRecentVoteHighlights(state));
       root.appendChild(renderStageTabContent(state, filteredMembers));
       return;
     }
 
-    root.appendChild(renderFaceLineupSection(filteredMembers, state));
+    root.appendChild(el("div", { class: "stage-overview-grid" }, [
+      renderFaceLineupSection(filteredMembers, state),
+      renderRecentVoteHighlights(state),
+    ]));
 
     const pastRecords = renderPastRecordsDetails(state);
     if (pastRecords) root.appendChild(pastRecords);
@@ -638,7 +641,7 @@ function profileSource(item, fallbackLabel) {
 function renderFaceLineupSection(members, state) {
   const isFiltered = state.query.trim().length > 0;
   const body = renderMemberViewBody(members, state, isFiltered);
-  return el("section", { class: "face-lineup-section" }, [
+  return el("section", { class: "face-lineup-section page-card" }, [
     el("div", { class: "section-heading-row" }, [
       el("div", {}, [
         el("p", { class: "eyebrow" }, "決めている人たち"),
