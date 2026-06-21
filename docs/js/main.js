@@ -1,8 +1,8 @@
 import { loadCouncilBundle, loadCouncils, loadCouncilSummaries } from "./data-loader.js?v=20260615-no-member-photos-v1";
 import { renderAbout } from "./render-about.js?v=20260621-info-pages-v1";
-import { renderCouncilPage } from "./render-council.js?v=20260620-council-dashboard-v1";
+import { renderCouncilPage } from "./render-council.js?v=20260621-ai-card-v1";
 import { renderGuide } from "./render-guide.js?v=20260621-info-pages-v1";
-import { renderMemberPage } from "./render-member.js?v=20260620-member-dashboard-v2";
+import { renderMemberPage } from "./render-member.js?v=20260621-ai-card-v1";
 import { renderPrefecturePage } from "./render-prefecture.js?v=20260620-blue-pref-v1";
 import { renderPrefectureComparisonPage } from "./render-prefecture-comparison.js?v=20260620-comparison-dashboard-v1";
 import { renderProfile } from "./render-profile.js?v=20260615-no-member-photos-v1";

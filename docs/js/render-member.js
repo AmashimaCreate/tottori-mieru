@@ -1,6 +1,6 @@
 import { externalLinkIcon, sourceLink } from "./data-quality.js?v=20260615-external-icons-v2";
-import { councilAreaName, officialCouncilUrl, renderAiPromptCard } from "./render-ai-prompt.js?v=20260618-gemini-open-v1";
-import { renderMemberVoteSection } from "./render-votes.js?v=20260618-gemini-open-v1";
+import { councilAreaName, officialCouncilUrl, renderAiPromptCard } from "./render-ai-prompt.js?v=20260621-ai-card-v1";
+import { renderMemberVoteSection } from "./render-votes.js?v=20260621-ai-card-v1";
 import { el } from "./utils.js?v=20260615-no-member-photos-v1";
 
 export function renderMemberPage(root, state, memberId) {

@@ -65,7 +65,7 @@ export function renderAiPromptCard({ title, lead, prompt, prompts = null, compac
 
   const card = el("article", { class: `ai-prompt-card${compact ? " is-compact" : ""}` }, [
     el("div", { class: "ai-prompt-head" }, [
-      el("span", { class: "ai-prompt-robot", "aria-hidden": "true" }, "🤖"),
+      el("span", { class: "ai-prompt-robot", "aria-hidden": "true" }, "AI"),
       el("div", {}, [
         el("h3", {}, title),
         lead ? el("p", {}, lead) : null,
@@ -109,7 +109,7 @@ function renderAiServiceButtons(container, textarea, status) {
   container.innerHTML = "";
   const links = aiServiceLinks(textarea.value);
   container.append(
-    el("p", { class: "ai-link-note" }, "コピーして、そのままAIを開く（開いた画面に貼り付け）"),
+    el("p", { class: "ai-link-note" }, "コピーしてAIを開く"),
     el("div", { class: "ai-service-button-row" }, links.map((link) =>
       el("a", {
         href: link.url,
@@ -123,7 +123,7 @@ function renderAiServiceButtons(container, textarea, status) {
         link.label,
       ]),
     )),
-    el("p", { class: "ai-link-note is-subtle" }, "ChatGPT / Claude / Perplexityは短い質問なら入力欄に入った状態で開きます。長い質問やGeminiではコピーして貼り付けてください。"),
+    el("p", { class: "ai-link-note is-subtle" }, "開いた画面に貼り付けて使ってください。"),
   );
 }
 
