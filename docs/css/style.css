@@ -1050,28 +1050,30 @@ a:hover { color: var(--brand-dark); }
   fill: var(--compare-fiscal-index);
 }
 .comparison-panel {
-  padding-bottom: 24px;
+  padding: clamp(22px, 3vw, 32px);
 }
 .comparison-metrics {
   display: grid;
-  gap: 16px;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
 }
 .comparison-metric {
-  padding: 12px;
+  padding: 18px;
   border: 1px solid var(--border);
-  border-radius: 8px;
+  border-radius: 16px;
   background: var(--surface);
+  box-shadow: var(--shadow-soft);
 }
 .comparison-metric-head {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 12px;
-  margin-bottom: 8px;
+  margin-bottom: 14px;
 }
 .comparison-metric-head h3 {
   margin: 0;
-  font-size: 16px;
+  font-size: 18px;
 }
 .comparison-note {
   color: var(--text-muted);
@@ -1079,20 +1081,26 @@ a:hover { color: var(--brand-dark); }
 }
 .comparison-rows {
   display: grid;
-  gap: 6px;
+  gap: 10px;
 }
 .comparison-row {
   display: grid;
-  grid-template-columns: minmax(150px, 1.2fr) minmax(140px, 0.9fr) minmax(160px, 2fr);
-  gap: 12px;
-  align-items: center;
+  gap: 8px;
   min-width: 0;
-  padding: 8px 0;
+  padding: 10px 0;
   border-top: 1px solid var(--border);
 }
 .comparison-row:first-child {
   border-top: 0;
 }
+.comparison-row-main {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 12px;
+  align-items: start;
+  min-width: 0;
+}
+.comparison-row-main,
 .comparison-council,
 .comparison-value,
 .comparison-bar-cell {
@@ -1104,16 +1112,17 @@ a:hover { color: var(--brand-dark); }
 .comparison-type {
   display: block;
   color: var(--text-muted);
-  font-size: 11px;
+  font-size: 12px;
 }
 .comparison-value {
-  display: flex;
-  align-items: baseline;
-  gap: 8px;
-  flex-wrap: wrap;
+  display: grid;
+  justify-items: end;
+  gap: 2px;
+  text-align: right;
 }
 .comparison-value strong {
   white-space: nowrap;
+  font-size: 17px;
 }
 .comparison-diff {
   color: var(--text-muted);
@@ -1126,7 +1135,7 @@ a:hover { color: var(--brand-dark); }
   flex-wrap: wrap;
 }
 .comparison-source-link {
-  margin: 10px 0 0;
+  margin: 12px 0 0;
   font-size: 12px;
   text-align: right;
 }
@@ -3129,12 +3138,22 @@ main { padding: 24px 0 48px; }
   .faction-chart-percent {
     grid-column: 2 / 4;
   }
+  .comparison-panel {
+    padding: 18px;
+  }
+  .comparison-metrics {
+    grid-template-columns: 1fr;
+  }
   .comparison-metric-head {
     display: block;
   }
-  .comparison-row {
+  .comparison-row-main {
     grid-template-columns: 1fr;
-    gap: 4px;
+    gap: 6px;
+  }
+  .comparison-value {
+    justify-items: start;
+    text-align: left;
   }
   .comparison-bar-cell {
     margin-top: 2px;

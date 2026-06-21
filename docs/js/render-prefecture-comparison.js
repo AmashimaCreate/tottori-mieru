@@ -26,9 +26,18 @@ function svgEl(tag, attrs = {}, children = []) {
   return node;
 }
 
-function orderedSummaries(summaries) {
+function orderedSummaries(summaries, prefecture) {
   const byId = new Map((summaries || []).map((summary) => [summary.council.id, summary]));
-  return COUNCIL_ORDER.map((id) => byId.get(id)).filter(Boolean);
+  const fixedOrder = prefecture === "tottori"
+    ? COUNCIL_ORDER.map((id) => byId.get(id)).filter(Boolean)
+    : [];
+  if (fixedOrder.length) return fixedOrder;
+  return [...(summaries || [])].sort((a, b) => {
+    const typeOrder = (item) => item.council.type === "prefecture" ? 0 : 1;
+    const typeCompare = typeOrder(a) - typeOrder(b);
+    if (typeCompare) return typeCompare;
+    return (a.council.name || "").localeCompare(b.council.name || "", "ja");
+  });
 }
 
 function valueFrom(summary, metric) {
@@ -134,15 +143,17 @@ function renderComparisonRow(summary, metric, domain, average) {
     : null;
 
   return el("div", { class: "comparison-row" }, [
-    el("div", { class: "comparison-council" }, [
-      el("span", {}, summary.council.name),
-      el("span", { class: "comparison-type" }, councilTypeLabel(summary.council)),
-    ]),
-    el("div", { class: "comparison-value" }, [
-      formatted
-        ? el("strong", {}, formatted)
-        : el("span", { class: "missing-value" }, "データ未入力"),
-      diff ? el("span", { class: "comparison-diff" }, `市平均との差 ${diff}`) : null,
+    el("div", { class: "comparison-row-main" }, [
+      el("div", { class: "comparison-council" }, [
+        el("span", {}, summary.council.name),
+        el("span", { class: "comparison-type" }, councilTypeLabel(summary.council)),
+      ]),
+      el("div", { class: "comparison-value" }, [
+        formatted
+          ? el("strong", {}, formatted)
+          : el("span", { class: "missing-value" }, "データ未入力"),
+        diff ? el("span", { class: "comparison-diff" }, `市平均との差 ${diff}`) : null,
+      ]),
     ]),
     el("div", { class: "comparison-bar-cell" }, [
       typeof value === "number"
@@ -159,7 +170,7 @@ function councilTypeLabel(council) {
 }
 
 export function renderPrefectureComparison(summaries, prefecture = "tottori") {
-  const ordered = orderedSummaries(summaries);
+  const ordered = orderedSummaries(summaries, prefecture);
   if (!ordered.length) return null;
 
   const metrics = [
@@ -192,14 +203,15 @@ export function renderPrefectureComparison(summaries, prefecture = "tottori") {
     },
   ];
 
-  return el("section", { class: "viz-panel comparison-panel" }, [
+  return el("section", { class: "comparison-panel page-card" }, [
     el("div", { class: "viz-heading-row" }, [
       el("div", {}, [
-        el("h2", { class: "section-title" }, "5議会くらべ"),
+        el("p", { class: "eyebrow" }, "くらべる"),
+        el("h2", { class: "section-title" }, `${ordered.length}議会くらべ`),
         el(
           "p",
           { class: "viz-lead" },
-          "棒は各指標の大きさを見比べるための目安です。並び順は県→市の固定順です。",
+          "基本データを横並びで確認します。",
         ),
       ]),
     ]),
