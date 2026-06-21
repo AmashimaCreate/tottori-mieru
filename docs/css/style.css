@@ -2064,20 +2064,97 @@ main { padding: 24px 0 48px; }
   background: var(--surface-soft);
   font-size: 12px;
 }
-.about-page {
-  max-width: 820px;
+.info-hero {
+  padding: clamp(24px, 4vw, 40px);
+  min-width: 0;
 }
-.guide-page {
-  max-width: 820px;
+.info-lead {
+  max-width: 760px;
+  margin: 8px 0 0;
+  color: var(--text-muted);
+  font-size: clamp(16px, 2vw, 19px);
+  line-height: 1.85;
+  overflow-wrap: anywhere;
 }
-.about-lead p,
-.about-list,
-.guide-lead p,
-.guide-steps {
+.info-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  margin-top: 20px;
+}
+.info-card {
+  padding: 22px;
+  min-width: 0;
+}
+.info-card h3,
+.guide-flow h3 {
+  margin: 0 0 12px;
+  font-size: clamp(19px, 2vw, 24px);
+  overflow-wrap: anywhere;
+}
+.info-list,
+.guide-steps,
+.guide-step-cards {
   margin-top: 0;
+}
+.info-list {
+  display: grid;
+  gap: 8px;
+  padding-left: 1.2em;
+  min-width: 0;
+  overflow-wrap: anywhere;
+}
+.info-card p {
+  margin: 0;
+  color: var(--text-muted);
+  line-height: 1.8;
+  overflow-wrap: anywhere;
+}
+.info-card p + p {
+  margin-top: 12px;
+}
+.guide-flow {
+  margin-top: 20px;
+  padding: 22px;
+  min-width: 0;
+}
+.guide-step-cards {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  padding: 0;
+  list-style: none;
+}
+.guide-step-cards li {
+  display: grid;
+  gap: 8px;
+  min-width: 0;
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  background: var(--surface-soft);
+}
+.guide-step-number {
+  display: inline-grid;
+  place-items: center;
+  width: 32px;
+  height: 32px;
+  border-radius: 999px;
+  background: var(--brand);
+  color: white;
+  font-weight: 900;
+}
+.guide-step-cards strong {
+  font-size: 18px;
+}
+.guide-step-cards span:last-child {
+  color: var(--text-muted);
+  line-height: 1.7;
+  overflow-wrap: anywhere;
 }
 .guide-steps {
   padding-left: 1.4em;
+  overflow-wrap: anywhere;
 }
 .guide-steps li + li {
   margin-top: 8px;
@@ -3143,6 +3220,14 @@ main { padding: 24px 0 48px; }
   }
   .comparison-metrics {
     grid-template-columns: 1fr;
+  }
+  .info-grid,
+  .guide-step-cards {
+    grid-template-columns: 1fr;
+  }
+  .info-card,
+  .guide-flow {
+    padding: 18px;
   }
   .comparison-metric-head {
     display: block;
